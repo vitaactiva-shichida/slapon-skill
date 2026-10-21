@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="四つの施策を並行して進める"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="65" font-size="17" fill="#888888" font-weight="600" text-anchor="start">DESIGN REFERENCE</text>
+<text x="80" y="135" font-size="40" fill="#292929" font-weight="700" text-anchor="start">四つの施策を並行して進める</text>
+<text x="80" y="184" font-size="22" fill="#777777" font-weight="400" text-anchor="start">ここに伝えたいことを一文で記載します。文言・数値・配置はダミーです。</text>
+<text x="475" y="283" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">期間 1</text>
+<path d="M395 309 V789" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+<text x="659" y="283" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">期間 2</text>
+<path d="M579 309 V789" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+<text x="843" y="283" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">期間 3</text>
+<path d="M763 309 V789" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+<text x="1027" y="283" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">期間 4</text>
+<path d="M947 309 V789" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+<text x="1211" y="283" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">期間 5</text>
+<path d="M1131 309 V789" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+<text x="1395" y="283" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">期間 6</text>
+<path d="M1315 309 V789" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+<text x="95" y="374" font-size="26" fill="#555555" font-weight="600" text-anchor="start">施策 01</text>
+<rect x="395" y="334" width="532" height="66" rx="8" fill="#bbbbbb"/>
+<path d="M80 426 H1500" fill="none" stroke="#eeeeee" stroke-width="1"/>
+<text x="95" y="487" font-size="26" fill="#555555" font-weight="600" text-anchor="start">施策 02</text>
+<rect x="579" y="447" width="716" height="66" rx="8" fill="#555555"/>
+<path d="M80 539 H1500" fill="none" stroke="#eeeeee" stroke-width="1"/>
+<text x="95" y="600" font-size="26" fill="#555555" font-weight="600" text-anchor="start">施策 03</text>
+<rect x="763" y="560" width="348" height="66" rx="8" fill="#bbbbbb"/>
+<path d="M80 652 H1500" fill="none" stroke="#eeeeee" stroke-width="1"/>
+<text x="95" y="713" font-size="26" fill="#555555" font-weight="600" text-anchor="start">施策 04</text>
+<rect x="947" y="673" width="532" height="66" rx="8" fill="#bbbbbb"/>
+<path d="M80 765 H1500" fill="none" stroke="#eeeeee" stroke-width="1"/>
+<path d="M80 822 H1520" fill="none" stroke="#dddddd" stroke-width="1"/>
+<text x="80" y="861" font-size="18" fill="#888888" font-weight="400" text-anchor="start">バーの開始・終了を実際の日付へ合わせます。</text>
+</g></svg>

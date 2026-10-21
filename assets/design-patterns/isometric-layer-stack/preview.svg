@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="三層の土台と成果"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="65" font-size="17" fill="#888888" font-weight="600" text-anchor="start">DESIGN REFERENCE</text>
+<text x="80" y="135" font-size="40" fill="#292929" font-weight="700" text-anchor="start">三層の土台と成果</text>
+<text x="80" y="184" font-size="22" fill="#777777" font-weight="400" text-anchor="start">ここに伝えたいことを一文で記載します。文言・数値・配置はダミーです。</text>
+<polygon points="390,628 650,720 390,812 130,720" fill="#666666"/>
+<polygon points="130,720 390,812 390,837 130,745" fill="#888888"/>
+<polygon points="390,812 650,720 650,745 390,837" fill="#777777"/>
+<polygon points="390,479 650,571 390,663 130,571" fill="#999999"/>
+<polygon points="130,571 390,663 390,688 130,596" fill="#888888"/>
+<polygon points="390,663 650,571 650,596 390,688" fill="#777777"/>
+<polygon points="390,330 650,422 390,514 130,422" fill="#bbbbbb"/>
+<polygon points="130,422 390,514 390,539 130,447" fill="#888888"/>
+<polygon points="390,514 650,422 650,447 390,539" fill="#777777"/>
+<path d="M670 414 H770" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<rect x="790" y="349" width="710" height="129" rx="6" fill="#f3f3f3"/><text x="1145.0" y="421.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="825" y="398" font-size="27" fill="#444444" font-weight="600" text-anchor="start">階層 01</text>
+<text x="825" y="440" font-size="22" fill="#777777" font-weight="400" text-anchor="start">役割と、ほかの層との関係を記載します。</text>
+<path d="M670 580 H770" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<rect x="790" y="515" width="710" height="129" rx="6" fill="#f3f3f3"/><text x="1145.0" y="587.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="825" y="564" font-size="27" fill="#444444" font-weight="600" text-anchor="start">階層 02</text>
+<text x="825" y="606" font-size="22" fill="#777777" font-weight="400" text-anchor="start">役割と、ほかの層との関係を記載します。</text>
+<path d="M670 746 H770" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<rect x="790" y="681" width="710" height="129" rx="6" fill="#f3f3f3"/><text x="1145.0" y="753.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="825" y="730" font-size="27" fill="#444444" font-weight="600" text-anchor="start">階層 03</text>
+<text x="825" y="772" font-size="22" fill="#777777" font-weight="400" text-anchor="start">役割と、ほかの層との関係を記載します。</text>
+</g></svg>

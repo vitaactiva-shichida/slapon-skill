@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="階層と部門別チーム"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">ここに組織図のタイトルを入力</text>
+<rect x="596" y="160" width="260" height="67" rx="6" fill="#555555"/><text x="726.0" y="202.25" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">代表者</text>
+<path d="M726 227 V271 H1300 V301 M726 271 V301" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="586" y="301" width="280" height="60" rx="6" fill="#666666"/><text x="726.0" y="339.05" font-size="23" fill="#ffffff" font-weight="600" text-anchor="middle">事業統括</text>
+<rect x="1180" y="301" width="270" height="60" rx="6" fill="#666666"/><text x="1315.0" y="339.05" font-size="23" fill="#ffffff" font-weight="600" text-anchor="middle">管理統括</text>
+<rect x="1000" y="157" width="173" height="50" rx="6" fill="#eeeeee"/><text x="1086.5" y="190.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle">連携組織</text>
+<rect x="1220" y="157" width="295" height="50" rx="6" fill="#888888"/><text x="1367.5" y="189.7" font-size="22" fill="#ffffff" font-weight="600" text-anchor="middle">横断責任者</text>
+<path d="M1220 182 H1181" fill="none" stroke="#999999" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="1220" y="225" width="138" height="44" rx="6" fill="#eeeeee"/><text x="1289.0" y="253.65" font-size="19" fill="#555555" font-weight="600" text-anchor="middle">推進室 A</text>
+<rect x="1375" y="225" width="140" height="44" rx="6" fill="#eeeeee"/><text x="1445.0" y="253.65" font-size="19" fill="#555555" font-weight="600" text-anchor="middle">推進室 B</text>
+<path d="M1367 207 V215 H1289 V225 M1367 215 H1445 V225" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="70" y="210" width="245" height="48" rx="6" fill="#888888"/><text x="192.5" y="241.35" font-size="21" fill="#ffffff" font-weight="600" text-anchor="middle">専門責任者 A</text>
+<rect x="70" y="270" width="245" height="48" rx="6" fill="#888888"/><text x="192.5" y="301.35" font-size="21" fill="#ffffff" font-weight="600" text-anchor="middle">専門責任者 B</text>
+<path d="M726 361 V475 H169 V516 M726 475 H879 V516 M406 475 V516 M643 475 V516" fill="none" stroke="#999999" stroke-width="2"/>
+<path d="M1315 361 V475 H1138 V516 M1315 475 H1383 V516" fill="none" stroke="#999999" stroke-width="2"/>
+<path d="M726 388 H403 V405" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="283" y="405" width="240" height="54" rx="6" fill="#eeeeee"/><text x="403.0" y="439.35" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">支援組織</text>
+<rect x="65" y="516" width="208" height="315" rx="6" fill="#ededed"/><text x="169.0" y="681.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="169" y="559" font-size="24" fill="#444444" font-weight="600" text-anchor="middle">部門 A</text>
+<rect x="82" y="584" width="174" height="44" rx="6" fill="#ffffff"/><text x="169.0" y="613.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 01</text>
+<rect x="82" y="640" width="174" height="44" rx="6" fill="#ffffff"/><text x="169.0" y="669.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 02</text>
+<rect x="82" y="696" width="174" height="44" rx="6" fill="#ffffff"/><text x="169.0" y="725.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 03</text>
+<rect x="302" y="516" width="208" height="315" rx="6" fill="#ededed"/><text x="406.0" y="681.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="406" y="559" font-size="24" fill="#444444" font-weight="600" text-anchor="middle">部門 B</text>
+<rect x="319" y="584" width="174" height="44" rx="6" fill="#ffffff"/><text x="406.0" y="613.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 01</text>
+<rect x="319" y="640" width="174" height="44" rx="6" fill="#ffffff"/><text x="406.0" y="669.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 02</text>
+<rect x="319" y="696" width="174" height="44" rx="6" fill="#ffffff"/><text x="406.0" y="725.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 03</text>
+<rect x="319" y="752" width="174" height="44" rx="6" fill="#ffffff"/><text x="406.0" y="781.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 04</text>
+<rect x="539" y="516" width="208" height="315" rx="6" fill="#ededed"/><text x="643.0" y="681.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="643" y="559" font-size="24" fill="#444444" font-weight="600" text-anchor="middle">部門 C</text>
+<rect x="556" y="584" width="174" height="44" rx="6" fill="#ffffff"/><text x="643.0" y="613.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 01</text>
+<rect x="556" y="640" width="174" height="44" rx="6" fill="#ffffff"/><text x="643.0" y="669.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 02</text>
+<rect x="556" y="696" width="174" height="44" rx="6" fill="#ffffff"/><text x="643.0" y="725.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 03</text>
+<rect x="776" y="516" width="208" height="315" rx="6" fill="#ededed"/><text x="880.0" y="681.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="880" y="559" font-size="24" fill="#444444" font-weight="600" text-anchor="middle">部門 D</text>
+<rect x="793" y="584" width="174" height="44" rx="6" fill="#ffffff"/><text x="880.0" y="613.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 01</text>
+<rect x="793" y="640" width="174" height="44" rx="6" fill="#ffffff"/><text x="880.0" y="669.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 02</text>
+<rect x="1035" y="516" width="208" height="315" rx="6" fill="#ededed"/><text x="1139.0" y="681.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="1139" y="559" font-size="24" fill="#444444" font-weight="600" text-anchor="middle">部門 E</text>
+<rect x="1052" y="584" width="174" height="44" rx="6" fill="#ffffff"/><text x="1139.0" y="613.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 01</text>
+<rect x="1280" y="516" width="208" height="315" rx="6" fill="#ededed"/><text x="1384.0" y="681.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="1384" y="559" font-size="24" fill="#444444" font-weight="600" text-anchor="middle">部門 F</text>
+<rect x="1297" y="584" width="174" height="44" rx="6" fill="#ffffff"/><text x="1384.0" y="613.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 01</text>
+<rect x="1297" y="640" width="174" height="44" rx="6" fill="#ffffff"/><text x="1384.0" y="669.0" font-size="20" fill="#666666" font-weight="600" text-anchor="middle">チーム 02</text>
+</g></svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="中心と10の関連領域"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="68" y="65" font-size="31" fill="#444444" font-weight="700" text-anchor="start">中心と関連領域を示す</text>
+<circle cx="900" cy="462" r="324" fill="#eeeeee" stroke="none" stroke-width="2"/>
+<path d="M900 462 L900.0 137.0" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="900.0" cy="137.0" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="900.0" y="145.0" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 01</text>
+<path d="M900 462 L1091.0302069950537 199.06947682814206" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="1091.0302069950537" cy="199.06947682814206" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="1091.0302069950537" y="207.06947682814206" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 02</text>
+<path d="M900 462 L1209.093367795925 361.5694768281421" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="1209.093367795925" cy="361.5694768281421" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="1209.093367795925" y="369.5694768281421" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 03</text>
+<path d="M900 462 L1209.093367795925 562.4305231718579" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="1209.093367795925" cy="562.4305231718579" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="1209.093367795925" y="570.4305231718579" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 04</text>
+<path d="M900 462 L1091.0302069950537 724.9305231718579" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="1091.0302069950537" cy="724.9305231718579" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="1091.0302069950537" y="732.9305231718579" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 05</text>
+<path d="M900 462 L900.0 787.0" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="900.0" cy="787.0" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="900.0" y="795.0" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 06</text>
+<path d="M900 462 L708.9697930049463 724.9305231718579" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="708.9697930049463" cy="724.9305231718579" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="708.9697930049463" y="732.9305231718579" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 07</text>
+<path d="M900 462 L590.9066322040751 562.4305231718579" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="590.9066322040751" cy="562.4305231718579" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="590.9066322040751" y="570.4305231718579" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 08</text>
+<path d="M900 462 L590.9066322040751 361.5694768281421" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="590.9066322040751" cy="361.5694768281421" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="590.9066322040751" y="369.5694768281421" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 09</text>
+<path d="M900 462 L708.9697930049462 199.06947682814211" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<circle cx="708.9697930049462" cy="199.06947682814211" r="77" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="708.9697930049462" y="207.06947682814211" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">関連領域 10</text>
+<circle cx="900" cy="462" r="184" fill="#444444" stroke="none" stroke-width="2"/>
+<text x="900" y="403" font-size="37" fill="#ffffff" font-weight="700" text-anchor="middle">中心テーマ</text>
+<text x="900" y="451" font-size="23" fill="#eeeeee" font-weight="400" text-anchor="middle">ここに中心となる内容や</text>
+<text x="900" y="482" font-size="23" fill="#eeeeee" font-weight="400" text-anchor="middle">共通する機能を記載します。</text>
+<text x="900" y="513" font-size="23" fill="#eeeeee" font-weight="400" text-anchor="middle">周辺の各領域との関係を</text>
+<text x="900" y="544" font-size="23" fill="#eeeeee" font-weight="400" text-anchor="middle">短い文章で説明します。</text>
+</g></svg>

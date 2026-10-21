@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="部門階層と機能のマトリクス"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">ここに組織体制の見出しを入力</text>
+<text x="65" y="180" font-size="24" fill="#666666" font-weight="400" text-anchor="start">組織の階層と、それぞれの部門が担う機能をまとめて示します。</text>
+<path d="M260 542 H316 V286 H355 M316 542 V790 H355 M316 412 H355 M316 538 H355 M316 664 H355" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="70" y="500" width="190" height="84" rx="6" fill="#eeeeee"/><text x="165.0" y="550.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle">代表者</text>
+<rect x="126" y="656" width="150" height="72" rx="6" fill="#eeeeee"/><text x="201.0" y="700.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle">補佐組織</text>
+<path d="M276 692 H294 V542" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="355" y="248" width="185" height="92" rx="6" fill="#f1f1f1"/><text x="447.5" y="302.05" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">部門 A</text>
+<rect x="355" y="374" width="185" height="92" rx="6" fill="#f1f1f1"/><text x="447.5" y="428.05" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">部門 B</text>
+<rect x="355" y="500" width="185" height="92" rx="6" fill="#666666"/><text x="447.5" y="554.05" font-size="23" fill="#ffffff" font-weight="600" text-anchor="middle">部門 C</text>
+<rect x="355" y="626" width="185" height="92" rx="6" fill="#f1f1f1"/><text x="447.5" y="680.05" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">部門 D</text>
+<rect x="355" y="752" width="185" height="92" rx="6" fill="#f1f1f1"/><text x="447.5" y="806.05" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">部門 E</text>
+<path d="M540 546 H579" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="579" y="248" width="160" height="636" rx="6" fill="#555555"/><text x="659.0" y="574.4" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">統括責任者</text>
+<path d="M739 321 H773" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="773" y="248" width="756" height="148" rx="6" fill="#777777"/><text x="1151.0" y="330.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="875" y="328" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">機能部門 1</text>
+<rect x="990" y="262" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="296.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 01</text>
+<rect x="1164" y="262" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="296.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 02</text>
+<rect x="1338" y="262" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="296.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 03</text>
+<rect x="990" y="326" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="360.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 04</text>
+<rect x="1164" y="326" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="360.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 05</text>
+<rect x="1338" y="326" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="360.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 06</text>
+<path d="M739 480 H773" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="773" y="407" width="756" height="148" rx="6" fill="#777777"/><text x="1151.0" y="489.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="875" y="487" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">機能部門 2</text>
+<rect x="990" y="421" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="455.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 01</text>
+<rect x="1164" y="421" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="455.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 02</text>
+<rect x="1338" y="421" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="455.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 03</text>
+<rect x="990" y="485" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="519.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 04</text>
+<rect x="1164" y="485" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="519.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 05</text>
+<rect x="1338" y="485" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="519.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 06</text>
+<path d="M739 639 H773" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="773" y="566" width="756" height="148" rx="6" fill="#777777"/><text x="1151.0" y="648.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="875" y="646" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">機能部門 3</text>
+<rect x="990" y="613" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="647.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 01</text>
+<rect x="1164" y="613" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="647.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 02</text>
+<rect x="1338" y="613" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="647.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 03</text>
+<path d="M739 798 H773" fill="none" stroke="#999999" stroke-width="2"/>
+<rect x="773" y="725" width="756" height="148" rx="6" fill="#777777"/><text x="1151.0" y="807.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="875" y="805" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">機能部門 4</text>
+<rect x="990" y="739" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="773.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 01</text>
+<rect x="1164" y="739" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="773.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 02</text>
+<rect x="1338" y="739" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="773.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 03</text>
+<rect x="990" y="803" width="164" height="55" rx="6" fill="#ffffff"/><text x="1072.0" y="837.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 04</text>
+<rect x="1164" y="803" width="164" height="55" rx="6" fill="#ffffff"/><text x="1246.0" y="837.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 05</text>
+<rect x="1338" y="803" width="164" height="55" rx="6" fill="#ffffff"/><text x="1420.0" y="837.85" font-size="21" fill="#555555" font-weight="600" text-anchor="middle">機能 06</text>
+</g></svg>

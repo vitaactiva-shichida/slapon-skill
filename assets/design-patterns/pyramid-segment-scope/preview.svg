@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="三層と二つの対象領域"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">既存領域と新たな対象領域を整理する</text>
+<rect x="735" y="230" width="780" height="187" rx="6" fill="#eeeeee"/><text x="1125.0" y="331.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<rect x="735" y="425" width="780" height="374" rx="6" fill="#f6f6f6"/><text x="1125.0" y="620.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<polygon points="500.0,230.0 500.0,230.0 591.6666666666666,416.0 408.3333333333333,416.0" fill="#555555"/>
+<text x="500" y="364.0" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 01</text>
+<polygon points="408.3333333333333,420.0 591.6666666666666,420.0 683.3333333333334,606.0 316.66666666666663,606.0" fill="#777777"/>
+<text x="500" y="531.0" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 02</text>
+<polygon points="316.66666666666663,610.0 683.3333333333334,610.0 775.0,796.0 225.0,796.0" fill="#999999"/>
+<text x="500" y="721.0" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 03</text>
+<text x="827" y="302" font-size="32" fill="#444444" font-weight="700" text-anchor="start">領域 A の説明</text>
+<text x="827" y="357" font-size="25" fill="#666666" font-weight="400" text-anchor="start">ここに対象となる領域や、</text>
+<text x="827" y="393" font-size="25" fill="#666666" font-weight="400" text-anchor="start">提供する価値を記載します。</text>
+<text x="827" y="566" font-size="32" fill="#444444" font-weight="700" text-anchor="start">領域 B の説明</text>
+<text x="827" y="621" font-size="25" fill="#666666" font-weight="400" text-anchor="start">ここに対象となる領域や、</text>
+<text x="827" y="657" font-size="25" fill="#666666" font-weight="400" text-anchor="start">提供する価値を記載します。</text>
+<path d="M140 414 V238" fill="none" stroke="#777777" stroke-width="5" marker-end="url(#arrow)"/>
+<path d="M140 435 V797" fill="none" stroke="#aaaaaa" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="72" y="323" font-size="22" fill="#444444" font-weight="400" text-anchor="start">既存</text>
+<text x="72" y="622" font-size="22" fill="#444444" font-weight="400" text-anchor="start">拡張</text>
+</g></svg>

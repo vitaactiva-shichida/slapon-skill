@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="複数施策のロードマップ"><defs><linearGradient id="fade"><stop stop-color="#eeeeee"/><stop offset="1" stop-color="#777777"/></linearGradient><linearGradient id="reverse"><stop stop-color="#777777"/><stop offset="1" stop-color="#f5f5f5"/></linearGradient><linearGradient id="pale"><stop stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#dddddd"/></linearGradient><filter id="shadow" x="-10%" y="-20%" width="120%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-opacity=".07"/></filter></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<path d="M60 51 V83" stroke="#666666" stroke-width="5"/>
+<text x="80" y="74" font-size="20" fill="#555555" font-weight="400" text-anchor="start">ダミーカテゴリー</text>
+<text x="62" y="150" font-size="45" fill="#666666" font-weight="600" text-anchor="start">ここに主題を入力し、</text>
+<text x="62" y="215" font-size="45" fill="#666666" font-weight="600" text-anchor="start">将来へ向かう方向性を示す</text>
+<path d="M-10 586 Q600 250 1620 95" fill="none" stroke="#cccccc" stroke-width="30"/>
+<circle cx="190" cy="482" r="53" fill="#999999" opacity=".12"/><circle cx="190" cy="482" r="37" fill="#999999" opacity=".15"/><path d="M190 482 V562" stroke="#777777" stroke-width="2"/><circle cx="190" cy="482" r="4" fill="#555555"/>
+<text x="51" y="592" font-size="20" fill="#555555" font-weight="400" text-anchor="start">20XX · 時点 A</text>
+<text x="51" y="635" font-size="28" fill="#555555" font-weight="600" text-anchor="start">段階 01 の見出し</text>
+<text x="51" y="675" font-size="22" fill="#555555" font-weight="400" text-anchor="start">ここに取り組みの説明を</text>
+<text x="51" y="708" font-size="22" fill="#555555" font-weight="400" text-anchor="start">2行程度で記載します。</text>
+<circle cx="535" cy="345" r="53" fill="#999999" opacity=".12"/><circle cx="535" cy="345" r="37" fill="#999999" opacity=".15"/><path d="M535 345 V425" stroke="#777777" stroke-width="2"/><circle cx="535" cy="345" r="4" fill="#555555"/>
+<text x="396" y="455" font-size="20" fill="#555555" font-weight="400" text-anchor="start">20XX · 時点 B</text>
+<text x="396" y="498" font-size="28" fill="#555555" font-weight="600" text-anchor="start">段階 02 の見出し</text>
+<text x="396" y="538" font-size="22" fill="#555555" font-weight="400" text-anchor="start">ここに取り組みの説明を</text>
+<text x="396" y="571" font-size="22" fill="#555555" font-weight="400" text-anchor="start">2行程度で記載します。</text>
+<circle cx="880" cy="239" r="53" fill="#999999" opacity=".12"/><circle cx="880" cy="239" r="37" fill="#999999" opacity=".15"/><path d="M880 239 V319" stroke="#777777" stroke-width="2"/><circle cx="880" cy="239" r="4" fill="#555555"/>
+<text x="741" y="349" font-size="20" fill="#555555" font-weight="400" text-anchor="start">20XX · 時点 C</text>
+<text x="741" y="392" font-size="28" fill="#555555" font-weight="600" text-anchor="start">段階 03 の見出し</text>
+<text x="741" y="432" font-size="22" fill="#555555" font-weight="400" text-anchor="start">ここに取り組みの説明を</text>
+<text x="741" y="465" font-size="22" fill="#555555" font-weight="400" text-anchor="start">2行程度で記載します。</text>
+<circle cx="1225" cy="158" r="53" fill="#999999" opacity=".12"/><circle cx="1225" cy="158" r="37" fill="#999999" opacity=".15"/><path d="M1225 158 V238" stroke="#777777" stroke-width="2"/><circle cx="1225" cy="158" r="4" fill="#555555"/>
+<text x="1086" y="268" font-size="20" fill="#555555" font-weight="400" text-anchor="start">20XX · 時点 D</text>
+<text x="1086" y="311" font-size="28" fill="#555555" font-weight="600" text-anchor="start">段階 04 の見出し</text>
+<text x="1086" y="351" font-size="22" fill="#555555" font-weight="400" text-anchor="start">ここに取り組みの説明を</text>
+<text x="1086" y="384" font-size="22" fill="#555555" font-weight="400" text-anchor="start">2行程度で記載します。</text>
+<path d="M1090 402 H1507 L1551 445 L1507 488 H1090 Z" fill="url(#pale)"/>
+<rect x="1128" y="422" width="357" height="46" rx="6" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+<text x="1306" y="454" font-size="23" fill="#777777" font-weight="500" text-anchor="middle">施策 D：ここに施策名を入力</text>
+<path d="M735 516 H1507 L1551 559 L1507 602 H735 Z" fill="url(#pale)"/>
+<rect x="1128" y="536" width="357" height="46" rx="6" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+<text x="1306" y="568" font-size="23" fill="#777777" font-weight="500" text-anchor="middle">施策 C：ここに施策名を入力</text>
+<path d="M391 642 H1507 L1551 685 L1507 728 H391 Z" fill="url(#pale)"/>
+<rect x="1128" y="662" width="357" height="46" rx="6" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+<text x="1306" y="694" font-size="23" fill="#777777" font-weight="500" text-anchor="middle">施策 B：ここに施策名を入力</text>
+<path d="M51 768 H1507 L1551 811 L1507 854 H51 Z" fill="url(#pale)"/>
+<rect x="1128" y="788" width="357" height="46" rx="6" fill="none" stroke="#b4b4b4" stroke-width="1.5"/>
+<text x="1306" y="820" font-size="23" fill="#777777" font-weight="500" text-anchor="middle">施策 A：ここに施策名を入力</text>
+</g></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="三つの要素を組み合わせる"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="65" font-size="17" fill="#888888" font-weight="600" text-anchor="start">DESIGN REFERENCE</text>
+<text x="80" y="135" font-size="40" fill="#292929" font-weight="700" text-anchor="start">三つの要素を組み合わせる</text>
+<text x="80" y="184" font-size="22" fill="#777777" font-weight="400" text-anchor="start">ここに伝えたいことを一文で記載します。文言・数値・配置はダミーです。</text>
+<circle cx="275" cy="425" r="135" fill="#eeeeee" stroke="none" stroke-width="2"/>
+<text x="275" y="435" font-size="34" fill="#444444" font-weight="600" text-anchor="middle">要素 A</text>
+<text x="538" y="439" font-size="43" fill="#999999" font-weight="400" text-anchor="middle">＋</text>
+<circle cx="800" cy="425" r="135" fill="#eeeeee" stroke="none" stroke-width="2"/>
+<text x="800" y="435" font-size="34" fill="#444444" font-weight="600" text-anchor="middle">要素 B</text>
+<text x="1063" y="439" font-size="43" fill="#999999" font-weight="400" text-anchor="middle">＋</text>
+<circle cx="1325" cy="425" r="135" fill="#eeeeee" stroke="none" stroke-width="2"/>
+<text x="1325" y="435" font-size="34" fill="#444444" font-weight="600" text-anchor="middle">要素 C</text>
+<path d="M275 595 V625 H1325 V595" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+<path d="M800 625 V671" fill="none" stroke="#999999" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="435" y="694" width="730" height="104" rx="6" fill="#444444"/><text x="800.0" y="756.85" font-size="31" fill="#ffffff" font-weight="600" text-anchor="middle">組み合わせて生まれる価値</text>
+</g></svg>

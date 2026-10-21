@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="隣接する六つの機能領域"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="65" font-size="17" fill="#888888" font-weight="600" text-anchor="start">DESIGN REFERENCE</text>
+<text x="80" y="135" font-size="40" fill="#292929" font-weight="700" text-anchor="start">隣接する六つの機能領域</text>
+<text x="80" y="184" font-size="22" fill="#777777" font-weight="400" text-anchor="start">ここに伝えたいことを一文で記載します。文言・数値・配置はダミーです。</text>
+<polygon points="948.2531754730549,416.5 840.0,479.0 731.7468245269451,416.5 731.7468245269451,291.5 840.0,229.0 948.2531754730549,291.49999999999994" fill="#555555"/>
+<text x="840" y="363" font-size="27" fill="#ffffff" font-weight="600" text-anchor="middle">領域 01</text>
+<polygon points="1178.2531754730549,416.5 1070.0,479.0 961.7468245269451,416.5 961.7468245269451,291.5 1070.0,229.0 1178.2531754730549,291.49999999999994" fill="#555555"/>
+<text x="1070" y="363" font-size="27" fill="#ffffff" font-weight="600" text-anchor="middle">領域 02</text>
+<polygon points="833.2531754730549,616.5 725.0,679.0 616.7468245269451,616.5 616.7468245269451,491.5 725.0,429.0 833.2531754730549,491.49999999999994" fill="#eeeeee"/>
+<text x="725" y="563" font-size="27" fill="#555555" font-weight="600" text-anchor="middle">領域 03</text>
+<polygon points="1063.2531754730549,616.5 955.0,679.0 846.7468245269451,616.5 846.7468245269451,491.5 955.0,429.0 1063.2531754730549,491.49999999999994" fill="#eeeeee"/>
+<text x="955" y="563" font-size="27" fill="#555555" font-weight="600" text-anchor="middle">領域 04</text>
+<polygon points="1293.2531754730549,616.5 1185.0,679.0 1076.7468245269451,616.5 1076.7468245269451,491.5 1185.0,429.0 1293.2531754730549,491.49999999999994" fill="#eeeeee"/>
+<text x="1185" y="563" font-size="27" fill="#555555" font-weight="600" text-anchor="middle">領域 05</text>
+<polygon points="1178.2531754730549,816.5 1070.0,879.0 961.7468245269451,816.5 961.7468245269451,691.5 1070.0,629.0 1178.2531754730549,691.5" fill="#eeeeee"/>
+<text x="1070" y="763" font-size="27" fill="#555555" font-weight="600" text-anchor="middle">領域 06</text>
+<text x="80" y="400" font-size="27" fill="#444444" font-weight="600" text-anchor="start">機能を組み合わせる</text>
+<text x="80" y="438" font-size="20" fill="#777777" font-weight="400" text-anchor="start">ここに短い説明を記載</text>
+<text x="80" y="510" font-size="27" fill="#444444" font-weight="600" text-anchor="start">境界を越えてつながる</text>
+<text x="80" y="548" font-size="20" fill="#777777" font-weight="400" text-anchor="start">ここに短い説明を記載</text>
+</g></svg>

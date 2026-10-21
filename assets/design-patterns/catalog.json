@@ -1,0 +1,3840 @@
+{
+  "schema_version": 1,
+  "patterns": [
+    {
+      "id": "growth-circles",
+      "name": "成長を示す円",
+      "direction": "growth",
+      "elements": 3,
+      "information_density": "low",
+      "tags": [
+        "成長",
+        "規模",
+        "数値",
+        "段階"
+      ],
+      "use_when": [
+        "3段階の規模変化を主役の数値で伝える"
+      ],
+      "cautions": [
+        "円の面積は数値に比例していない。定量比較では面積を計算し直すか別のグラフを使う。",
+        "右端の大きな円を裁ち落とす構図。顧客の固定ロゴ領域と衝突する場合は調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/growth-circles/preview.svg",
+          "sha256": "cba069932e4e15e0ee9c39a11fc4f6f9f3245040f0ebb9a2d93e0700743864ea"
+        },
+        "png": {
+          "path": "assets/design-patterns/growth-circles/preview.png",
+          "sha256": "f5f27488b88ad2534803024bf2fcaaf440e39335dd1044639113d498cf6124b4"
+        }
+      },
+      "source": {
+        "url": "https://www.instagram.com/po_slide/",
+        "user_supplied_image": "codex-clipboard-596961ab-64ee-486b-ad6f-9318bf61a3b4.png",
+        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
+        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 2
+    },
+    {
+      "id": "process-cards",
+      "name": "4段階の説明カード",
+      "direction": "process",
+      "elements": 4,
+      "information_density": "medium",
+      "tags": [
+        "手順",
+        "フェーズ",
+        "プロセス",
+        "写真",
+        "カード"
+      ],
+      "use_when": [
+        "順序のある4段階を、見出し・画像・説明文で示す"
+      ],
+      "cautions": [
+        "画像枠はダミー。案件の写真や適切な図に差し替える。",
+        "長文を押し込まず、カード数の変更時は幅と文字量を再設計する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/process-cards/preview.svg",
+          "sha256": "46a40c36ad801502794c6848879e3d5527a2fe2c5b42fbb4970089665d2dfc0f"
+        },
+        "png": {
+          "path": "assets/design-patterns/process-cards/preview.png",
+          "sha256": "01b04b2d8adb7dd5d05d74b35797283846c3e2f20e67884cc71eab2fd9f715bb"
+        }
+      },
+      "source": {
+        "url": "https://www.instagram.com/po_slide/",
+        "user_supplied_image": "IMG_0139.PNG",
+        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
+        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "cycle-eight",
+      "name": "8段階の循環図",
+      "direction": "cycle",
+      "elements": 8,
+      "information_density": "medium",
+      "tags": [
+        "循環",
+        "サイクル",
+        "反復",
+        "順序"
+      ],
+      "use_when": [
+        "8段階が繰り返される流れを説明する"
+      ],
+      "cautions": [
+        "原稿に循環の根拠がある場合に選ぶ。一方向の手順を循環に変えない。",
+        "各区画は短いラベル用。詳細な説明は図の外へ置く。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cycle-eight/preview.svg",
+          "sha256": "930eeb64fe8541608d4bc6c78e0bcf382c4ee4742da0d98ea3e7ab745fe9e2c5"
+        },
+        "png": {
+          "path": "assets/design-patterns/cycle-eight/preview.png",
+          "sha256": "6c04789c10afa107074440c37c1ebfa8a9c808c82c32fdef44add7d2e8b3f801"
+        }
+      },
+      "source": {
+        "url": "https://www.instagram.com/po_slide/",
+        "user_supplied_image": "IMG_0138.PNG",
+        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
+        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "comparison-highlight",
+      "name": "強調列のある比較表",
+      "direction": "comparison",
+      "elements": 4,
+      "information_density": "medium",
+      "tags": [
+        "比較",
+        "選択肢",
+        "表",
+        "強調",
+        "機能"
+      ],
+      "use_when": [
+        "4つの選択肢を5項目で比較し、1列を強調する"
+      ],
+      "cautions": [
+        "比較条件を揃える。チェック・数値・推奨の根拠を原稿から確認する。",
+        "強調列は利用者の目的に合わせて選び、原稿にない優位性を追加しない。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/comparison-highlight/preview.svg",
+          "sha256": "e809f85b6c7264ab1ea00e128de5e759ee69bfe53695779c4ad6e7b28b9dae4d"
+        },
+        "png": {
+          "path": "assets/design-patterns/comparison-highlight/preview.png",
+          "sha256": "bfb167939d29eb9a5e0f43c53c554a46bd5d3c9bac0bc830cb994116bb616479"
+        }
+      },
+      "source": {
+        "url": "https://www.instagram.com/po_slide/",
+        "user_supplied_image": "IMG_0137.PNG",
+        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
+        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "vision-path",
+      "name": "道筋と説明カード",
+      "direction": "vision",
+      "elements": 3,
+      "element_kind": "milestones",
+      "information_density": "medium",
+      "tags": [
+        "ビジョン",
+        "ミッション",
+        "道筋",
+        "段階",
+        "説明カード"
+      ],
+      "use_when": [
+        "目指す状態と、その実現につながる3つの段階を示す"
+      ],
+      "cautions": [
+        "曲線は概念の道筋。時間軸や増減のグラフとして読ませない。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/vision-path/preview.svg",
+          "sha256": "e9569f7198cafea7693cac43cf19349f8699d6a9404205d82b3223a548cf2f82"
+        },
+        "png": {
+          "path": "assets/design-patterns/vision-path/preview.png",
+          "sha256": "5e0d3b55d3914046b16d83cde035bb57b76ccdfb8505b9047f50357cc3a68145"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-2dce6e21-31a8-4b02-bb71-3c9221e660a3.png",
+        "description": "Asobica表記のユーザー提供スライド。公開元URLは未確認。",
+        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "growth-curve-plan",
+      "name": "成長曲線の計画",
+      "direction": "roadmap",
+      "elements": 4,
+      "element_kind": "milestones",
+      "information_density": "medium",
+      "tags": [
+        "ロードマップ",
+        "成長曲線",
+        "計画",
+        "時点",
+        "フェーズ"
+      ],
+      "use_when": [
+        "4つの時点と実行内容を成長イメージに沿って配置する"
+      ],
+      "cautions": [
+        "曲線は成長イメージであり予測値ではない。実数値の推移には目盛りのあるグラフを使う。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/growth-curve-plan/preview.svg",
+          "sha256": "c10a8b121a9a47d140ba9156db2eaa766467cbceb9a07091b0120c660f9473a1"
+        },
+        "png": {
+          "path": "assets/design-patterns/growth-curve-plan/preview.png",
+          "sha256": "a1c936107c79f3c64ce590f12281e2d62b594158e2eed35132956bbef6d1849c"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-6fba793c-95a2-4cc5-9b24-707430da0c16.png",
+        "description": "ユーザー提供の「成長曲線型」解説画像。著者・公開元URLは未確認。",
+        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "capability-expansion",
+      "name": "コアから領域を広げる構図",
+      "direction": "expansion",
+      "elements": 10,
+      "element_kind": "related_items",
+      "information_density": "high",
+      "tags": [
+        "領域拡張",
+        "コア",
+        "関連機能",
+        "変革",
+        "到達点"
+      ],
+      "use_when": [
+        "コア機能から関連領域を広げて目指す状態へつなげる"
+      ],
+      "cautions": [
+        "10は中間の関連項目数。コアと到達点は別。円の並びは厳密な順番・依存関係を示さず、原稿の関係を確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/capability-expansion/preview.svg",
+          "sha256": "4fdd043d0cfcd32ec452d150cbac9a16bef550cc225c6651edb8eceae7ceecfb"
+        },
+        "png": {
+          "path": "assets/design-patterns/capability-expansion/preview.png",
+          "sha256": "2ad24968507234bd1b8b34ba7a146eca3f986b2cc9c5aad446de7e5a7f3f18f2"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-e61ee8b6-3426-434d-a321-fd1c2d5ac3f3.png",
+        "description": "キカガク表記のユーザー提供スライド。公開元URLは未確認。",
+        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "parallel-roadmap",
+      "name": "複数施策のロードマップ",
+      "direction": "roadmap",
+      "elements": 4,
+      "element_kind": "milestones",
+      "information_density": "high",
+      "tags": [
+        "ロードマップ",
+        "並行施策",
+        "成長戦略",
+        "タイムライン",
+        "複数事業"
+      ],
+      "use_when": [
+        "4つの時点と並行する4つの施策をまとめる"
+      ],
+      "cautions": [
+        "要素数は時点数。施策の開始位置・期間・関係は原稿に合わせる。上昇線は定量的な成長率を示さない。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/parallel-roadmap/preview.svg",
+          "sha256": "4a2e1bde9674b1fd23c8751804c6bd9dc3b88f2dc07b8d81996cabf8b5fdcdc9"
+        },
+        "png": {
+          "path": "assets/design-patterns/parallel-roadmap/preview.png",
+          "sha256": "68950aee42759f8d8db69d78a2504ec21f1b6cf11144387b675ede22b894c7f6"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-3a96c69b-2fb2-4763-ad68-14fa200266d6.png",
+        "description": "ユーザー提供の成長戦略ロードマップ。著者・公開元URLは未確認。",
+        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "dual-domain-loop",
+      "name": "二領域の接点と循環",
+      "direction": "relationship",
+      "elements": 2,
+      "element_kind": "domains",
+      "information_density": "medium",
+      "tags": [
+        "接点",
+        "循環",
+        "二領域"
+      ],
+      "use_when": [
+        "二つの領域の接点で生まれる価値と循環を示す"
+      ],
+      "cautions": [
+        "円の面積は数量を表さない。循環の向きと意味を原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/dual-domain-loop/preview.svg",
+          "sha256": "ffa6dbd92a30230c2fd7d7a21ddb6ec528454c52ff4ad4d11f80c3ffc2ef1b86"
+        },
+        "png": {
+          "path": "assets/design-patterns/dual-domain-loop/preview.png",
+          "sha256": "b4209dcd724788a8890c0db5c29ae9120bd8b8d6f79d37643b245e5ec57fbd1b"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-9a17e303-3e0e-45b0-a9d4-72fdbc845df1.png",
+        "description": "DEZAPURE表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "hub-ten-domains",
+      "name": "中心と10の関連領域",
+      "direction": "relationship",
+      "elements": 10,
+      "element_kind": "satellites",
+      "information_density": "medium",
+      "tags": [
+        "中心",
+        "周辺",
+        "放射",
+        "関連領域"
+      ],
+      "use_when": [
+        "共通の中心テーマと10の周辺領域の関係を示す"
+      ],
+      "cautions": [
+        "要素数は中心を除く周辺領域数。接続線は順番や指揮命令を意味しない。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/hub-ten-domains/preview.svg",
+          "sha256": "7fc36f3df75fecc6879196a86e392df772dc265470c22f734540ea4ea3f12b48"
+        },
+        "png": {
+          "path": "assets/design-patterns/hub-ten-domains/preview.png",
+          "sha256": "d589201303b34434122a6cb44a10df36c523ad00b8fc3877c0f8fa2834adbebb"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-0d4bc180-9c2d-4832-b2bd-beca635a3448.png",
+        "description": "企業名不明表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "three-domain-synergy",
+      "name": "三領域の事業連携",
+      "direction": "relationship",
+      "elements": 3,
+      "element_kind": "domains",
+      "information_density": "medium",
+      "tags": [
+        "事業連携",
+        "三領域",
+        "相乗効果"
+      ],
+      "use_when": [
+        "三事業の役割と共通基盤、相互の連携を説明する"
+      ],
+      "cautions": [
+        "矢印の向きや連携の内容は原稿に合わせる。相乗効果を推測で追加しない。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/three-domain-synergy/preview.svg",
+          "sha256": "574674312ff7c6fb7a19184d46e7c7377031b3ea368f7f1a5e2f04bdf2b12c78"
+        },
+        "png": {
+          "path": "assets/design-patterns/three-domain-synergy/preview.png",
+          "sha256": "8c7d0100f682b37ae44cf3c1ab6ef04641544f56d68040c17290ab3e3390feb8"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-167e6c7d-d9db-44ae-8d05-bdc53f3c1ff5.png",
+        "description": "Glad Cube表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 2
+    },
+    {
+      "id": "organization-functions",
+      "name": "部門階層と機能の一覧",
+      "direction": "organization",
+      "elements": 4,
+      "element_kind": "functional_groups",
+      "information_density": "high",
+      "tags": [
+        "部門階層",
+        "機能一覧",
+        "組織体制"
+      ],
+      "use_when": [
+        "部門の階層と4つの機能部門の担当領域を一覧にする"
+      ],
+      "cautions": [
+        "要素数は右側の機能部門数。組織の指揮命令と製品の機能区分を混同しない。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/organization-functions/preview.svg",
+          "sha256": "933194ab26d39bcb00f9e8ff6aee59628c914fde007fa3e6be2d8208de81da53"
+        },
+        "png": {
+          "path": "assets/design-patterns/organization-functions/preview.png",
+          "sha256": "9b35525abec12dc7fecfb81a80beeea226dc6b4efd3cee93f35823c108336f71"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-552d0d84-de6b-4a66-9e4f-db98425ec88f.png",
+        "description": "企業名不明表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "team-role-composition",
+      "name": "職種別チーム構成",
+      "direction": "organization",
+      "elements": 7,
+      "element_kind": "roles",
+      "information_density": "high",
+      "tags": [
+        "職種",
+        "人数",
+        "チーム構成"
+      ],
+      "use_when": [
+        "7職種の役割と人数をグループ別に示す"
+      ],
+      "cautions": [
+        "人数と合計を一致させる。人物アイコンの数はダミーであり実人数ではない。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/team-role-composition/preview.svg",
+          "sha256": "0c4985aa7f0bfbe7541e953ecc9b05ef9c99140be22ea7e10d82a97f2eba8940"
+        },
+        "png": {
+          "path": "assets/design-patterns/team-role-composition/preview.png",
+          "sha256": "e42654e2440277116fd748971ddf391c331bb7e0bedc661d7f2cd28f84219a9e"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-f78aa67c-e864-4286-a58f-e3d5fb4a01ce.png",
+        "description": "三井物産デジタル・アセットマネジメント／ALTERNA表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "supply-branch-flow",
+      "name": "集約と分岐の流通フロー",
+      "direction": "flow",
+      "elements": 4,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "流通",
+        "集約",
+        "分岐",
+        "サプライチェーン"
+      ],
+      "use_when": [
+        "入力・処理・拠点・店舗の4層で集約と分岐を示す"
+      ],
+      "cautions": [
+        "要素数は層数であり拠点数ではない。矢印が物・情報・金銭のどれを表すか明記する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/supply-branch-flow/preview.svg",
+          "sha256": "a17b6319153975293c782446614735a5d7157f4e27fe28d8f0fbc970df8ef187"
+        },
+        "png": {
+          "path": "assets/design-patterns/supply-branch-flow/preview.png",
+          "sha256": "733f1f851dd24d83db217daf75c54983ba26f69529bea5f287ee5740dd8e8873"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-7faa5a47-9a2f-472b-bba4-912d9a62d074.png",
+        "description": "SMat表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 2
+    },
+    {
+      "id": "organization-hierarchy",
+      "name": "階層と部門別チーム",
+      "direction": "organization",
+      "elements": 6,
+      "element_kind": "departments",
+      "information_density": "high",
+      "tags": [
+        "組織図",
+        "指揮命令",
+        "部門別",
+        "チーム",
+        "階層"
+      ],
+      "use_when": [
+        "6部門の階層と各部門のチームを示す"
+      ],
+      "cautions": [
+        "要素数は末端の部門数。補佐・連携・指揮命令の接続を区別し、実際の関係に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/organization-hierarchy/preview.svg",
+          "sha256": "a1d51cea2ca151e22f306e4a47fe7f2e4e184ae60d5f76c4c7d373f0c2b87345"
+        },
+        "png": {
+          "path": "assets/design-patterns/organization-hierarchy/preview.png",
+          "sha256": "7a966ef5bd1178f84554eb87deb6241880ffd60c2ec72d598d1b1c88aa72fd1c"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-425df802-69d8-496e-bb54-695b20d990e0.png",
+        "description": "TVer表記のユーザー提供画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "pyramid-four-callouts",
+      "name": "四層ピラミッドと両側の解説",
+      "direction": "hierarchy",
+      "elements": 4,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "両側解説",
+        "理念",
+        "経営計画"
+      ],
+      "use_when": [
+        "理念から計画への四階層と全体の目指す姿を示す"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/pyramid-four-callouts/preview.svg",
+          "sha256": "3b4bf69b8714221946eb09be16dcdd9a4a5bf42415546781150b128bb3a6cfcb"
+        },
+        "png": {
+          "path": "assets/design-patterns/pyramid-four-callouts/preview.png",
+          "sha256": "21c7c7c30357de10b23ab8eb7e1f15a35384890ca51cf708966e0f3d4e3aa382"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-27260fd4-76ad-405e-8c1b-e593f8ab1149.png",
+        "description": "矢作建設のユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "pyramid-two-dimensional",
+      "name": "二段の立体ピラミッド",
+      "direction": "hierarchy",
+      "elements": 2,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "立体",
+        "二段",
+        "フィロソフィー",
+        "ビジョン"
+      ],
+      "use_when": [
+        "二つの概念の上下関係を立体的に示し右側で説明する"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/pyramid-two-dimensional/preview.svg",
+          "sha256": "a2495a6235f24dde2e762788fb3dd2e6cfaaf58da178ea02cea7e6e428d822a1"
+        },
+        "png": {
+          "path": "assets/design-patterns/pyramid-two-dimensional/preview.png",
+          "sha256": "bccd9d5cf784f751f36c4a6baf724b69ccaf98fe13adfeb0da1f2b92a3511c36"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-5a1f599d-b43d-48ba-9b93-f05cb00f46d1.png",
+        "description": "AsiaQuestのユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 2
+    },
+    {
+      "id": "pyramid-layer-cards",
+      "name": "四層と説明カード",
+      "direction": "hierarchy",
+      "elements": 4,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "説明カード",
+        "成果",
+        "役割",
+        "基盤"
+      ],
+      "use_when": [
+        "各階層の役割や成立条件を対応するカードで説明する"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/pyramid-layer-cards/preview.svg",
+          "sha256": "7d625aebd1fb732f6e724a88b62b61b364aabbcc0c95989c49e5a55ade943845"
+        },
+        "png": {
+          "path": "assets/design-patterns/pyramid-layer-cards/preview.png",
+          "sha256": "6a3183a424775d71fc4aae6fe4532c390ff7fe4105603766e181dbd11c475919"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-6b7bd8be-4279-43cf-ba23-f7cdb03746fc.png",
+        "description": "COTENのユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "pyramid-segment-scope",
+      "name": "三層と二つの対象領域",
+      "direction": "hierarchy",
+      "elements": 3,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "対象領域",
+        "既存",
+        "新規",
+        "セグメント"
+      ],
+      "use_when": [
+        "三階層の対象を既存領域と拡張領域に分けて示す"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/pyramid-segment-scope/preview.svg",
+          "sha256": "baeafeaa1e2ac2bd41260f84426f14fb503b04d9095c6c3732f4233a02c1989c"
+        },
+        "png": {
+          "path": "assets/design-patterns/pyramid-segment-scope/preview.png",
+          "sha256": "4bfcae5c690cfcafcf382b4cfca0e4296bcfb597567e69738b2d094ffde82da3"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-9ea93e6c-2619-4ea8-b34a-6029046b0721.png",
+        "description": "UUUMのユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "pyramid-message-rows",
+      "name": "理念体系と対応メッセージ",
+      "direction": "hierarchy",
+      "elements": 4,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "対応メッセージ",
+        "理念体系",
+        "行動指針"
+      ],
+      "use_when": [
+        "四つの理念階層と各層のメッセージを行単位で対応させる"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/pyramid-message-rows/preview.svg",
+          "sha256": "9d292c5eae14100faad49f4338a5e98766806992f851ab6d7c17254edabe580d"
+        },
+        "png": {
+          "path": "assets/design-patterns/pyramid-message-rows/preview.png",
+          "sha256": "2d54c4018b95db099bc0191a0e45d7e2acfdc11ec527e8f7ed131fda90fca060"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-fc98f9d8-836b-4754-a482-42550263d09a.png",
+        "description": "パーソルグループのユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "funnel-stages-metrics",
+      "name": "三段ファネルと効果指標",
+      "direction": "funnel",
+      "elements": 3,
+      "element_kind": "layers",
+      "information_density": "high",
+      "tags": [
+        "効果指標",
+        "三段",
+        "認知",
+        "判断",
+        "実行"
+      ],
+      "use_when": [
+        "三段階の価値と右側の要点、下段の四つの効果指標を示す"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。",
+        "逆円錐は構図の参考。脱落率や絞り込みを表すとは限らず、各段の関係を明示する。",
+        "4指標は段数に含めない。割合・指標名・根拠を実データに差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/funnel-stages-metrics/preview.svg",
+          "sha256": "6c4289678572ed9d9a53a980154711d4fc00545f519c64381f1af5ec598f758e"
+        },
+        "png": {
+          "path": "assets/design-patterns/funnel-stages-metrics/preview.png",
+          "sha256": "c579f219d857fc43a80dcff90e8cfd0e66adadc9b44dcb018c77dda6ff43bcd8"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-5c690396-3601-4d92-a75b-61ca436a8342.png",
+        "description": "ユーザベース／スピーダのユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "funnel-separated-domains",
+      "name": "四段の領域拡張",
+      "direction": "funnel",
+      "elements": 4,
+      "element_kind": "layers",
+      "information_density": "medium",
+      "tags": [
+        "分離",
+        "領域拡張",
+        "事業展開"
+      ],
+      "use_when": [
+        "四つの事業領域を分離した逆円錐と引き出し線で説明する"
+      ],
+      "cautions": [
+        "要素数は階層・段数。幅や面積は数量や優劣を示さない。上下関係は原稿で確認する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿に差し替える。",
+        "逆円錐は構図の参考。脱落率や絞り込みを表すとは限らず、各段の関係を明示する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/funnel-separated-domains/preview.svg",
+          "sha256": "5df535eb3cf85eeb268d0d8489c34f5f37591f4274ac8846b620e21ddca4d438"
+        },
+        "png": {
+          "path": "assets/design-patterns/funnel-separated-domains/preview.png",
+          "sha256": "8740a2f7d80d4b8e6f6d74064ff60e188676021392e22615e76c4ced6ea12951"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-016b05b3-49a9-49ae-80ed-c6d3eaed6ed2.png",
+        "description": "企業名不明のユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 1
+    },
+    {
+      "id": "cone-foundation-focus",
+      "name": "三層の理念と土台の強調",
+      "direction": "hierarchy",
+      "elements": 3,
+      "element_kind": "layers",
+      "information_density": "low",
+      "tags": [
+        "土台強調",
+        "価値観",
+        "バリュー",
+        "余白"
+      ],
+      "use_when": [
+        "三階層のうち土台の価値観を大きく強調する"
+      ],
+      "cautions": [
+        "断面は同じ比率の楕円で統一する。各層の間隔と外側ラベルの余白を保つ。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cone-foundation-focus/preview.svg",
+          "sha256": "44f8348eef268e18295fb2069bef7e59b52fa69381d310d67586b27db7598ef5"
+        },
+        "png": {
+          "path": "assets/design-patterns/cone-foundation-focus/preview.png",
+          "sha256": "06a7115cbba7be217d9e4e86253b93cfe4d7a97d36225e9ecc506c2a496d83e4"
+        }
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-f728fe4a-1db7-4e8a-a7bf-3e52bc30aeff.png",
+        "description": "CAMPFIREのユーザー提供参考画像。公開元URLは未確認。",
+        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "version": 2
+    },
+    {
+      "id": "before-after-aligned",
+      "name": "三項目で比較するビフォーアフター",
+      "direction": "comparison",
+      "elements": 2,
+      "element_kind": "alternatives",
+      "information_density": "medium",
+      "tags": [
+        "前後比較",
+        "比較軸",
+        "変化"
+      ],
+      "use_when": [
+        "同じ三つの観点で現在と目指す状態を対比する"
+      ],
+      "cautions": [
+        "要素数2は比較案の数。比較軸3行とは別。前後で同じ観点を対応させる。",
+        "色・書体は顧客キットに合わせ、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/before-after-aligned/preview.svg",
+          "sha256": "f7d633060ca10b80078b1a4095ceeb658d08476b206cecf5a0e92a3ddb2c8006"
+        },
+        "png": {
+          "path": "assets/design-patterns/before-after-aligned/preview.png",
+          "sha256": "75ea4b036d713b04b6f905137d6e67db8f4e30e97012ddcf6941dba3d57c7a37"
+        }
+      },
+      "source": {
+        "url": "https://contents.xj-storage.jp/xcontents/AS04618/4e95a626/7752/4437/84f6/c58a589806e7/20260414153901970s.pdf",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/before-after",
+        "description": "グッドパッチ 決算説明資料／Agentic UXへの移行。SLIDELAND掲載画像を画面で確認。",
+        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "比較軸と行が揃い、視線が横方向に自然に移る。",
+        "checks": [
+          "視線の順序",
+          "整列と余白",
+          "文字の読みやすさ",
+          "グレースケールでの区別",
+          "既存見本との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "matrix-focus-panel",
+      "name": "二軸の位置づけと重点領域",
+      "direction": "matrix",
+      "elements": 2,
+      "element_kind": "axes",
+      "information_density": "medium",
+      "tags": [
+        "二軸",
+        "重点領域",
+        "位置づけ"
+      ],
+      "use_when": [
+        "二軸上の位置と重点領域を示し、横に判断理由を置く"
+      ],
+      "cautions": [
+        "要素数2は軸数。軸の意味・向き・領域間の移動は原稿で確認する。座標は定量値ではない。",
+        "色・書体は顧客キットに合わせ、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/matrix-focus-panel/preview.svg",
+          "sha256": "c006436adccb88cc0e8ee26dd68316a84b11fb73618605d3657573b1ac8d83e8"
+        },
+        "png": {
+          "path": "assets/design-patterns/matrix-focus-panel/preview.png",
+          "sha256": "ecb2fa37b5266130d56004e421e44dca262e4b82112f64a7dda8e1446f1cf599"
+        }
+      },
+      "source": {
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260331/20260331594691.pdf",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/matrix",
+        "description": "モンスターラボ 事業計画／DX領域の強み。SLIDELAND掲載画像を画面で確認。",
+        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "軸・領域・補足説明が分かれ、重点が一つに絞られている。",
+        "checks": [
+          "視線の順序",
+          "整列と余白",
+          "文字の読みやすさ",
+          "グレースケールでの区別",
+          "既存見本との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "venn-three-value",
+      "name": "三要素の重なりと中心価値",
+      "direction": "overlap",
+      "elements": 3,
+      "element_kind": "sets",
+      "information_density": "low",
+      "tags": [
+        "三要素",
+        "共通価値",
+        "ベン図",
+        "重なり"
+      ],
+      "use_when": [
+        "三つの強みと共通する価値を示す"
+      ],
+      "cautions": [
+        "要素数3は集合数。重なりの意味を確認し、円の面積を定量的な割合と解釈しない。",
+        "色・書体は顧客キットに合わせ、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/venn-three-value/preview.svg",
+          "sha256": "43a1267ac63ec2987a5574ee37aa30a384f981238f2cc4e888f779a1115a427c"
+        },
+        "png": {
+          "path": "assets/design-patterns/venn-three-value/preview.png",
+          "sha256": "bc207f9f6d712f67aec739cf9314d4f07fb96d93c2ed6607971dd88ed50455e4"
+        }
+      },
+      "source": {
+        "url": "https://speakerdeck.com/findyinc/hiring-findys-designers",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/venn",
+        "description": "Findy デザイナー向け会社紹介。SLIDELAND掲載画像を画面で確認。",
+        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "左の説明と右の図に役割が分かれ、中心へ視線を誘導できる。",
+        "checks": [
+          "視線の順序",
+          "整列と余白",
+          "文字の読みやすさ",
+          "グレースケールでの区別",
+          "既存見本との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "maturity-step-cards",
+      "name": "三段階の成熟度",
+      "direction": "maturity",
+      "elements": 3,
+      "element_kind": "stages",
+      "information_density": "medium",
+      "tags": [
+        "成熟度",
+        "階段",
+        "段階",
+        "発展"
+      ],
+      "use_when": [
+        "三段階の変化を高さの異なるカードで説明する"
+      ],
+      "cautions": [
+        "要素数3は段階数。カードの高さは金額・期間・達成率ではない。順序の根拠を原稿で確認する。",
+        "色・書体は顧客キットに合わせ、ダミー文言を正式原稿に差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/maturity-step-cards/preview.svg",
+          "sha256": "39776e139681cfd6d11456f056a4025c6a454579198e48b0a9de7869f384e0a3"
+        },
+        "png": {
+          "path": "assets/design-patterns/maturity-step-cards/preview.png",
+          "sha256": "e19b3de45e84566b4f2c4cb3450475fe756de2abc12bf5c5900ccd3c1825a842"
+        }
+      },
+      "source": {
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260331/20260331594691.pdf",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/step",
+        "description": "モンスターラボ 事業計画／デジタル化の段階。SLIDELAND掲載画像を画面で確認。",
+        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "カードの底辺と内部の余白が揃い、高さで段階を表現できる。",
+        "checks": [
+          "視線の順序",
+          "整列と余白",
+          "文字の読みやすさ",
+          "グレースケールでの区別",
+          "既存見本との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "timeline-alternating",
+      "name": "上下に説明を配した年表",
+      "direction": "timeline",
+      "elements": 5,
+      "element_kind": "milestones",
+      "tags": [
+        "年表",
+        "沿革",
+        "時系列",
+        "上下"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "上下に説明を配した年表必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はmilestones。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/timeline-alternating/preview.svg",
+          "sha256": "4538b6b498ce069711191c9731282da2d5f78ab82c850578c6816099de9bdbf4"
+        },
+        "png": {
+          "path": "assets/design-patterns/timeline-alternating/preview.png",
+          "sha256": "1c537c7eee7fdd4815219e7b62df92df6c6fc89225c81ba327b3b9aca6be531e"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/flow",
+        "description": "アップルワールドの沿革：時点と説明を上下に分ける配置",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/flow"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "circle-sequence",
+      "name": "円でつなぐ五つの手順",
+      "direction": "process",
+      "elements": 5,
+      "element_kind": "steps",
+      "tags": [
+        "手順",
+        "円",
+        "接続",
+        "横並び"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "円でつなぐ五つの手順必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はsteps。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/circle-sequence/preview.svg",
+          "sha256": "887b3e0615120b4a484dc9d8699981c2140eb2ac1c54e288fffef89c1d764f0a"
+        },
+        "png": {
+          "path": "assets/design-patterns/circle-sequence/preview.png",
+          "sha256": "874d65320e1eb0e0a1ccf3c02866829eaf059d047b09f6d38ef225637bd7d0e6"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/flow",
+        "description": "アイザックの採用プロセス：横一列の円と接続",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/flow"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "vertical-numbered-steps",
+      "name": "縦に読む五段階のプロセス",
+      "direction": "process",
+      "elements": 5,
+      "element_kind": "steps",
+      "tags": [
+        "縦型",
+        "手順",
+        "番号",
+        "説明"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "縦に読む五段階のプロセス必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はsteps。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/vertical-numbered-steps/preview.svg",
+          "sha256": "5e40c213c025f908346b4e871648a3416f30964d73d73a0830203e4e30567ee3"
+        },
+        "png": {
+          "path": "assets/design-patterns/vertical-numbered-steps/preview.png",
+          "sha256": "b1792294765cd1209d5407fb8b3b93976f3be0eb6431877f5c03d19639c8ba9f"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/vertical-flow",
+        "description": "unnameの選考フロー：縦の番号と説明の整列",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/vertical-flow"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "swimlane-handoffs",
+      "name": "担当者ごとの業務と引き継ぎ",
+      "direction": "process",
+      "elements": 3,
+      "element_kind": "lanes",
+      "tags": [
+        "担当者",
+        "役割",
+        "業務",
+        "引き継ぎ",
+        "スイムレーン"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "担当者ごとの業務と引き継ぎ必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はlanes。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/swimlane-handoffs/preview.svg",
+          "sha256": "3d713e14d072ca430b2db535f8b4ef8147bb60d68177cb1567abbb6e4f41a43f"
+        },
+        "png": {
+          "path": "assets/design-patterns/swimlane-handoffs/preview.png",
+          "sha256": "166e067dc43b8b78cc62b4d6fc4dd90ac36effc1229b9d4ce3c1bcc456b73a73"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "decision-two-branches",
+      "name": "条件から選ぶ判断フロー",
+      "direction": "decision",
+      "elements": 2,
+      "element_kind": "outcomes",
+      "tags": [
+        "判断",
+        "条件",
+        "分岐",
+        "選択"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "条件から選ぶ判断フロー必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はoutcomes。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/decision-two-branches/preview.svg",
+          "sha256": "5871c8aa83433fedf1c236994ed86d2dd6b96150bd50f9b892259c244f770ae7"
+        },
+        "png": {
+          "path": "assets/design-patterns/decision-two-branches/preview.png",
+          "sha256": "05e4ba481def7bcc18090ec8dff9372e34129cf22581422f25b98425253e7791"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "cause-decomposition",
+      "name": "結果から原因を分解する",
+      "direction": "causality",
+      "elements": 3,
+      "element_kind": "branches",
+      "tags": [
+        "原因",
+        "分解",
+        "ロジックツリー",
+        "因果"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "結果から原因を分解する必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はbranches。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cause-decomposition/preview.svg",
+          "sha256": "55444039f30e4fc5f03bb8be8389f458a25e9e41b1127ec6be78793a00991232"
+        },
+        "png": {
+          "path": "assets/design-patterns/cause-decomposition/preview.png",
+          "sha256": "6fa5c8d65de0f9592c91e6a07cf5181aef217d2238a3719f9b29d198d7fb381a"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "honeycomb-capabilities",
+      "name": "隣接する六つの機能領域",
+      "direction": "group",
+      "elements": 6,
+      "element_kind": "domains",
+      "tags": [
+        "ハニカム",
+        "機能",
+        "隣接",
+        "六角形"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "隣接する六つの機能領域必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はdomains。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/honeycomb-capabilities/preview.svg",
+          "sha256": "b676d03a5438dfd21d705fef9d20f6e47794881c8a479d7fc1659dbd3d4c4265"
+        },
+        "png": {
+          "path": "assets/design-patterns/honeycomb-capabilities/preview.png",
+          "sha256": "74d4387efd10ae6c52acd5ad4b7a6d03a729888bff02cc7c0ad7923090cc7e0b"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/puzzle",
+        "description": "ROUTE06の事業構成：六角形の隣接によるグループ化",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/puzzle"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "equation-drivers",
+      "name": "成果を生む二つの変数",
+      "direction": "equation",
+      "elements": 2,
+      "element_kind": "factors",
+      "tags": [
+        "掛け算",
+        "要因分解",
+        "成果",
+        "数式"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "成果を生む二つの変数必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はfactors。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/equation-drivers/preview.svg",
+          "sha256": "da516d8d6bd2663002651b046e50de8032eb79b9ea8057ca7a4fad26139932d5"
+        },
+        "png": {
+          "path": "assets/design-patterns/equation-drivers/preview.png",
+          "sha256": "2a8c0b2269d396f51c747b962659514e7952a3e081a089b32ecfdaa5fd506ffc"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/cross",
+        "description": "うるるの成長戦略：変数の掛け算と下段の施策",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/cross"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "equation-combination",
+      "name": "三つの要素を組み合わせる",
+      "direction": "equation",
+      "elements": 3,
+      "element_kind": "factors",
+      "tags": [
+        "足し算",
+        "組み合わせ",
+        "統合",
+        "数式"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "三つの要素を組み合わせる必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はfactors。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/equation-combination/preview.svg",
+          "sha256": "359c854bcf990340ae601014db05679bf8cc202fc032f66ae520405576a2b322"
+        },
+        "png": {
+          "path": "assets/design-patterns/equation-combination/preview.png",
+          "sha256": "ab3aaee5e3ffff02d2df3938c42a1845f1640980edd944f717a8d306ec63cce3"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "gantt-workstreams",
+      "name": "四つの施策を並行して進める",
+      "direction": "schedule",
+      "elements": 4,
+      "element_kind": "workstreams",
+      "tags": [
+        "ガント",
+        "スケジュール",
+        "並行",
+        "期間"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "四つの施策を並行して進める必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はworkstreams。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/gantt-workstreams/preview.svg",
+          "sha256": "7f23d20cfccea5f68083a80a89a1fb01b770e8d9fcf0522042d1cb52148d90cf"
+        },
+        "png": {
+          "path": "assets/design-patterns/gantt-workstreams/preview.png",
+          "sha256": "c8c218f5a92f9b0fc56b46222d14f5994aff4657273c8a1f2b4dbb26ca9d2fad"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/gantt-chart",
+        "description": "ZOZOの物流拠点計画：項目と時間軸の整列",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/gantt-chart"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "phase-gate-timeline",
+      "name": "工程と判断のタイミング",
+      "direction": "schedule",
+      "elements": 4,
+      "element_kind": "phases",
+      "tags": [
+        "工程",
+        "ゲート",
+        "マイルストーン",
+        "審査"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "工程と判断のタイミング必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はphases。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/phase-gate-timeline/preview.svg",
+          "sha256": "c50c2c81f2cc8f88e79f935900a4b2dfc7ea0699d42522e1e0493bc0b0389c22"
+        },
+        "png": {
+          "path": "assets/design-patterns/phase-gate-timeline/preview.png",
+          "sha256": "34966fecea330517f13fe92e48bb0b9f25027a50070f5c016f2fe1d968cc2b2d"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "isometric-layer-stack",
+      "name": "三層の土台と成果",
+      "direction": "layer",
+      "elements": 3,
+      "element_kind": "layers",
+      "tags": [
+        "立体",
+        "レイヤー",
+        "土台",
+        "積層"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "三層の土台と成果必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はlayers。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/isometric-layer-stack/preview.svg",
+          "sha256": "cc3b0a87c78b6e68831e914f423f94db7bdaa2e816699d8cee625c12237fae84"
+        },
+        "png": {
+          "path": "assets/design-patterns/isometric-layer-stack/preview.png",
+          "sha256": "0f80532e2cf1602440f5e2937fc0256d60b1a5088f76093ff5f0d68054fbbc1d"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/layer",
+        "description": "キカガクの環境設計：積層図と対応する説明",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/layer"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "architecture-stack",
+      "name": "共通基盤で支える機能群",
+      "direction": "layer",
+      "elements": 3,
+      "element_kind": "layers",
+      "tags": [
+        "システム",
+        "基盤",
+        "アーキテクチャ",
+        "構成"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "共通基盤で支える機能群必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はlayers。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/architecture-stack/preview.svg",
+          "sha256": "bec9f6baca2dd6a1b9f5e829d3759421b08f6663fb0ff90c2a882e45da3f3694"
+        },
+        "png": {
+          "path": "assets/design-patterns/architecture-stack/preview.png",
+          "sha256": "574ddf8d3855b04bbc2029399509729c80146bfd1985b75b82cc7197e2c61e3d"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "triangle-balance",
+      "name": "三つの視点でバランスをとる",
+      "direction": "relationship",
+      "elements": 3,
+      "element_kind": "domains",
+      "tags": [
+        "トライアングル",
+        "バランス",
+        "視点"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "三つの視点でバランスをとる必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はdomains。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/triangle-balance/preview.svg",
+          "sha256": "07c784b6f28f54936ac1f47cfb45ab3049b17abf5bf82c93ca2f130daa70cdcc"
+        },
+        "png": {
+          "path": "assets/design-patterns/triangle-balance/preview.png",
+          "sha256": "de1ad56157bdc14291c22a0cba60765b95482df3396a0af61243aade6db3fdbd"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/triangle",
+        "description": "MEEMの価値創造モデル：三点の関係と中央メッセージ",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/triangle"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "quadrant-strategies",
+      "name": "四象限に整理する戦略",
+      "direction": "matrix",
+      "elements": 4,
+      "element_kind": "quadrants",
+      "tags": [
+        "四象限",
+        "SWOT",
+        "戦略",
+        "分類"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "四象限に整理する戦略必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はquadrants。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/quadrant-strategies/preview.svg",
+          "sha256": "960d32d75af49607f5075d8955fd8422a5b14528c951ab818f9fc2855e8b21fd"
+        },
+        "png": {
+          "path": "assets/design-patterns/quadrant-strategies/preview.png",
+          "sha256": "f9074b0c464600d947f0eaf2ef69c549fff17215edff03229c21f6fdf51fed7d"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "priority-impact-effort",
+      "name": "効果と負荷で優先順位を決める",
+      "direction": "matrix",
+      "elements": 2,
+      "element_kind": "axes",
+      "tags": [
+        "優先順位",
+        "効果",
+        "負荷",
+        "施策"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "効果と負荷で優先順位を決める必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はaxes。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/priority-impact-effort/preview.svg",
+          "sha256": "c531511d62949fa7eb9a7cbbbf33f0a698e6b44509d95abc517b5a27c7a513d6"
+        },
+        "png": {
+          "path": "assets/design-patterns/priority-impact-effort/preview.png",
+          "sha256": "8366eb064a217e8ad002ef8e82696cb3368609374913116fe8f27bd0ec98773f"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "parallel-process-compare",
+      "name": "二つの進め方を比較する",
+      "direction": "comparison",
+      "elements": 2,
+      "element_kind": "alternatives",
+      "tags": [
+        "並行比較",
+        "開発工程",
+        "違い",
+        "プロセス"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "二つの進め方を比較する必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はalternatives。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/parallel-process-compare/preview.svg",
+          "sha256": "455b2e9dfa6bba5d9be4f47297b49a16b2c1484fe676adc4ed151e84dbbff89c"
+        },
+        "png": {
+          "path": "assets/design-patterns/parallel-process-compare/preview.png",
+          "sha256": "80037b28abf76a900992cb99201e65d5bbd0be02be77b1edda7c8adbf02dbee8"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/contrast",
+        "description": "KYOSOUの開発比較：同じ工程を上下で対応",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/contrast"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "nested-scope",
+      "name": "全体・対象・重点の範囲",
+      "direction": "scope",
+      "elements": 3,
+      "element_kind": "scopes",
+      "tags": [
+        "入れ子",
+        "対象範囲",
+        "全体",
+        "重点"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "全体・対象・重点の範囲必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はscopes。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/nested-scope/preview.svg",
+          "sha256": "46aea8e4969beaa6053ec763d7a70710b7e94590a57f6e0a3071e49376434eea"
+        },
+        "png": {
+          "path": "assets/design-patterns/nested-scope/preview.png",
+          "sha256": "7af41731068a6150520b8b272ff9f809f7fa5c85e69956036c67120bd786dbe4"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "ranking-gap",
+      "name": "二つの順位の差を見せる",
+      "direction": "ranking",
+      "elements": 2,
+      "element_kind": "rankings",
+      "tags": [
+        "ランキング",
+        "順位",
+        "差",
+        "ギャップ"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "二つの順位の差を見せる必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はrankings。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/ranking-gap/preview.svg",
+          "sha256": "b1f842f827e8458ce2b6fd0a634380f3468b4d631e2e2b2e17d0e44d1c7d41c0"
+        },
+        "png": {
+          "path": "assets/design-patterns/ranking-gap/preview.png",
+          "sha256": "d1fc1d50f0fd172731a7f684bbee66fe1ba1ec986606c929c8795fb54270c96f"
+        }
+      },
+      "source": {
+        "url": "https://www.slideland.tech/docs/schematic/ranking",
+        "description": "estieの市場比較：二つの順位の隔たりを強調",
+        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
+        "kind": "reference_adaptation",
+        "discovery_url": "https://www.slideland.tech/docs/schematic/ranking"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "ranked-bars",
+      "name": "順位と大きさを同時に示す",
+      "direction": "ranking",
+      "elements": 5,
+      "element_kind": "items",
+      "tags": [
+        "ランキング",
+        "横棒",
+        "順位",
+        "規模"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "順位と大きさを同時に示す必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はitems。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/ranked-bars/preview.svg",
+          "sha256": "e5bf3c4239379868c67234a7304470277559731769134678f654406dc69c54a9"
+        },
+        "png": {
+          "path": "assets/design-patterns/ranked-bars/preview.png",
+          "sha256": "4796aac78bbdb90ddef91a798ce726be5d099d7bce5c73b567e13bea783d431a"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "donut-breakdown",
+      "name": "全体と四つの内訳",
+      "direction": "composition",
+      "elements": 4,
+      "element_kind": "segments",
+      "tags": [
+        "構成比",
+        "内訳",
+        "ドーナツ",
+        "割合"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "全体と四つの内訳必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はsegments。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/donut-breakdown/preview.svg",
+          "sha256": "0b7b1cdaca31b83fc414336467fcad7daa34543ee1899498d2f464a9ecfdac44"
+        },
+        "png": {
+          "path": "assets/design-patterns/donut-breakdown/preview.png",
+          "sha256": "a3f04986743a78af4b8cb601c0fea1849773ece7177cfa4c451ddc3e17dcf043"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "waterfall-change",
+      "name": "増減の要因と最終結果",
+      "direction": "change",
+      "elements": 5,
+      "element_kind": "bars",
+      "tags": [
+        "増減",
+        "要因",
+        "ウォーターフォール",
+        "差分"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "増減の要因と最終結果必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はbars。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/waterfall-change/preview.svg",
+          "sha256": "74914023df79ca4658c1aec03870541c2db4fc955797ad95cc6e2392b9b5014e"
+        },
+        "png": {
+          "path": "assets/design-patterns/waterfall-change/preview.png",
+          "sha256": "83c083951d46d9c0a0efd94c53f11c4a0bc704b7c00b54bcb19cc0edd692f99e"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "stakeholder-exchange",
+      "name": "関係者間の価値の交換",
+      "direction": "relationship",
+      "elements": 3,
+      "element_kind": "actors",
+      "tags": [
+        "取引",
+        "ビジネスモデル",
+        "交換",
+        "関係者"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "関係者間の価値の交換必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はactors。図の関係と矢印の方向を原稿に合わせる。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/stakeholder-exchange/preview.svg",
+          "sha256": "95173e7b2d5e13a7e78dd5731dc15b34f9e166e2ac05d75a6bc22e6853b14a88"
+        },
+        "png": {
+          "path": "assets/design-patterns/stakeholder-exchange/preview.png",
+          "sha256": "374251b6178bcc855d13fa505cbf83abf55bbc300e225e28f59e9fa687e22018"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "journey-touchpoints",
+      "name": "体験の流れと改善ポイント",
+      "direction": "journey",
+      "elements": 5,
+      "element_kind": "stages",
+      "tags": [
+        "カスタマージャーニー",
+        "接点",
+        "感情",
+        "改善"
+      ],
+      "information_density": "medium",
+      "use_when": [
+        "体験の流れと改善ポイント必要があるとき"
+      ],
+      "cautions": [
+        "要素数の単位はstages。図の関係と矢印の方向を原稿に合わせる。数値・面積・長さ・座標・曲線はダミー。実データまたは調査結果から再計算する。",
+        "ブランドの色・書体・固定領域を優先し、ダミー文言を正式原稿へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/journey-touchpoints/preview.svg",
+          "sha256": "232b6167fafd4ccfde09e5827d75bf01c49127de791b1bac89aaeec4efef37fd"
+        },
+        "png": {
+          "path": "assets/design-patterns/journey-touchpoints/preview.png",
+          "sha256": "797f334d91ab4fe52817439906a36b784e902231b6646148601970ad67b6b588"
+        }
+      },
+      "source": {
+        "url": null,
+        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
+        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
+        "rights_status": "今回作成したSVG。外部画像は使用していない。",
+        "kind": "original_supplement"
+      },
+      "curation": {
+        "status": "accepted",
+        "review_date": "2026-09-28",
+        "reason": "関係を表す接続・整列・余白を優先し、白黒でも用途が読み取れる。既存とは要素の関係または配置が異なる。",
+        "checks": [
+          "全24件PNG目視",
+          "文字と接続の干渉",
+          "階層と余白",
+          "既存との差"
+        ]
+      },
+      "version": 1
+    },
+    {
+      "id": "capability-domain-capsules",
+      "name": "専門性と領域の掛け合わせ",
+      "direction": "equation",
+      "elements": 2,
+      "element_kind": "専門性の群",
+      "information_density": "medium",
+      "tags": [
+        "掛け合わせ",
+        "専門性",
+        "カプセル",
+        "対称"
+      ],
+      "use_when": [
+        "左右の項目群を中央の二つの強みに集約して掛け合わせる。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-4fbf9908-a102-43bc-aa44-7b9625cbc891.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "左右の項目群を中央の二つの強みに集約して掛け合わせる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/capability-domain-capsules/preview.svg",
+          "sha256": "f1123071cc8cb0859bd0b2e1a49582a32e111b2cfea45495fd1da1db39eda788"
+        },
+        "png": {
+          "path": "assets/design-patterns/capability-domain-capsules/preview.png",
+          "sha256": "48dca5a2d2ef5786ee0dc8c7ec9a6da5312224c2e70bc001d70af2b98edc5375"
+        }
+      }
+    },
+    {
+      "id": "dual-lens-contrast",
+      "name": "白い交差部を持つ二円",
+      "direction": "overlap",
+      "elements": 2,
+      "element_kind": "評価軸",
+      "information_density": "low",
+      "tags": [
+        "二軸",
+        "レンズ",
+        "評価",
+        "白黒"
+      ],
+      "use_when": [
+        "二つの評価軸や相補的な価値を、明暗と白い交差部で示す。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-45a335c0-3abe-439e-a57a-2a0670ca2457.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "二つの評価軸や相補的な価値を、明暗と白い交差部で示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/dual-lens-contrast/preview.svg",
+          "sha256": "18c9c56afdeafdecb3395d67cc379e2c61fc7e6b846ef4b096577b265ad9036d"
+        },
+        "png": {
+          "path": "assets/design-patterns/dual-lens-contrast/preview.png",
+          "sha256": "640f1f01971c4bdbfd654db55a025f3275e8115d313bca3fda2f54c57bd2c711"
+        }
+      }
+    },
+    {
+      "id": "three-factor-circles",
+      "name": "三つの円による掛け合わせ",
+      "direction": "equation",
+      "elements": 3,
+      "element_kind": "因子",
+      "information_density": "low",
+      "tags": [
+        "三要素",
+        "円",
+        "掛け算",
+        "横並び"
+      ],
+      "use_when": [
+        "三つの独立要素を同じ重みで並べ、掛け合わせの構造を見せる。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-65526d11-c8fe-4338-b5e4-a03f80dd1891.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "三つの独立要素を同じ重みで並べ、掛け合わせの構造を見せる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/three-factor-circles/preview.svg",
+          "sha256": "7a1c47291986efaf76d4e4dadd44e24df9d82f59f7759d6a4c8237380b4ffc0a"
+        },
+        "png": {
+          "path": "assets/design-patterns/three-factor-circles/preview.png",
+          "sha256": "86deaef90ca69fed7396d18c65c83351bf6085a7f4662f1fcfe61d32ba8aa636"
+        }
+      }
+    },
+    {
+      "id": "platform-expansion-arches",
+      "name": "共通基盤から広がる同心アーチ",
+      "direction": "expansion",
+      "elements": 6,
+      "element_kind": "周辺領域",
+      "information_density": "medium",
+      "tags": [
+        "同心円",
+        "アーチ",
+        "基盤",
+        "事業拡張"
+      ],
+      "use_when": [
+        "共通基盤と周辺の六領域を、下端から広がる同心円で示す。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-b82e442a-bba6-4abe-8225-1937bcbf99e5.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "共通基盤と周辺の六領域を、下端から広がる同心円で示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/platform-expansion-arches/preview.svg",
+          "sha256": "9e2c78617e5ea4c24c0603f6c0ce789ac1c4d8bf7bbd9cbc3abed9941d860c9e"
+        },
+        "png": {
+          "path": "assets/design-patterns/platform-expansion-arches/preview.png",
+          "sha256": "c15b042a882f5648b58792d4a52bcf8384786514d0baebac07a9d21ac20cb72e"
+        }
+      }
+    },
+    {
+      "id": "five-orbit-explainer",
+      "name": "五機能の軌道と右側解説",
+      "direction": "relationship",
+      "elements": 5,
+      "element_kind": "周辺機能",
+      "information_density": "high",
+      "tags": [
+        "ハブ",
+        "五機能",
+        "解説",
+        "軌道"
+      ],
+      "use_when": [
+        "中心となる仕組み、五つの周辺機能、機能別の説明を一画面で示す。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-b7faba31-f971-49c3-b414-aa9377569075.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "中心となる仕組み、五つの周辺機能、機能別の説明を一画面で示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/five-orbit-explainer/preview.svg",
+          "sha256": "45c505bc23f4e975ce3fcf351ab8c6407a25d5852b404b770c14cd1b0e209fca"
+        },
+        "png": {
+          "path": "assets/design-patterns/five-orbit-explainer/preview.png",
+          "sha256": "73fcb8637d6f67d8b9797cee653739ad2d21286b8a41f0d1fc0b6e4faa96e4f7"
+        }
+      }
+    },
+    {
+      "id": "portfolio-curved-list",
+      "name": "大きな核と曲線状の事業一覧",
+      "direction": "organization",
+      "elements": 8,
+      "element_kind": "事業組織",
+      "information_density": "high",
+      "tags": [
+        "グループ",
+        "事業一覧",
+        "分社",
+        "関連領域"
+      ],
+      "use_when": [
+        "グループの核から複数の事業を並べ、一部の関連領域を右側に展開する。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-6458d31b-17aa-4540-9ad7-a613a2052c75.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "グループの核から複数の事業を並べ、一部の関連領域を右側に展開する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/portfolio-curved-list/preview.svg",
+          "sha256": "48afe42c516f07a298b0c945579377415dfffe77fa0c4f661afd93438fd8a423"
+        },
+        "png": {
+          "path": "assets/design-patterns/portfolio-curved-list/preview.png",
+          "sha256": "81923745b74fe8c45e000a4e21658a2c1b8903b39749b8a5c00f50ce02effadd"
+        }
+      }
+    },
+    {
+      "id": "category-inventory-grid",
+      "name": "カテゴリ別の可変幅タイル",
+      "direction": "group",
+      "elements": 7,
+      "element_kind": "カテゴリ",
+      "information_density": "high",
+      "tags": [
+        "技術スタック",
+        "棚卸し",
+        "タイル",
+        "ロゴ一覧"
+      ],
+      "use_when": [
+        "カテゴリの項目数に合わせて幅を変え、道具や技術の一覧を整然と見せる。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-fb47a8ce-a4b3-43fe-b552-5bac70f3e089.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "カテゴリの項目数に合わせて幅を変え、道具や技術の一覧を整然と見せる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/category-inventory-grid/preview.svg",
+          "sha256": "c9f28a1856a3f42c4908c36f69d70d5ac839d4c3cea59e1bf2f7dea25d867043"
+        },
+        "png": {
+          "path": "assets/design-patterns/category-inventory-grid/preview.png",
+          "sha256": "e9818c834ccf8bcee05f6713e90c97a97649565dd09c0b99fd049037238a0f33"
+        }
+      }
+    },
+    {
+      "id": "dual-business-service-map",
+      "name": "二領域とサービスの配置図",
+      "direction": "composition",
+      "elements": 2,
+      "element_kind": "事業領域",
+      "information_density": "high",
+      "tags": [
+        "事業モデル",
+        "サービスマップ",
+        "バリューチェーン"
+      ],
+      "use_when": [
+        "二つの事業領域の中で、工程ごとにサービスを配置する。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-45a5aa6a-fcfe-4d77-a437-2f130a948d11.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "二つの事業領域の中で、工程ごとにサービスを配置する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/dual-business-service-map/preview.svg",
+          "sha256": "bc79df0ecc5030387c83b7d855b57fad080925c296d3cb66c1f28264ebfbccd8"
+        },
+        "png": {
+          "path": "assets/design-patterns/dual-business-service-map/preview.png",
+          "sha256": "bbec2a35fbc48542743dd6e84cd512dadac1bb03d9bac88d140e8790108a28ec"
+        }
+      }
+    },
+    {
+      "id": "clustered-team-fields",
+      "name": "四つの領域に広がるチーム群",
+      "direction": "organization",
+      "elements": 4,
+      "element_kind": "役割の群",
+      "information_density": "medium",
+      "tags": [
+        "クラスター",
+        "役割",
+        "チーム",
+        "円群"
+      ],
+      "use_when": [
+        "上下関係ではなく、役割のまとまりと共通の目的で組織を表現する。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-5ff1325c-dd6c-4acb-b80d-55383e9b53e1.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "上下関係ではなく、役割のまとまりと共通の目的で組織を表現する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/clustered-team-fields/preview.svg",
+          "sha256": "bfa00ae286836ca18c34ade2962dd81cf7ab974aaff6963c5fc2a9bef0f0b540"
+        },
+        "png": {
+          "path": "assets/design-patterns/clustered-team-fields/preview.png",
+          "sha256": "78c29811836e0644ca910df60b0d8adc9bcc65b336df033328de2a799e5172bf"
+        }
+      }
+    },
+    {
+      "id": "paired-reduction-bars",
+      "name": "二指標の削減比較",
+      "direction": "comparison",
+      "elements": 2,
+      "element_kind": "比較指標",
+      "information_density": "low",
+      "tags": [
+        "削減",
+        "導入前後",
+        "時間",
+        "費用"
+      ],
+      "use_when": [
+        "時間と費用など二つの改善効果を、揃えた比較パネルで示す。"
+      ],
+      "cautions": [
+        "数値はダミー。実データでは各パネルの棒の高さを同じ尺度で計算し直す。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-cfbb5a27-935c-4035-96e7-f4d2f9df30cf.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "時間と費用など二つの改善効果を、揃えた比較パネルで示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/paired-reduction-bars/preview.svg",
+          "sha256": "5a059d6a44ac5e77dfe2244037ff069e46bfadb73744979fa37e75a43563de09"
+        },
+        "png": {
+          "path": "assets/design-patterns/paired-reduction-bars/preview.png",
+          "sha256": "749d3c617582844dcaa72296b9eec2c2e240f56b9922ff4f70aa80ac31919b3d"
+        }
+      }
+    },
+    {
+      "id": "paired-market-nesting",
+      "name": "二市場の包含と現在地",
+      "direction": "scope",
+      "elements": 2,
+      "element_kind": "市場",
+      "information_density": "medium",
+      "tags": [
+        "市場規模",
+        "シェア",
+        "二市場",
+        "包含"
+      ],
+      "use_when": [
+        "二つの対象について、全体・対象範囲・現在の規模を同じ構図で比較する。"
+      ],
+      "cautions": [
+        "円は包含関係の模式図。面積比を表すものではない。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-c1814821-d89d-497e-9371-203c30a8b098.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "二つの対象について、全体・対象範囲・現在の規模を同じ構図で比較する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/paired-market-nesting/preview.svg",
+          "sha256": "7e2804c26a3a6939e8d7621452e28075758153f6c21bcc78b5f4f8b8f66e9a83"
+        },
+        "png": {
+          "path": "assets/design-patterns/paired-market-nesting/preview.png",
+          "sha256": "93f30d1454ab92bb3d150eccecbe23e9f0613c0d703c53b479b50c842aff93d1"
+        }
+      }
+    },
+    {
+      "id": "market-expansion-ripples",
+      "name": "市場へ広がる波紋と矢印",
+      "direction": "expansion",
+      "elements": 3,
+      "element_kind": "拡張段階",
+      "information_density": "low",
+      "tags": [
+        "市場",
+        "拡張",
+        "波紋",
+        "矢印"
+      ],
+      "use_when": [
+        "現在の領域から外側の市場へ広がる意志を、包含円と放射方向で示す。"
+      ],
+      "cautions": [
+        "円は模式図。市場規模の面積比とは分けて扱う。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-e922e99e-9e9d-48d9-beef-27c62137775b.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "現在の領域から外側の市場へ広がる意志を、包含円と放射方向で示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/market-expansion-ripples/preview.svg",
+          "sha256": "0634a5fd5dd452746c0c3956efa987e0f406ed564c605a237eec9ff86ee27184"
+        },
+        "png": {
+          "path": "assets/design-patterns/market-expansion-ripples/preview.png",
+          "sha256": "376b2db8ee50075da195bd76456f2b55910afb3018c7c12ddbcb3370c4f61178"
+        }
+      }
+    },
+    {
+      "id": "market-scale-editorial",
+      "name": "大きな数値と裁ち落とし市場図",
+      "direction": "scope",
+      "elements": 3,
+      "element_kind": "市場の階層",
+      "information_density": "low",
+      "tags": [
+        "TAM",
+        "SAM",
+        "SOM",
+        "数値",
+        "裁ち落とし"
+      ],
+      "use_when": [
+        "大きな市場機会を余白と数値の強弱で印象づけ、現在地へ視線を導く。"
+      ],
+      "cautions": [
+        "円は面積比を示さない。裁ち落としを使うため、固定ロゴやフッターの位置を確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-7cc0211a-fc40-4555-8f25-5827a36fbb8b.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "大きな市場機会を余白と数値の強弱で印象づけ、現在地へ視線を導く。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/market-scale-editorial/preview.svg",
+          "sha256": "3e469bf87497be24bb2027d52078ec912eb2e9fe49f28968a3bd296af7ab7ab6"
+        },
+        "png": {
+          "path": "assets/design-patterns/market-scale-editorial/preview.png",
+          "sha256": "5bb53b8a6008edb9fe223d589ac1d425e2bd58045365c60a90835ec5404873de"
+        }
+      }
+    },
+    {
+      "id": "three-axes-review-cycle",
+      "name": "三つの観点と運用の解説",
+      "direction": "relationship",
+      "elements": 3,
+      "element_kind": "評価の観点",
+      "information_density": "high",
+      "tags": [
+        "評価",
+        "三軸",
+        "運用",
+        "サイクル",
+        "解説"
+      ],
+      "use_when": [
+        "三つの観点を左にまとめ、判断基準と運用時期を右側で説明する。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-34fa368c-4314-4743-9a49-bca68b310ed0.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "三つの観点を左にまとめ、判断基準と運用時期を右側で説明する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/three-axes-review-cycle/preview.svg",
+          "sha256": "3c9cf3acd07b5ddf1f649c0a5bcda0f0c26853d2a3ec172424f30271b8d09e94"
+        },
+        "png": {
+          "path": "assets/design-patterns/three-axes-review-cycle/preview.png",
+          "sha256": "9ceac5b489e56d8be07a7161ec5a994a740cf49004c9520f54c40d1d0a6a1bea"
+        }
+      }
+    },
+    {
+      "id": "continuous-phase-panels",
+      "name": "可変幅の連続工程パネル",
+      "direction": "process",
+      "elements": 4,
+      "element_kind": "工程",
+      "information_density": "medium",
+      "tags": [
+        "連続パネル",
+        "期間",
+        "採用",
+        "工程"
+      ],
+      "use_when": [
+        "工程ごとの説明量に応じて幅を変え、最後の段階を濃色で示す。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-d3fb4d97-a06e-40e9-a841-c1ebb2ce474f.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "工程ごとの説明量に応じて幅を変え、最後の段階を濃色で示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/continuous-phase-panels/preview.svg",
+          "sha256": "67e5c8dd62ccbd6c28bac2e29bfc51a2e8a7563676b2cedd57dd33a14f4cc6e2"
+        },
+        "png": {
+          "path": "assets/design-patterns/continuous-phase-panels/preview.png",
+          "sha256": "7da2792b8244b5c2f6cb5ac9fa52540bd2df76d8415e4725c56cb59469b3205d"
+        }
+      }
+    },
+    {
+      "id": "vertical-seven-stages",
+      "name": "縦書きの七段階プロセス",
+      "direction": "process",
+      "elements": 7,
+      "element_kind": "工程",
+      "information_density": "high",
+      "tags": [
+        "縦書き",
+        "七段階",
+        "採用",
+        "任意工程"
+      ],
+      "use_when": [
+        "七つの短い工程名を縦書きで並べ、補足説明を下に揃える。"
+      ],
+      "cautions": [
+        "縦書き見出しは短くする。点線の工程は任意・条件付きなどの意味を原稿で定義する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-9ffd4518-ae38-45b7-a444-66243a88ab4d.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "七つの短い工程名を縦書きで並べ、補足説明を下に揃える。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/vertical-seven-stages/preview.svg",
+          "sha256": "d1d0b9c81d6e8d846edfa0a7b601e6a1506bbdff1d85e4b5dab46f77ad5dc4f3"
+        },
+        "png": {
+          "path": "assets/design-patterns/vertical-seven-stages/preview.png",
+          "sha256": "2a8b95f9a4138e388414be61fa771c31bb69183ac77d1e99a51cc93b4a81eb4f"
+        }
+      }
+    },
+    {
+      "id": "device-journey-cards",
+      "name": "スマホ画面を使う四段階ガイド",
+      "direction": "process",
+      "elements": 4,
+      "element_kind": "工程",
+      "information_density": "medium",
+      "tags": [
+        "スマホ",
+        "操作ガイド",
+        "画面",
+        "UX",
+        "手順"
+      ],
+      "use_when": [
+        "操作の流れを画面例と短い説明で示す。"
+      ],
+      "cautions": [
+        "スマホ内はダミーの画面。実制作では実画面や必要な機能に置き換える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-96ed4a09-3ab9-4a70-b24e-dcb1c8d20dba.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "操作の流れを画面例と短い説明で示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/device-journey-cards/preview.svg",
+          "sha256": "073a43a79ae15260a62b00362501c0531da5b7e654754475cf5410155ab739ed"
+        },
+        "png": {
+          "path": "assets/design-patterns/device-journey-cards/preview.png",
+          "sha256": "5a7f1d70d5629db547a5165340ffb1b9b7774289b90b21b4cf70b0843c55a659"
+        }
+      }
+    },
+    {
+      "id": "numbered-illustration-columns",
+      "name": "大きな番号と図を添えた工程",
+      "direction": "process",
+      "elements": 4,
+      "element_kind": "工程",
+      "information_density": "high",
+      "tags": [
+        "大番号",
+        "イラスト",
+        "説明",
+        "手順"
+      ],
+      "use_when": [
+        "大きな段階番号、説明文、小さな図の三層で四段階を読み進める。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-a81fd5df-60a4-47ea-a21f-a1aa238d972d.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "大きな段階番号、説明文、小さな図の三層で四段階を読み進める。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/numbered-illustration-columns/preview.svg",
+          "sha256": "c49ea9087d270bebba425d3540b63b8edb5089990deca513e4a3c66ad80875b5"
+        },
+        "png": {
+          "path": "assets/design-patterns/numbered-illustration-columns/preview.png",
+          "sha256": "89e4c201b375e0ef482893edb9cc09731eb5f034fa91cb83381809014d8d2e90"
+        }
+      }
+    },
+    {
+      "id": "phase-owner-delivery-flow",
+      "name": "フェーズと担当を揃える八工程",
+      "direction": "process",
+      "elements": 8,
+      "element_kind": "工程",
+      "information_density": "high",
+      "tags": [
+        "担当",
+        "開発",
+        "企画",
+        "QA",
+        "フェーズ"
+      ],
+      "use_when": [
+        "八工程を二つのフェーズに分け、各工程の担当を最下段に揃える。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-af5f6ed9-bfdf-47b8-8d14-6839c455d095.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "八工程を二つのフェーズに分け、各工程の担当を最下段に揃える。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/phase-owner-delivery-flow/preview.svg",
+          "sha256": "3b17e3a922aaeec8e0589689abc0c382f62dd7fa895da4f365e8a4596ffe52c6"
+        },
+        "png": {
+          "path": "assets/design-patterns/phase-owner-delivery-flow/preview.png",
+          "sha256": "6472259c9b31c9ee464ed611c95aa2bd46be5ebc7de62c7b2749edff320367b9"
+        }
+      }
+    },
+    {
+      "id": "chevron-duration-notes",
+      "name": "五段階の矢羽と期間・補足",
+      "direction": "process",
+      "elements": 5,
+      "element_kind": "工程",
+      "information_density": "low",
+      "tags": [
+        "矢羽",
+        "期間",
+        "補足",
+        "採用",
+        "流れ"
+      ],
+      "use_when": [
+        "五段階の全体像を簡潔に示し、所要期間と補足を下に配置する。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-0c13675b-f616-4c4b-8f6f-77e75448d7ac.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "五段階の全体像を簡潔に示し、所要期間と補足を下に配置する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/chevron-duration-notes/preview.svg",
+          "sha256": "959ceca48b2801729968feba37a4bd8435a3fd9bd031ec1d6a06c2d339db7767"
+        },
+        "png": {
+          "path": "assets/design-patterns/chevron-duration-notes/preview.png",
+          "sha256": "1c7917665f2758bba9d3327a032cffbb937327620b44823250e079f5ad53d0ea"
+        }
+      }
+    },
+    {
+      "id": "journey-service-coverage",
+      "name": "顧客段階と支援範囲のマップ",
+      "direction": "journey",
+      "elements": 5,
+      "element_kind": "顧客段階",
+      "information_density": "high",
+      "tags": [
+        "支援範囲",
+        "営業",
+        "マーケティング",
+        "サービス",
+        "横断"
+      ],
+      "use_when": [
+        "五つの顧客段階に対し、複数の支援領域がどこをカバーするか示す。"
+      ],
+      "cautions": [
+        "要素数や文章量を変える場合は、間隔と文字サイズを再調整する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-5967f896-a835-47c8-adea-9328bd5881c6.png",
+        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
+        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "五つの顧客段階に対し、複数の支援領域がどこをカバーするか示す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/journey-service-coverage/preview.svg",
+          "sha256": "c6b8455b0dc37aeda913a0dc1e9e0dc0111c5ea5f272b75e9543355176b7865c"
+        },
+        "png": {
+          "path": "assets/design-patterns/journey-service-coverage/preview.png",
+          "sha256": "229939ab3c0f1d6a6085159c6422300137ac4743c876e221abf9efb91861997d"
+        }
+      }
+    },
+    {
+      "id": "cover-brand-watermark",
+      "name": "大型ロゴの透かし表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "ロゴ",
+        "透かし",
+        "ブランド",
+        "単色"
+      ],
+      "use_when": [
+        "背景の大型シンボルと広い余白でブランドの印象を残す。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-e2b7debb-b341-4171-aadc-72637183855b.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "背景の大型シンボルと広い余白でブランドの印象を残す。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-brand-watermark/preview.svg",
+          "sha256": "15aff3186d9d38cc237916286a1d290d6b219567a5cf3c5492de3eabe69be982"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-brand-watermark/preview.png",
+          "sha256": "4e7ccb411eeb35800eb7dd2e6eab9c96e13c03914919a40f42691f628a36a5c9"
+        }
+      }
+    },
+    {
+      "id": "cover-giant-type-background",
+      "name": "巨大英字を背景にした表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "英語",
+        "巨大文字",
+        "透かし",
+        "グラデーション"
+      ],
+      "use_when": [
+        "主題を伝える日本語の背後に、大型英字のリズムをつくる。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-119d7b72-63d3-41bb-a4e7-88b7e3751ab8.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "主題を伝える日本語の背後に、大型英字のリズムをつくる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-giant-type-background/preview.svg",
+          "sha256": "13eb25b7ad493c17d99938f464a04e6ffd29229fee4eaa145335e799fe42de66"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-giant-type-background/preview.png",
+          "sha256": "83817aa497f2f6d306c47aba5bce87a6be7081a6ecbfa1239af7dea48fb702df"
+        }
+      }
+    },
+    {
+      "id": "cover-soft-gradient",
+      "name": "大きな英字と柔らかなグラデーション",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "グラデーション",
+        "英語",
+        "事業紹介"
+      ],
+      "use_when": [
+        "大きな英語見出しと明暗のゆるやかな変化で、奥行きをつくる。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-0e60ea8c-1d81-45f4-a30d-04e432fb37cf.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "大きな英語見出しと明暗のゆるやかな変化で、奥行きをつくる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-soft-gradient/preview.svg",
+          "sha256": "81c89bad0c68fd18bb7eb1b487f1a7e3f647024bb3dbbdf8320dd62fb5ddb358"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-soft-gradient/preview.png",
+          "sha256": "cdebf76414b44e12fc2bd2e3ef8abf9839c8ea4618f9eb7739aef9b67217fb02"
+        }
+      }
+    },
+    {
+      "id": "cover-grain-light",
+      "name": "光と粒子のグラデーション表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "グラデーション",
+        "ノイズ",
+        "光",
+        "英語"
+      ],
+      "use_when": [
+        "粒子の質感と細めの大きな文字で、静かな奥行きを見せる。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-1d1a126e-a548-4213-986a-6d41ae77e5c4.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "粒子の質感と細めの大きな文字で、静かな奥行きを見せる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-grain-light/preview.svg",
+          "sha256": "67546f8fb5dfc3f0705127f2563c7f02e4d801f93388ada3e3979947024dc0df"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-grain-light/preview.png",
+          "sha256": "2b1a7d019bb6891fdbd77eb71e9eaf3603d0fbbcf03a7673d39d57448e2f895b"
+        }
+      }
+    },
+    {
+      "id": "cover-minimal-solid",
+      "name": "単色と余白のミニマル表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "シンプル",
+        "単色",
+        "ミニマル",
+        "英語"
+      ],
+      "use_when": [
+        "単色の背景と少数の文字だけで、主題を大きく見せる。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-87b2fb3b-eb83-4da8-b97f-ace8934e15fe.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "単色の背景と少数の文字だけで、主題を大きく見せる。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-minimal-solid/preview.svg",
+          "sha256": "aad83497e234bf626d8e74c615d2b1b7538e719194b8d6d7a2c3741be8dd87f3"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-minimal-solid/preview.png",
+          "sha256": "9a123b03cc21d5bd7523942c4de61ffcaf3015ac6eb3dff080febddd3f223c7d"
+        }
+      }
+    },
+    {
+      "id": "cover-talk-keyword",
+      "name": "背景キーワードの登壇表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "登壇",
+        "発表",
+        "日本語",
+        "キーワード",
+        "単色"
+      ],
+      "use_when": [
+        "発表タイトルと登壇者情報を、背景の大きなキーワードで支える。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-3a76d677-bd29-473f-bbb3-811b2fdf2fe6.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "発表タイトルと登壇者情報を、背景の大きなキーワードで支える。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-talk-keyword/preview.svg",
+          "sha256": "190bdf85b618b477bb166c9f77fb94a0b52e3b92df71cb3bcd4f2ea43fcdb075"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-talk-keyword/preview.png",
+          "sha256": "11f80f467840c5e878a2d28465d5b5e9c500adef67db8d09f8fbdc35d30818bc"
+        }
+      }
+    },
+    {
+      "id": "cover-speaker-white",
+      "name": "余白と登壇者情報の白い表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "登壇",
+        "白",
+        "シンプル",
+        "プロフィール"
+      ],
+      "use_when": [
+        "白い余白を広く取り、タイトルと登壇者の情報を整理する。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-ae8d0c27-39e5-427e-ae82-7422739210f5.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "白い余白を広く取り、タイトルと登壇者の情報を整理する。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-speaker-white/preview.svg",
+          "sha256": "32393ae3e20eb9fa6da0898d5f6f3706a7de048b92dfddada0f33dbbdd64c7bd"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-speaker-white/preview.png",
+          "sha256": "ed818212ea5254cdda2cd90f4d297c1d6a4615c04389fcd0c0ba0c4a767809e3"
+        }
+      }
+    },
+    {
+      "id": "cover-photo-industrial",
+      "name": "写真背景と大きな英字の表紙",
+      "direction": "cover",
+      "elements": 1,
+      "element_kind": "表紙",
+      "information_density": "low",
+      "tags": [
+        "表紙",
+        "写真",
+        "背景",
+        "英語",
+        "会社紹介"
+      ],
+      "use_when": [
+        "写真が伝える空気感を生かし、明暗補正で大きなタイトルを読みやすくする。"
+      ],
+      "cautions": [
+        "ダミーロゴ・文言・日付は正式な素材へ差し替える。",
+        "色と書体は顧客キットに合わせ、背景と文字のコントラストを確認する。",
+        "背景は生成した架空の写真。顧客の実際の施設・実績を表す素材として使わない。実制作では承認済み写真へ差し替える。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "source": {
+        "url": null,
+        "user_supplied_image": "codex-clipboard-6c26dead-2993-4cd1-b2fd-c3d20193d596.png",
+        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
+        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。 背景写真はimagegenで新規生成した架空の工場内観。SVG内に埋め込み。",
+        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
+      },
+      "curation": {
+        "reason": "写真が伝える空気感を生かし、明暗補正で大きなタイトルを読みやすくする。"
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/cover-photo-industrial/preview.svg",
+          "sha256": "9a0c1bee28139c63cd03bfdb1b813553c5894de78b09b7e126d8e4a434b93e54"
+        },
+        "png": {
+          "path": "assets/design-patterns/cover-photo-industrial/preview.png",
+          "sha256": "86bcb1ea6099b84a12d127e47d86e1741ed0abe85ed2d177bb28844234bf30c3"
+        }
+      }
+    }
+  ]
+}

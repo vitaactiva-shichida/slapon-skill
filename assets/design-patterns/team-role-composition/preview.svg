@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="職種別チーム構成"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">ここにチーム体制の見出しを入力</text>
+<text x="800" y="204" font-size="39" fill="#333333" font-weight="700" text-anchor="middle">複数の職種を組み合わせたチーム構成</text>
+<rect x="645" y="248" width="310" height="57" rx="6" fill="#eeeeee"/><text x="800.0" y="284.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle">チーム責任者</text>
+<path d="M800 305 V346" fill="none" stroke="#888888" stroke-width="2"/>
+<rect x="70" y="346" width="1460" height="56" rx="6" fill="#eeeeee"/><text x="800.0" y="382.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle">チーム全体：XX名</text>
+<rect x="70" y="412" width="200" height="51" rx="6" fill="#999999"/><text x="170.0" y="446.25" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">グループ A</text>
+<rect x="280" y="412" width="830" height="51" rx="6" fill="#777777"/><text x="695.0" y="446.25" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">グループ B</text>
+<rect x="1120" y="412" width="410" height="51" rx="6" fill="#555555"/><text x="1325.0" y="446.25" font-size="25" fill="#ffffff" font-weight="600" text-anchor="middle">グループ C</text>
+<rect x="70" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="170.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 01</text>
+<rect x="70" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="170.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="127" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="127" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M114 700 Q114 686 127 686 Q140 686 140 700 Z" fill="#bbbbbb"/>
+<circle cx="214" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="214" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M201 700 Q201 686 214 686 Q227 686 227 700 Z" fill="#bbbbbb"/>
+<circle cx="127" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="127" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M114 759 Q114 745 127 745 Q140 745 140 759 Z" fill="#bbbbbb"/>
+<circle cx="214" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="214" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M201 759 Q201 745 214 745 Q227 745 227 759 Z" fill="#bbbbbb"/>
+<rect x="280" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="380.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 02</text>
+<rect x="280" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="380.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="337" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="337" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M324 700 Q324 686 337 686 Q350 686 350 700 Z" fill="#bbbbbb"/>
+<circle cx="424" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="424" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M411 700 Q411 686 424 686 Q437 686 437 700 Z" fill="#bbbbbb"/>
+<circle cx="337" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="337" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M324 759 Q324 745 337 745 Q350 745 350 759 Z" fill="#bbbbbb"/>
+<rect x="490" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="590.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 03</text>
+<rect x="490" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="590.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="547" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="547" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M534 700 Q534 686 547 686 Q560 686 560 700 Z" fill="#bbbbbb"/>
+<circle cx="634" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="634" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M621 700 Q621 686 634 686 Q647 686 647 700 Z" fill="#bbbbbb"/>
+<circle cx="547" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="547" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M534 759 Q534 745 547 745 Q560 745 560 759 Z" fill="#bbbbbb"/>
+<circle cx="634" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="634" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M621 759 Q621 745 634 745 Q647 745 647 759 Z" fill="#bbbbbb"/>
+<circle cx="547" cy="803" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="547" cy="796" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M534 818 Q534 804 547 804 Q560 804 560 818 Z" fill="#bbbbbb"/>
+<rect x="700" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="800.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 04</text>
+<rect x="700" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="800.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="757" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="757" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M744 700 Q744 686 757 686 Q770 686 770 700 Z" fill="#bbbbbb"/>
+<rect x="910" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="1010.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 05</text>
+<rect x="910" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="1010.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="967" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="967" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M954 700 Q954 686 967 686 Q980 686 980 700 Z" fill="#bbbbbb"/>
+<circle cx="1054" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1054" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1041 700 Q1041 686 1054 686 Q1067 686 1067 700 Z" fill="#bbbbbb"/>
+<rect x="1120" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="1220.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 06</text>
+<rect x="1120" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="1220.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="1177" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1177" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1164 700 Q1164 686 1177 686 Q1190 686 1190 700 Z" fill="#bbbbbb"/>
+<circle cx="1264" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1264" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1251 700 Q1251 686 1264 686 Q1277 686 1277 700 Z" fill="#bbbbbb"/>
+<rect x="1330" y="474" width="200" height="81" rx="6" fill="#333333"/><text x="1430.0" y="522.9" font-size="24" fill="#ffffff" font-weight="600" text-anchor="middle">職種 07</text>
+<rect x="1330" y="558" width="200" height="75" rx="6" fill="#eeeeee"/><text x="1430.0" y="605.65" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">XX名</text>
+<circle cx="1387" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1387" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1374 700 Q1374 686 1387 686 Q1400 686 1400 700 Z" fill="#bbbbbb"/>
+<circle cx="1474" cy="685" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1474" cy="678" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1461 700 Q1461 686 1474 686 Q1487 686 1487 700 Z" fill="#bbbbbb"/>
+<circle cx="1387" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1387" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1374 759 Q1374 745 1387 745 Q1400 745 1400 759 Z" fill="#bbbbbb"/>
+<circle cx="1474" cy="744" r="24" fill="#f0f0f0" stroke="none" stroke-width="2"/>
+<circle cx="1474" cy="737" r="7" fill="#bbbbbb" stroke="none" stroke-width="2"/>
+<path d="M1461 759 Q1461 745 1474 745 Q1487 745 1487 759 Z" fill="#bbbbbb"/>
+<text x="1510" y="860" font-size="18" fill="#999999" font-weight="400" text-anchor="end">人数・人物アイコンはダミー</text>
+</g></svg>

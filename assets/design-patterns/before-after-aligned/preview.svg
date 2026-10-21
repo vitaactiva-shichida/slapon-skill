@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="三項目で比較するビフォーアフター"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="65" font-size="18" fill="#888888" font-weight="600" text-anchor="start">TRANSFORMATION</text>
+<text x="80" y="135" font-size="39" fill="#292929" font-weight="700" text-anchor="start">変化の前後を、同じ観点で比較する</text>
+<text x="80" y="185" font-size="22" fill="#777777" font-weight="400" text-anchor="start">ここに変化の概要を記載します。比較軸を揃えて、違いを明確にします。</text>
+<rect x="310" y="264" width="495" height="463" rx="6" fill="#f3f3f3"/><text x="557.5" y="503.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<rect x="932" y="264" width="588" height="463" rx="6" fill="#e8e8e8"/><text x="1226.0" y="503.55" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<text x="557" y="321" font-size="25" fill="#888888" font-weight="600" text-anchor="middle">BEFORE</text>
+<text x="1226" y="321" font-size="25" fill="#444444" font-weight="700" text-anchor="middle">AFTER</text>
+<path d="M838 498 H902" fill="none" stroke="#777777" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="87" y="406" font-size="23" fill="#666666" font-weight="600" text-anchor="start">比較軸 01</text>
+<rect x="335" y="359" width="445" height="86" rx="6" fill="#ffffff"/><text x="557.5" y="410.75" font-size="25" fill="#777777" font-weight="600" text-anchor="middle">現在の状態 01</text>
+<rect x="958" y="359" width="536" height="86" rx="6" fill="#ffffff"/><text x="1226.0" y="410.75" font-size="25" fill="#333333" font-weight="600" text-anchor="middle">目指す状態 01</text>
+<text x="87" y="517" font-size="23" fill="#666666" font-weight="600" text-anchor="start">比較軸 02</text>
+<rect x="335" y="470" width="445" height="86" rx="6" fill="#ffffff"/><text x="557.5" y="521.75" font-size="25" fill="#777777" font-weight="600" text-anchor="middle">現在の状態 02</text>
+<rect x="958" y="470" width="536" height="86" rx="6" fill="#ffffff"/><text x="1226.0" y="521.75" font-size="25" fill="#333333" font-weight="600" text-anchor="middle">目指す状態 02</text>
+<text x="87" y="628" font-size="23" fill="#666666" font-weight="600" text-anchor="start">比較軸 03</text>
+<rect x="335" y="581" width="445" height="86" rx="6" fill="#ffffff"/><text x="557.5" y="632.75" font-size="25" fill="#777777" font-weight="600" text-anchor="middle">現在の状態 03</text>
+<rect x="958" y="581" width="536" height="86" rx="6" fill="#ffffff"/><text x="1226.0" y="632.75" font-size="25" fill="#333333" font-weight="600" text-anchor="middle">目指す状態 03</text>
+<path d="M80 787 H1520" fill="none" stroke="#dddddd" stroke-width="2"/>
+<text x="80" y="835" font-size="21" fill="#333333" font-weight="700" text-anchor="start">要点</text>
+<text x="160" y="835" font-size="24" fill="#666666" font-weight="400" text-anchor="start">変化によって得られる価値を、一文で記載します。</text>
+</g></svg>

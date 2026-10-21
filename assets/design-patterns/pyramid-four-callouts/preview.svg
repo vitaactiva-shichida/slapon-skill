@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="四層ピラミッドと両側の解説"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">理念から実行へ、四つの階層を示す</text>
+<polygon points="880.0,220.0 880.0,220.0 960.0,362.25 800.0,362.25" fill="#555555"/>
+<text x="880" y="332.125" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 01</text>
+<polygon points="800.0,366.25 960.0,366.25 1040.0,508.5 720.0,508.5" fill="#777777"/>
+<text x="880" y="455.375" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 02</text>
+<polygon points="720.0,512.5 1040.0,512.5 1120.0,654.75 640.0,654.75" fill="#999999"/>
+<text x="880" y="601.625" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 03</text>
+<polygon points="640.0,658.75 1120.0,658.75 1200.0,801.0 560.0,801.0" fill="#bbbbbb"/>
+<text x="880" y="747.875" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 04</text>
+<rect x="70" y="360" width="420" height="60" rx="6" fill="#dddddd"/><text x="280.0" y="398.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle">ここに目指す姿を入力</text>
+<path d="M490 390 L640 657" fill="none" stroke="#999999" stroke-width="2"/>
+<text x="85" y="473" font-size="27" fill="#555555" font-weight="700" text-anchor="start">ここに説明の見出し</text>
+<text x="85" y="522" font-size="22" fill="#666666" font-weight="400" text-anchor="start">各階層のつながりや、</text>
+<text x="85" y="558" font-size="22" fill="#666666" font-weight="400" text-anchor="start">全体として目指す状態を</text>
+<text x="85" y="594" font-size="22" fill="#666666" font-weight="400" text-anchor="start">ここに短く説明します。</text>
+<path d="M936 337 L1010 286 H1450" fill="none" stroke="#999999" stroke-width="2"/>
+<text x="1130" y="274" font-size="27" fill="#444444" font-weight="700" text-anchor="start">説明ポイント 01</text>
+<text x="1140" y="331" font-size="20" fill="#666666" font-weight="400" text-anchor="start">ここに要点を記載します。</text>
+<text x="1140" y="367" font-size="20" fill="#666666" font-weight="400" text-anchor="start">役割や目的を補足します。</text>
+<path d="M1021 497 L1080 446 H1450" fill="none" stroke="#999999" stroke-width="2"/>
+<text x="1130" y="434" font-size="27" fill="#444444" font-weight="700" text-anchor="start">説明ポイント 02</text>
+<text x="1140" y="491" font-size="20" fill="#666666" font-weight="400" text-anchor="start">ここに要点を記載します。</text>
+<text x="1140" y="527" font-size="20" fill="#666666" font-weight="400" text-anchor="start">役割や目的を補足します。</text>
+</g></svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">4段階のプロセス・グレースケール</title><desc id="desc">連続する矢印と4枚の説明カード。文字と画像はダミー。</desc>
+<defs>
+<linearGradient id="ribbon"><stop stop-color="#bdbdbd"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+<linearGradient id="image" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eeeeee"/><stop offset="1" stop-color="#d5d5d5"/></linearGradient>
+<filter id="shadow" x="-20%" y="-10%" width="140%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity=".08"/></filter>
+</defs>
+<g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif">
+<rect width="1600" height="900" fill="#ffffff"/>
+<path d="M0 368 L1600 116 V888 L0 673 Z" fill="url(#ribbon)"/>
+<circle cx="80" cy="67" r="13" fill="#6a6a6a"/><path d="M77 62 L82 67 L77 72" fill="none" stroke="#ffffff" stroke-width="2"/>
+<text x="105" y="75" fill="#656565" font-size="22" font-weight="600" letter-spacing="1">ダミーカテゴリー</text>
+<text x="80" y="151" fill="#292929" font-size="46" font-weight="700" letter-spacing="-1">ここに4つのステップを示すタイトル</text>
+
+<path d="M65 205 H431 L461 240 L431 275 H65 L95 240 Z" fill="#aaaaaa"/>
+<text x="270" y="248" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="1">STEP 01</text>
+<path d="M431 205 H797 L827 240 L797 275 H431 L461 240 Z" fill="#858585"/>
+<text x="636" y="248" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="1">STEP 02</text>
+<path d="M797 205 H1163 L1193 240 L1163 275 H797 L827 240 Z" fill="#616161"/>
+<text x="1002" y="248" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="1">STEP 03</text>
+<path d="M1163 205 H1529 L1559 240 L1529 275 H1163 L1193 240 Z" fill="#383838"/>
+<text x="1368" y="248" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="1">STEP 04</text>
+<g id="step-1">
+<rect x="104" y="303" width="286" height="511" rx="2" fill="#ffffff" filter="url(#shadow)"/>
+<rect x="122" y="322" width="250" height="163" fill="url(#image)"/>
+<g fill="none" stroke="#b2b2b2" stroke-width="2">
+<rect x="227" y="368" width="40" height="30" rx="3"/>
+<circle cx="255" cy="377" r="3"/>
+<path d="M229 394 L241 382 L250 390 L256 385 L265 395"/>
+</g>
+<text x="247" y="433" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#929292">IMAGE 01</text>
+<g text-anchor="middle" font-size="29" font-weight="700" fill="#333333">
+<text x="247" y="538">ここに見出しを</text><text x="247" y="580">入力します</text>
+</g>
+<path d="M226 608 H268" stroke="#d0d0d0" stroke-width="2"/>
+<g font-size="21" fill="#707070">
+<text x="138" y="654">ここに説明文が入ります。</text>
+<text x="138" y="688">この段階で行うことや、</text>
+<text x="138" y="722">伝えたいポイントを短く</text>
+<text x="138" y="756">まとめて記載します。</text>
+</g></g>
+<path d="M423 530 L440 544 L423 558 Z" fill="#555555"/>
+<g id="step-2">
+<rect x="469" y="303" width="286" height="511" rx="2" fill="#ffffff" filter="url(#shadow)"/>
+<rect x="487" y="322" width="250" height="163" fill="url(#image)"/>
+<g fill="none" stroke="#b2b2b2" stroke-width="2">
+<rect x="592" y="368" width="40" height="30" rx="3"/>
+<circle cx="620" cy="377" r="3"/>
+<path d="M594 394 L606 382 L615 390 L621 385 L630 395"/>
+</g>
+<text x="612" y="433" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#929292">IMAGE 02</text>
+<g text-anchor="middle" font-size="29" font-weight="700" fill="#333333">
+<text x="612" y="538">ここに見出しを</text><text x="612" y="580">入力します</text>
+</g>
+<path d="M591 608 H633" stroke="#d0d0d0" stroke-width="2"/>
+<g font-size="21" fill="#707070">
+<text x="503" y="654">ここに説明文が入ります。</text>
+<text x="503" y="688">この段階で行うことや、</text>
+<text x="503" y="722">伝えたいポイントを短く</text>
+<text x="503" y="756">まとめて記載します。</text>
+</g></g>
+<path d="M788 530 L805 544 L788 558 Z" fill="#555555"/>
+<g id="step-3">
+<rect x="834" y="303" width="286" height="511" rx="2" fill="#ffffff" filter="url(#shadow)"/>
+<rect x="852" y="322" width="250" height="163" fill="url(#image)"/>
+<g fill="none" stroke="#b2b2b2" stroke-width="2">
+<rect x="957" y="368" width="40" height="30" rx="3"/>
+<circle cx="985" cy="377" r="3"/>
+<path d="M959 394 L971 382 L980 390 L986 385 L995 395"/>
+</g>
+<text x="977" y="433" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#929292">IMAGE 03</text>
+<g text-anchor="middle" font-size="29" font-weight="700" fill="#333333">
+<text x="977" y="538">ここに見出しを</text><text x="977" y="580">入力します</text>
+</g>
+<path d="M956 608 H998" stroke="#d0d0d0" stroke-width="2"/>
+<g font-size="21" fill="#707070">
+<text x="868" y="654">ここに説明文が入ります。</text>
+<text x="868" y="688">この段階で行うことや、</text>
+<text x="868" y="722">伝えたいポイントを短く</text>
+<text x="868" y="756">まとめて記載します。</text>
+</g></g>
+<path d="M1153 530 L1170 544 L1153 558 Z" fill="#555555"/>
+<g id="step-4">
+<rect x="1199" y="303" width="286" height="511" rx="2" fill="#ffffff" filter="url(#shadow)"/>
+<rect x="1217" y="322" width="250" height="163" fill="url(#image)"/>
+<g fill="none" stroke="#b2b2b2" stroke-width="2">
+<rect x="1322" y="368" width="40" height="30" rx="3"/>
+<circle cx="1350" cy="377" r="3"/>
+<path d="M1324 394 L1336 382 L1345 390 L1351 385 L1360 395"/>
+</g>
+<text x="1342" y="433" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3" fill="#929292">IMAGE 04</text>
+<g text-anchor="middle" font-size="29" font-weight="700" fill="#333333">
+<text x="1342" y="538">ここに見出しを</text><text x="1342" y="580">入力します</text>
+</g>
+<path d="M1321 608 H1363" stroke="#d0d0d0" stroke-width="2"/>
+<g font-size="21" fill="#707070">
+<text x="1233" y="654">ここに説明文が入ります。</text>
+<text x="1233" y="688">この段階で行うことや、</text>
+<text x="1233" y="722">伝えたいポイントを短く</text>
+<text x="1233" y="756">まとめて記載します。</text>
+</g></g>
+<text x="80" y="864" fill="#999999" font-size="15">プロセスの説明 ／ テキスト・画像はダミー</text><text x="1520" y="864" text-anchor="end" fill="#999999" font-family="Arial,Helvetica,sans-serif" font-size="15">02</text></g></svg>

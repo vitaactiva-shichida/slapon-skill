@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="強調列のある比較表・ダミー"><defs><filter id="shadow" x="-30%" y="-10%" width="160%" height="125%"><feDropShadow dx="0" dy="7" stdDeviation="14" flood-color="#000000" flood-opacity=".12"/></filter></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif">
+<rect width="1600" height="900" fill="#ffffff"/>
+<g transform="translate(0 -70) scale(1 .96)">
+<rect x="450" y="210" width="1060" height="684" fill="#f3f3f3"/>
+<rect x="450" y="210" width="1060" height="84" fill="#bdbdbd"/>
+<rect x="450" y="186" width="265" height="708" fill="#ffffff" filter="url(#shadow)"/>
+<rect x="450" y="186" width="265" height="108" fill="#383838"/>
+<text x="582.5" y="263" font-size="34" fill="#ffffff" text-anchor="middle" font-weight="600">プラン A</text>
+<text x="847.5" y="263" font-size="27" fill="#ffffff" text-anchor="middle" font-weight="600">プラン B</text>
+<text x="1112.5" y="263" font-size="27" fill="#ffffff" text-anchor="middle" font-weight="600">プラン C</text>
+<text x="1377.5" y="263" font-size="27" fill="#ffffff" text-anchor="middle" font-weight="600">プラン D</text>
+<rect x="466.5" y="157" width="232" height="48" rx="24" fill="#dddddd"/>
+<text x="582.5" y="190" font-size="22" fill="#333333" text-anchor="middle" font-weight="700">注目ポイント</text>
+<path d="M90 294 H1510" stroke="#444444" stroke-width="3"/>
+<text x="115" y="366" font-size="27" fill="#353535" text-anchor="start" font-weight="600">ダミー項目 01</text>
+<text x="582.5" y="366" font-size="29" fill="#444444" text-anchor="middle" font-weight="400">00,000</text>
+<text x="847.5" y="366" font-size="29" fill="#999999" text-anchor="middle" font-weight="400">00,000</text>
+<text x="1112.5" y="366" font-size="29" fill="#999999" text-anchor="middle" font-weight="400">00,000</text>
+<text x="1377.5" y="366" font-size="29" fill="#999999" text-anchor="middle" font-weight="400">00,000</text>
+<path d="M90 414 H1510" stroke="#d4d4d4" stroke-width="2"/>
+<text x="115" y="486" font-size="27" fill="#353535" text-anchor="start" font-weight="600">ダミー項目 02</text>
+<circle cx="582.5" cy="474" r="18" fill="#454545"/><path d="M573.5 473 L580.5 480 L592.5 467" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="847.5" cy="474" r="18" fill="#bdbdbd"/><path d="M838.5 473 L845.5 480 L857.5 467" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1112.5" cy="474" r="18" fill="#bdbdbd"/><path d="M1103.5 473 L1110.5 480 L1122.5 467" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1377.5" y="482" font-size="30" fill="#b0b0b0" text-anchor="middle" font-weight="400">–</text>
+<path d="M90 534 H1510" stroke="#d4d4d4" stroke-width="2"/>
+<text x="115" y="606" font-size="27" fill="#353535" text-anchor="start" font-weight="600">ダミー項目 03</text>
+<circle cx="582.5" cy="594" r="18" fill="#454545"/><path d="M573.5 593 L580.5 600 L592.5 587" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="847.5" cy="594" r="18" fill="#bdbdbd"/><path d="M838.5 593 L845.5 600 L857.5 587" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1112.5" y="602" font-size="30" fill="#b0b0b0" text-anchor="middle" font-weight="400">–</text>
+<text x="1377.5" y="602" font-size="30" fill="#b0b0b0" text-anchor="middle" font-weight="400">–</text>
+<path d="M90 654 H1510" stroke="#d4d4d4" stroke-width="2"/>
+<text x="115" y="726" font-size="27" fill="#353535" text-anchor="start" font-weight="600">ダミー項目 04</text>
+<circle cx="582.5" cy="714" r="18" fill="#454545"/><path d="M573.5 713 L580.5 720 L592.5 707" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="847.5" y="722" font-size="30" fill="#b0b0b0" text-anchor="middle" font-weight="400">–</text>
+<circle cx="1112.5" cy="714" r="18" fill="#bdbdbd"/><path d="M1103.5 713 L1110.5 720 L1122.5 707" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1377.5" cy="714" r="18" fill="#bdbdbd"/><path d="M1368.5 713 L1375.5 720 L1387.5 707" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M90 774 H1510" stroke="#d4d4d4" stroke-width="2"/>
+<text x="115" y="846" font-size="27" fill="#353535" text-anchor="start" font-weight="600">ダミー項目 05</text>
+<circle cx="582.5" cy="834" r="18" fill="#454545"/><path d="M573.5 833 L580.5 840 L592.5 827" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="847.5" y="842" font-size="30" fill="#b0b0b0" text-anchor="middle" font-weight="400">–</text>
+<text x="1112.5" y="842" font-size="30" fill="#b0b0b0" text-anchor="middle" font-weight="400">–</text>
+<circle cx="1377.5" cy="834" r="18" fill="#bdbdbd"/><path d="M1368.5 833 L1375.5 840 L1387.5 827" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M90 894 H1510" stroke="#555555" stroke-width="2"/>
+</g>
+<text x="90" y="858" font-size="16" fill="#999999" text-anchor="start" font-weight="400">比較表の見本 ／ 項目・数値はダミー</text>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="上下に説明を配した年表"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="80" y="65" font-size="17" fill="#888888" font-weight="600" text-anchor="start">DESIGN REFERENCE</text>
+<text x="80" y="135" font-size="40" fill="#292929" font-weight="700" text-anchor="start">上下に説明を配した年表</text>
+<text x="80" y="184" font-size="22" fill="#777777" font-weight="400" text-anchor="start">ここに伝えたいことを一文で記載します。文言・数値・配置はダミーです。</text>
+<path d="M150 501 H1460" fill="none" stroke="#aaaaaa" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M170 501 V368" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="170" cy="501" r="9" fill="#555555" stroke="none" stroke-width="2"/>
+<text x="170" y="541" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">20X0</text>
+<text x="170" y="310" font-size="27" fill="#444444" font-weight="600" text-anchor="middle">出来事 01</text>
+<text x="170" y="348" font-size="20" fill="#777777" font-weight="400" text-anchor="middle">ここに説明を入力</text>
+<path d="M465 501 V583" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="465" cy="501" r="9" fill="#555555" stroke="none" stroke-width="2"/>
+<text x="465" y="541" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">20X1</text>
+<text x="465" y="638" font-size="27" fill="#444444" font-weight="600" text-anchor="middle">出来事 02</text>
+<text x="465" y="676" font-size="20" fill="#777777" font-weight="400" text-anchor="middle">ここに説明を入力</text>
+<path d="M760 501 V368" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="760" cy="501" r="9" fill="#555555" stroke="none" stroke-width="2"/>
+<text x="760" y="541" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">20X2</text>
+<text x="760" y="310" font-size="27" fill="#444444" font-weight="600" text-anchor="middle">出来事 03</text>
+<text x="760" y="348" font-size="20" fill="#777777" font-weight="400" text-anchor="middle">ここに説明を入力</text>
+<path d="M1055 501 V583" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="1055" cy="501" r="9" fill="#555555" stroke="none" stroke-width="2"/>
+<text x="1055" y="541" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">20X3</text>
+<text x="1055" y="638" font-size="27" fill="#444444" font-weight="600" text-anchor="middle">出来事 04</text>
+<text x="1055" y="676" font-size="20" fill="#777777" font-weight="400" text-anchor="middle">ここに説明を入力</text>
+<path d="M1350 501 V368" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="1350" cy="501" r="9" fill="#555555" stroke="none" stroke-width="2"/>
+<text x="1350" y="541" font-size="23" fill="#555555" font-weight="600" text-anchor="middle">20X4</text>
+<text x="1350" y="310" font-size="27" fill="#444444" font-weight="600" text-anchor="middle">出来事 05</text>
+<text x="1350" y="348" font-size="20" fill="#777777" font-weight="400" text-anchor="middle">ここに説明を入力</text>
+<path d="M80 822 H1520" fill="none" stroke="#dddddd" stroke-width="1"/>
+<text x="80" y="861" font-size="18" fill="#888888" font-weight="400" text-anchor="start">時点間の距離は表示用。実際の時間間隔に合わせて調整します。</text>
+</g></svg>

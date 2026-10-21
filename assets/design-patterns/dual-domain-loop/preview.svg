@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="二つの領域を結ぶ循環"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="70" y="65" font-size="20" fill="#666666" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="800" y="143" font-size="40" fill="#222222" font-weight="700" text-anchor="middle">二つの領域をつなぐ、中心の価値を示す</text>
+<text x="800" y="202" font-size="22" fill="#666666" font-weight="400" text-anchor="middle">ここに概要の説明を入れます。両側の要素と、その接点で生まれる価値を説明します。</text>
+<circle cx="480" cy="550" r="267" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="480" y="518" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">DUMMY LABEL</text>
+<text x="480" y="571" font-size="36" fill="#333333" font-weight="700" text-anchor="middle">領域 A</text>
+<text x="480" y="620" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">ここに特徴を入力</text>
+<circle cx="1120" cy="550" r="267" fill="#ffffff" stroke="none" stroke-width="2" filter="url(#shadow)"/>
+<text x="1120" y="518" font-size="21" fill="#777777" font-weight="400" text-anchor="middle">DUMMY LABEL</text>
+<text x="1120" y="571" font-size="36" fill="#333333" font-weight="700" text-anchor="middle">領域 B</text>
+<text x="1120" y="620" font-size="29" fill="#444444" font-weight="600" text-anchor="middle">ここに特徴を入力</text>
+<circle cx="800" cy="550" r="132" fill="#303030" stroke="none" stroke-width="2"/>
+<text x="800" y="546" font-size="33" fill="#ffffff" font-weight="700" text-anchor="middle">中心の価値</text>
+<text x="800" y="583" font-size="21" fill="#eeeeee" font-weight="400" text-anchor="middle">ここに補足を入力</text>
+<path d="M922 646 A156 156 0 0 0 743 405" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M678 454 A156 156 0 0 0 855 694" fill="none" stroke="#555555" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="800" y="357" font-size="24" fill="#555555" font-weight="600" text-anchor="middle">循環する関係 A</text>
+<text x="800" y="753" font-size="24" fill="#555555" font-weight="600" text-anchor="middle">循環する関係 B</text>
+</g></svg>

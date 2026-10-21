@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="三段ファネルと効果指標"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">段階ごとの価値と、得られる効果を示す</text>
+<path d="M90.0 228 Q480 276 870.0 228 L765.0 383 Q480 421 195.0 383 Z" fill="#999999"/>
+<ellipse cx="480" cy="228" rx="390.0" ry="27" fill="#dddddd"/>
+<text x="480" y="334.0" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">段階 01</text>
+<path d="M890 257 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="263" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 1 の要点 1 を記載</text>
+<path d="M890 299 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="305" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 1 の要点 2 を記載</text>
+<path d="M890 341 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="347" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 1 の要点 3 を記載</text>
+<path d="M195.0 383 Q480 431 765.0 383 L660.0 538 Q480 576 300.0 538 Z" fill="#777777"/>
+<ellipse cx="480" cy="383" rx="285.0" ry="27" fill="#dddddd"/>
+<text x="480" y="489.0" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">段階 02</text>
+<path d="M890 412 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="418" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 2 の要点 1 を記載</text>
+<path d="M890 454 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="460" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 2 の要点 2 を記載</text>
+<path d="M890 496 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="502" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 2 の要点 3 を記載</text>
+<path d="M300.0 538 Q480 586 660.0 538 L555.0 693 Q480 731 405.0 693 Z" fill="#555555"/>
+<ellipse cx="480" cy="538" rx="180.0" ry="27" fill="#dddddd"/>
+<text x="480" y="644.0" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">段階 03</text>
+<path d="M890 567 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="573" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 3 の要点 1 を記載</text>
+<path d="M890 609 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="615" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 3 の要点 2 を記載</text>
+<path d="M890 651 H964" fill="none" stroke="#aaaaaa" stroke-width="1.5" stroke-dasharray="3 6"/>
+<text x="986" y="657" font-size="23" fill="#555555" font-weight="400" text-anchor="start">ここに段階 3 の要点 3 を記載</text>
+<path d="M70 730 H1530" fill="none" stroke="#cccccc" stroke-width="2"/>
+<circle cx="146" cy="810" r="46" fill="#ffffff" stroke="#888888" stroke-width="3"/>
+<text x="146" y="819" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">XX%</text>
+<text x="214" y="805" font-size="22" fill="#444444" font-weight="600" text-anchor="start">効果の見出し</text>
+<text x="214" y="836" font-size="18" fill="#777777" font-weight="400" text-anchor="start">ここに補足を入力</text>
+<circle cx="522" cy="810" r="46" fill="#ffffff" stroke="#888888" stroke-width="3"/>
+<text x="522" y="819" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">XX%</text>
+<text x="590" y="805" font-size="22" fill="#444444" font-weight="600" text-anchor="start">効果の見出し</text>
+<text x="590" y="836" font-size="18" fill="#777777" font-weight="400" text-anchor="start">ここに補足を入力</text>
+<circle cx="898" cy="810" r="46" fill="#ffffff" stroke="#888888" stroke-width="3"/>
+<text x="898" y="819" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">XX%</text>
+<text x="966" y="805" font-size="22" fill="#444444" font-weight="600" text-anchor="start">効果の見出し</text>
+<text x="966" y="836" font-size="18" fill="#777777" font-weight="400" text-anchor="start">ここに補足を入力</text>
+<circle cx="1274" cy="810" r="46" fill="#ffffff" stroke="#888888" stroke-width="3"/>
+<text x="1274" y="819" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">XX%</text>
+<text x="1342" y="805" font-size="22" fill="#444444" font-weight="600" text-anchor="start">効果の見出し</text>
+<text x="1342" y="836" font-size="18" fill="#777777" font-weight="400" text-anchor="start">ここに補足を入力</text>
+</g></svg>

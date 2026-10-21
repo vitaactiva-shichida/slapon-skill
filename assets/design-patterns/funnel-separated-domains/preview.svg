@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="四段の領域拡張"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<text x="65" y="65" font-size="19" fill="#777777" font-weight="600" text-anchor="start">DUMMY CATEGORY</text>
+<text x="65" y="129" font-size="38" fill="#303030" font-weight="700" text-anchor="start">積み重ねてきた領域と、これからの展開</text>
+<path d="M139.0 253 Q444 301 749.0 253 L691.5 352 Q444 390 196.5 352 Z" fill="#555555"/>
+<ellipse cx="444" cy="253" rx="305.0" ry="27" fill="#dddddd"/>
+<text x="444" y="325.4" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">領域 01</text>
+<path d="M720.25 308 H1450" fill="none" stroke="#999999" stroke-width="2"/>
+<circle cx="720.25" cy="308" r="8" fill="#777777" stroke="none" stroke-width="2"/>
+<text x="900" y="293" font-size="28" fill="#555555" font-weight="600" text-anchor="start">ここに領域 01 の説明を入力</text>
+<path d="M209.0 396 Q444 444 679.0 396 L621.5 495 Q444 533 266.5 495 Z" fill="#666666"/>
+<ellipse cx="444" cy="396" rx="235.0" ry="27" fill="#dddddd"/>
+<text x="444" y="468.4" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">領域 02</text>
+<path d="M650.25 451 H1450" fill="none" stroke="#999999" stroke-width="2"/>
+<circle cx="650.25" cy="451" r="8" fill="#777777" stroke="none" stroke-width="2"/>
+<text x="900" y="436" font-size="28" fill="#555555" font-weight="600" text-anchor="start">ここに領域 02 の説明を入力</text>
+<path d="M279.0 539 Q444 587 609.0 539 L551.5 638 Q444 676 336.5 638 Z" fill="#777777"/>
+<ellipse cx="444" cy="539" rx="165.0" ry="27" fill="#dddddd"/>
+<text x="444" y="611.4" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">領域 03</text>
+<path d="M580.25 594 H1450" fill="none" stroke="#999999" stroke-width="2"/>
+<circle cx="580.25" cy="594" r="8" fill="#777777" stroke="none" stroke-width="2"/>
+<text x="900" y="579" font-size="28" fill="#555555" font-weight="600" text-anchor="start">ここに領域 03 の説明を入力</text>
+<path d="M349.0 682 Q444 730 539.0 682 L481.5 781 Q444 819 406.5 781 Z" fill="#888888"/>
+<ellipse cx="444" cy="682" rx="95.0" ry="27" fill="#dddddd"/>
+<text x="444" y="754.4" font-size="30" fill="#ffffff" font-weight="600" text-anchor="middle">領域 04</text>
+<path d="M510.25 737 H1450" fill="none" stroke="#999999" stroke-width="2"/>
+<circle cx="510.25" cy="737" r="8" fill="#777777" stroke="none" stroke-width="2"/>
+<text x="900" y="722" font-size="28" fill="#555555" font-weight="600" text-anchor="start">ここに領域 04 の説明を入力</text>
+</g></svg>

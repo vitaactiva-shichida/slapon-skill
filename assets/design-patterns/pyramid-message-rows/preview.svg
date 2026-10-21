@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="理念体系と対応メッセージ"><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-opacity=".12"/></filter><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#777777"/></marker></defs><g font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',Meiryo,sans-serif"><rect width="1600" height="900" fill="#ffffff"/>
+<rect x="20" y="20" width="1560" height="860" fill="none" stroke="#bbbbbb" stroke-width="22"/>
+<text x="800" y="115" font-size="40" fill="#444444" font-weight="600" text-anchor="middle">ここに理念体系のタイトルを入力</text>
+<rect x="610" y="184" width="815" height="132" rx="6" fill="#f2f2f2"/><text x="1017.5" y="258.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<rect x="610" y="321" width="815" height="132" rx="6" fill="#f2f2f2"/><text x="1017.5" y="395.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<rect x="610" y="458" width="815" height="132" rx="6" fill="#f2f2f2"/><text x="1017.5" y="532.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<rect x="610" y="595" width="815" height="132" rx="6" fill="#f2f2f2"/><text x="1017.5" y="669.05" font-size="23" fill="#444444" font-weight="600" text-anchor="middle"></text>
+<polygon points="610.0,184.0 610.0,184.0 720.0,317.0 500.0,317.0" fill="#555555"/>
+<text x="610" y="291.5" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 01</text>
+<polygon points="500.0,321.0 720.0,321.0 830.0,454.0 390.0,454.0" fill="#777777"/>
+<text x="610" y="405.5" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 02</text>
+<polygon points="390.0,458.0 830.0,458.0 940.0,591.0 280.0,591.0" fill="#999999"/>
+<text x="610" y="542.5" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 03</text>
+<polygon points="280.0,595.0 940.0,595.0 1050.0,728.0 170.0,728.0" fill="#bbbbbb"/>
+<text x="610" y="679.5" font-size="29" fill="#ffffff" font-weight="600" text-anchor="middle">階層 04</text>
+<text x="1210" y="265" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">階層 01 のメッセージ</text>
+<text x="1210" y="402" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">階層 02 のメッセージ</text>
+<text x="1210" y="539" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">階層 03 のメッセージ</text>
+<text x="1210" y="676" font-size="25" fill="#555555" font-weight="600" text-anchor="middle">階層 04 のメッセージ</text>
+<text x="800" y="813" font-size="27" fill="#666666" font-weight="400" text-anchor="middle">ここに全体を結ぶメッセージを記載します。</text>
+</g></svg>
