@@ -17,6 +17,11 @@
     "width_pt": null,
     "height_pt": null
   },
+  "reconstruction_scope": {
+    "native_regions": [],
+    "svg_regions": [],
+    "image_regions": []
+  },
   "intentional_changes": [],
   "parts": [
     {
@@ -46,6 +51,8 @@
   ]
 }
 ```
+
+`reconstruction_scope`は素材制作前に記録する。各領域にID・範囲・形式を選んだ理由を含め、SVG領域は別テキストにするラベルも特定する。不要な領域は空配列でよい。実装で変われば理由とともに更新する。
 
 ### 部品の種類に応じて追加する内容
 
