@@ -3269,6 +3269,150 @@
           "sha256": "86bcb1ea6099b84a12d127e47d86e1741ed0abe85ed2d177bb28844234bf30c3"
         }
       }
+    },
+    {
+      "id": "members-three-columns",
+      "name": "3名の横並びプロフィール",
+      "direction": "people",
+      "elements": 3,
+      "element_kind": "人物",
+      "information_density": "medium",
+      "tags": [
+        "メンバー紹介",
+        "人物",
+        "プロフィール",
+        "略歴"
+      ],
+      "use_when": [
+        "写真・専門領域・紹介文を3名並べ、少人数のチームを紹介する。"
+      ],
+      "cautions": [
+        "人物・氏名・経歴は見本用。実制作では正式な写真と原稿に差し替える。",
+        "人数や文章量を変える場合は、写真と文章の領域を再設計する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/members-three-columns/preview.svg",
+          "sha256": "0b0713e9465bac154b399f1c275c9b1250967aa84ae36afa882606ea329184b5"
+        },
+        "png": {
+          "path": "assets/design-patterns/members-three-columns/preview.png",
+          "sha256": "ef50c37aa324ba7d60625bf6ea2ff5a7f8f1f9ce60e23625b44a252f5e4fd39d"
+        }
+      }
+    },
+    {
+      "id": "members-six-cards",
+      "name": "6名のプロフィールカード",
+      "direction": "people",
+      "elements": 6,
+      "element_kind": "人物",
+      "information_density": "high",
+      "tags": [
+        "メンバー紹介",
+        "人物",
+        "プロフィール",
+        "略歴"
+      ],
+      "use_when": [
+        "写真をカードの上へ重ね、6名の役職と短い紹介を一覧にする。"
+      ],
+      "cautions": [
+        "人物・氏名・経歴は見本用。実制作では正式な写真と原稿に差し替える。",
+        "人数や文章量を変える場合は、写真と文章の領域を再設計する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/members-six-cards/preview.svg",
+          "sha256": "27ccc65248b518b3a8baea935100c4fbcd56b5c3e45eeb31f0b8547246a7a12f"
+        },
+        "png": {
+          "path": "assets/design-patterns/members-six-cards/preview.png",
+          "sha256": "88184fc9ce211ccdf3d5f17560718626dcc116362ffbd0a725b502433223b53e"
+        }
+      }
+    },
+    {
+      "id": "members-four-bios",
+      "name": "4名の顔写真と略歴",
+      "direction": "people",
+      "elements": 4,
+      "element_kind": "人物",
+      "information_density": "high",
+      "tags": [
+        "メンバー紹介",
+        "人物",
+        "プロフィール",
+        "略歴"
+      ],
+      "use_when": [
+        "丸い写真と長めの略歴を組み合わせ、4名の専門性を説明する。"
+      ],
+      "cautions": [
+        "人物・氏名・経歴は見本用。実制作では正式な写真と原稿に差し替える。",
+        "人数や文章量を変える場合は、写真と文章の領域を再設計する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/members-four-bios/preview.svg",
+          "sha256": "4e5a72f4aa9fbb5b39c91f4d2f745724f930f76f46e04252365f4004f79565c8"
+        },
+        "png": {
+          "path": "assets/design-patterns/members-four-bios/preview.png",
+          "sha256": "6cf570eadd1f520a69833717eba3497f005a3bac9f705444c972de082f040b93"
+        }
+      }
+    },
+    {
+      "id": "members-seven-portraits",
+      "name": "7名のポートレート一覧",
+      "direction": "people",
+      "elements": 7,
+      "element_kind": "人物",
+      "information_density": "medium",
+      "tags": [
+        "メンバー紹介",
+        "人物",
+        "プロフィール",
+        "略歴"
+      ],
+      "use_when": [
+        "顔写真・役職・入社年・得意領域を4名＋3名の配置で一覧にする。"
+      ],
+      "cautions": [
+        "人物・氏名・経歴は見本用。実制作では正式な写真と原稿に差し替える。",
+        "人数や文章量を変える場合は、写真と文章の領域を再設計する。"
+      ],
+      "canvas": {
+        "width": 1600,
+        "height": 900
+      },
+      "version": 1,
+      "assets": {
+        "svg": {
+          "path": "assets/design-patterns/members-seven-portraits/preview.svg",
+          "sha256": "ea2f81eb7757bc8c9045f54ddbd305d7740349ac04c00d5e6df5ac5d100d22e9"
+        },
+        "png": {
+          "path": "assets/design-patterns/members-seven-portraits/preview.png",
+          "sha256": "61e01c0acd3bd5172644eb19047cabd2038d64e6c65b8fc3c5fbdb224f1add23"
+        }
+      }
     }
   ]
 }

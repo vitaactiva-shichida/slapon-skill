@@ -9,6 +9,7 @@
 | 違い・共通点 | comparison、overlap | 比較する観点と条件を揃える。重なりは実際の共通部分に対応させる |
 | 順序・経緯・計画 | process、timeline、roadmap、schedule | 順序と期間、実績と予定を分ける |
 | 全体と部分・所属 | hierarchy、organization、scope、layer、composition | 所属、包含、機能、数量の構成比を混同しない |
+| 人物の役割・専門性 | people | 人数と紹介文の長さに合う配置を選ぶ。正式な写真・氏名・経歴へ差し替え、見本の人数に固定しない |
 | 条件判断・分岐・合流 | decision、flow | 条件、接続先、分岐の意味を明示する |
 | 原因・施策・結果 | causality、equation | 根拠のある作用だけを矢印で結び、計算式の単位を揃える |
 | 相互関係・領域 | relationship、matrix、group | 中心を置く理由、二軸の定義、グループの基準を持つ |

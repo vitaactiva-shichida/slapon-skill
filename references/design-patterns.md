@@ -1,6 +1,6 @@
 # 図解見本の検索・取得・添付・照合
 
-構成を決めるとき、画像生成へ渡すとき、生成後の確認で読む。[図解の選択](diagram-guide.md)で意味の方向性を決めてから、具体的な見本を探す。現在のライブラリは表紙8種を含む80パターン。件数を制作ノルマにしない。
+構成を決めるとき、画像生成へ渡すとき、生成後の確認で読む。[図解の選択](diagram-guide.md)で意味の方向性を決めてから、具体的な見本を探す。ライブラリには表紙・図解・メンバー紹介などを収録。収録件数はカタログまたは見本一覧で確認し、件数を制作ノルマにしない。
 
 ## 1. カタログを検索する
 
@@ -14,6 +14,7 @@
 python3 scripts/find_design_patterns.py --list-directions
 python3 scripts/find_design_patterns.py --direction process --elements 4 --density medium
 python3 scripts/find_design_patterns.py --query "接点 循環"
+python3 scripts/find_design_patterns.py --direction people --elements 4
 ```
 
 条件はAND、キーワードも空白区切りのANDで検索する。`--id`はIDの完全一致、`--limit`は表示件数（通常3件）。JSONの`total`は全該当数、`results`は表示した候補。各候補には用途・要素数の意味・注意点・版・ハッシュと、確認済みの`svg_path`、画像添付用の`attachment_paths`が入る。候補なしは`total: 0`、ファイル不足やハッシュ不一致は終了コード2とエラーになる。
@@ -36,9 +37,9 @@ python3 scripts/find_design_patterns.py --id process-cards --output-dir /path/to
 
 `出力先/process-cards/`に`preview.svg`、`preview.png`、用途・注意点・版・ハッシュを保持した`pattern.json`を保存する。取得後の`svg_path`と`attachment_paths`はこの作業先を指す。`pattern.json`の`pattern`は元のカタログ記録、`files`は取り出した素材の相対パスを表す。既存ファイルが同一なら再利用し、異なる場合は上書きせず別の出力先を求める。`--output-dir`には`--id`が必須で、検索結果全件を自動コピーしない。
 
-顧客環境からGitHubへ直接アクセスする場合は、カタログだけを先に取得し、選んだIDの`assets.svg.path`と`assets.png.path`を同じ`ref`から取得する。この補助ツールを使うために、顧客へ全80パターンの保存を要求しない。接続先・使用版・必要な顧客情報の確認はローカルの入口に従う。
+顧客環境からGitHubへ直接アクセスする場合は、カタログだけを先に取得し、選んだIDの`assets.svg.path`と`assets.png.path`を同じ`ref`から取得する。この補助ツールを使うために、顧客へ全パターンの保存を要求しない。接続先・使用版・必要な顧客情報の確認はローカルの入口に従う。
 
-ライブラリ全体の整合確認は`python3 scripts/find_design_patterns.py --validate`。80件のID重複、素材の存在、SVG・PNGのハッシュ、SVG構文、PNGの寸法を確認する。取得や検証だけで、生成ツールへ添付したことにはしない。
+ライブラリ全体の整合確認は`python3 scripts/find_design_patterns.py --validate`。全件のID重複、素材の存在、SVG・PNGのハッシュ、SVG構文、PNGの寸法を確認する。取得や検証だけで、生成ツールへ添付したことにはしない。
 
 ## 3. 原稿と顧客のデザインへ適合させる
 

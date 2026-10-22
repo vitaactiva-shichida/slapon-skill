@@ -44,7 +44,7 @@ PowerPointでは、見た目と文章・数値の編集性を優先し、図解�
 
 - 表・グラフ・定量比較がある場合：[データと編集性](references/chart-integrity.md)を該当工程で読む。生成画像やSVGの見た目から数値を確定しない。
 - 写真等から文字・ラベルを分離する場合：[背景分離](references/background-separation.md)を全文読む。背景原本がある場合は再生成しない。
-- 図解見本は`runtime-lock.json`の`catalog`から候補を絞り、選んだSVG・PNGと注意点を取得する。全80パターンを毎回読み込まない。詳しくは[検索と添付](references/design-patterns.md)。
+- 図解・メンバー紹介の見本は`runtime-lock.json`の`catalog`から候補を絞り、選んだSVG・PNGと注意点を取得する。全パターンを毎回読み込まない。詳しくは[検索と添付](references/design-patterns.md)。
 
 ## 生成と採用の境界
 
