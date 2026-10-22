@@ -1,0 +1,11 @@
+{
+  "page": "section",
+  "geometry": "pages/section.svg",
+  "components": "56pxの欧文＋章番号110px＋日本語19px",
+  "variable": "章番号・章名",
+  "overflow": "原本の欧文は2行・行送り65。章名が長いなら意味の切れ目と配置を見直す。",
+  "chapter_number_color": {
+    "role": "accent",
+    "basis": "ユーザー指定：章番号はプライマリーカラー。背景に応じた見出し文字色の一括変換から除外。"
+  }
+}

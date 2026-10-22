@@ -1,0 +1,7 @@
+{
+  "page": "mission",
+  "page_type": false,
+  "components": "欧文ラベル＋大きい和文＋右の説明",
+  "variable": "主張・段落数",
+  "overflow": "長い説明は段落数と領域を整理。明朝の主張とゴシックの説明を保つ。"
+}

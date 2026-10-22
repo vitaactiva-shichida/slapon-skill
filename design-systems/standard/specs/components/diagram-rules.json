@@ -1,0 +1,97 @@
+{
+  "id": "DIAGRAM",
+  "status": "Standard再構成用の初期提案。2026-10-21の利用者指示に基づき定義。原本の精密な測定値とは区別。",
+  "canvas": [
+    1600,
+    900
+  ],
+  "spacing": {
+    "scale": [
+      8,
+      16,
+      24,
+      32,
+      40,
+      48,
+      64,
+      80
+    ],
+    "outer_margin_x": 80,
+    "card_padding_default": 24,
+    "card_padding_min_compact": 16,
+    "heading_body_gap": 16,
+    "icon_label_gap": 16,
+    "sibling_gap_default": 32,
+    "group_gap_default": 48,
+    "connector_label_clearance": 8,
+    "node_text_edge_min": 16,
+    "policy": "数値は参照px。図形・矢印・ラベルの見える輪郭すべてを含めて余白を計測。同じ階層では同じ間隔。文字が収まらないときは領域拡大・再配置・分割。"
+  },
+  "colors": {
+    "default_surface": "background",
+    "group_surface": "sub",
+    "text": "text / inkSurface",
+    "main_focus": "main",
+    "small_main_text": "primaryInk / primaryInkSurface",
+    "white_text_surface": "comparisonMain",
+    "white_text": "comparisonText",
+    "secondary_text": "muted / mutedSurface",
+    "group_boundary": "line",
+    "flow_connector": "main",
+    "relationship_connector": "muted",
+    "accent": "accent：意味のある強調1か所を基本。系列区別はseries2/3/4を使用。",
+    "policy": "同じ意味は同じ色。面積をそろえるためだけに主色やアクセントを増やさない。色だけで区別せず名前・線種も対応。状態の赤緑は別途定義なしに追加しない。"
+  },
+  "opacity": {
+    "text": 1,
+    "icons": 1,
+    "connectors": 1,
+    "semantic_surfaces": 1,
+    "decorative_fill_allowed": [
+      0.1,
+      0.2,
+      0.35
+    ],
+    "watermark_exception": {
+      "D01": 0.4,
+      "D02": 0.4
+    },
+    "policy": "淡色面はsubやconcept系の解決済み色を不透明100%で使う。装飾の透過はfill-opacityへ限定し、文字を含むグループ全体を薄くしない。重なりや背景変更で色が変わるため、透過色を意味の凡例に使わない。"
+  },
+  "style": {
+    "card_radius_default": 4,
+    "card_radius_allowed": [
+      0,
+      4
+    ],
+    "shadows": false,
+    "diagram_gradients": false,
+    "connector_width": 2,
+    "separator_width": 1,
+    "emphasis_width": 3,
+    "arrowhead_length": 8,
+    "icon_stroke": 2,
+    "icon_box_sizes": [
+      48,
+      64
+    ],
+    "circle_use": "中心・周辺・意味の補助アイコン。説明文を入れるためだけの円は作らない。",
+    "connections": "関連は線、順序・移動は矢印。交差を避け、接続点と矢印先端に触れる文字を置かない。",
+    "exceptions": "表紙・メッセージの背景グラデーションとD01・D02は個別規定。グラフはcharts.md、表はtables.mdを併用。"
+  },
+  "composition_policy": "05〜12は組み合わせ例。カード数・工程数・列数・サンプル文言は固定しない。",
+  "reference_precision": {
+    "principle": "構図と要素数は可変。重なり順・不透明な面・細い輪郭・役割色・SVGの寸法を継承する。",
+    "references": [
+      "components/layered-diagrams.md",
+      "components/process-flow.md"
+    ],
+    "stroke_overrides": {
+      "concept_node_outline": 1.5,
+      "concept_icon": 2.2,
+      "concept_flow": 3,
+      "process_icon": 3
+    },
+    "continuous_process": "連続帯は一部品として扱い、帯内部に部品間32pxを挿入しない。"
+  }
+}

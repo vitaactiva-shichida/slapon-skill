@@ -1,0 +1,106 @@
+{
+  "id": "H01",
+  "region": [
+    0,
+    0,
+    1600,
+    80
+  ],
+  "category": [
+    30,
+    25,
+    40,
+    26
+  ],
+  "separator": [
+    90,
+    28,
+    1,
+    20
+  ],
+  "breadcrumb": [
+    111,
+    25,
+    1325,
+    26
+  ],
+  "logo": [
+    1466,
+    23,
+    104,
+    29
+  ],
+  "short_rule": [
+    30,
+    67,
+    64,
+    3
+  ],
+  "variants": {
+    "light": {
+      "surface": "background",
+      "ink": "text",
+      "logo": "color"
+    },
+    "tint": {
+      "surface": "sub",
+      "ink": "inkSurface",
+      "logo": "color"
+    },
+    "dark": {
+      "surface": "main",
+      "ink": "onmain",
+      "logo": "white"
+    }
+  },
+  "modes": {
+    "fixed": [
+      "text baseline y",
+      "logo bbox",
+      "short rule",
+      "separator size",
+      "20px gaps"
+    ],
+    "bounded": [
+      "category and breadcrumb combined width"
+    ],
+    "flexible": [
+      "category text width",
+      "separator x",
+      "breadcrumb x",
+      "category and breadcrumb text"
+    ]
+  },
+  "basis": "原本・公開用SVGの共通ヘッダー。淡色・濃色の使い分けを部品として整理。 2026-10-21利用者指示：下罫線の左右に各30pxの余白。 2026-10-22利用者指定：区切りの左右に各全角1文字分、左詰め、上下中央揃え。区切りを縦線へ統一。座標は「課題」の見本値。",
+  "omit_when": [
+    "cover",
+    "section",
+    "closing"
+  ],
+  "long_rule": [
+    30,
+    67,
+    1540,
+    1
+  ],
+  "border_inset": {
+    "left": 30,
+    "right": 30
+  },
+  "layout": {
+    "mode": "content_width",
+    "sample_category": "課題",
+    "sample_breadcrumb": "資料作成のボトルネック",
+    "category_x": 30,
+    "text_baseline_y": 45,
+    "gap_before_separator": 20,
+    "gap_after_separator": 20,
+    "separator_width": 1,
+    "separator_height": 20,
+    "separator_alignment": "center of visible glyph bounds of category and breadcrumb",
+    "separator_x": "category visible right + 20",
+    "breadcrumb_x": "separator right + 20",
+    "breadcrumb_right_limit": 1436,
+    "overflow": "カテゴリ・パンくずをロゴへ重ねない。意味を保った短縮・章名の移動で調整。固定幅欄へ戻さない。"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "page": "voices",
+  "page_type": false,
+  "components": "S-H01 + 引用 + 人物 + S-F01",
+  "variable": "発言・写真・紹介",
+  "overflow": "引用を無断改変しない。抜粋は出典と範囲を明示。"
+}

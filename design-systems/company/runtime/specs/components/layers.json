@@ -1,0 +1,126 @@
+{
+  "inherits": "diagram-common-v1",
+  "group_fill_opacity": 0.12,
+  "node_fill_opacity": 1,
+  "text_opacity": 1,
+  "stroke_opacity": 1,
+  "layer_order": [
+    "補助面",
+    "接続線",
+    "不透明ノード",
+    "アイコン",
+    "文字"
+  ],
+  "white_node_policy": "Companyのカード面backgroundを100%で塗る。背面の輪郭を透かさない。",
+  "drawing": {
+    "id": "layers-alpha",
+    "title": "半透明のグループ面と不透明な説明ノード",
+    "canvas": [
+      1600,
+      600
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 600,
+        "fill_role": "background"
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 90,
+        "w": 1440,
+        "h": 350,
+        "fill_role": "main",
+        "rx": 12,
+        "fill-opacity": 0.12
+      },
+      {
+        "type": "rect",
+        "x": 760,
+        "y": 90,
+        "w": 760,
+        "h": 350,
+        "fill_role": "main",
+        "rx": 12,
+        "fill-opacity": 0.12
+      },
+      {
+        "type": "rect",
+        "x": 160,
+        "y": 150,
+        "w": 480,
+        "h": 210,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "line",
+        "x1": 640,
+        "y1": 255,
+        "x2": 960,
+        "y2": 255,
+        "stroke_role": "main",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 960,
+        "y": 150,
+        "w": 480,
+        "h": 210,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "text",
+        "x": 192,
+        "y": 180,
+        "w": 416,
+        "h": 100,
+        "text": "手前のノードは100%\n背面の線を隠す",
+        "size": 28,
+        "leading": 42,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "text",
+        "x": 992,
+        "y": 180,
+        "w": 416,
+        "h": 100,
+        "text": "文字・輪郭は100%\n塗りのalphaと分離",
+        "size": 28,
+        "leading": 42,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 480,
+        "w": 1440,
+        "h": 82,
+        "text": "補助面12% → 接続線 → 不透明ノード → アイコン・文字",
+        "size": 26,
+        "leading": 39.0,
+        "fill_role": "text",
+        "weight": 400
+      }
+    ]
+  },
+  "overlap_example": {
+    "first_alpha": 0.12,
+    "second_alpha": 0.12,
+    "combined_alpha": 0.2256,
+    "meaning": "透明度の確認用。分類の意味を与えない。"
+  }
+}

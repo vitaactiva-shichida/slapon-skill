@@ -1,0 +1,36 @@
+{
+  "id": "S-F01",
+  "observed": {
+    "line": [
+      26,
+      415,
+      748,
+      0.5
+    ],
+    "company": {
+      "x": 26,
+      "baseline": 429.95,
+      "size": 8
+    },
+    "page": {
+      "right": 774,
+      "baseline": 429.95,
+      "size": 8
+    },
+    "cover": {
+      "line_y": 393,
+      "date_baseline": 407.95
+    }
+  },
+  "proposed": {
+    "body_bottom": 396,
+    "source_note": {
+      "x": 42,
+      "baseline": 406,
+      "size": 8,
+      "max_right": 758
+    }
+  },
+  "palette_policy": "本文は配色のmuted、濃い面は対応する文字色。左と右の直下の背景を別々に確認。",
+  "source_exception": "原本実績ページの節目説明は基準線407.8。新原稿の標準下端と区別。"
+}

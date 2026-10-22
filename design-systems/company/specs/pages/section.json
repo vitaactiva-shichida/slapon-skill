@@ -1,0 +1,9 @@
+{
+  "id": "C-FRAME-SECTION",
+  "page": "section",
+  "components": "大きい欧文＋章番号＋短い日本語＋フッター",
+  "variable": "章番号・章名",
+  "overflow": "欧文96/120を基準。長い章名は2行へ分け、中央の自由領域へ収める。",
+  "background": "B01–B04から内容で選ぶ",
+  "geometry": "pages/section.svgの保持した座標を出発点とする"
+}

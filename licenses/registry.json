@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "licenses": {
+    "07513cd3-5756-4e68-a77d-978887808db1": {
+      "status": "active",
+      "binding_sha256": "43f0061179a0a9a06a41038e497380d84199f6bcf34ce867b73adb874a6944e8"
+    },
+    "8396c265-34f9-4f89-be0c-9ee0b093bb20": {
+      "status": "active",
+      "binding_sha256": "febc52c4423b626f3d877d49ae6acdb9831be324fc8c29e1aba7a5d84daf4223"
+    }
+  }
+}

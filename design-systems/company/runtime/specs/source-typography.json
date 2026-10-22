@@ -1,0 +1,1594 @@
+[
+  {
+    "page": "cover",
+    "id": "COMPANY PROFILE",
+    "font": "Arimo",
+    "size": 100.0,
+    "unit": "source-px",
+    "ppt_pt": 60.0
+  },
+  {
+    "page": "cover",
+    "id": "ä¼ç¤¾ç´¹ä»è³æ ï¼ [ä¼ç¤¾å]",
+    "font": "Noto Sans JP",
+    "size": 40.0,
+    "unit": "source-px",
+    "ppt_pt": 24.0
+  },
+  {
+    "page": "cover",
+    "id": "æ´æ°æ¥ï¼20XXå¹´XXæXXæ¥",
+    "font": "Noto Sans JP",
+    "size": 24.0,
+    "unit": "source-px",
+    "ppt_pt": 14.4
+  },
+  {
+    "page": "contents",
+    "id": "ç« çªå·",
+    "font": "Arimo",
+    "size": 72.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "contents",
+    "id": "è¦åºã",
+    "font": "Noto Sans JP",
+    "size": 30.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "èª¬æ",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "contents",
+    "id": "ç« çªå·_2",
+    "font": "Arimo",
+    "size": 72.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "contents",
+    "id": "è¦åºã_2",
+    "font": "Noto Sans JP",
+    "size": 30.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "èª¬æ_2",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "contents",
+    "id": "ç« çªå·_3",
+    "font": "Arimo",
+    "size": 72.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "contents",
+    "id": "è¦åºã_3",
+    "font": "Noto Sans JP",
+    "size": 30.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "èª¬æ_3",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "contents",
+    "id": "ç« çªå·_4",
+    "font": "Arimo",
+    "size": 72.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "contents",
+    "id": "è¦åºã_4",
+    "font": "Noto Sans JP",
+    "size": 30.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "èª¬æ_4",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "contents",
+    "id": "ç« çªå·_5",
+    "font": "Arimo",
+    "size": 72.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "contents",
+    "id": "è¦åºã_5",
+    "font": "Noto Sans JP",
+    "size": 30.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "èª¬æ_5",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "contents",
+    "id": "CONTENTS",
+    "font": "Arimo",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "contents",
+    "id": "ç®æ¬¡",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "contents",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "contents",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "section",
+    "id": "ãã©ã³ãå",
+    "font": "Noto Sans JP",
+    "size": 18.0,
+    "unit": "source-px",
+    "ppt_pt": 10.8
+  },
+  {
+    "page": "section",
+    "id": "ç« çªå·",
+    "font": "Arimo",
+    "size": 240.0,
+    "unit": "source-px",
+    "ppt_pt": 144.0
+  },
+  {
+    "page": "section",
+    "id": "è±æã¿ã¤ãã«",
+    "font": "Arimo",
+    "size": 96.0,
+    "unit": "source-px",
+    "ppt_pt": 57.6
+  },
+  {
+    "page": "section",
+    "id": "åæã¿ã¤ãã«",
+    "font": "Arimo",
+    "size": 24.0,
+    "unit": "source-px",
+    "ppt_pt": 14.4
+  },
+  {
+    "page": "section",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "section",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "overview",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 23.0,
+    "unit": "source-px",
+    "ppt_pt": 13.8
+  },
+  {
+    "page": "overview",
+    "id": "[æ­£å¼ãªä¼ç¤¾å]",
+    "font": "Noto Sans JP",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 15.0
+  },
+  {
+    "page": "overview",
+    "id": "æå¨å°",
+    "font": "Noto Sans JP",
+    "size": 23.0,
+    "unit": "source-px",
+    "ppt_pt": 13.8
+  },
+  {
+    "page": "overview",
+    "id": "[éµä¾¿çªå·ã»æ¬ç¤¾æå¨å°]",
+    "font": "Noto Sans JP",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 15.0
+  },
+  {
+    "page": "overview",
+    "id": "äºæ¥­åå®¹",
+    "font": "Noto Sans JP",
+    "size": 23.0,
+    "unit": "source-px",
+    "ppt_pt": 13.8
+  },
+  {
+    "page": "overview",
+    "id": "[ä¸»ãªäºæ¥­ã»ãµã¼ãã¹ã®æ¦è¦]",
+    "font": "Noto Sans JP",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 15.0
+  },
+  {
+    "page": "overview",
+    "id": "å¾æ¥­å¡æ°",
+    "font": "Noto Sans JP",
+    "size": 23.0,
+    "unit": "source-px",
+    "ppt_pt": 13.8
+  },
+  {
+    "page": "overview",
+    "id": "[å¾æ¥­å¡æ°]åï¼[åºæºæ¥]ç¾å¨ï¼",
+    "font": "Noto Sans JP",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 15.0
+  },
+  {
+    "page": "overview",
+    "id": "è³æ¬é",
+    "font": "Noto Sans JP",
+    "size": 23.0,
+    "unit": "source-px",
+    "ppt_pt": 13.8
+  },
+  {
+    "page": "overview",
+    "id": "[è³æ¬é]å",
+    "font": "Noto Sans JP",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 15.0
+  },
+  {
+    "page": "overview",
+    "id": "è¨­ç«å¹´æ",
+    "font": "Noto Sans JP",
+    "size": 23.0,
+    "unit": "source-px",
+    "ppt_pt": 13.8
+  },
+  {
+    "page": "overview",
+    "id": "[è¨­ç«å¹´æ]",
+    "font": "Noto Sans JP",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 15.0
+  },
+  {
+    "page": "overview",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "overview",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "overview",
+    "id": "ä¼ç¤¾å_2",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "overview",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "mission",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "mission",
+    "id": "ã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "mission",
+    "id": "ããã·ã§ã³",
+    "font": "Noto Sans JP",
+    "size": 40.0,
+    "unit": "source-px",
+    "ppt_pt": 24.0
+  },
+  {
+    "page": "mission",
+    "id": "ããã·ã§ã³èª¬æ1",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "mission",
+    "id": "ããã·ã§ã³èª¬æ2",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "mission",
+    "id": "ä¼ç¤¾å_2",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "mission",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "members",
+    "id": "Name",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "members",
+    "id": "Expertise",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "members",
+    "id": "Biography",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "members",
+    "id": "Name_2",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "members",
+    "id": "Expertise_2",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "members",
+    "id": "Biography_2",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "members",
+    "id": "Name_3",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "members",
+    "id": "Expertise_3",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "members",
+    "id": "Biography_3",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "members",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "members",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "members",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "members",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "business",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "å°å¥è¦åºã",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "business",
+    "id": "å°å¥æ¬æ",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "çªå·ã»äºæ¥­é å",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "æ¯æ´ãµã¼ãã¹",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "business",
+    "id": "é ç®ã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "èª¬æ",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "é ç®ã©ãã«_2",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "èª¬æ_2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "ä¾¡å¤ã®ä¸æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "business",
+    "id": "çªå·ã»äºæ¥­é å_2",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "æ¯æ´ãµã¼ãã¹_2",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "business",
+    "id": "é ç®ã©ãã«_3",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "èª¬æ_3",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "é ç®ã©ãã«_4",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "èª¬æ_4",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "ä¾¡å¤ã®ä¸æ_2",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "business",
+    "id": "çªå·ã»äºæ¥­é å_3",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "æ¯æ´ãµã¼ãã¹_3",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "business",
+    "id": "é ç®ã©ãã«_5",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "èª¬æ_5",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "é ç®ã©ãã«_6",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "business",
+    "id": "èª¬æ_6",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "ä¾¡å¤ã®ä¸æ_3",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "growth",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "å°å¥è¦åºã",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "growth",
+    "id": "ãµã³ãã«æ³¨è¨",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "ã°ã©ãè¦åºã",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "éè¨æ¡ä»¶",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "ç¸¦è»¸ 0",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "ç¸¦è»¸ 200",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "ç¸¦è»¸ 400",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "ç¸¦è»¸ 600",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "å£²ä¸ã©ãã« ç¬¬1æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "æã©ãã« ç¬¬1æ",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "å£²ä¸ã©ãã« ç¬¬2æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "æã©ãã« ç¬¬2æ",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "å£²ä¸ã©ãã« ç¬¬3æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "æã©ãã« ç¬¬3æ",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "å£²ä¸ã©ãã« ç¬¬4æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "æã©ãã« ç¬¬4æ",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "å£²ä¸ã©ãã« ç¬¬5æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "æã©ãã« ç¬¬5æ",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "å£²ä¸ã©ãã« ç¬¬6æ",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "growth",
+    "id": "æã©ãã« ç¬¬6æ",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "growth",
+    "id": "å®ç¸¾ã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "ææ¨å",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "æ°å¤",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "growth",
+    "id": "åä½",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "ææ¨å_2",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "æ°å¤_2",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "growth",
+    "id": "åä½_2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "ææ¨å_3",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "æ°å¤_3",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "growth",
+    "id": "åä½_3",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "æ",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "åºæ¥äº",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "æ_2",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "åºæ¥äº_2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "æ_3",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "åºæ¥äº_3",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "voices",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "voices",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "voices",
+    "id": "æ¬äººã®ã¡ãã»ã¼ã¸",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "voices",
+    "id": "ã¡ãã»ã¼ã¸è£è¶³",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "ã¨ãã½ã¼ãè¦åºã",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "voices",
+    "id": "æ¬äººã®è¨è",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "ã¨ãã½ã¼ãè¦åºã_2",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "voices",
+    "id": "æ¬äººã®è¨è_2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "æ°å",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "voices",
+    "id": "ã­ã¼ãå­è¡¨è¨",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "voices",
+    "id": "æå½",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "voices",
+    "id": "å¨ç±æå ±",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "voices",
+    "id": "ã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "ä»äºã®è»¸",
+    "font": "Noto Sans JP",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "culture",
+    "id": "ç´¹ä»æ",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_2",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½_2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_3",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_3",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½_3",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_4",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_4",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½_4",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_5",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_5",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½_5",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_6",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_6",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_7",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_7",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½_6",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ææ¨ã©ãã«_8",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "æ°å¤_8",
+    "font": "Arimo",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "culture",
+    "id": "åä½_7",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "ãã¼ããä¸­å¤®",
+    "font": "Noto Sans JP",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "culture",
+    "id": "ãã¼ããè£è¶³",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "culture",
+    "id": "åºç¤¾é »åº¦å¡ä¾",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "culture",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "culture",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "selection",
+    "id": "é¸èå 1",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "é¸èã®èª¬æ 1",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "selection",
+    "id": "é¸èå 2",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "é¸èã®èª¬æ 2",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "selection",
+    "id": "é¸èå 3",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "é¸èã®èª¬æ 3",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "selection",
+    "id": "é¸èå 4",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "é¸èã®èª¬æ 4",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "selection",
+    "id": "é¸èå 5",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "é¸èã®èª¬æ 5",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "selection",
+    "id": "é¸èå 6",
+    "font": "Noto Sans JP",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "é¸èã®èª¬æ 6",
+    "font": "Noto Sans JP",
+    "size": 17.0,
+    "unit": "source-px",
+    "ppt_pt": 10.2
+  },
+  {
+    "page": "selection",
+    "id": "è±èªã©ãã«",
+    "font": "Noto Sans JP",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "selection",
+    "id": "ã¿ã¤ãã«",
+    "font": "Noto Sans JP",
+    "size": 44.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "selection",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "selection",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "closing",
+    "id": "Join Our Team",
+    "font": "Arimo",
+    "size": 90.0,
+    "unit": "source-px",
+    "ppt_pt": 54.0
+  },
+  {
+    "page": "closing",
+    "id": "ä¸ç·ã«æªæ¥ãã¤ããä»²éãåéãã¦ãã¾ãã",
+    "font": "Noto Sans JP",
+    "size": 33.0,
+    "unit": "source-px",
+    "ppt_pt": 19.8
+  },
+  {
+    "page": "closing",
+    "id": "[æ¡ç¨ãµã¤ãURL] ï¼ [ãåãåããå]",
+    "font": "Noto Sans JP",
+    "size": 27.0,
+    "unit": "source-px",
+    "ppt_pt": 16.2
+  },
+  {
+    "page": "closing",
+    "id": "ä¼ç¤¾å",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "closing",
+    "id": "ãã¼ã¸çªå·",
+    "font": "Noto Sans JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  }
+]

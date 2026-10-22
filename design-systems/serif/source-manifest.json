@@ -1,0 +1,153 @@
+{
+  "design_system": "slapon-serif",
+  "version": "0.2.0",
+  "file_key": "yZRuVrGDlV496zazD5AqGf",
+  "reference_nodes": [
+    "385:4203",
+    "398:5210",
+    "401:5360",
+    "366:3813"
+  ],
+  "native_canvas": [
+    800,
+    450
+  ],
+  "pages": [
+    {
+      "page": "cover",
+      "node_id": "385:4209",
+      "source": "assets/source/cover.svg",
+      "sha256": "36f51dc66f6291111545f533b1a61b068291347db56dd149ba1c09e3651299a2"
+    },
+    {
+      "page": "contents",
+      "node_id": "385:4233",
+      "source": "assets/source/contents.svg",
+      "sha256": "6022c8ce73cb8b10f2c06414c72797bf173e5cd5f4d766e354e79e54257d41cf"
+    },
+    {
+      "page": "section",
+      "node_id": "385:4291",
+      "source": "assets/source/section.svg",
+      "sha256": "e2f6f28ff9675d3b4ad805d6b918834282cf50fa6b378913ded6c19c03c5db3e"
+    },
+    {
+      "page": "overview",
+      "node_id": "385:4319",
+      "source": "assets/source/overview.svg",
+      "sha256": "f6a5c1a65ddd6908f3a1339eaf8f71d6ba30e86da39478b0f9b562c061a1be48"
+    },
+    {
+      "page": "mission",
+      "node_id": "385:4377",
+      "source": "assets/source/mission.svg",
+      "sha256": "03227e25c52911bd73b71a30c803065fd108bee69b948ef46a0572efbe5b1482"
+    },
+    {
+      "page": "members",
+      "node_id": "385:4405",
+      "source": "assets/source/members.svg",
+      "sha256": "5336103cdfa8f70021db2055fac58f41d53aba79fdcb7b1a5960d7b869fb8f3a"
+    },
+    {
+      "page": "business",
+      "node_id": "385:4457",
+      "source": "assets/source/business.svg",
+      "sha256": "b0e113f4153be3023783e4d53b4a2c8f333693e0535b481b934269c103360b7f"
+    },
+    {
+      "page": "growth",
+      "node_id": "385:4531",
+      "source": "assets/source/growth.svg",
+      "sha256": "15afd5f2e08aa28822d4a0659a534515258e5ab38cb68d97d772a6948607d332"
+    },
+    {
+      "page": "voices",
+      "node_id": "385:4621",
+      "source": "assets/source/voices.svg",
+      "sha256": "f602d9afb4d28f5a3336731258295742b869c3642c26aa2441a07a1180769ad6"
+    },
+    {
+      "page": "culture",
+      "node_id": "385:4669",
+      "source": "assets/source/culture.svg",
+      "sha256": "a394d6114ecafb34213a68036667a369c0e448434015d61ea2ae5652e4de85e9"
+    },
+    {
+      "page": "selection",
+      "node_id": "385:4777",
+      "source": "assets/source/selection.svg",
+      "sha256": "67afe2cbdc9a54c29d3e77be1ccc3815df027beec9256bf78a367d0acb785ae8"
+    },
+    {
+      "page": "closing",
+      "node_id": "385:4849",
+      "source": "assets/source/closing.svg",
+      "sha256": "8519d831739d78a1603fd585509d57005799f3326de33f1c8c7d6430c73e0ce1"
+    }
+  ],
+  "provenance": {
+    "svg": "Read-only Figma SVG_STRING export, 2026-10-21; native text retained",
+    "backgrounds": "Existing LP PNG exports of Figma role components; blue cover cross-check against fresh Figma PNG at 800x450 mean absolute RGB difference about 1.03/255 due to scale/noise",
+    "brand_logo": "Self-authored SAMPLE mark from Standard dummy template",
+    "fonts": "Google Fonts upstream, SIL OFL; original license files bundled"
+  },
+  "background_files": {
+    "assets/backgrounds/gradient-blue/team.png": "8320d3c308a1d0d03801d5ded1f1604bf310f3b79536634e316220f133fc8575",
+    "assets/backgrounds/gradient-blue/overview.png": "5c939235eaa310f86b5c6c99ebf54da25ba10ab549fa0ac6b874b89707e01bc5",
+    "assets/backgrounds/gradient-blue/chapter.png": "40290af847c70fc0f3cd93eb32c03391684388ed0527e08ae74da5b2e84f0b72",
+    "assets/backgrounds/gradient-blue/cover.png": "0e04c1a40c58f4540b781ad037f67f78c16e08e824e8610a874b2aa4ca13155d",
+    "assets/backgrounds/gradient-mint/team.png": "094191f85919269d8e2772c924ec4b1693a22efb6ea73b019bcc6536e808870a",
+    "assets/backgrounds/gradient-mint/overview.png": "57ca2b99cb9bc967106a9cfa93e8473058cb2c3381bd824fecbfc1593a4203f0",
+    "assets/backgrounds/gradient-mint/chapter.png": "f53228211102961ce4ca7714622e6ff8bfd240d8b4829d96c52e7cd807cbd87e",
+    "assets/backgrounds/gradient-mint/cover.png": "c9ca8fcb676a5befbde59b5d505b01e0da50b8dcad654b4ff2c2e212783aa29b",
+    "assets/backgrounds/gradient-plum/team.png": "1f1b7ad9bfdb2ec39370874ca5fe46486792050bcf760414d1d94bc18572b6d9",
+    "assets/backgrounds/gradient-plum/overview.png": "437160fdd949a56adfb9b8118816741a0ab7642a7a3cc75e5f4c3526c8434f03",
+    "assets/backgrounds/gradient-plum/chapter.png": "83baeb036878e2b7e262a8cb393cc6dcc2c6b3f81a0117f9ddf2f97f7a556bb4",
+    "assets/backgrounds/gradient-plum/cover.png": "41ea80576f9621195cb2772290a64c37815b53277ebea86c5421d24e9e992380",
+    "assets/backgrounds/gradient-indigo/team.png": "14bfbfc3e5069fc6ce7adc947d6a2254ec430a457a55ea74fb46bbe7814a8800",
+    "assets/backgrounds/gradient-indigo/overview.png": "2cd2aaca281a655895547b18826867e119ce81557f15557d0854958498a45f30",
+    "assets/backgrounds/gradient-indigo/chapter.png": "880984fa6605fdd4fc90ccfaf77197d51486249c9888a6112304d991eb70c4b0",
+    "assets/backgrounds/gradient-indigo/cover.png": "80a5c421168e49668d7f46a0a3e127ebb4985a34086b43a17e8939e7049771f3",
+    "assets/backgrounds/gradient-orange/team.png": "ff09822f0600c65894f335cafcff52ee7f50c441cc7f1b6b834eae6dbaac2f4f",
+    "assets/backgrounds/gradient-orange/overview.png": "d70777397689abb5ed56e78cf2215ec50df66f6efae1c5c32fe4c86aee09ebbf",
+    "assets/backgrounds/gradient-orange/chapter.png": "18e3248cc33d3502e683de33a861039c84314e3b332bb4bc4d2fffa47f45ebce",
+    "assets/backgrounds/gradient-orange/cover.png": "21736ec397d89daca9e5a410fe62a3ff58a1b8d1496ec9dc8455015e41248b56"
+  },
+  "background_role_nodes": {
+    "gradient-blue": {
+      "cover": "315:3937",
+      "chapter": "315:3939",
+      "overview": "315:3941",
+      "team": "315:3943"
+    },
+    "gradient-plum": {
+      "cover": "389:4450",
+      "chapter": "389:4451",
+      "overview": "389:4452",
+      "team": "389:4453"
+    },
+    "gradient-orange": {
+      "cover": "389:4454",
+      "chapter": "389:4455",
+      "overview": "389:4456",
+      "team": "389:4457"
+    },
+    "gradient-indigo": {
+      "cover": "389:4458",
+      "chapter": "389:4459",
+      "overview": "389:4460",
+      "team": "389:4461"
+    },
+    "gradient-mint": {
+      "cover": "389:4462",
+      "chapter": "389:4463",
+      "overview": "389:4464",
+      "team": "389:4465"
+    }
+  },
+  "font_sources": {
+    "LibreBaskerville.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/librebaskerville/LibreBaskerville[wght].ttf",
+    "NotoSerifJP.ttf": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifjp/NotoSerifJP[wght].ttf"
+  }
+}

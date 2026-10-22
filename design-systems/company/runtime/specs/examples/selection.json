@@ -1,0 +1,8 @@
+{
+  "id": "C-EXAMPLE-SELECTION",
+  "page": "selection",
+  "page_type": false,
+  "components": "C-H01 + C-P03 + C-F01",
+  "variable": "工程数・順序・説明",
+  "overflow": "原本ピッチ94。各行の説明の高さが増えるなら行高を増やし、ページを分ける。"
+}

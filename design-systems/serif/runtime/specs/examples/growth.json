@@ -1,0 +1,7 @@
+{
+  "page": "growth",
+  "page_type": false,
+  "components": "S-H01 + 棒グラフ + KPI + 節目",
+  "variable": "期間・値・指標数",
+  "overflow": "軸・単位・比較条件を再計算。節目はフッターへ押し込まない。"
+}

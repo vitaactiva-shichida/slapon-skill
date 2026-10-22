@@ -1,0 +1,63 @@
+{
+  "canvas": [
+    800,
+    450
+  ],
+  "items": [
+    {
+      "id": "S-P01",
+      "name": "説明のまとまり",
+      "radius": 0,
+      "shadow": false,
+      "rule": 0.5
+    },
+    {
+      "id": "S-P02",
+      "name": "プロフィール",
+      "photo": [
+        42,
+        113,
+        224,
+        135
+      ],
+      "person_name": {
+        "size": 21,
+        "font": "Noto Serif JP"
+      },
+      "tag_size": 8,
+      "body_size": 10,
+      "body_leading": 15.5
+    },
+    {
+      "id": "S-P03",
+      "name": "工程",
+      "x": 42,
+      "y": 124,
+      "width": 716,
+      "pitch": 46,
+      "number": {
+        "x": 42,
+        "size": 16,
+        "font": "Libre Baskerville"
+      },
+      "label": {
+        "x": 95,
+        "size": 13,
+        "font": "Noto Serif JP"
+      },
+      "description": {
+        "x": 263,
+        "size": 10,
+        "leading": 15.5
+      }
+    },
+    {
+      "id": "S-P04",
+      "name": "接続",
+      "stroke": 1,
+      "arrowhead": 4,
+      "label_clearance": 4
+    }
+  ],
+  "variable": "人数・事業数・工程数・文章は原稿に応じて変更。"
+}

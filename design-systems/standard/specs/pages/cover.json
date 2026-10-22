@@ -1,0 +1,60 @@
+{
+  "id": "cover",
+  "template_node": "30:27458",
+  "purpose": "資料の主題を示す",
+  "recipe": "主色グラデーションの左に主題。上部ロゴ・下部日付。右端にD01縦ロゴ透かし。顧客版は白版正式ロゴを−90°回転、不透明度40%で配置し、スライド境界でクリップする。",
+  "overflow": "表紙3行は見本。短い主題は1〜2行でよい。副題との距離を保つ。",
+  "reference_nodes": [
+    {
+      "name": "Eyebrow",
+      "type": "TEXT",
+      "text": "SLAPON / SERVICE DECK",
+      "x": 96,
+      "y": 329,
+      "w": 950,
+      "h": 35
+    },
+    {
+      "name": "Title",
+      "type": "TEXT",
+      "text": "資料作成を、\nもっと速く。\nもっと伝わるものに。",
+      "x": 96,
+      "y": 389,
+      "w": 1100,
+      "h": 114
+    },
+    {
+      "name": "Subtitle",
+      "type": "TEXT",
+      "text": "構成から図解、デザイン、編集まで。",
+      "x": 96,
+      "y": 683,
+      "w": 900,
+      "h": 42
+    },
+    {
+      "name": "構成からPowerPoint出力まで、AIと一緒に。",
+      "type": "TEXT",
+      "text": "2026/10/10",
+      "x": 96,
+      "y": 775,
+      "w": 725,
+      "h": 46
+    }
+  ],
+  "geometry_status": "既存レイヤー読取情報。アウトラインのインク外接矩形と異なる場合がある。改行後はプレビュー照合。",
+  "canvas": [
+    1600,
+    900
+  ],
+  "composition": {
+    "background": "BG03 / 原本のグラデーション",
+    "header": "なし（ロゴ枠は独立）",
+    "typography": "T-COVER",
+    "grid": "G自由 / 左基準x96",
+    "content": "左上ロゴ＋主題＋日付＋D01縦ロゴ透かし",
+    "footer": "なし"
+  },
+  "composition_geometry_policy": "部品の考え方と原本の構成を対応させた索引。既存作例のSVG・原本座標は変更しない。",
+  "decoration_component": "D01"
+}

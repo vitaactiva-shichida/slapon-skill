@@ -1,0 +1,179 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="03&#239;&#189;&#156;&#228;&#188;&#154;&#231;&#164;&#190;&#227;&#129;&#171;&#227;&#129;&#164;&#227;&#129;&#132;&#227;&#129;&#166;" clip-path="url(#clip0_385_4291)">
+<rect width="800" height="450" fill="#F8F8F5"/>
+<g id="Background / chapter" clip-path="url(#clip1_385_4291)">
+<g id="Native Gradient / 16 Cobalt Radiance" filter="url(#filter0_n_385_4291)">
+<g clip-path="url(#clip2_385_4291)">
+<g id="Cobalt Color Mesh / 9&#229;&#136;&#151; &#195;&#151; 7&#232;&#137;&#178;&#231;&#130;&#185;" filter="url(#filter1_f_385_4291)">
+<rect id="Blue Field 1 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="-150" y="-125" width="200" height="700" fill="url(#paint0_linear_385_4291)"/>
+<rect id="Blue Field 2 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="50" y="-125" width="100" height="700" fill="url(#paint1_linear_385_4291)"/>
+<rect id="Blue Field 3 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="150" y="-125" width="100" height="700" fill="url(#paint2_linear_385_4291)"/>
+<rect id="Blue Field 4 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="250" y="-125" width="100" height="700" fill="url(#paint3_linear_385_4291)"/>
+<rect id="Blue Field 5 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="350" y="-125" width="100" height="700" fill="url(#paint4_linear_385_4291)"/>
+<rect id="Blue Field 6 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="450" y="-125" width="100" height="700" fill="url(#paint5_linear_385_4291)"/>
+<rect id="Blue Field 7 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="550" y="-125" width="100" height="700" fill="url(#paint6_linear_385_4291)"/>
+<rect id="Blue Field 8 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="650" y="-125" width="100" height="700" fill="url(#paint7_linear_385_4291)"/>
+<rect id="Blue Field 9 / &#233;&#157;&#146;&#227;&#129;&#168;&#229;&#133;&#137;" x="750" y="-125" width="200" height="700" fill="url(#paint8_linear_385_4291)"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Chapter / Title">
+<g id="Title block" clip-path="url(#clip3_385_4291)">
+<text id="English title" fill="#F8F8F5" style="white-space: pre" xml:space="preserve" font-family="Libre Baskerville" font-size="56" letter-spacing="-0.15px"><tspan x="40" y="267.1">Company&#10;</tspan><tspan x="40" y="332.1">Overview</tspan></text>
+<rect id="Hairline" x="40" y="357" width="39" height="0.5" fill="#F8F8F5"/>
+<text id="Japanese title" fill="#F8F8F5" style="white-space: pre" xml:space="preserve" font-family="Noto Serif JP" font-size="19" letter-spacing="0px"><tspan x="40" y="392.218">&#x4f1a;&#x793e;&#x306e;&#x57fa;&#x672c;&#x60c5;&#x5831;</tspan></text>
+</g>
+</g>
+<text id="Running company" fill="#F8F8F5" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="8" letter-spacing="1px"><tspan x="38" y="32.45">COMPANY NAME</tspan></text>
+<text id="Chapter number" fill="#1746D2" style="white-space: pre" xml:space="preserve" font-family="Libre Baskerville" font-size="110" letter-spacing="-0.15px"><tspan x="714.908" y="144.5">1</tspan></text>
+<g id="Footer">
+<rect id="Hairline_2" x="26" y="415" width="748" height="0.5" fill="#F8F8F5"/>
+<g id="Footer row">
+<text id="Left" fill="#F8F8F5" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="8" letter-spacing="0px"><tspan x="26" y="429.95">&#xff3b;&#x4f1a;&#x793e;&#x540d;&#xff3d;&#xff5c;COMPANY PROFILE</tspan></text>
+<text id="Page" fill="#F8F8F5" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="8" letter-spacing="0px"><tspan x="765.125" y="429.95">03</tspan></text>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_n_385_4291" x="0" y="0" width="800" height="450" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="1.8181817531585693 1.8181817531585693" stitchTiles="stitch" numOctaves="3" result="noise" seed="0" />
+<feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+<feComponentTransfer in="alphaNoise" result="coloredNoise1">
+<feFuncA type="discrete" tableValues="0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "/>
+</feComponentTransfer>
+<feComposite operator="in" in2="shape" in="coloredNoise1" result="noise1Clipped" />
+<feComponentTransfer in="alphaNoise" result="coloredNoise2">
+<feFuncA type="discrete" tableValues="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 "/>
+</feComponentTransfer>
+<feComposite operator="in" in2="shape" in="coloredNoise2" result="noise2Clipped" />
+<feFlood flood-color="rgba(0, 0, 0, 0.075)" result="color1Flood" />
+<feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+<feFlood flood-color="rgba(255, 255, 255, 0.065)" result="color2Flood" />
+<feComposite operator="in" in2="noise2Clipped" in="color2Flood" result="color2" />
+<feMerge result="effect1_noise_385_4291">
+<feMergeNode in="shape" />
+<feMergeNode in="color1" />
+<feMergeNode in="color2" />
+</feMerge>
+</filter>
+<filter id="filter1_f_385_4291" x="-187.5" y="-162.5" width="1175" height="775" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="18.75" result="effect1_foregroundBlur_385_4291"/>
+</filter>
+<linearGradient id="paint0_linear_385_4291" x1="-50" y1="-125" x2="-50" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0032C5"/>
+<stop offset="0.178571" stop-color="#0032C5"/>
+<stop offset="0.281429" stop-color="#0033CA"/>
+<stop offset="0.384286" stop-color="#0031C6"/>
+<stop offset="0.5" stop-color="#0029A0"/>
+<stop offset="0.615714" stop-color="#002186"/>
+<stop offset="0.718571" stop-color="#001E75"/>
+<stop offset="0.821429" stop-color="#001A63"/>
+<stop offset="1" stop-color="#001A63"/>
+</linearGradient>
+<linearGradient id="paint1_linear_385_4291" x1="100" y1="-125" x2="100" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0032CC"/>
+<stop offset="0.178571" stop-color="#0032CC"/>
+<stop offset="0.281429" stop-color="#002EC6"/>
+<stop offset="0.384286" stop-color="#002CB8"/>
+<stop offset="0.5" stop-color="#002799"/>
+<stop offset="0.615714" stop-color="#002181"/>
+<stop offset="0.718571" stop-color="#001F75"/>
+<stop offset="0.821429" stop-color="#001B69"/>
+<stop offset="1" stop-color="#001B69"/>
+</linearGradient>
+<linearGradient id="paint2_linear_385_4291" x1="200" y1="-125" x2="200" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0037DA"/>
+<stop offset="0.178571" stop-color="#0037DA"/>
+<stop offset="0.281429" stop-color="#0033CF"/>
+<stop offset="0.384286" stop-color="#0028AE"/>
+<stop offset="0.5" stop-color="#00218A"/>
+<stop offset="0.615714" stop-color="#001D70"/>
+<stop offset="0.718571" stop-color="#001B6C"/>
+<stop offset="0.821429" stop-color="#001B71"/>
+<stop offset="1" stop-color="#001B71"/>
+</linearGradient>
+<linearGradient id="paint3_linear_385_4291" x1="300" y1="-125" x2="300" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0447ED"/>
+<stop offset="0.178571" stop-color="#0447ED"/>
+<stop offset="0.281429" stop-color="#0031CC"/>
+<stop offset="0.384286" stop-color="#0027AD"/>
+<stop offset="0.5" stop-color="#001D85"/>
+<stop offset="0.615714" stop-color="#00175E"/>
+<stop offset="0.718571" stop-color="#00175B"/>
+<stop offset="0.821429" stop-color="#001764"/>
+<stop offset="1" stop-color="#001764"/>
+</linearGradient>
+<linearGradient id="paint4_linear_385_4291" x1="400" y1="-125" x2="400" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E6CFE"/>
+<stop offset="0.178571" stop-color="#2E6CFE"/>
+<stop offset="0.281429" stop-color="#0041F2"/>
+<stop offset="0.384286" stop-color="#002BB9"/>
+<stop offset="0.5" stop-color="#001D89"/>
+<stop offset="0.615714" stop-color="#001354"/>
+<stop offset="0.718571" stop-color="#011146"/>
+<stop offset="0.821429" stop-color="#00114A"/>
+<stop offset="1" stop-color="#00114A"/>
+</linearGradient>
+<linearGradient id="paint5_linear_385_4291" x1="500" y1="-125" x2="500" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6796FE"/>
+<stop offset="0.178571" stop-color="#6796FE"/>
+<stop offset="0.281429" stop-color="#457DFD"/>
+<stop offset="0.384286" stop-color="#003EF4"/>
+<stop offset="0.5" stop-color="#002397"/>
+<stop offset="0.615714" stop-color="#011149"/>
+<stop offset="0.718571" stop-color="#020D2F"/>
+<stop offset="0.821429" stop-color="#030D2C"/>
+<stop offset="1" stop-color="#030D2C"/>
+</linearGradient>
+<linearGradient id="paint6_linear_385_4291" x1="600" y1="-125" x2="600" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D2E1FD"/>
+<stop offset="0.178571" stop-color="#D2E1FD"/>
+<stop offset="0.281429" stop-color="#A9C5FD"/>
+<stop offset="0.384286" stop-color="#3E77FC"/>
+<stop offset="0.5" stop-color="#002EC8"/>
+<stop offset="0.615714" stop-color="#01134A"/>
+<stop offset="0.718571" stop-color="#050C24"/>
+<stop offset="0.821429" stop-color="#080D1C"/>
+<stop offset="1" stop-color="#080D1C"/>
+</linearGradient>
+<linearGradient id="paint7_linear_385_4291" x1="700" y1="-125" x2="700" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9F8F8"/>
+<stop offset="0.178571" stop-color="#F9F8F8"/>
+<stop offset="0.281429" stop-color="#F2F5FC"/>
+<stop offset="0.384286" stop-color="#D7E4FD"/>
+<stop offset="0.5" stop-color="#1C5AF3"/>
+<stop offset="0.615714" stop-color="#041D63"/>
+<stop offset="0.718571" stop-color="#060F29"/>
+<stop offset="0.821429" stop-color="#0B0E17"/>
+<stop offset="1" stop-color="#0B0E17"/>
+</linearGradient>
+<linearGradient id="paint8_linear_385_4291" x1="850" y1="-125" x2="850" y2="575" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBF9F6"/>
+<stop offset="0.178571" stop-color="#FBF9F6"/>
+<stop offset="0.281429" stop-color="#FBF9F7"/>
+<stop offset="0.384286" stop-color="#E2EBFD"/>
+<stop offset="0.5" stop-color="#749FFC"/>
+<stop offset="0.615714" stop-color="#0F338E"/>
+<stop offset="0.718571" stop-color="#081539"/>
+<stop offset="0.821429" stop-color="#090E1E"/>
+<stop offset="1" stop-color="#090E1E"/>
+</linearGradient>
+<clipPath id="clip0_385_4291">
+<rect width="800" height="450" fill="white"/>
+</clipPath>
+<clipPath id="clip1_385_4291">
+<rect width="800" height="450" fill="white"/>
+</clipPath>
+<clipPath id="clip2_385_4291">
+<rect width="800" height="450" fill="white"/>
+</clipPath>
+<clipPath id="clip3_385_4291">
+<rect width="475" height="183.5" fill="white" transform="translate(40 215)"/>
+</clipPath>
+</defs>
+</svg>

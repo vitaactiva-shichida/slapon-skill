@@ -1,0 +1,136 @@
+{
+  "design_system": "slapon-serif",
+  "company_name": "株式会社サンプル",
+  "palette": {
+    "id": "gradient-blue",
+    "name": "ブルー",
+    "detail": "深い紺とコバルトの光。白い余白と端正な青の文字を組み合わせて。",
+    "colors": [
+      "#F8F8F5",
+      "#E9EFFB",
+      "#343B45",
+      "#1746D2",
+      "#101319"
+    ],
+    "fontColors": {
+      "heading": "#101319",
+      "accent": "#1746D2",
+      "body": "#343B45",
+      "muted": "#66707D"
+    },
+    "group": "gradient",
+    "designIds": [
+      "slapon-03"
+    ],
+    "backgrounds": {
+      "cover": "assets/backgrounds/gradient-blue/cover.png",
+      "chapter": "assets/backgrounds/gradient-blue/chapter.png",
+      "overview": "assets/backgrounds/gradient-blue/overview.png",
+      "team": "assets/backgrounds/gradient-blue/team.png"
+    }
+  },
+  "primary": "#1746D2",
+  "resolvedTheme": {
+    "background": "#F8F8F5",
+    "sub": "#E9EFFB",
+    "text": "#343B45",
+    "heading": "#101319",
+    "main": "#1746D2",
+    "accent": "#1746D2",
+    "primaryInk": "#1746D2",
+    "muted": "#66707D",
+    "line": "#CDCECE",
+    "inkSurface": "#343B45",
+    "onmain": "#FFFFFF",
+    "series2": "#5D82D8",
+    "series3": "#9CB3E8",
+    "series4": "#DCE6FC"
+  },
+  "background_format": "PNG",
+  "logo_usage": {
+    "cover": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.04,
+      "color_min": 6.53,
+      "contrast_review_required": false
+    },
+    "contents": {
+      "variant": "white_svg",
+      "plate": false,
+      "white_min": 4.69,
+      "color_min": 1.47,
+      "contrast_review_required": false
+    },
+    "section": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.08,
+      "color_min": 6.32,
+      "contrast_review_required": false
+    },
+    "overview": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.04,
+      "color_min": 6.71,
+      "contrast_review_required": false
+    },
+    "mission": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.04,
+      "color_min": 6.71,
+      "contrast_review_required": false
+    },
+    "members": {
+      "variant": "white_svg",
+      "plate": false,
+      "white_min": 2.44,
+      "color_min": 1.49,
+      "contrast_review_required": true
+    },
+    "business": {
+      "variant": "white_svg",
+      "plate": false,
+      "white_min": 2.44,
+      "color_min": 1.49,
+      "contrast_review_required": true
+    },
+    "growth": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.04,
+      "color_min": 6.71,
+      "contrast_review_required": false
+    },
+    "voices": {
+      "variant": "white_svg",
+      "plate": false,
+      "white_min": 2.44,
+      "color_min": 1.49,
+      "contrast_review_required": true
+    },
+    "culture": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.04,
+      "color_min": 6.71,
+      "contrast_review_required": false
+    },
+    "selection": {
+      "variant": "white_svg",
+      "plate": false,
+      "white_min": 2.44,
+      "color_min": 1.49,
+      "contrast_review_required": true
+    },
+    "closing": {
+      "variant": "color_svg",
+      "plate": false,
+      "white_min": 1.04,
+      "color_min": 6.53,
+      "contrast_review_required": false
+    }
+  }
+}

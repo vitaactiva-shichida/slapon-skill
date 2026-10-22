@@ -1,0 +1,7 @@
+{
+  "page": "members",
+  "page_type": false,
+  "components": "S-H01 + S-P02 + S-F01",
+  "variable": "人数・写真・紹介文",
+  "overflow": "原本は3列。人数や文章量に応じて列・段・ページを変える。"
+}

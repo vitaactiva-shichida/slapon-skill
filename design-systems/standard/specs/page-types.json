@@ -1,0 +1,35 @@
+{
+  "frames": [
+    {
+      "id": "cover",
+      "name": "01 表紙"
+    },
+    {
+      "id": "contents",
+      "name": "02 目次"
+    },
+    {
+      "id": "message",
+      "name": "03 メッセージ"
+    },
+    {
+      "id": "section",
+      "name": "04 中扉"
+    },
+    {
+      "id": "closing",
+      "name": "13 クロージング"
+    }
+  ],
+  "examples": [
+    "introduction",
+    "issues",
+    "concept",
+    "process",
+    "features",
+    "charts",
+    "impact",
+    "comparison"
+  ],
+  "policy": "05〜12は固定ページ型ではない。図解部品の構成例。"
+}

@@ -1,0 +1,108 @@
+<!-- Generated from index.html#examples. Edit index.html, not this file. -->
+
+## 05〜12｜部品の組み合わせ例
+
+以下は図解部品の応用を示す作例集。07は重なりと配色、08は連続シェブロンのSVGスタイルを参照する。固定のページ定義や、必要ページ数を示すものではない。見せたい関係を選び、部品数・順序・カラム・説明量を原稿に合わせる。
+
+| 作例 | 部品 | 割り付けの基点 | 変更できる部分 |
+| --- | --- | --- | --- |
+| 05 説明＋写真 | P06＋T02＋T03 | 左680・間48・右712 | 説明と写真は別々に入れ替えられる |
+| 06 並列の項目 | P02＋T02＋T03 | G03を基点に可変 | 項目数は原稿に合わせる。3つに固定しない |
+| 07 中心と周辺 | P04＋P07＋T03 | 関係に合わせて自由配置 | 周辺要素数と関係線を原稿から決める |
+| 08 工程・流れ | P03＋P02＋P07＋T03 | 工程数から帯幅を再計算 | 順序のある情報だけに使う。4工程に固定しない |
+| 09 説明カードの組 | P01＋T02＋T03 | G02を基点に段数可変 | カード数・行数を原稿に合わせる |
+| 10 推移＋構成比 | C01 折れ線＋C02 構成比 | G02 / 独立する図表2つ | 軸と分母が異なる図を混同しない |
+| 11 数値＋内訳 | P05＋C03 積上げ棒 | G02 / 数値と根拠 | 率・絶対量・内訳を検算して組み合わせる |
+| 12 同じ軸で比較 | P08＋T02＋T03 | 項目列＋比較列 | 共通軸・行高・単位をそろえる。列数は可変 |
+
+[05 説明＋写真](examples/introduction.md)
+
+[06 並列の項目](examples/issues.md)
+
+[07 中心と周辺](examples/concept.md)
+
+[08 工程・流れ](examples/process.md)
+
+[09 説明カードの組](examples/features.md)
+
+[10 推移＋構成比](examples/charts.md)
+
+[11 数値＋内訳](examples/impact.md)
+
+[12 同じ軸で比較](examples/comparison.md)
+
+仕様データ
+
+```
+{
+  "classification": "composition_examples",
+  "items": [
+    {
+      "id": "introduction",
+      "number": 5,
+      "name": "説明＋写真",
+      "components": "P06＋T02＋T03",
+      "grid": "左680・間48・右712",
+      "adaptation": "説明と写真は別々に入れ替えられる"
+    },
+    {
+      "id": "issues",
+      "number": 6,
+      "name": "並列の項目",
+      "components": "P02＋T02＋T03",
+      "grid": "G03を基点に可変",
+      "adaptation": "項目数は原稿に合わせる。3つに固定しない"
+    },
+    {
+      "id": "concept",
+      "number": 7,
+      "name": "中心と周辺",
+      "components": "P04＋P07＋T03",
+      "grid": "関係に合わせて自由配置",
+      "adaptation": "周辺要素数と関係線を原稿から決める"
+    },
+    {
+      "id": "process",
+      "number": 8,
+      "name": "工程・流れ",
+      "components": "P03＋P02＋P07＋T03",
+      "grid": "工程数から帯幅を再計算",
+      "adaptation": "順序のある情報だけに使う。4工程に固定しない"
+    },
+    {
+      "id": "features",
+      "number": 9,
+      "name": "説明カードの組",
+      "components": "P01＋T02＋T03",
+      "grid": "G02を基点に段数可変",
+      "adaptation": "カード数・行数を原稿に合わせる"
+    },
+    {
+      "id": "charts",
+      "number": 10,
+      "name": "推移＋構成比",
+      "components": "C01 折れ線＋C02 構成比",
+      "grid": "G02 / 独立する図表2つ",
+      "adaptation": "軸と分母が異なる図を混同しない"
+    },
+    {
+      "id": "impact",
+      "number": 11,
+      "name": "数値＋内訳",
+      "components": "P05＋C03 積上げ棒",
+      "grid": "G02 / 数値と根拠",
+      "adaptation": "率・絶対量・内訳を検算して組み合わせる"
+    },
+    {
+      "id": "comparison",
+      "number": 12,
+      "name": "同じ軸で比較",
+      "components": "P08＋T02＋T03",
+      "grid": "項目列＋比較列",
+      "adaptation": "共通軸・行高・単位をそろえる。列数は可変"
+    }
+  ],
+  "common_rules": "components/diagram-rules.md",
+  "fixed_page_template": false
+}
+```

@@ -1,0 +1,12 @@
+{
+  "page_count": 12,
+  "source_canvas": {
+    "width": 800,
+    "height": 450.0
+  },
+  "svg_geometry": "native pages retain Figma geometry; additional specimens are HTML-authored",
+  "fonts": "bundled with OFL",
+  "reference_text": "fictional sample; replace before customer use",
+  "browser_review": "not performed: local file browser access blocked",
+  "native_svg_raster_review": "not inferred from generation; inspect the separate review record"
+}

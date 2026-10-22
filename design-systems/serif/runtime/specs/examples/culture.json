@@ -1,0 +1,7 @@
+{
+  "page": "culture",
+  "page_type": false,
+  "components": "S-H01 + KPI + ドーナツ + S-F01",
+  "variable": "指標・単位・比率",
+  "overflow": "8指標・5系列は固定しない。割合を検算して凡例をそろえる。"
+}

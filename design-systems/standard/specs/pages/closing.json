@@ -1,0 +1,41 @@
+{
+  "id": "closing",
+  "template_node": "45:28098",
+  "purpose": "資料を静かに締める",
+  "recipe": "中央に正式ロゴと短い締めの言葉。白背景と広い余白。下端に社名。",
+  "overflow": "連絡先は提供時だけ。中央ロゴがない場合は社名テキストを使用。",
+  "reference_nodes": [
+    {
+      "name": "Tagline",
+      "type": "TEXT",
+      "text": "伝わる資料を、誰でもつくれる世界へ。",
+      "x": 527,
+      "y": 489,
+      "w": 547,
+      "h": 41
+    },
+    {
+      "name": "著作権",
+      "type": "TEXT",
+      "text": "© 2026 Slapon Inc.",
+      "x": 30,
+      "y": 860,
+      "w": 800,
+      "h": 17
+    }
+  ],
+  "geometry_status": "既存レイヤー読取情報。アウトラインのインク外接矩形と異なる場合がある。改行後はプレビュー照合。",
+  "canvas": [
+    1600,
+    900
+  ],
+  "composition": {
+    "background": "BG01",
+    "header": "なし",
+    "typography": "短い締めの言葉",
+    "grid": "G自由 / 中央ロゴ",
+    "content": "正式ロゴ＋タグライン",
+    "footer": "発行元のみ"
+  },
+  "composition_geometry_policy": "部品の考え方と原本の構成を対応させた索引。既存作例のSVG・原本座標は変更しない。"
+}

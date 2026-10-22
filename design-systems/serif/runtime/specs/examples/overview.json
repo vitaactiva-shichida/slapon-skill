@@ -1,0 +1,7 @@
+{
+  "page": "overview",
+  "page_type": false,
+  "components": "S-H02 + S-TABLE + S-F01",
+  "variable": "項目・値・条件",
+  "overflow": "最長セルに合わせて行高を増やし、左見出し領域と交差させない。"
+}

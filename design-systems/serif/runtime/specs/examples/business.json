@@ -1,0 +1,7 @@
+{
+  "page": "business",
+  "page_type": false,
+  "components": "S-H01 + S-G03 + S-P01 + S-F01",
+  "variable": "事業数・課題・内容",
+  "overflow": "罫線と見出しをそろえ、最長の説明から列の高さを決める。"
+}

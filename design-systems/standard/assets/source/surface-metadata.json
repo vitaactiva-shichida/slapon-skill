@@ -1,0 +1,250 @@
+[
+  {
+    "id": "45:27699",
+    "shapes": [
+      {
+        "name": "白い円",
+        "type": "ELLIPSE",
+        "x": 250,
+        "y": 288,
+        "w": 110,
+        "h": 110,
+        "fill": "#ffffff"
+      },
+      {
+        "name": "白い円",
+        "type": "ELLIPSE",
+        "x": 745,
+        "y": 288,
+        "w": 110,
+        "h": 110,
+        "fill": "#ffffff"
+      },
+      {
+        "name": "白い円",
+        "type": "ELLIPSE",
+        "x": 1240,
+        "y": 288,
+        "w": 110,
+        "h": 110,
+        "fill": "#ffffff"
+      }
+    ]
+  },
+  {
+    "id": "61:6545",
+    "shapes": [
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 265,
+        "y": 330,
+        "w": 405,
+        "h": 410,
+        "fill": "#f7f7f7"
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 930,
+        "y": 330,
+        "w": 405,
+        "h": 410,
+        "fill": "#f7f7f7"
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 552,
+        "y": 287,
+        "w": 496,
+        "h": 496,
+        "fill": "#e8e8e8"
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 580,
+        "y": 315,
+        "w": 440,
+        "h": 440,
+        "fill": "#dddddd"
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 102,
+        "y": 447,
+        "w": 176,
+        "h": 176,
+        "fill": "#262626"
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 709,
+        "y": 444,
+        "w": 182,
+        "h": 182,
+        "fill": "#262626"
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "x": 1322,
+        "y": 447,
+        "w": 176,
+        "h": 176,
+        "fill": "#262626"
+      },
+      {
+        "name": "Ellipse",
+        "type": "ELLIPSE",
+        "x": 724,
+        "y": 272,
+        "w": 152,
+        "h": 152,
+        "fill": "#ffffff"
+      },
+      {
+        "name": "Ellipse",
+        "type": "ELLIPSE",
+        "x": 534,
+        "y": 459,
+        "w": 152,
+        "h": 152,
+        "fill": "#ffffff"
+      },
+      {
+        "name": "Ellipse",
+        "type": "ELLIPSE",
+        "x": 914,
+        "y": 459,
+        "w": 152,
+        "h": 152,
+        "fill": "#ffffff"
+      },
+      {
+        "name": "Ellipse",
+        "type": "ELLIPSE",
+        "x": 724,
+        "y": 646,
+        "w": 152,
+        "h": 152,
+        "fill": "#ffffff"
+      }
+    ]
+  },
+  {
+    "id": "45:27755",
+    "shapes": [
+      {
+        "name": "編集可能なシェブロン",
+        "type": "VECTOR",
+        "x": 80,
+        "y": 357,
+        "w": 360,
+        "h": 60,
+        "fill": "#d6d6d6"
+      },
+      {
+        "name": "アイコン背景",
+        "type": "ELLIPSE",
+        "x": 194,
+        "y": 472,
+        "w": 132,
+        "h": 132,
+        "fill": "#f6f6f6"
+      },
+      {
+        "name": "編集可能なシェブロン",
+        "type": "VECTOR",
+        "x": 440,
+        "y": 357,
+        "w": 360,
+        "h": 60,
+        "fill": "#a6a6a6"
+      },
+      {
+        "name": "アイコン背景",
+        "type": "ELLIPSE",
+        "x": 554,
+        "y": 472,
+        "w": 132,
+        "h": 132,
+        "fill": "#f6f6f6"
+      },
+      {
+        "name": "編集可能なシェブロン",
+        "type": "VECTOR",
+        "x": 800,
+        "y": 357,
+        "w": 360,
+        "h": 60,
+        "fill": "#7a7a7a"
+      },
+      {
+        "name": "アイコン背景",
+        "type": "ELLIPSE",
+        "x": 914,
+        "y": 472,
+        "w": 132,
+        "h": 132,
+        "fill": "#f6f6f6"
+      },
+      {
+        "name": "編集可能なシェブロン",
+        "type": "VECTOR",
+        "x": 1160,
+        "y": 357,
+        "w": 360,
+        "h": 60,
+        "fill": "#212121"
+      },
+      {
+        "name": "アイコン背景",
+        "type": "ELLIPSE",
+        "x": 1274,
+        "y": 472,
+        "w": 132,
+        "h": 132,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "id": "45:27827",
+    "shapes": []
+  },
+  {
+    "id": "45:27894",
+    "shapes": [
+      {
+        "name": "Editable chart sector",
+        "type": "ELLIPSE",
+        "x": 1026,
+        "y": 427,
+        "w": 278,
+        "h": 278,
+        "fill": "#212121"
+      },
+      {
+        "name": "Editable chart sector",
+        "type": "ELLIPSE",
+        "x": 1026,
+        "y": 427,
+        "w": 278,
+        "h": 278,
+        "fill": "#a6a6a6"
+      }
+    ]
+  },
+  {
+    "id": "45:27953",
+    "shapes": []
+  },
+  {
+    "id": "45:28152",
+    "shapes": []
+  }
+]

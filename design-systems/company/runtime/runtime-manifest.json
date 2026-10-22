@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "design_system": "company",
+  "source": "design-systems/company/runtime/index.html",
+  "authoring_source": "design-systems/company/index.html",
+  "specs": [
+    {
+      "key": "specs/backgrounds.json",
+      "path": "design-systems/company/runtime/specs/backgrounds.json",
+      "sha256": "912b688c4475d43a6a022256d3551ca8f9b1b32b092351ba6305cf11447d46d9"
+    },
+    {
+      "key": "specs/image-typography.json",
+      "path": "design-systems/company/runtime/specs/image-typography.json",
+      "sha256": "4a72e46957fe9bfc103b1de1741007132d5856f979c4704070c06a7b903d405b"
+    },
+    {
+      "key": "specs/layout.json",
+      "path": "design-systems/company/runtime/specs/layout.json",
+      "sha256": "35a87418ab619a1d50a81a76d87f7402ce52f408a0757ffa58c9fcfd52be690d"
+    },
+    {
+      "key": "specs/components.json",
+      "path": "design-systems/company/runtime/specs/components.json",
+      "sha256": "4d15e3ab86f537c7f2ea875750cf791f023069fb4860fb09ebd0721caa804502"
+    },
+    {
+      "key": "specs/components/header.json",
+      "path": "design-systems/company/runtime/specs/components/header.json",
+      "sha256": "768fa4a46098815d5e69d77eacdb81cbbbb0e9dec87466002e1846afd965478b"
+    },
+    {
+      "key": "specs/components/footer.json",
+      "path": "design-systems/company/runtime/specs/components/footer.json",
+      "sha256": "6503ceb55587b1537fee7af082788917419e3fb03bf86f57d55997da53baa179"
+    },
+    {
+      "key": "specs/components/grid.json",
+      "path": "design-systems/company/runtime/specs/components/grid.json",
+      "sha256": "9d103da55229e472509d01d7d0e811ad554c31e75e2048666c0cc88cc8408cb7"
+    },
+    {
+      "key": "specs/components/primitives.json",
+      "path": "design-systems/company/runtime/specs/components/primitives.json",
+      "sha256": "1b843452666d364d30df28495ddf8caa253fb170f988b245763121a557a0ac77"
+    },
+    {
+      "key": "specs/components/tables.json",
+      "path": "design-systems/company/runtime/specs/components/tables.json",
+      "sha256": "4de0ef624b9ca1abb7502f211185aeecbc08b8f0e8ab4f997be5bfa364349dc3"
+    },
+    {
+      "key": "specs/components/charts.json",
+      "path": "design-systems/company/runtime/specs/components/charts.json",
+      "sha256": "c00b1c614c3ff9a13f7ba78ebaf90ee9b638ac7bc1af829b12803bf2e57ff454"
+    },
+    {
+      "key": "specs/components/diagram-common.json",
+      "path": "design-systems/company/runtime/specs/components/diagram-common.json",
+      "sha256": "6b4bd39e12cf9d7160d777c0fbac18aa384a426dd823626fe328111bb3bdd67c"
+    },
+    {
+      "key": "specs/components/style-profile.json",
+      "path": "design-systems/company/runtime/specs/components/style-profile.json",
+      "sha256": "64d43df23d61fc2f720a2d2e393e1a2ea7e85d259699e1d06eacb22eec3385c7"
+    },
+    {
+      "key": "specs/components/spacing.json",
+      "path": "design-systems/company/runtime/specs/components/spacing.json",
+      "sha256": "e59cad978f80eb104ded8b6d9585223e0fcbe5f9ccf37bbd7da1ae655af7d78d"
+    },
+    {
+      "key": "specs/components/layers.json",
+      "path": "design-systems/company/runtime/specs/components/layers.json",
+      "sha256": "3899e8094acff6a3ef0f2c8ef1da640bb7af461db835e6ca51c7e8d7027ebb51"
+    },
+    {
+      "key": "specs/page-types.json",
+      "path": "design-systems/company/runtime/specs/page-types.json",
+      "sha256": "3d58fcaf00e2423d9e40345c388912daeb9a298f386e73bf597b663ec05f9119"
+    },
+    {
+      "key": "specs/pages/cover.json",
+      "path": "design-systems/company/runtime/specs/pages/cover.json",
+      "sha256": "e9d47da605d6fa51a84ff40ed2ad9af551a24ebde2c1c63a24cd94c5f246d221"
+    },
+    {
+      "key": "specs/pages/contents.json",
+      "path": "design-systems/company/runtime/specs/pages/contents.json",
+      "sha256": "13fcbd644ed53c5037accbf03ad51907260e02030888bb134a861dcb49169a0b"
+    },
+    {
+      "key": "specs/pages/section.json",
+      "path": "design-systems/company/runtime/specs/pages/section.json",
+      "sha256": "63f29ac8b673285d70a698d233a25bd72c593c7a0c25f53f8b641d8db0e0a794"
+    },
+    {
+      "key": "specs/pages/closing.json",
+      "path": "design-systems/company/runtime/specs/pages/closing.json",
+      "sha256": "aa387cd015cce452bfff54706098cf990d928159e6a8f620274dec117f8fb891"
+    },
+    {
+      "key": "specs/composition.json",
+      "path": "design-systems/company/runtime/specs/composition.json",
+      "sha256": "0831d184fb4079938db0b9b7b7af263f6e9c2d577ba4a13c9f090b27c2d8bba2"
+    },
+    {
+      "key": "specs/examples.json",
+      "path": "design-systems/company/runtime/specs/examples.json",
+      "sha256": "cc846cd41e2736d84c6812af54d9a32e29b8d4d93128bd902a9ab0a6131863b4"
+    },
+    {
+      "key": "specs/examples/overview.json",
+      "path": "design-systems/company/runtime/specs/examples/overview.json",
+      "sha256": "fd6be5836dfdbbc2eeac47cb23c38082d613ba82f3a8533f487eed9fd12d42b9"
+    },
+    {
+      "key": "specs/examples/mission.json",
+      "path": "design-systems/company/runtime/specs/examples/mission.json",
+      "sha256": "788a12474e2fbb95d1a3af4889f4172f8f64fcaa83d7cccad639f0f7e97b03bc"
+    },
+    {
+      "key": "specs/examples/members.json",
+      "path": "design-systems/company/runtime/specs/examples/members.json",
+      "sha256": "3e9d5b0f9e9443202893da32433c1614dc3e448cd41252aa209a488f55257abc"
+    },
+    {
+      "key": "specs/examples/business.json",
+      "path": "design-systems/company/runtime/specs/examples/business.json",
+      "sha256": "75a9b49f98573bf5c3fb5b35ec089cb04273af07b398d58c6f90803bf9f3ce73"
+    },
+    {
+      "key": "specs/examples/growth.json",
+      "path": "design-systems/company/runtime/specs/examples/growth.json",
+      "sha256": "5a470471fb96b65003c71876c1d01a9197a713a3deb5a90f64a709362d264195"
+    },
+    {
+      "key": "specs/examples/voices.json",
+      "path": "design-systems/company/runtime/specs/examples/voices.json",
+      "sha256": "1bc916e4f554b6c554fdf4435c85326f9f301c5a2e451ec37177009558de69e6"
+    },
+    {
+      "key": "specs/examples/culture.json",
+      "path": "design-systems/company/runtime/specs/examples/culture.json",
+      "sha256": "5a0bd9e7dc885e3636dec4235f4e7b14d71673c2b8a434f086198f4b7f0a50a0"
+    },
+    {
+      "key": "specs/examples/selection.json",
+      "path": "design-systems/company/runtime/specs/examples/selection.json",
+      "sha256": "68a4525cb0778dcc03cb622177ce2b2159845ac4ba625eb9272861ae92ad8a5a"
+    },
+    {
+      "key": "specs/exceptions.json",
+      "path": "design-systems/company/runtime/specs/exceptions.json",
+      "sha256": "b0ba3be351d6562cfb0dea6f26bed8e871be97363acf2d5964dfad62451a86e4"
+    },
+    {
+      "key": "specs/customer-settings.json",
+      "path": "design-systems/company/runtime/specs/customer-settings.json",
+      "sha256": "e30c755e71ca45f0c57f9af4f1e6385f191f4d7acdc469cdb73c7edb83983415"
+    },
+    {
+      "key": "specs/source-typography.json",
+      "path": "design-systems/company/runtime/specs/source-typography.json",
+      "sha256": "3dd7de57eccc4af2f11ea1a261cf49915957c65bc08419f9c1d42c97eb84c5b4"
+    },
+    {
+      "key": "specs/source-observations.json",
+      "path": "design-systems/company/runtime/specs/source-observations.json",
+      "sha256": "5a48426fad44abd95ac88aaafe71f61335b357bdd832f745aa4be89ee7a33e0b"
+    }
+  ],
+  "assets_base": "design-systems/company/runtime/assets/",
+  "source_policy": "Edit authoring_source; this manifest, specs and runtime view are generated."
+}

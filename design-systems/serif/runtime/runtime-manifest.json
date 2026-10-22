@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "design_system": "serif",
+  "source": "design-systems/serif/runtime/index.html",
+  "authoring_source": "design-systems/serif/index.html",
+  "specs": [
+    {
+      "key": "specs/colors-backgrounds.json",
+      "path": "design-systems/serif/runtime/specs/colors-backgrounds.json",
+      "sha256": "5dccbe7966ce8d42ec434742b82e32823ba9e49c110405968c63732a48956dc9"
+    },
+    {
+      "key": "specs/image-typography.json",
+      "path": "design-systems/serif/runtime/specs/image-typography.json",
+      "sha256": "eb9b297707748caf8ae6048ae856cadcc1bbc45bccf230b3c6553739f989d7a3"
+    },
+    {
+      "key": "specs/layout.json",
+      "path": "design-systems/serif/runtime/specs/layout.json",
+      "sha256": "a67e8d928bad345f92d5e4f348ef94c7c19c4549ef39e67308362c8634255755"
+    },
+    {
+      "key": "specs/components.json",
+      "path": "design-systems/serif/runtime/specs/components.json",
+      "sha256": "854c9416041f27993312d0bb4c01fe57fcfac4867b17f63984ab93262bbb8777"
+    },
+    {
+      "key": "specs/components/header.json",
+      "path": "design-systems/serif/runtime/specs/components/header.json",
+      "sha256": "d4ae214a55fc6bf017015dc9e2e090313b048941d8a901e26c624eb78ca1ebbc"
+    },
+    {
+      "key": "specs/components/footer.json",
+      "path": "design-systems/serif/runtime/specs/components/footer.json",
+      "sha256": "e92c2d690ab744e195f74abc03481c94aee84b78c1ee9b1cd9ed6f112ee37e49"
+    },
+    {
+      "key": "specs/components/grid.json",
+      "path": "design-systems/serif/runtime/specs/components/grid.json",
+      "sha256": "0742cca5dff96f9e4a5de06c36bd202e230304358c7679bc48d88b5abaa13c9d"
+    },
+    {
+      "key": "specs/components/primitives.json",
+      "path": "design-systems/serif/runtime/specs/components/primitives.json",
+      "sha256": "86d6029acf325898ee79cb451b14cbcf213a2e0d64cc3b7f32f0c91d5c5b2e8e"
+    },
+    {
+      "key": "specs/components/tables.json",
+      "path": "design-systems/serif/runtime/specs/components/tables.json",
+      "sha256": "708bbd494ef07cfb3af13a2d9a5e3adeceb7f787e0eb019ccb370bfe012a9166"
+    },
+    {
+      "key": "specs/components/charts.json",
+      "path": "design-systems/serif/runtime/specs/components/charts.json",
+      "sha256": "6fd95d9de63abb070f86fd35d0dcc8436093c7bc3b7d93159e2848ef57f683b2"
+    },
+    {
+      "key": "specs/components/diagram-common.json",
+      "path": "design-systems/serif/runtime/specs/components/diagram-common.json",
+      "sha256": "6b4bd39e12cf9d7160d777c0fbac18aa384a426dd823626fe328111bb3bdd67c"
+    },
+    {
+      "key": "specs/components/style-profile.json",
+      "path": "design-systems/serif/runtime/specs/components/style-profile.json",
+      "sha256": "d9f10f595d8814a7988cb3e78fb956046fafd2c997e56d3d331d07a843f230b5"
+    },
+    {
+      "key": "specs/components/spacing.json",
+      "path": "design-systems/serif/runtime/specs/components/spacing.json",
+      "sha256": "f165dbf724b6ea2645c17c902565e3831b333340a4544757749f9b6ed30d6868"
+    },
+    {
+      "key": "specs/components/layers.json",
+      "path": "design-systems/serif/runtime/specs/components/layers.json",
+      "sha256": "275082386f22085dd8bd75e64f86020b262f772f216976037228d453944cdf08"
+    },
+    {
+      "key": "specs/page-types.json",
+      "path": "design-systems/serif/runtime/specs/page-types.json",
+      "sha256": "f4c3b37a828d2f1b695efc074b33ab2fef1eda21e40c8a5646480c37c1af4d51"
+    },
+    {
+      "key": "specs/pages/cover.json",
+      "path": "design-systems/serif/runtime/specs/pages/cover.json",
+      "sha256": "db84ff7cf9b3e33be45fb375ea6d7f9f249441479881c439db0c74ebee984d91"
+    },
+    {
+      "key": "specs/pages/contents.json",
+      "path": "design-systems/serif/runtime/specs/pages/contents.json",
+      "sha256": "b25adeb453985011b48fb8f27a7568b00e54ee118adde1bf70b83342a77d6a27"
+    },
+    {
+      "key": "specs/pages/section.json",
+      "path": "design-systems/serif/runtime/specs/pages/section.json",
+      "sha256": "7ed05f061c5fbe6cf97f6feff29dd327476140830582a8a8a51929a9db5a7ee1"
+    },
+    {
+      "key": "specs/pages/closing.json",
+      "path": "design-systems/serif/runtime/specs/pages/closing.json",
+      "sha256": "7cff8144de034e2859e25666ce6a3dd60ecba53a1817bcca08573b63e8abe6ec"
+    },
+    {
+      "key": "specs/composition.json",
+      "path": "design-systems/serif/runtime/specs/composition.json",
+      "sha256": "e1e410caba5bb1be9d8dd87806df18d3aa227140f1de94d7ab7faca1b3ed9fa8"
+    },
+    {
+      "key": "specs/examples.json",
+      "path": "design-systems/serif/runtime/specs/examples.json",
+      "sha256": "cc846cd41e2736d84c6812af54d9a32e29b8d4d93128bd902a9ab0a6131863b4"
+    },
+    {
+      "key": "specs/examples/overview.json",
+      "path": "design-systems/serif/runtime/specs/examples/overview.json",
+      "sha256": "688e014681b2352fd03bba0875d72ceef8c3802a8d686e210ce426ddf5aa6a04"
+    },
+    {
+      "key": "specs/examples/mission.json",
+      "path": "design-systems/serif/runtime/specs/examples/mission.json",
+      "sha256": "52f31cf2d951782dc604389a4d5f843f9f37a4ec5f07f53a0a34428b67e35d84"
+    },
+    {
+      "key": "specs/examples/members.json",
+      "path": "design-systems/serif/runtime/specs/examples/members.json",
+      "sha256": "02766c46bab53c3ca4ac8a0e7495f5dfbab34facf2cc988a19bf93195df36767"
+    },
+    {
+      "key": "specs/examples/business.json",
+      "path": "design-systems/serif/runtime/specs/examples/business.json",
+      "sha256": "79792adb7f04f1b9939cd7c7732e98d16e13328b9465fb97e8e292c536b46d58"
+    },
+    {
+      "key": "specs/examples/growth.json",
+      "path": "design-systems/serif/runtime/specs/examples/growth.json",
+      "sha256": "ecda55a40cd5367baddadac7ea7e775c127910daa3ea60575a86f8359388b1a2"
+    },
+    {
+      "key": "specs/examples/voices.json",
+      "path": "design-systems/serif/runtime/specs/examples/voices.json",
+      "sha256": "ef8187025850c4354ec7d178180608d95da281ffce066ba9f014fe7a08b821c0"
+    },
+    {
+      "key": "specs/examples/culture.json",
+      "path": "design-systems/serif/runtime/specs/examples/culture.json",
+      "sha256": "10986e7b680d82233e8b028f0aaedcdbafea1f8d2c0d780f29d2c91cd3fc867f"
+    },
+    {
+      "key": "specs/examples/selection.json",
+      "path": "design-systems/serif/runtime/specs/examples/selection.json",
+      "sha256": "4ae72dc9911cdf7beeb169ed2a25b2d9164e0787535f35fe91e5d9806be8635d"
+    },
+    {
+      "key": "specs/exceptions.json",
+      "path": "design-systems/serif/runtime/specs/exceptions.json",
+      "sha256": "4b772f8736afab804ff2729377b210b6783ef399f776501e58ba41fe24b90c92"
+    },
+    {
+      "key": "specs/customer-settings.json",
+      "path": "design-systems/serif/runtime/specs/customer-settings.json",
+      "sha256": "0e51da39f1110394429ee917e9d21f379ec57c3e8da971cc3870b89237d9266b"
+    },
+    {
+      "key": "specs/source-typography.json",
+      "path": "design-systems/serif/runtime/specs/source-typography.json",
+      "sha256": "7550413d27ff50bc6c77f275c4ecf7b0b9fa374dc4b5bc3eae30d4db7a6f17ef"
+    },
+    {
+      "key": "specs/source-observations.json",
+      "path": "design-systems/serif/runtime/specs/source-observations.json",
+      "sha256": "01ed8a07af0c8179bef19d50f3714335a96b5c5051d0ed7fbd2e68767dd112e4"
+    }
+  ],
+  "assets_base": "design-systems/serif/runtime/assets/",
+  "source_policy": "Edit authoring_source; this manifest, specs and runtime view are generated."
+}

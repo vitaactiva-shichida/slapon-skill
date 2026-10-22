@@ -1,0 +1,8 @@
+{
+  "id": "C-EXAMPLE-CULTURE",
+  "page": "culture",
+  "page_type": false,
+  "components": "C-H01 + C-P04 + ドーナツ + C-F01",
+  "variable": "指標数・単位・構成比",
+  "overflow": "原本の8指標・5系列に固定しない。指標数に応じて再割付。"
+}

@@ -1,0 +1,17 @@
+{
+  "customer_id": "sample-company",
+  "company_name": "株式会社サンプル",
+  "edition": "standard",
+  "design_version": "0.2.0",
+  "is_demo": true,
+  "logos": {
+    "color_svg": "assets/logos/customer-color.svg",
+    "white_svg": "assets/logos/customer-white.svg"
+  },
+  "brand": {
+    "palette_id": "blue",
+    "primary_color": "#1457D9",
+    "accent_color": "#D89B34"
+  },
+  "design_system": "slapon-company"
+}

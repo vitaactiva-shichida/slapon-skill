@@ -1,0 +1,45 @@
+{
+  "canvas": [
+    1600,
+    900
+  ],
+  "selection": "内容と必要な余白から形状と背景色を独立して選ぶ。ページ種別への固定割当はしない。",
+  "patterns": [
+    {
+      "id": "B01",
+      "name": "大きな曲線ひとまとまり × 背景色あり",
+      "shape": "large",
+      "tone": "brand",
+      "source_page": "cover",
+      "file": "backgrounds/large-brand.svg",
+      "use": "表紙・キーメッセージなど、要素が少なく主題を強く見せる構成。"
+    },
+    {
+      "id": "B02",
+      "name": "大きな曲線ひとまとまり × 白背景",
+      "shape": "large",
+      "tone": "white",
+      "source_page": "overview",
+      "file": "backgrounds/large-white.svg",
+      "use": "短い説明や少数の項目を、白い余白と大きな流れで見せる構成。"
+    },
+    {
+      "id": "B03",
+      "name": "左上・右下の2まとまり × 背景色あり",
+      "shape": "corners",
+      "tone": "brand",
+      "source_page": "section",
+      "file": "backgrounds/corners-brand.svg",
+      "use": "中扉・宣言など、中央に見出しや短い文章をまとめて置く構成。"
+    },
+    {
+      "id": "B04",
+      "name": "左上・右下の2まとまり × 白背景",
+      "shape": "corners",
+      "tone": "white",
+      "source_page": "contents",
+      "file": "backgrounds/corners-white.svg",
+      "use": "表・グラフ・複数の部品など、中央の広い領域を使う構成。"
+    }
+  ]
+}

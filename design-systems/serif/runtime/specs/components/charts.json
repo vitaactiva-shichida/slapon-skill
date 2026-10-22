@@ -1,0 +1,71 @@
+{
+  "canvas": [
+    800,
+    450
+  ],
+  "observed": {
+    "bar": {
+      "plot": [
+        66,
+        230,
+        425,
+        115
+      ],
+      "baseline": 345,
+      "axis": [
+        0,
+        600
+      ],
+      "tick": 200,
+      "width": 42,
+      "pitch": 70,
+      "radius": 0,
+      "opacity": [
+        0.38,
+        0.48,
+        0.58,
+        0.68,
+        0.78,
+        1
+      ],
+      "value_size": 10,
+      "period_size": 8,
+      "sample_values": [
+        120,
+        180,
+        270,
+        360,
+        480,
+        600
+      ]
+    },
+    "donut": {
+      "center": [
+        655,
+        250
+      ],
+      "outer_radius": 85,
+      "inner_radius": 62.9,
+      "sample_values": [
+        30,
+        25,
+        20,
+        15,
+        10
+      ]
+    },
+    "kpi": {
+      "width": 110,
+      "pitch_x": 126,
+      "pitch_y": 115,
+      "number_size": 22,
+      "font": "Libre Baskerville",
+      "unit_size": 10,
+      "label_size": 8,
+      "filled_card": false,
+      "shadow": false
+    }
+  },
+  "policy": "値・単位・期間を明示し、元データから軸と形を計算。ドーナツの色と凡例を一致。影や丸いカードを追加しない。",
+  "palette_fix": "原本に残っていた青固定の系列色を配色の同系色へ展開し、凡例の主色も図形と一致させる。原本SVGは保持。"
+}

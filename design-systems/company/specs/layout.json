@@ -1,0 +1,19 @@
+{
+  "canvas": [
+    1600,
+    900
+  ],
+  "safe_x": [
+    80,
+    1520
+  ],
+  "new_body_y": 300,
+  "new_body_bottom": 820,
+  "observed_footer": [
+    20,
+    858,
+    1560,
+    24
+  ],
+  "background_not_grid": true
+}

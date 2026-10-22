@@ -1,0 +1,5370 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{{company_name}} | {{design_name}} Design System</title><style>@font-face{font-family:Guide;src:url(assets/fonts/NotoSansJP.ttf);font-weight:100 900}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f4f5f7;color:#202b3c;font:14px/1.8 Guide,"Noto Sans JP",sans-serif}nav{position:fixed;inset:0 auto 0 0;width:232px;padding:36px 24px;overflow:auto;background:#152236;color:#d2d9e3}nav b{color:white;display:block;font-size:22px;line-height:1.4;margin-bottom:8px}nav small{display:block;font-size:11px;letter-spacing:1.5px;margin-bottom:28px;color:#9bacbf}nav a{display:block;text-decoration:none;color:inherit;margin:14px 0;font-size:13px}a{color:#2356a8}main{margin-left:232px;padding:56px 4.5vw 100px;max-width:1700px}header{padding:0 0 40px;border-bottom:1px solid #dbe0e7;margin-bottom:40px}header .eyebrow{font-size:12px;letter-spacing:2px;color:#6b788b}h1{font-size:42px;line-height:1.4;margin:14px 0}h2{font-size:26px;margin:0 0 22px;letter-spacing:-.5px}h3{font-size:18px;margin:30px 0 12px}p{max-width:80em}section{scroll-margin-top:28px;margin:0 0 48px;padding:36px;background:white;border:1px solid #e2e6ec;border-radius:8px}section section{border:0;padding:0;margin:30px 0}figure{margin:0;min-width:0}svg{max-width:100%;height:auto;display:block}figure>svg,figure>img{width:100%;border:1px solid #d9dfe8;background:#fff}figcaption{font-size:12px;line-height:1.7;color:#667286;padding:10px 0 18px}img{display:block;max-width:100%}.brand-logo-preview>img{width:auto;max-width:100%;height:auto;border:0;background:transparent}.grid{display:grid;gap:24px}.two{grid-template-columns:repeat(2,minmax(0,1fr))}.three{grid-template-columns:repeat(3,minmax(0,1fr))}.four{grid-template-columns:repeat(4,minmax(0,1fr))}.note{background:#f0f4f9;border-left:3px solid #7c98bc;padding:14px 18px;font-size:13px}.swatches{display:grid;grid-template-columns:repeat(auto-fit,minmax(105px,1fr));gap:16px}.swatches i{display:block;height:60px;border:1px solid #dfe3e9;border-radius:4px;margin-bottom:8px}.swatches b,.swatches code{display:block;font-size:11px}table{width:100%;border-collapse:collapse;font-size:13px;margin:16px 0}th{text-align:left;color:#637084;background:#f5f7fa}th,td{padding:12px 14px;border-bottom:1px solid #dde3eb;vertical-align:top}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f7fa;padding:18px;font:12px/1.6 monospace;max-height:520px;overflow:auto}code{font:12px/1.7 monospace}details{margin-top:18px}summary{cursor:pointer;color:#51667e}.palette{padding:4px 0 24px;border-bottom:1px solid #e1e6ed}.hero{margin:24px 0}.wide{grid-column:1/-1}.badge{font-size:11px;display:inline-block;padding:3px 10px;background:#e9eef5;border-radius:20px;color:#536987}@media(max-width:1000px){nav{position:static;width:auto;padding:24px}nav a{display:inline-block;margin:6px 14px 6px 0}nav small{margin:8px 0}main{margin:0;padding:30px 18px}.two,.three,.four{grid-template-columns:1fr}section{padding:24px 18px}h1{font-size:32px}}@media print{nav{display:none}main{margin:0;padding:0}section{break-inside:avoid;border:0}details{display:none}}</style></head><body><nav><b>SLAPON<br>COMPANY</b><small>DESIGN SYSTEM · 0.2.0</small><a href="#overview">はじめに</a><a href="#brand">ブランド設定</a><a href="#background">4つの背景</a><a href="#typography">文字・行送り</a><a href="#component-header">ヘッダー</a><a href="#component-footer">フッター</a><a href="#component-grid">カラム・配置</a><a href="#component-primitives">カード・工程</a><a href="#component-table">表</a><a href="#component-chart">グラフ・KPI</a><a href="#diagram-common">図解の共通原則</a><a href="#component-style">Companyのスタイル</a><a href="#component-spacing">余白の密度</a><a href="#component-layers">重なり・透明度</a><a href="#frames">基本フレーム</a><a href="#compositions">組み合わせ例</a><a href="#exceptions">長文・例外</a><a href="#assets">素材</a><a href="#source-observations">観察値</a></nav><main><header><div class="eyebrow">SLAPON / CUSTOMER DESIGN SYSTEM</div><h1>{{design_name}}</h1><p>{{company_name}} ／ 社名・ロゴ・カラーを差し替えるためのデザイン原本</p><span class="badge">DUMMY BRAND · NOT A CUSTOMER DELIVERY</span></header><section id="overview" data-reference="design.md"><h2>01 — デザインの考え方</h2><p>詳細定義：<a href="#brand">ブランド設定</a> ／ <a href="#background">4つの背景</a> ／ <a href="#typography">文字・行送り</a> ／ <a href="#component-header">ヘッダー</a> ／ <a href="#component-footer">フッター</a> ／ <a href="#component-grid">カラム・配置</a> ／ <a href="#component-primitives">カード・工程</a> ／ <a href="#component-table">表</a> ／ <a href="#component-chart">グラフ・KPI</a> ／ <a href="#diagram-common">図解の共通原則</a> ／ <a href="#component-style">Companyのスタイル</a> ／ <a href="#component-spacing">余白の密度</a> ／ <a href="#component-layers">重なり・透明度</a> ／ <a href="#frames">基本フレーム</a> ／ <a href="#compositions">組み合わせ例</a> ／ <a href="#exceptions">長文・例外</a> ／ <a href="#assets">素材</a> ／ <a href="#source-observations">観察値</a></p><p>ゴシック体の明快な階層と、6本の曲線が重なる企業向けのスタイル。大きな流れと対角の曲線、主色の面と白い面を、内容に合わせて選びます。</p><div class="hero">{{page.cover}}</div><p class="note">ここにある人物・会社紹介文・数値はレイアウト用の見本です。顧客の事実や実績として使用せず、制作時に差し替えます。ロゴは自作のSAMPLEマークです。</p><p>Figmaから観察した配置・文字サイズを基準にしています。ロゴの追加と図解の運用ルールは、この雛形で定めた拡張です。スライド画像の生成やPowerPointの編集確認は、別の工程で実施します。</p></section><section id="brand" data-reference="brand.md"><h2>02 — ブランド設定</h2><p><b>{{company_name}}</b> ／ <a href="brand-input.json">設定JSON</a></p><p>正式社名、カラー版・白版ロゴ、配色を設定し、同じ描画処理でこの確認ページを再生成します。既存顧客ではcustomer.jsonと採用設定を正本とし、出力のbrand-input.jsonは参照用の控えです。</p>{{swatches}}<div class="grid two"><figure class="brand-logo-preview"><img src="assets/logos/customer-color.svg" alt="カラー版ロゴ"><figcaption>明るい背景：カラー版。外側の不要な余白を除き、輪郭・縦横比・指定色を保持。背景は透明。</figcaption></figure><figure class="brand-logo-preview" style="background:#243044;padding:24px"><img src="assets/logos/customer-white.svg" alt="白版ロゴ"><figcaption style="color:white">濃い背景：白版。背景は透明。白い下地を追加せず、ロゴの背後へ図解や罫線を通さない。</figcaption></figure></div><p>Company／Serifはデザインの識別子です。契約プランのeditionとは別にdesign_systemで指定します。正式ロゴが未確定なら、確認済み・納品可能として扱いません。</p></section><section id="background" data-reference="colors-backgrounds.md"><h2>03 — 背景の構造</h2>
+<p>背景は、模様の配置2種類と、背景色2種類を組み合わせた4パターンから選びます。「大きな曲線ひとまとまり」と「左上・右下の2まとまり」は別の構造です。それぞれに主色の背景と白背景を用意します。</p>
+<table><thead><tr><th>模様の配置</th><th>背景色あり（主色）</th><th>白背景</th></tr></thead><tbody><tr><td>大きな曲線ひとまとまり</td><td>B01：主題を大きく見せる</td><td>B02：余白のある簡潔な説明</td></tr><tr><td>左上・右下の2まとまり</td><td>B03：中央に短い見出し・宣言</td><td>B04：中央に表・グラフ・複数部品</td></tr></tbody></table>
+{{background_variants}}
+<h3>内容に応じた選び方</h3>
+<p>最初に、文字・図解・表が必要とする余白と配置を決めます。大きな流れを見せたい場合はひとまとまり、中央の情報を囲む場合は2まとまりを選びます。次に、主題を強く見せる背景色あり／説明や図表の読みやすさを優先する白背景を選びます。</p>
+<p>上の用途は選択の目安です。「表紙はB01」「本文はB04」のようにページ名だけで固定しません。曲線と文字・図表が重なる場合は、背景パターンや部品の配置を調整して可読性を確保します。余白が足りない状態を文字の縮小で解決しません。</p>
+<h3>形と色を保持するルール</h3>
+<p>背景はSVGを正本にします。既存素材の曲線の輪郭、描画順、マスク、クリップ、グラデーションの方向・ストップ位置、グループとストップの透明度を保持し、色の役割に対応する塗り色のみを置換します。文字・ロゴ・表の罫線を含まない背景単体として書き出します。</p>
+<p>背景色ありは主色の面に白い曲線を重ね、白背景は白い面に主色の曲線を淡く重ねます。曲線の透明度は元素材を保持します。白背景を、背景色ありのSVG全体の透明度を下げる方法で作りません。</p>
+<details><summary>4パターンの定義JSON</summary><pre data-json="specs/backgrounds.json">{
+  "canvas": [
+    1600,
+    900
+  ],
+  "selection": "内容と必要な余白から形状と背景色を独立して選ぶ。ページ種別への固定割当はしない。",
+  "patterns": [
+    {
+      "id": "B01",
+      "name": "大きな曲線ひとまとまり × 背景色あり",
+      "shape": "large",
+      "tone": "brand",
+      "source_page": "cover",
+      "file": "backgrounds/large-brand.svg",
+      "use": "表紙・キーメッセージなど、要素が少なく主題を強く見せる構成。"
+    },
+    {
+      "id": "B02",
+      "name": "大きな曲線ひとまとまり × 白背景",
+      "shape": "large",
+      "tone": "white",
+      "source_page": "overview",
+      "file": "backgrounds/large-white.svg",
+      "use": "短い説明や少数の項目を、白い余白と大きな流れで見せる構成。"
+    },
+    {
+      "id": "B03",
+      "name": "左上・右下の2まとまり × 背景色あり",
+      "shape": "corners",
+      "tone": "brand",
+      "source_page": "section",
+      "file": "backgrounds/corners-brand.svg",
+      "use": "中扉・宣言など、中央に見出しや短い文章をまとめて置く構成。"
+    },
+    {
+      "id": "B04",
+      "name": "左上・右下の2まとまり × 白背景",
+      "shape": "corners",
+      "tone": "white",
+      "source_page": "contents",
+      "file": "backgrounds/corners-white.svg",
+      "use": "表・グラフ・複数の部品など、中央の広い領域を使う構成。"
+    }
+  ]
+}</pre></details>
+<h3>色替えの見本</h3><p>下の3色はB01の色替え例です。模様の4パターンとは分けて管理します。</p>{{background_gallery}}
+<p class="note">正式ロゴは独立した素材として保持し、背景の色替えに巻き込みません。主色が明るい場合は、文字とロゴのコントラストを再確認します。</p></section><section id="typography" data-reference="image-typography.md"><h2>04 — 文字の階層・行送り・長文の処理</h2><p>和文はNoto Sans JP、欧文の大見出しと独立した数字はArimo。400／500／700を役割で使い分けます。文字サイズは1600×900の参照pxで記録します。PowerPointが13⅓×7.5インチなら1px＝0.6ptです。</p><table><thead><tr><th>ID・役割</th><th>書体</th><th>サイズ / 行送り</th><th>太さ</th><th>収め方</th></tr></thead><tbody><tr><td>C-T-COVER / 表紙・欧文</td><td>Arimo</td><td>100 / 116</td><td>700</td><td>100 → 96 → 88 / 最大2行</td></tr><tr><td>C-T-CHAPTER / 中扉・欧文</td><td>Arimo</td><td>96 / 120</td><td>400</td><td>96 → 88 → 80 / 最大2行</td></tr><tr><td>C-T01 / 本文見出し</td><td>Noto Sans JP</td><td>44 / 64</td><td>700</td><td>44 → 40 → 36 / 最大2行</td></tr><tr><td>C-T02 / 小見出し</td><td>Noto Sans JP</td><td>28 / 42</td><td>700</td><td>役割内で統一</td></tr><tr><td>C-T03 / 本文</td><td>Noto Sans JP</td><td>20 / 32</td><td>400</td><td>事業カード等の実値。新規投影資料は24〜28pxを候補に情報量を減らす</td></tr><tr><td>C-T04 / 人物・工程の詳細</td><td>Noto Sans JP</td><td>17 / 28</td><td>400</td><td>役割内で統一</td></tr><tr><td>C-T05 / ラベル・注記</td><td>Noto Sans JP</td><td>14 / 22</td><td>400</td><td>役割内で統一</td></tr><tr><td>C-T06 / ヘッダーのラベル</td><td>Noto Sans JP</td><td>16 / 24</td><td>500</td><td>役割内で統一</td></tr><tr><td>C-T07 / フッター</td><td>Noto Sans JP</td><td>14 / 22</td><td>400</td><td>役割内で統一</td></tr><tr><td>C-T-KPI / 数値</td><td>Arimo</td><td>48 / 58</td><td>700</td><td>原本48。行送り58は新規部品の提案</td></tr><tr><td>C-T-NUMBER / 目次番号</td><td>Arimo</td><td>72 / 88</td><td>400</td><td>役割内で統一</td></tr></tbody></table><figure>{{detail.type-ladder}}<figcaption>文字階層の見本。64pxを超える表紙・中扉の文字はこの部品見本内だけ64pxへ縮めて表示し、上表の実値を優先。</figcaption></figure><p>原本の本文20pxはPowerPointで12pt、人物紹介17pxは10.2ptです。配布用の原本値と、遠くから見る資料の推奨値を分けます。投影では本文24〜28px、行送り36〜42pxを初期候補にし、情報を削るか分割して領域を確保します。</p><p>同じフォント・太さ・色の文章は、改行を含む一つのテキストボックスにまとめます。太字など一部だけ異なる場合は同じボックスのrunで表現。行の見かけだけをそろえるために文章を別々のボックスへ分割しません。代替書体を使った場合は改行・数字幅・文字切れを再確認します。</p><details><summary>原本全ページのフォント実測一覧</summary><table><thead><tr><th>書体</th><th>元px</th><th>PPT pt</th></tr></thead><tbody>{{type_rows}}</tbody></table></details><details><summary>仕様データ</summary><pre data-json="specs/image-typography.json">{
+  "canvas": [
+    1600,
+    900
+  ],
+  "unit": "reference_px",
+  "jp": "Noto Sans JP",
+  "latin": "Arimo",
+  "fallback": [
+    "Yu Gothic",
+    "Arial"
+  ],
+  "ppt_conversion": "px × slide_width_pt / 1600。960pt幅なら×0.6。",
+  "roles": [
+    {
+      "id": "C-T-COVER",
+      "name": "表紙・欧文",
+      "font": "Arimo",
+      "size": 100,
+      "leading": 116,
+      "weight": 700,
+      "steps": [
+        100,
+        96,
+        88
+      ],
+      "max_lines": 2,
+      "basis": "原本100/116。縮小段階は提案"
+    },
+    {
+      "id": "C-T-CHAPTER",
+      "name": "中扉・欧文",
+      "font": "Arimo",
+      "size": 96,
+      "leading": 120,
+      "weight": 400,
+      "steps": [
+        96,
+        88,
+        80
+      ],
+      "max_lines": 2,
+      "basis": "原本96/120。縮小段階は提案"
+    },
+    {
+      "id": "C-T01",
+      "name": "本文見出し",
+      "font": "Noto Sans JP",
+      "size": 44,
+      "leading": 64,
+      "weight": 700,
+      "steps": [
+        44,
+        40,
+        36
+      ],
+      "max_lines": 2,
+      "basis": "原本44/64。長文処理は提案"
+    },
+    {
+      "id": "C-T02",
+      "name": "小見出し",
+      "font": "Noto Sans JP",
+      "size": 28,
+      "leading": 42,
+      "weight": 700
+    },
+    {
+      "id": "C-T03",
+      "name": "本文",
+      "font": "Noto Sans JP",
+      "size": 20,
+      "leading": 32,
+      "weight": 400,
+      "basis": "事業カード等の実値。新規投影資料は24〜28pxを候補に情報量を減らす"
+    },
+    {
+      "id": "C-T04",
+      "name": "人物・工程の詳細",
+      "font": "Noto Sans JP",
+      "size": 17,
+      "leading": 28,
+      "weight": 400
+    },
+    {
+      "id": "C-T05",
+      "name": "ラベル・注記",
+      "font": "Noto Sans JP",
+      "size": 14,
+      "leading": 22,
+      "weight": 400
+    },
+    {
+      "id": "C-T06",
+      "name": "ヘッダーのラベル",
+      "font": "Noto Sans JP",
+      "size": 16,
+      "leading": 24,
+      "weight": 500
+    },
+    {
+      "id": "C-T07",
+      "name": "フッター",
+      "font": "Noto Sans JP",
+      "size": 14,
+      "leading": 22,
+      "weight": 400
+    },
+    {
+      "id": "C-T-KPI",
+      "name": "数値",
+      "font": "Arimo",
+      "size": 48,
+      "leading": 58,
+      "weight": 700,
+      "basis": "原本48。行送り58は新規部品の提案"
+    },
+    {
+      "id": "C-T-NUMBER",
+      "name": "目次番号",
+      "font": "Arimo",
+      "size": 72,
+      "leading": 88,
+      "weight": 400
+    }
+  ],
+  "paragraph_policy": "同一書式の段落は一つのテキストボックス。行ごとの分割はしない。部分的な強調は同一ボックス内のrunで保持。",
+  "source_policy": "原本の小さい文字を通常本文の標準にしない。投影と配布の用途を分け、文字サイズの前に情報量を調整。",
+  "drawing": {
+    "id": "type-ladder",
+    "title": "Companyの文字階層",
+    "canvas": [
+      1600,
+      889
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 889,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 24,
+        "w": 400,
+        "h": 50,
+        "text": "C-T-COVER / 100px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 24,
+        "w": 1090,
+        "h": 232,
+        "text": "Business Impact",
+        "size": 64,
+        "leading": 78,
+        "fill_role": "text",
+        "weight": 700,
+        "font": "Arimo"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 128,
+        "w": 400,
+        "h": 50,
+        "text": "C-T-CHAPTER / 96px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 128,
+        "w": 1090,
+        "h": 240,
+        "text": "Business Impact",
+        "size": 64,
+        "leading": 78,
+        "fill_role": "text",
+        "weight": 400,
+        "font": "Arimo"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 232,
+        "w": 400,
+        "h": 50,
+        "text": "C-T01 / 44px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 232,
+        "w": 1090,
+        "h": 128,
+        "text": "本文見出し：情報を明快に伝える。",
+        "size": 44,
+        "leading": 64,
+        "fill_role": "text",
+        "weight": 700,
+        "font": "Noto Sans JP"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 323,
+        "w": 400,
+        "h": 50,
+        "text": "C-T02 / 28px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 323,
+        "w": 1090,
+        "h": 84,
+        "text": "小見出し：情報を明快に伝える。",
+        "size": 28,
+        "leading": 42,
+        "fill_role": "text",
+        "weight": 700,
+        "font": "Noto Sans JP"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 414,
+        "w": 400,
+        "h": 50,
+        "text": "C-T03 / 20px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 414,
+        "w": 1090,
+        "h": 65,
+        "text": "本文：情報を明快に伝える。",
+        "size": 20,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400,
+        "font": "Noto Sans JP"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 505,
+        "w": 400,
+        "h": 50,
+        "text": "C-T04 / 17px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 505,
+        "w": 1090,
+        "h": 65,
+        "text": "人物・工程の詳細：情報を明快に伝える。",
+        "size": 17,
+        "leading": 28,
+        "fill_role": "text",
+        "weight": 400,
+        "font": "Noto Sans JP"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 596,
+        "w": 400,
+        "h": 50,
+        "text": "C-T05 / 14px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 596,
+        "w": 1090,
+        "h": 65,
+        "text": "ラベル・注記：情報を明快に伝える。",
+        "size": 14,
+        "leading": 22,
+        "fill_role": "text",
+        "weight": 400,
+        "font": "Noto Sans JP"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 687,
+        "w": 400,
+        "h": 50,
+        "text": "C-T06 / 16px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 687,
+        "w": 1090,
+        "h": 65,
+        "text": "ヘッダーのラベル：情報を明快に伝える。",
+        "size": 16,
+        "leading": 24,
+        "fill_role": "text",
+        "weight": 500,
+        "font": "Noto Sans JP"
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 778,
+        "w": 400,
+        "h": 50,
+        "text": "C-T07 / 14px",
+        "size": 22,
+        "leading": 33.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 460,
+        "y": 778,
+        "w": 1090,
+        "h": 65,
+        "text": "フッター：情報を明快に伝える。",
+        "size": 14,
+        "leading": 22,
+        "fill_role": "text",
+        "weight": 400,
+        "font": "Noto Sans JP"
+      }
+    ]
+  }
+}</pre></details></section><section id="layout" data-reference="layout.md"><h2>05 — 余白・固定領域・カラムの考え方</h2><p>画面は1600×900。基本の左右安全域80pxと、本文・フッター・ロゴの独立した領域を保ちます。背景の曲線は画面端で切れますが、内容の文字・矢印・ラベルは安全域の内側に配置します。</p><table><thead><tr><th>領域</th><th>Companyの基準</th><th>扱い</th></tr></thead><tbody><tr><td>ヘッダー</td><td>英語ラベルy42、日本語見出しy78</td><td>C-H01の文字階層。Standardの上段バーを追加しない。</td></tr><tr><td>本文</td><td>内容に応じてy180以降、説明を含む図解はy300を初期目安</td><td>見出しの行数と説明文の下端から再計算。</td></tr><tr><td>本文下端</td><td>新原稿はy820を目安</td><td>注記・出典があれば本文を短くする。</td></tr><tr><td>フッター</td><td>原本x20 / y858 / w1560、文字基準線875.6</td><td>本文の左右80と異なる固有の領域。</td></tr><tr><td>カラム</td><td>12ユニット・間隔24px</td><td>背景4パターンとは独立。原本の固有配置は保持。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/layout.json">{
+  "canvas": [
+    1600,
+    900
+  ],
+  "safe_x": [
+    80,
+    1520
+  ],
+  "new_body_y": 300,
+  "new_body_bottom": 820,
+  "observed_footer": [
+    20,
+    858,
+    1560,
+    24
+  ],
+  "background_not_grid": true
+}</pre></details></section><section id="components" data-reference="components.md"><h2>06 — コンポーネントの役割と可変部分</h2><p>ヘッダー、フッター、文字、カラム、背景、カード、写真、工程、表、グラフを独立した部品として定義します。寸法の観察値と、新原稿へ組み直すときの提案を分けます。</p><table><thead><tr><th>部品</th><th>詳細</th></tr></thead><tbody><tr><td>C-H01 / C-F01</td><td>背景に合わせたヘッダー・フッターとロゴ</td></tr><tr><td>C-T / C-G</td><td>文字階層と意味に合わせたカラム</td></tr><tr><td>C-P01–P06</td><td>カード・人物・工程・数値・接続・写真</td></tr><tr><td>C-TABLE / C-CHART</td><td>比較軸・単位・元データを含む表とグラフ</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/components.json">{
+  "component_ids": [
+    "C-H01",
+    "C-F01",
+    "C-T",
+    "C-G01–G06",
+    "C-P01–P06",
+    "C-TABLE",
+    "C-CHART"
+  ]
+}</pre></details></section><section id="component-header" data-reference="components/header.md"><h2>C-H01｜ヘッダー：ラベル・見出し・ロゴ</h2><p>Companyのヘッダーは英語ラベルと日本語のページ見出しを縦に組みます。見出しは本文の結論を示し、フッターの発行元やページ番号と分離します。</p><div class="grid two"><figure>{{component.header}}<figcaption>白・淡い背景：濃い見出しとカラー版ロゴ。</figcaption></figure><figure>{{component.header-dark}}<figcaption>背景色あり：onmainの文字と対応するロゴ版。ロゴは独立要素。</figcaption></figure></div><table><thead><tr><th>要素</th><th>Companyの基準（参照px）</th><th>収まらないとき</th></tr></thead><tbody><tr><td>ラベル</td><td>x80 / y42 / 16px Medium / 行送り24 / 基準線60.4</td><td>長いラベルは語を整理。表題とは別の役割を保つ。</td></tr><tr><td>見出し</td><td>x80 / y78 / 44px Bold / 行送り64 / 基準線127.6</td><td>新原稿は44→40→36px、最大2行を初期目安にする。</td></tr><tr><td>ロゴ</td><td>x1330 / y40 / w190 / h52、等比内接</td><td>文字の右端1306までを目安にし、24pxの間隔を確保。</td></tr><tr><td>本文開始</td><td>1行ならy180を初期目安</td><td>見出しが2行なら、見出し下端＋38px以降へ本文を送る。説明文があればその下端＋32px。</td></tr></tbody></table><p class="note">ラベル・見出しの位置と基準線は原本からの観察値。ロゴ枠、長文のサイズ段階、本文開始の計算は雛形の運用提案です。既存見本の配置は保持し、新原稿へ適用します。</p><details><summary>仕様データ</summary><pre data-json="specs/components/header.json">{
+  "id": "C-H01",
+  "observed": {
+    "region": [
+      80,
+      42,
+      1440,
+      100
+    ],
+    "label": {
+      "x": 80,
+      "y": 42,
+      "size": 16,
+      "weight": 500,
+      "leading": 24,
+      "baseline": 60.4
+    },
+    "title": {
+      "x": 80,
+      "y": 78,
+      "size": 44,
+      "weight": 700,
+      "leading": 64,
+      "baseline": 127.6
+    },
+    "automatic_underline": false
+  },
+  "logo": {
+    "box": [
+      1368,
+      40,
+      152,
+      42
+    ],
+    "status": "雛形で追加したロゴ領域。表示幅を190pxから152pxへ20%縮小し、右端1520pxを維持。",
+    "fit": "contain, preserve aspect ratio",
+    "clearance": 24,
+    "plate": false,
+    "asset_policy": "不要な外側余白をトリミングし、透過背景を保持。白い下地を追加しない。"
+  },
+  "proposed": {
+    "text_max_right": 1306,
+    "title_width": 1226,
+    "title_size_steps": [
+      44,
+      40,
+      36
+    ],
+    "title_max_lines": 2,
+    "body_min_y": 180,
+    "body_gap_after_title": 38,
+    "subtitle_gap": 16,
+    "body_gap_after_subtitle": 32
+  },
+  "variants": {
+    "light": {
+      "ink": "text",
+      "label": "primaryInk",
+      "logo": "color"
+    },
+    "tint": {
+      "ink": "inkSurface",
+      "label": "primaryInkSurface",
+      "logo": "color"
+    },
+    "dark": {
+      "ink": "onmain",
+      "label": "onmain",
+      "logo": "white when onmain is white"
+    }
+  },
+  "omit_when": [
+    "cover",
+    "contents-side-heading",
+    "section",
+    "mission-special",
+    "closing"
+  ],
+  "source_policy": "上のラベルはページ内の見出し。Standardの80pxパンくずバーや短い下線を自動追加しない。"
+}</pre></details></section><section id="component-footer" data-reference="components/footer.md"><h2>C-F01｜フッター：発行元・ページ番号・出典</h2><div class="grid two"><figure>{{component.footer-light}}<figcaption>白背景：発行元とページ番号の右アンカーを保持。</figcaption></figure><figure>{{component.footer-color}}<figcaption>背景色あり：文字の直下で濃淡を判断。余計な白帯や罫線を加えない。</figcaption></figure></div><table><thead><tr><th>要素</th><th>配置</th><th>規則</th></tr></thead><tbody><tr><td>発行元</td><td>x20 / 基準線875.6 / 14px Regular</td><td>正式社名・発行元。長い場合は正式な表示用名称を確認する。</td></tr><tr><td>ページ番号</td><td>右端1580 / 基準線875.6 / 14px</td><td>桁数が増えても右端を動かさない。</td></tr><tr><td>本文下端</td><td>新原稿はy820を目安</td><td>原本の実績ページは基準線826の節目説明を保持。新原稿へ無条件にコピーしない。</td></tr><tr><td>出典・注記（任意）</td><td>x80〜1520 / 基準線832 / 14pxを初期目安</td><td>長文なら本文領域を短くする。発行元とは別のテキストボックス。</td></tr></tbody></table><p>左の発行元と右の番号は、背景の色が異なればそれぞれ判定します。淡色面はtext／inkSurface、主色面はonmain。背景の曲線を横切る場合は、文字を移すか背景パターンを選び直して可読性を保ちます。</p><details><summary>仕様データ</summary><pre data-json="specs/components/footer.json">{
+  "id": "C-F01",
+  "observed": {
+    "region": [
+      20,
+      858,
+      1560,
+      24
+    ],
+    "company": {
+      "x": 20,
+      "baseline": 875.6,
+      "size": 14,
+      "weight": 400
+    },
+    "page": {
+      "right": 1580,
+      "baseline": 875.6,
+      "size": 14,
+      "align": "right"
+    },
+    "border": false
+  },
+  "proposed": {
+    "body_bottom": 820,
+    "optional_source": {
+      "x": 80,
+      "baseline": 832,
+      "size": 14,
+      "max_right": 1520
+    },
+    "local_surface_policy": "発行元とページ番号を別々に、その直下の背景で判断。"
+  },
+  "variants": [
+    "light",
+    "tint",
+    "dark",
+    "local-background"
+  ],
+  "omit_when": [
+    "cover"
+  ],
+  "source_note": "出典は発行元の行に詰め込まず、本文末の別領域に置く。"
+}</pre></details></section><section id="component-grid" data-reference="components/grid.md"><h2>C-G01–G06｜カラム：幅・間隔・非対称の割付</h2><p>左右80px、有効幅1440pxを12ユニットで割り付けます。Standardの考え方を使い、Companyでは24pxの間隔を基本にします。原本の3事業カードの464px幅と一致します。</p><table><thead><tr><th>計算</th><th>参照px</th></tr></thead><tbody><tr><td>ユニット幅</td><td>(1440 − 11×24) ÷ 12 = 98</td></tr><tr><td>nユニットの幅</td><td>n×98 ＋ (n−1)×24</td></tr><tr><td>開始位置</td><td>80 ＋ 開始ユニット数×122</td></tr><tr><td>縦方向の初期目安</td><td>本文y300〜820。説明文や出典に応じて再配分</td></tr></tbody></table><figure>{{detail.grid-schemes}}<figcaption>同じグリッドを背景なし・カードなしでも使用。4つの背景パターンとカラム数は独立して選ぶ。</figcaption></figure><table><thead><tr><th>構成</th><th>列のx / 幅</th></tr></thead><tbody><tr><td>C-G01 1カラム</td><td>x80 / w1440.0</td></tr><tr><td>C-G02 2カラム</td><td>x80 / w708.0 ／ x812.0 / w708.0</td></tr><tr><td>C-G03 3カラム</td><td>x80 / w464.0 ／ x568.0 / w464.0 ／ x1056.0 / w464.0</td></tr><tr><td>C-G04 4カラム</td><td>x80 / w342.0 ／ x446.0 / w342.0 ／ x812.0 / w342.0 ／ x1178.0 / w342.0</td></tr><tr><td>C-G05 左1：右2</td><td>x80 / w464.0 ／ x568.0 / w952.0</td></tr><tr><td>C-G06 左2：右1</td><td>x80 / w952.0 ／ x1056.0 / w464.0</td></tr></tbody></table><p>原本の人物紹介はx80と840から始まる固有の2列、KPIは幅960内に228px×4列・間隔16pxという別の割付です。既存の作例を12ユニットへ強制的に正規化しません。新原稿で同じ役割の列を比較するときは、見出し・本文・数値の位置と文字サイズをそろえます。</p><details><summary>仕様データ</summary><pre data-json="specs/components/grid.json">{
+  "canvas": [
+    1600,
+    900
+  ],
+  "left": 80,
+  "right": 1520,
+  "width": 1440,
+  "units": 12,
+  "gutter": 24,
+  "unit_width": 98.0,
+  "body_y": 300,
+  "body_bottom": 820,
+  "basis": "Standardの12カラムの考え方を継承し、Companyの3事業カード（464幅・24間隔）と一致するgutter24を採用。新原稿用の割付。",
+  "schemes": [
+    {
+      "id": "C-G01",
+      "name": "1カラム",
+      "spans": [
+        12
+      ],
+      "columns": [
+        {
+          "x": 80,
+          "width": 1440.0,
+          "span": 12
+        }
+      ]
+    },
+    {
+      "id": "C-G02",
+      "name": "2カラム",
+      "spans": [
+        6,
+        6
+      ],
+      "columns": [
+        {
+          "x": 80,
+          "width": 708.0,
+          "span": 6
+        },
+        {
+          "x": 812.0,
+          "width": 708.0,
+          "span": 6
+        }
+      ]
+    },
+    {
+      "id": "C-G03",
+      "name": "3カラム",
+      "spans": [
+        4,
+        4,
+        4
+      ],
+      "columns": [
+        {
+          "x": 80,
+          "width": 464.0,
+          "span": 4
+        },
+        {
+          "x": 568.0,
+          "width": 464.0,
+          "span": 4
+        },
+        {
+          "x": 1056.0,
+          "width": 464.0,
+          "span": 4
+        }
+      ]
+    },
+    {
+      "id": "C-G04",
+      "name": "4カラム",
+      "spans": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "columns": [
+        {
+          "x": 80,
+          "width": 342.0,
+          "span": 3
+        },
+        {
+          "x": 446.0,
+          "width": 342.0,
+          "span": 3
+        },
+        {
+          "x": 812.0,
+          "width": 342.0,
+          "span": 3
+        },
+        {
+          "x": 1178.0,
+          "width": 342.0,
+          "span": 3
+        }
+      ]
+    },
+    {
+      "id": "C-G05",
+      "name": "左1：右2",
+      "spans": [
+        4,
+        8
+      ],
+      "columns": [
+        {
+          "x": 80,
+          "width": 464.0,
+          "span": 4
+        },
+        {
+          "x": 568.0,
+          "width": 952.0,
+          "span": 8
+        }
+      ]
+    },
+    {
+      "id": "C-G06",
+      "name": "左2：右1",
+      "spans": [
+        8,
+        4
+      ],
+      "columns": [
+        {
+          "x": 80,
+          "width": 952.0,
+          "span": 8
+        },
+        {
+          "x": 1056.0,
+          "width": 464.0,
+          "span": 4
+        }
+      ]
+    }
+  ],
+  "original_exceptions": {
+    "profiles": {
+      "lefts": [
+        80,
+        840
+      ],
+      "text_lefts": [
+        300,
+        1060
+      ],
+      "text_width": 460
+    },
+    "kpi_area": {
+      "left": 80,
+      "width": 960,
+      "card_width": 228,
+      "gutter": 16,
+      "donut_center": [
+        1305,
+        525
+      ]
+    }
+  },
+  "drawing": {
+    "id": "grid-schemes",
+    "title": "Company 12カラムの割り付け",
+    "canvas": [
+      1600,
+      650
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 650,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 20,
+        "w": 1440,
+        "h": 36,
+        "text": "C-G01 / 1カラム",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 58,
+        "w": 1440.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 64,
+        "w": 1440.0,
+        "h": 34,
+        "text": "12 / 1440.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 114,
+        "w": 1440,
+        "h": 36,
+        "text": "C-G02 / 2カラム",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 152,
+        "w": 708.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 158,
+        "w": 708.0,
+        "h": 34,
+        "text": "6 / 708.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 812.0,
+        "y": 152,
+        "w": 708.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 812.0,
+        "y": 158,
+        "w": 708.0,
+        "h": 34,
+        "text": "6 / 708.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 208,
+        "w": 1440,
+        "h": 36,
+        "text": "C-G03 / 3カラム",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 246,
+        "w": 464.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 252,
+        "w": 464.0,
+        "h": 34,
+        "text": "4 / 464.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 568.0,
+        "y": 246,
+        "w": 464.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 568.0,
+        "y": 252,
+        "w": 464.0,
+        "h": 34,
+        "text": "4 / 464.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 1056.0,
+        "y": 246,
+        "w": 464.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 1056.0,
+        "y": 252,
+        "w": 464.0,
+        "h": 34,
+        "text": "4 / 464.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 302,
+        "w": 1440,
+        "h": 36,
+        "text": "C-G04 / 4カラム",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 340,
+        "w": 342.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 346,
+        "w": 342.0,
+        "h": 34,
+        "text": "3 / 342.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 446.0,
+        "y": 340,
+        "w": 342.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 446.0,
+        "y": 346,
+        "w": 342.0,
+        "h": 34,
+        "text": "3 / 342.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 812.0,
+        "y": 340,
+        "w": 342.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 812.0,
+        "y": 346,
+        "w": 342.0,
+        "h": 34,
+        "text": "3 / 342.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 1178.0,
+        "y": 340,
+        "w": 342.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 1178.0,
+        "y": 346,
+        "w": 342.0,
+        "h": 34,
+        "text": "3 / 342.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 396,
+        "w": 1440,
+        "h": 36,
+        "text": "C-G05 / 左1：右2",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 434,
+        "w": 464.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 440,
+        "w": 464.0,
+        "h": 34,
+        "text": "4 / 464.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 568.0,
+        "y": 434,
+        "w": 952.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 568.0,
+        "y": 440,
+        "w": 952.0,
+        "h": 34,
+        "text": "8 / 952.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 490,
+        "w": 1440,
+        "h": 36,
+        "text": "C-G06 / 左2：右1",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "muted",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 528,
+        "w": 952.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 534,
+        "w": 952.0,
+        "h": 34,
+        "text": "8 / 952.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      },
+      {
+        "type": "rect",
+        "x": 1056.0,
+        "y": 528,
+        "w": 464.0,
+        "h": 46,
+        "fill_role": "sub",
+        "rx": 4
+      },
+      {
+        "type": "text",
+        "x": 1056.0,
+        "y": 534,
+        "w": 464.0,
+        "h": 34,
+        "text": "4 / 464.0px",
+        "size": 20,
+        "leading": 30.0,
+        "fill_role": "text",
+        "weight": 400,
+        "align": "center"
+      }
+    ]
+  }
+}</pre></details></section><section id="component-primitives" data-reference="components/primitives.md"><h2>C-P01–P06｜説明・プロフィール・工程・接続</h2><div class="grid two"><figure>{{component.card}}<figcaption>C-P01：影はカード外側、内側28px。原本の事業カード。</figcaption></figure><figure>{{component.profile}}<figcaption>C-P02：写真・氏名・タグ・紹介文。紹介文は17px・行送り28px。</figcaption></figure></div><figure>{{component.process}}<figcaption>C-P03：300×64pxの工程ピル、縦ピッチ94px、説明x428。工程数は可変。</figcaption></figure><p>文章が長い場合は行高や段の高さを増やし、次の行や部品を送ります。写真は比率を保ち、氏名・専門タグ・説明文の編集単位を分けます。数値と単位は書式を分けても同じ基準線にそろえます。矢印は順序や移動を意味するときに使い、単なる並列を矢印でつなぎません。</p><details><summary>仕様データ</summary><pre data-json="specs/components/primitives.json">{
+  "components": [
+    {
+      "id": "C-P01",
+      "name": "説明カード",
+      "style": "container or node",
+      "variable": "見出し・説明文・要素数"
+    },
+    {
+      "id": "C-P02",
+      "name": "プロフィール",
+      "source": "members",
+      "anchors": {
+        "photo_x": 80,
+        "text_x": 300,
+        "rule_y": 277,
+        "text_width": 460
+      },
+      "variable": "人数・写真・紹介文"
+    },
+    {
+      "id": "C-P03",
+      "name": "工程",
+      "source": "selection",
+      "pill": [
+        80,
+        220,
+        300,
+        64
+      ],
+      "row_pitch": 94,
+      "text_x": 428,
+      "text_size": 17,
+      "leading": 28,
+      "variable": "工程数・順序・説明"
+    },
+    {
+      "id": "C-P04",
+      "name": "KPI",
+      "source": "culture",
+      "variable": "数値・指標・単位・比較条件"
+    },
+    {
+      "id": "C-P05",
+      "name": "接続",
+      "stroke_width": 2,
+      "arrowhead": 8,
+      "label_clearance": 8,
+      "variable": "接続先・方向"
+    },
+    {
+      "id": "C-P06",
+      "name": "写真・図版",
+      "fit": "比率保持。領域内でトリミング",
+      "variable": "素材・被写体の位置"
+    }
+  ],
+  "fixed": "同じ階層の文字役割・角丸・塗り・間隔をそろえる",
+  "flexible": "数・並び・本文量は原稿から判断。元作例を人数や工程数の制約にしない。"
+}</pre></details></section><section id="component-table" data-reference="components/tables.md"><h2>C-TABLE｜項目表・比較表・行の増減</h2><figure>{{component.table}}<figcaption>会社概要の項目表。原本の列位置・行送りを保持。</figcaption></figure><table><thead><tr><th>原本の項目表</th><th>参照値</th></tr></thead><tbody><tr><td>領域</td><td>x80 / y250 / w1440、82px×6行</td></tr><tr><td>項目と値</td><td>項目x80・23px Bold、値x288・25px Regular</td></tr><tr><td>区切り</td><td>横線2px、縦罫線なし、塗りつぶした見出し行なし</td></tr></tbody></table><p>比較表を新しく組む場合は、比較軸・列幅・数値の単位をそろえ、注目列だけを強調します。Companyの項目表へStandardの塗りつぶしヘッダーを自動で付ける指定ではありません。</p><figure>{{detail.comparison-table}}<figcaption>Company配色で組む比較表の追加見本。文言は架空の配置見本。</figcaption></figure><p>2行以上のセルは行全体の高さを増やします。最長セルを基準に、行高＝最大行数×行送り＋上下余白で計算。ページを分けるときは見出しを繰り返し、同じ列幅・単位を保ちます。</p><details><summary>仕様データ</summary><pre data-json="specs/components/tables.json">{
+  "id": "C-TABLE",
+  "observed": {
+    "key_value": {
+      "x": 80,
+      "y": 250,
+      "width": 1440,
+      "row_height": 82,
+      "rows": 6,
+      "label_x": 80,
+      "value_x": 288,
+      "label_size": 23,
+      "value_size": 25,
+      "separator_width": 2,
+      "vertical_rules": false,
+      "filled_header": false
+    }
+  },
+  "proposed": {
+    "comparison": {
+      "padding_x": 24,
+      "padding_y": 24,
+      "cell_size": 22,
+      "leading": 32,
+      "min_row_height": 80,
+      "highlight_columns": 1,
+      "repeat_header_on_split": true
+    }
+  },
+  "policy": "行高は最大セルの行数×行送り＋上下余白で決める。数値列は右寄せ、単位と比較条件をそろえる。結合セルや小文字化で情報を押し込まない。",
+  "drawing": {
+    "id": "comparison-table",
+    "title": "比較表の部品見本",
+    "canvas": [
+      1600,
+      460
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 460,
+        "fill_role": "background"
+      },
+      {
+        "type": "rect",
+        "x": 60,
+        "y": 44,
+        "w": 400,
+        "h": 70,
+        "fill_role": "sub"
+      },
+      {
+        "type": "text",
+        "x": 84,
+        "y": 58,
+        "w": 352,
+        "h": 44,
+        "text": "比較の軸",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "inkSurface",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 460,
+        "y": 44,
+        "w": 540,
+        "h": 70,
+        "fill_role": "sub"
+      },
+      {
+        "type": "text",
+        "x": 484,
+        "y": 58,
+        "w": 492,
+        "h": 44,
+        "text": "選択肢A",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "inkSurface",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 1000,
+        "y": 44,
+        "w": 540,
+        "h": 70,
+        "fill_role": "main"
+      },
+      {
+        "type": "text",
+        "x": 1024,
+        "y": 58,
+        "w": 492,
+        "h": 44,
+        "text": "注目する選択肢B",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "onmain",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 60,
+        "y": 114,
+        "w": 400,
+        "h": 94,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 84,
+        "y": 138,
+        "w": 352,
+        "h": 66,
+        "text": "対応範囲",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 60,
+        "y1": 208,
+        "x2": 460,
+        "y2": 208,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 460,
+        "y": 114,
+        "w": 540,
+        "h": 94,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 484,
+        "y": 138,
+        "w": 492,
+        "h": 66,
+        "text": "対象を整理",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 460,
+        "y1": 208,
+        "x2": 1000,
+        "y2": 208,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 1000,
+        "y": 114,
+        "w": 540,
+        "h": 94,
+        "fill_role": "sub"
+      },
+      {
+        "type": "text",
+        "x": 1024,
+        "y": 138,
+        "w": 492,
+        "h": 66,
+        "text": "整理から実行まで",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 1000,
+        "y1": 208,
+        "x2": 1540,
+        "y2": 208,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 60,
+        "y": 208,
+        "w": 400,
+        "h": 94,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 84,
+        "y": 232,
+        "w": 352,
+        "h": 66,
+        "text": "進め方",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 60,
+        "y1": 302,
+        "x2": 460,
+        "y2": 302,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 460,
+        "y": 208,
+        "w": 540,
+        "h": 94,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 484,
+        "y": 232,
+        "w": 492,
+        "h": 66,
+        "text": "個別に対応",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 460,
+        "y1": 302,
+        "x2": 1000,
+        "y2": 302,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 1000,
+        "y": 208,
+        "w": 540,
+        "h": 94,
+        "fill_role": "sub"
+      },
+      {
+        "type": "text",
+        "x": 1024,
+        "y": 232,
+        "w": 492,
+        "h": 66,
+        "text": "複数部品を組み合わせる",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 1000,
+        "y1": 302,
+        "x2": 1540,
+        "y2": 302,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 60,
+        "y": 302,
+        "w": 400,
+        "h": 94,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 84,
+        "y": 326,
+        "w": 352,
+        "h": 66,
+        "text": "確認方法",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 60,
+        "y1": 396,
+        "x2": 460,
+        "y2": 396,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 460,
+        "y": 302,
+        "w": 540,
+        "h": 94,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 484,
+        "y": 326,
+        "w": 492,
+        "h": 66,
+        "text": "文章で確認",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 460,
+        "y1": 396,
+        "x2": 1000,
+        "y2": 396,
+        "stroke_role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 1000,
+        "y": 302,
+        "w": 540,
+        "h": 94,
+        "fill_role": "sub"
+      },
+      {
+        "type": "text",
+        "x": 1024,
+        "y": 326,
+        "w": 492,
+        "h": 66,
+        "text": "見本と数値を照合",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "line",
+        "x1": 1000,
+        "y1": 396,
+        "x2": 1540,
+        "y2": 396,
+        "stroke_role": "line",
+        "stroke-width": 1
+      }
+    ]
+  }
+}</pre></details></section><section id="component-chart" data-reference="components/charts.md"><h2>C-CHART｜棒グラフ・構成比・KPI</h2><div class="grid two"><figure>{{component.bar-chart}}<figcaption>棒グラフ：基線・単位・ラベル位置まで原本を参照。</figcaption></figure><figure>{{component.donut}}<figcaption>構成比：5系列30・25・20・15・10%は架空の見本値。</figcaption></figure></div><figure>{{component.kpi}}<figcaption>KPI：4列×2段と単位の配置。カード数と値は原稿に合わせて変更。</figcaption></figure><table><thead><tr><th>対象</th><th>Company原本の値</th><th>新規データでのルール</th></tr></thead><tbody><tr><td>棒グラフ</td><td>幅96 / ピッチ160 / 基線y686 / 0〜600を300pxで表示</td><td>0を基準に軸を計算し、見通しを表示するなら凡例を追加。</td></tr><tr><td>棒のラベル</td><td>値22px / 期ラベル17px / 単位注記17px</td><td>棒・軸・ラベルの重なりを避け、期間と単位を明示。</td></tr><tr><td>ドーナツ</td><td>中心1305,525 / 外半径215 / 内半径133.3</td><td>合計100%を確認。系列色と凡例の順序をそろえる。</td></tr><tr><td>KPI</td><td>228×231 / 角丸14 / 数値48 / 単位20 / ラベル20</td><td>単位・分母・対象期間を削らず、数字と単位を同じ基準線へ。</td></tr></tbody></table><p>見本の数値は顧客の実績ではありません。元データから割合・軸・棒の高さを計算します。軸を省略する場合も単位と基準を読める形で示し、形だけを引き伸ばして別の値に見せません。影・グラデーションは意味がない限り図表へ追加しません。</p><details><summary>仕様データ</summary><pre data-json="specs/components/charts.json">{
+  "id": "C-CHART",
+  "observed": {
+    "bar": {
+      "plot": [
+        144,
+        386,
+        960,
+        300
+      ],
+      "baseline": 686,
+      "axis_min": 0,
+      "axis_max": 600,
+      "tick_step": 200,
+      "bar_width": 96,
+      "bar_pitch": 160,
+      "radius_top": 4,
+      "value_size": 22,
+      "period_size": 17,
+      "values": [
+        120,
+        180,
+        270,
+        360,
+        480,
+        600
+      ],
+      "sample_values_only": true
+    },
+    "donut": {
+      "center": [
+        1305,
+        525
+      ],
+      "outer_radius": 215,
+      "inner_radius": 133.3,
+      "values": [
+        30,
+        25,
+        20,
+        15,
+        10
+      ],
+      "sample_values_only": true
+    },
+    "kpi": {
+      "card_width": 228,
+      "card_height": 231,
+      "radius": 14,
+      "number_size": 48,
+      "unit_size": 20,
+      "label_size": 20
+    }
+  },
+  "policy": {
+    "bar": "0基線・単位・期間を明示。棒幅と間隔は統一。実績と見通しは凡例と線種で区別。",
+    "donut": "合計100%を確認。値から扇形を再計算し、画像を変形して割合を変えない。",
+    "kpi": "数値・単位・指標名・対象期間を一組にする。数字と単位を分けても同じ基準線へそろえる。",
+    "color": "主役はmain、補助系列はseries2/3/4。図の意味の優劣と濃淡の順序を混同しない。",
+    "editing": "PowerPointのグラフ・図形・テキストを優先し、SVG化する領域を決める。"
+  }
+}</pre></details></section>{{common_diagram_rules}}<section id="component-style" data-reference="components/style-profile.md"><h2>Companyスタイル｜角丸・半透明・余白・シャドウ</h2><p>共通ルールと、テンプレートの造形値を分離します。CompanyはStandardの角丸4px・影なしを一律適用せず、既存の事業カード・KPI・ピルの実物から部品ごとの値を定義します。</p><table><thead><tr><th>部品</th><th>角丸</th><th>塗り</th><th>内側余白</th><th>影</th><th>根拠</th></tr></thead><tbody><tr><td>新規図解ノード</td><td>12px</td><td>sub・100%</td><td>24px</td><td>なし</td><td>Companyへ展開する初期提案</td></tr><tr><td>事業カード・大きなまとまり</td><td>12px</td><td>background・100%</td><td>28px</td><td>下4 / σ10 / 黒15%</td><td>事業紹介の実配置</td></tr><tr><td>引用の白パネル</td><td>12px</td><td>background・100%</td><td>40pxを目安</td><td>下4 / σ7.5 / 黒20%</td><td>社員の声の実物。余白は新原稿で再配分</td></tr><tr><td>KPIカード</td><td>14px</td><td>役割色・100%</td><td>20px</td><td>なし</td><td>データページの実配置</td></tr><tr><td>工程ピル</td><td>32px（高さ64）</td><td>系列色・100%</td><td>ラベルを中央配置</td><td>なし</td><td>選考プロセスの実配置</td></tr><tr><td>補助グループ面</td><td>12px</td><td>main・12%</td><td>24px</td><td>なし</td><td>任意の新規表現。背景ごとの合成色を確認</td></tr></tbody></table><figure>{{detail.style-profiles}}<figcaption>同じCompany配色で構図を共通にし、スタイルを比較。中央は28pxのカード余白。右端は半透明・狭い余白の提案で、Company全体の既定値ではない。</figcaption></figure><p>影は情報をひとまとまりにする外側の面に限定します。すべてのノード・矢印・グラフへ追加しません。密度を変更しても本文サイズはそろえ、文字を小さくして狭い余白へ押し込みません。影のぼかしはSVGのstdDeviation（σ）で記録し、CSSのblur半径と同じ数値と扱いません。</p><details><summary>仕様データ</summary><pre data-json="specs/components/style-profile.json">{
+  "inherits": "diagram-common-v1",
+  "unit": "reference_px",
+  "standard_reference": {
+    "source": "slapon-standard/index.html#component-diagram",
+    "radius": 4,
+    "fill_opacity": 1,
+    "padding": 24,
+    "sibling_gap": 32,
+    "shadow": false
+  },
+  "company": {
+    "node": {
+      "radius": 12,
+      "fill_role": "sub",
+      "fill_opacity": 1,
+      "stroke_width": 2,
+      "shadow": false
+    },
+    "container": {
+      "radius": 12,
+      "fill_role": "background",
+      "fill_opacity": 1,
+      "padding": 28,
+      "shadow": {
+        "dx": 0,
+        "dy": 4,
+        "sigma": 10,
+        "opacity": 0.15
+      }
+    },
+    "quote_panel": {
+      "radius": 12,
+      "fill_opacity": 1,
+      "shadow": {
+        "dx": 0,
+        "dy": 4,
+        "sigma": 7.5,
+        "opacity": 0.2
+      }
+    },
+    "kpi": {
+      "radius": 14,
+      "fill_opacity": 1,
+      "padding": 20,
+      "shadow": false
+    },
+    "process": {
+      "radius": 32,
+      "height": 64,
+      "fill_opacity": 1,
+      "shadow": false
+    },
+    "spacing": {
+      "padding": 24,
+      "heading_gap": 16,
+      "node_gap": 32,
+      "group_gap": 48,
+      "connector_label_clearance": 8
+    },
+    "density": {
+      "compact": {
+        "padding": 16,
+        "node_gap": 24,
+        "group_gap": 32
+      },
+      "regular": {
+        "padding": 24,
+        "node_gap": 32,
+        "group_gap": 48
+      },
+      "spacious": {
+        "padding": 32,
+        "node_gap": 48,
+        "group_gap": 64
+      }
+    },
+    "optional_group_fill": {
+      "role": "main",
+      "fill_opacity": 0.12,
+      "stroke_opacity": 1,
+      "text_opacity": 1,
+      "status": "新規図解用の提案。重なりと背景ごとに確認。標準ノードには自動適用しない。"
+    }
+  },
+  "evidence": {
+    "observed": [
+      "business:カード角丸12、内側28、影dy4/sigma10/黒15%",
+      "voices:白パネル角丸12、影dy4/sigma7.5/黒20%",
+      "culture:KPI角丸14、内側20、影なし",
+      "selection:ピル高さ64・半径32、影なし"
+    ],
+    "proposed": [
+      "新規ノードの角丸12",
+      "compact/regular/spaciousの密度差",
+      "グループ背景の半透明12%"
+    ]
+  },
+  "application": "共通原則 → Companyスタイル → 部品固有の例外 → 原稿の配置。背景4パターンの透明度は背景素材の値を保持。",
+  "drawing": {
+    "id": "style-profiles",
+    "title": "同じ図解にテンプレート別スタイルを適用",
+    "canvas": [
+      1600,
+      550
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 550,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 44,
+        "y": 26,
+        "w": 470,
+        "h": 54,
+        "text": "Standard",
+        "size": 30,
+        "leading": 45.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 44,
+        "y": 104,
+        "w": 472,
+        "h": 300,
+        "fill_role": "background",
+        "rx": 4,
+        "stroke_role": "line",
+        "stroke-width": 1,
+        "filter": "none"
+      },
+      {
+        "type": "rect",
+        "x": 68,
+        "y": 132,
+        "w": 424,
+        "h": 110,
+        "fill_role": "sub",
+        "rx": 4,
+        "fill-opacity": 1
+      },
+      {
+        "type": "text",
+        "x": 84,
+        "y": 150,
+        "w": 372,
+        "h": 70,
+        "text": "構図と意味は共通\n変えるのはスタイル",
+        "size": 24,
+        "leading": 34,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 68,
+        "y": 274,
+        "w": 420,
+        "h": 86,
+        "text": "角丸 4px / 塗り 100%\n余白 24px / 部品間 32px",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 44,
+        "y": 430,
+        "w": 472,
+        "h": 96,
+        "text": "影なし・フラット",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 564,
+        "y": 26,
+        "w": 470,
+        "h": 54,
+        "text": "Company",
+        "size": 30,
+        "leading": 45.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 564,
+        "y": 104,
+        "w": 472,
+        "h": 300,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 1,
+        "filter": "url(#company-shadow)"
+      },
+      {
+        "type": "rect",
+        "x": 592,
+        "y": 132,
+        "w": 416,
+        "h": 110,
+        "fill_role": "sub",
+        "rx": 12,
+        "fill-opacity": 1
+      },
+      {
+        "type": "text",
+        "x": 608,
+        "y": 150,
+        "w": 364,
+        "h": 70,
+        "text": "構図と意味は共通\n変えるのはスタイル",
+        "size": 24,
+        "leading": 34,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 592,
+        "y": 274,
+        "w": 420,
+        "h": 86,
+        "text": "角丸 12px / 塗り 100%\n余白 28px / 部品間 32px",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 564,
+        "y": 430,
+        "w": 472,
+        "h": 96,
+        "text": "まとまりの外側にだけ影\ndy 4 / σ10 / 黒15%",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1084,
+        "y": 26,
+        "w": 470,
+        "h": 54,
+        "text": "Company / compact",
+        "size": 30,
+        "leading": 45.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 1084,
+        "y": 104,
+        "w": 472,
+        "h": 300,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 1,
+        "filter": "none"
+      },
+      {
+        "type": "rect",
+        "x": 1100,
+        "y": 132,
+        "w": 440,
+        "h": 110,
+        "fill_role": "main",
+        "rx": 12,
+        "fill-opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 1116,
+        "y": 150,
+        "w": 388,
+        "h": 70,
+        "text": "構図と意味は共通\n変えるのはスタイル",
+        "size": 24,
+        "leading": 34,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1100,
+        "y": 274,
+        "w": 420,
+        "h": 86,
+        "text": "角丸 12px / 塗り 12%\n余白 16px / 部品間 24px",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1084,
+        "y": 430,
+        "w": 472,
+        "h": 96,
+        "text": "影なし・フラット",
+        "size": 22,
+        "leading": 32,
+        "fill_role": "text",
+        "weight": 400
+      }
+    ],
+    "shadows": {
+      "company-shadow": {
+        "dx": 0,
+        "dy": 4,
+        "sigma": 10,
+        "opacity": 0.15
+      }
+    }
+  }
+}</pre></details></section><section id="component-spacing" data-reference="components/spacing.md"><h2>余白の密度｜狭い・標準・広いを使い分ける</h2><p>図解の基本構造を変えず、テンプレートの密度として余白を調整します。Compactは同一グループ内の短いラベル、Regularは通常の説明、Spaciousは要素数の少ない主題を候補にします。</p><figure>{{detail.spacing-density}}<figcaption>文字サイズを共通にして余白の違いを可視化。情報が収まらないときにCompactを自動選択しない。</figcaption></figure><table><thead><tr><th>対象</th><th>標準</th><th>下限・例外</th></tr></thead><tbody><tr><td>ノード内部</td><td>24px</td><td>短いラベルで16px。元の事業カードは28px。</td></tr><tr><td>見出しと説明／アイコンとラベル</td><td>16px</td><td>同じ図の中で統一。</td></tr><tr><td>同一グループ内の部品間</td><td>32px</td><td>Compact 24px／Spacious 48px。</td></tr><tr><td>別グループ間</td><td>48px</td><td>Compact 32px／Spacious 64px。</td></tr><tr><td>線と文字の輪郭</td><td>8px以上</td><td>接続線を文字の背後へ通さない。</td></tr><tr><td>ページの左右安全域</td><td>80px</td><td>装飾背景だけ画面端まで。矢印とラベルも安全域へ含める。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/components/spacing.json">{
+  "inherits": "diagram-common-v1",
+  "profiles": {
+    "compact": {
+      "padding": 16,
+      "node_gap": 24,
+      "group_gap": 32
+    },
+    "regular": {
+      "padding": 24,
+      "node_gap": 32,
+      "group_gap": 48
+    },
+    "spacious": {
+      "padding": 32,
+      "node_gap": 48,
+      "group_gap": 64
+    }
+  },
+  "scale": [
+    8,
+    16,
+    20,
+    24,
+    28,
+    32,
+    40,
+    48,
+    64,
+    80
+  ],
+  "metrics": "余白は文字や図形の見える輪郭から測る。影は有効な内側余白に含めない。",
+  "drawing": {
+    "id": "spacing-density",
+    "title": "余白密度を同じ文字サイズで比較",
+    "canvas": [
+      1600,
+      520
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 520,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 36,
+        "y": 20,
+        "w": 480,
+        "h": 50,
+        "text": "Compact",
+        "size": 28,
+        "leading": 42.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 36,
+        "y": 92,
+        "w": 472,
+        "h": 280,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 52,
+        "y": 108,
+        "w": 440,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 64,
+        "y": 116,
+        "w": 388,
+        "h": 40,
+        "text": "共通の文字サイズ 24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 52,
+        "y": 192,
+        "w": 440,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 64,
+        "y": 200,
+        "w": 388,
+        "h": 40,
+        "text": "余白だけを変える",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 36,
+        "y": 408,
+        "w": 480,
+        "h": 72,
+        "text": "内側16px / 間隔24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 556,
+        "y": 20,
+        "w": 480,
+        "h": 50,
+        "text": "Regular",
+        "size": 28,
+        "leading": 42.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 556,
+        "y": 92,
+        "w": 472,
+        "h": 280,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 580,
+        "y": 116,
+        "w": 424,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 592,
+        "y": 124,
+        "w": 372,
+        "h": 40,
+        "text": "共通の文字サイズ 24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 580,
+        "y": 208,
+        "w": 424,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 592,
+        "y": 216,
+        "w": 372,
+        "h": 40,
+        "text": "余白だけを変える",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 556,
+        "y": 408,
+        "w": 480,
+        "h": 72,
+        "text": "内側24px / 間隔32px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1076,
+        "y": 20,
+        "w": 480,
+        "h": 50,
+        "text": "Spacious",
+        "size": 28,
+        "leading": 42.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 1076,
+        "y": 92,
+        "w": 472,
+        "h": 280,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 1108,
+        "y": 124,
+        "w": 408,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 1120,
+        "y": 132,
+        "w": 356,
+        "h": 40,
+        "text": "共通の文字サイズ 24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 1108,
+        "y": 232,
+        "w": 408,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 1120,
+        "y": 240,
+        "w": 356,
+        "h": 40,
+        "text": "余白だけを変える",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1076,
+        "y": 408,
+        "w": 480,
+        "h": 72,
+        "text": "内側32px / 間隔48px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      }
+    ]
+  }
+}</pre></details></section><section id="component-layers" data-reference="components/layers.md"><h2>重なりと半透明｜塗り・文字・輪郭を分離する</h2><p>テンプレートで半透明の塗りを使う場合も、文字・接続線・輪郭の透明度は独立させます。Companyの既存の事業カードやKPIは不透明100%。下の12%は補助グループ面に限定する追加提案です。</p><figure>{{detail.layers-alpha}}<figcaption>左側は12%の補助面1枚、右側は12%を2枚重ねた22.56%相当の面。手前のノードは100%で背面を隠す。構図やノード数は固定しない。</figcaption></figure><p>同じ塗りを重ねると見かけの濃度は変わります。12%を同じ背景上で2枚重ねる例では1−(1−0.12)²＝22.56%です。交差領域が別の分類に見えないか確認します。曲線背景の40%・10%はその素材固有の値であり、図解ノードの透明度へ流用しません。</p><details><summary>仕様データ</summary><pre data-json="specs/components/layers.json">{
+  "inherits": "diagram-common-v1",
+  "group_fill_opacity": 0.12,
+  "node_fill_opacity": 1,
+  "text_opacity": 1,
+  "stroke_opacity": 1,
+  "layer_order": [
+    "補助面",
+    "接続線",
+    "不透明ノード",
+    "アイコン",
+    "文字"
+  ],
+  "white_node_policy": "Companyのカード面backgroundを100%で塗る。背面の輪郭を透かさない。",
+  "drawing": {
+    "id": "layers-alpha",
+    "title": "半透明のグループ面と不透明な説明ノード",
+    "canvas": [
+      1600,
+      600
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 600,
+        "fill_role": "background"
+      },
+      {
+        "type": "rect",
+        "x": 80,
+        "y": 90,
+        "w": 1440,
+        "h": 350,
+        "fill_role": "main",
+        "rx": 12,
+        "fill-opacity": 0.12
+      },
+      {
+        "type": "rect",
+        "x": 760,
+        "y": 90,
+        "w": 760,
+        "h": 350,
+        "fill_role": "main",
+        "rx": 12,
+        "fill-opacity": 0.12
+      },
+      {
+        "type": "rect",
+        "x": 160,
+        "y": 150,
+        "w": 480,
+        "h": 210,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "line",
+        "x1": 640,
+        "y1": 255,
+        "x2": 960,
+        "y2": 255,
+        "stroke_role": "main",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 960,
+        "y": 150,
+        "w": 480,
+        "h": 210,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "text",
+        "x": 192,
+        "y": 180,
+        "w": 416,
+        "h": 100,
+        "text": "手前のノードは100%\n背面の線を隠す",
+        "size": 28,
+        "leading": 42,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "text",
+        "x": 992,
+        "y": 180,
+        "w": 416,
+        "h": 100,
+        "text": "文字・輪郭は100%\n塗りのalphaと分離",
+        "size": 28,
+        "leading": 42,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 480,
+        "w": 1440,
+        "h": 82,
+        "text": "補助面12% → 接続線 → 不透明ノード → アイコン・文字",
+        "size": 26,
+        "leading": 39.0,
+        "fill_role": "text",
+        "weight": 400
+      }
+    ]
+  },
+  "overlap_example": {
+    "first_alpha": 0.12,
+    "second_alpha": 0.12,
+    "combined_alpha": 0.2256,
+    "meaning": "透明度の確認用。分類の意味を与えない。"
+  }
+}</pre></details></section><section id="frames" data-reference="page-types.md"><h2>08 — 基本のフレーム</h2><p>表紙・目次・中扉・エンドを基本フレームとして定義します。ここでの背景は配置見本であり、原稿に応じてB01〜B04から選び直せます。</p><p><a href="#frame-cover">表紙</a></p><p><a href="#frame-contents">目次</a></p><p><a href="#frame-section">中扉</a></p><p><a href="#frame-closing">エンド</a></p><details><summary>仕様データ</summary><pre data-json="specs/page-types.json">{
+  "frames": [
+    "cover",
+    "contents",
+    "section",
+    "closing"
+  ],
+  "background_independent": true
+}</pre></details></section><section id="frame-cover" data-reference="pages/cover.md"><h2>基本フレーム｜表紙</h2><figure>{{page.cover}}<figcaption>表紙の配置見本。</figcaption></figure><table><thead><tr><th>構成部品</th><th>可変領域</th><th>収まらないとき</th></tr></thead><tbody><tr><td>表紙の欧文タイトル＋日本語説明＋日付＋ロゴ</td><td>短いタイトルと資料の目的</td><td>欧文100/116。長い場合は100→96→88を初期候補とし、最大2行。意味を保って分割。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/pages/cover.json">{
+  "id": "C-FRAME-COVER",
+  "page": "cover",
+  "components": "表紙の欧文タイトル＋日本語説明＋日付＋ロゴ",
+  "variable": "短いタイトルと資料の目的",
+  "overflow": "欧文100/116。長い場合は100→96→88を初期候補とし、最大2行。意味を保って分割。",
+  "background": "B01–B04から内容で選ぶ",
+  "geometry": "pages/cover.svgの保持した座標を出発点とする"
+}</pre></details></section><section id="frame-contents" data-reference="pages/contents.md"><h2>基本フレーム｜目次</h2><figure>{{page.contents}}<figcaption>目次の配置見本。</figcaption></figure><table><thead><tr><th>構成部品</th><th>可変領域</th><th>収まらないとき</th></tr></thead><tbody><tr><td>見出し＋番号付きの章リスト＋フッター</td><td>章数・章名・補足</td><td>右のリストを等間隔に。原本は5行・ピッチ130。行数に応じて再計算し、狭ければ補足を整理。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/pages/contents.json">{
+  "id": "C-FRAME-CONTENTS",
+  "page": "contents",
+  "components": "見出し＋番号付きの章リスト＋フッター",
+  "variable": "章数・章名・補足",
+  "overflow": "右のリストを等間隔に。原本は5行・ピッチ130。行数に応じて再計算し、狭ければ補足を整理。",
+  "background": "B01–B04から内容で選ぶ",
+  "geometry": "pages/contents.svgの保持した座標を出発点とする"
+}</pre></details></section><section id="frame-section" data-reference="pages/section.md"><h2>基本フレーム｜中扉</h2><figure>{{page.section}}<figcaption>中扉の配置見本。</figcaption></figure><table><thead><tr><th>構成部品</th><th>可変領域</th><th>収まらないとき</th></tr></thead><tbody><tr><td>大きい欧文＋章番号＋短い日本語＋フッター</td><td>章番号・章名</td><td>欧文96/120を基準。長い章名は2行へ分け、中央の自由領域へ収める。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/pages/section.json">{
+  "id": "C-FRAME-SECTION",
+  "page": "section",
+  "components": "大きい欧文＋章番号＋短い日本語＋フッター",
+  "variable": "章番号・章名",
+  "overflow": "欧文96/120を基準。長い章名は2行へ分け、中央の自由領域へ収める。",
+  "background": "B01–B04から内容で選ぶ",
+  "geometry": "pages/section.svgの保持した座標を出発点とする"
+}</pre></details></section><section id="frame-closing" data-reference="pages/closing.md"><h2>基本フレーム｜エンド</h2><figure>{{page.closing}}<figcaption>エンドの配置見本。</figcaption></figure><table><thead><tr><th>構成部品</th><th>可変領域</th><th>収まらないとき</th></tr></thead><tbody><tr><td>メッセージ＋連絡先＋発行元</td><td>締めの一文と問い合わせ先</td><td>原本欧文90、日本語33、連絡先27。長いURLは表示用表記を整理し、本文と離す。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/pages/closing.json">{
+  "id": "C-FRAME-CLOSING",
+  "page": "closing",
+  "components": "メッセージ＋連絡先＋発行元",
+  "variable": "締めの一文と問い合わせ先",
+  "overflow": "原本欧文90、日本語33、連絡先27。長いURLは表示用表記を整理し、本文と離す。",
+  "background": "B01–B04から内容で選ぶ",
+  "geometry": "pages/closing.svgの保持した座標を出発点とする"
+}</pre></details></section><section id="composition-rules" data-reference="composition.md"><h2>部品を組み合わせる順序と可変領域</h2><p>ページ名から形を決める前に、伝える関係と情報量を決めます。背景・カラム・部品・スタイルを別々に選びます。例えば同じ工程でも、短い手順なら横並び、説明が長ければ縦のピル＋本文を選べます。</p><table><thead><tr><th>決める順序</th><th>判断</th></tr></thead><tbody><tr><td>1 結論と関係</td><td>比較・順序・中心と周辺・分類など。</td></tr><tr><td>2 文字と情報量</td><td>投影／配布、行数、説明の長さ。</td></tr><tr><td>3 背景</td><td>B01〜B04。必要な余白と強調で選ぶ。</td></tr><tr><td>4 カラム</td><td>C-G01〜G06または参照作例固有の割付。</td></tr><tr><td>5 部品とスタイル</td><td>ノード・カード・写真・工程・グラフ。角丸・塗り・影は部品ごとの値。</td></tr><tr><td>6 境界の確認</td><td>ロゴ、タイトル、注記、フッターと図解の交差をなくす。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/composition.json">{
+  "order": [
+    "結論と情報の関係を確定",
+    "本文量から文字役割を決める",
+    "背景B01–B04を内容に応じて選ぶ",
+    "カラムを選ぶ",
+    "部品とスタイルを選ぶ",
+    "タイトル・本文・注記・フッターの境界を確認"
+  ],
+  "fixed": [
+    "画面比率",
+    "文字役割と役割色",
+    "選んだ部品の角丸・透明度・影",
+    "ロゴの比率"
+  ],
+  "flexible": [
+    "部品数",
+    "カラム数",
+    "背景パターン",
+    "内容に応じた本文高さ"
+  ],
+  "examples_not_page_types": true
+}</pre></details></section><section id="compositions" data-reference="examples.md"><h2>09 — 部品の組み合わせ例</h2><p>会社概要から工程までの8作例は、部品をどう組み合わせるかの見本です。専用の固定ページ型や、人数・工程数の制約として扱いません。</p><p><a href="#example-overview">項目と値の表</a></p><p><a href="#example-mission">メッセージと説明</a></p><p><a href="#example-members">プロフィールの反復</a></p><p><a href="#example-business">複数の事業・特徴</a></p><p><a href="#example-growth">推移と実績</a></p><p><a href="#example-voices">引用と人物紹介</a></p><p><a href="#example-culture">KPIと構成比</a></p><p><a href="#example-selection">説明付きの工程</a></p><details><summary>仕様データ</summary><pre data-json="specs/examples.json">{
+  "examples": [
+    "overview",
+    "mission",
+    "members",
+    "business",
+    "growth",
+    "voices",
+    "culture",
+    "selection"
+  ],
+  "counts_are_variable": true
+}</pre></details></section><section id="example-overview" data-reference="examples/overview.md"><h2>組合せ例｜項目と値の表</h2><figure>{{page.overview}}<figcaption>項目と値の表。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01 + C-TABLE + C-F01</td><td>項目数・値・比較条件</td><td>行数と最長の値から行高を決める。6行は固定しない。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/overview.json">{
+  "id": "C-EXAMPLE-OVERVIEW",
+  "page": "overview",
+  "page_type": false,
+  "components": "C-H01 + C-TABLE + C-F01",
+  "variable": "項目数・値・比較条件",
+  "overflow": "行数と最長の値から行高を決める。6行は固定しない。"
+}</pre></details></section><section id="example-mission" data-reference="examples/mission.md"><h2>組合せ例｜メッセージと説明</h2><figure>{{page.mission}}<figcaption>メッセージと説明。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>大きいリード + 2列説明 + C-F01</td><td>主張・段落数</td><td>大きい主張と詳細の階層を保ち、長い場合は説明を別ページへ分ける。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/mission.json">{
+  "id": "C-EXAMPLE-MISSION",
+  "page": "mission",
+  "page_type": false,
+  "components": "大きいリード + 2列説明 + C-F01",
+  "variable": "主張・段落数",
+  "overflow": "大きい主張と詳細の階層を保ち、長い場合は説明を別ページへ分ける。"
+}</pre></details></section><section id="example-members" data-reference="examples/members.md"><h2>組合せ例｜プロフィールの反復</h2><figure>{{page.members}}<figcaption>プロフィールの反復。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01 + C-P02 + C-F01</td><td>人数・写真・紹介文</td><td>原本2列は固有配置。人数や紹介文に応じて段数・ページ数を変更。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/members.json">{
+  "id": "C-EXAMPLE-MEMBERS",
+  "page": "members",
+  "page_type": false,
+  "components": "C-H01 + C-P02 + C-F01",
+  "variable": "人数・写真・紹介文",
+  "overflow": "原本2列は固有配置。人数や紹介文に応じて段数・ページ数を変更。"
+}</pre></details></section><section id="example-business" data-reference="examples/business.md"><h2>組合せ例｜複数の事業・特徴</h2><figure>{{page.business}}<figcaption>複数の事業・特徴。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01 + C-G03 + C-P01 + C-F01</td><td>事業数・見出し・課題・内容</td><td>カードの本文サイズをそろえ、最も長い列を基準に高さを決める。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/business.json">{
+  "id": "C-EXAMPLE-BUSINESS",
+  "page": "business",
+  "page_type": false,
+  "components": "C-H01 + C-G03 + C-P01 + C-F01",
+  "variable": "事業数・見出し・課題・内容",
+  "overflow": "カードの本文サイズをそろえ、最も長い列を基準に高さを決める。"
+}</pre></details></section><section id="example-growth" data-reference="examples/growth.md"><h2>組合せ例｜推移と実績</h2><figure>{{page.growth}}<figcaption>推移と実績。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01 + C-CHART + KPI + 節目 + C-F01</td><td>期間・データ・指標数</td><td>軸・単位・基準を元データから計算。節目が多ければ別ページへ。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/growth.json">{
+  "id": "C-EXAMPLE-GROWTH",
+  "page": "growth",
+  "page_type": false,
+  "components": "C-H01 + C-CHART + KPI + 節目 + C-F01",
+  "variable": "期間・データ・指標数",
+  "overflow": "軸・単位・基準を元データから計算。節目が多ければ別ページへ。"
+}</pre></details></section><section id="example-voices" data-reference="examples/voices.md"><h2>組合せ例｜引用と人物紹介</h2><figure>{{page.voices}}<figcaption>引用と人物紹介。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01-Dark + 引用パネル + C-P02 + C-F01</td><td>発言・写真・プロフィール</td><td>引用を無断で改変せず、長い発言は抜粋と出典を明示。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/voices.json">{
+  "id": "C-EXAMPLE-VOICES",
+  "page": "voices",
+  "page_type": false,
+  "components": "C-H01-Dark + 引用パネル + C-P02 + C-F01",
+  "variable": "発言・写真・プロフィール",
+  "overflow": "引用を無断で改変せず、長い発言は抜粋と出典を明示。"
+}</pre></details></section><section id="example-culture" data-reference="examples/culture.md"><h2>組合せ例｜KPIと構成比</h2><figure>{{page.culture}}<figcaption>KPIと構成比。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01 + C-P04 + ドーナツ + C-F01</td><td>指標数・単位・構成比</td><td>原本の8指標・5系列に固定しない。指標数に応じて再割付。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/culture.json">{
+  "id": "C-EXAMPLE-CULTURE",
+  "page": "culture",
+  "page_type": false,
+  "components": "C-H01 + C-P04 + ドーナツ + C-F01",
+  "variable": "指標数・単位・構成比",
+  "overflow": "原本の8指標・5系列に固定しない。指標数に応じて再割付。"
+}</pre></details></section><section id="example-selection" data-reference="examples/selection.md"><h2>組合せ例｜説明付きの工程</h2><figure>{{page.selection}}<figcaption>説明付きの工程。文言・数値・写真は差し替え用の見本。</figcaption></figure><table><thead><tr><th>構成</th><th>可変</th><th>長文・多要素への対応</th></tr></thead><tbody><tr><td>C-H01 + C-P03 + C-F01</td><td>工程数・順序・説明</td><td>原本ピッチ94。各行の説明の高さが増えるなら行高を増やし、ページを分ける。</td></tr></tbody></table><details><summary>仕様データ</summary><pre data-json="specs/examples/selection.json">{
+  "id": "C-EXAMPLE-SELECTION",
+  "page": "selection",
+  "page_type": false,
+  "components": "C-H01 + C-P03 + C-F01",
+  "variable": "工程数・順序・説明",
+  "overflow": "原本ピッチ94。各行の説明の高さが増えるなら行高を増やし、ページを分ける。"
+}</pre></details></section><section id="exceptions" data-reference="exceptions.md"><h2>長文・狭い図表・半透明・代替書体の扱い</h2><table><thead><tr><th>条件</th><th>対応</th></tr></thead><tbody><tr><td>タイトル2行</td><td>タイトル領域を128pxへ増やし、本文を下端＋38px以降へ送る。</td></tr><tr><td>36pxでもタイトルが収まらない</td><td>表現・意味の切れ目・ページ分割を見直す。無断省略しない。</td></tr><tr><td>本文や表の情報が多い</td><td>最大行数から必要高さを計算。カラム・行高・ページ数を調整し、注記サイズへ縮小しない。</td></tr><tr><td>背景と図が競合</td><td>4背景から選び直す。影や半透明の面を足してごまかさない。</td></tr><tr><td>塗りが半透明</td><td>面だけへalphaを設定し、背景・重なりの合成色と文字の読みやすさを確認。</td></tr><tr><td>色が非常に明るい</td><td>onmainと正式ロゴの版を確認。全体の色置換で白やロゴを改変しない。</td></tr><tr><td>書体が使えない</td><td>Yu Gothic / Arialで代替し、実寸の改行・数字幅・はみ出しを再確認。</td></tr></tbody></table><p>HTMLの定義確認、SVGの画像化、画像生成、PowerPoint再構成、PowerPoint実機の編集確認は別の検証です。機械検証が通ったことだけで、デザイン確認済み・顧客承認済み・納品済みにしません。</p><details><summary>仕様データ</summary><pre data-json="specs/exceptions.json">{
+  "status": "新原稿への運用ルール。既存原本の改変ではない。",
+  "cases": [
+    {
+      "trigger": "タイトル2行",
+      "action": "タイトル領域を128pxへ増やし、本文を下端＋38px以降へ送る。"
+    },
+    {
+      "trigger": "36pxでもタイトルが収まらない",
+      "action": "表現・意味の切れ目・ページ分割を見直す。無断省略しない。"
+    },
+    {
+      "trigger": "本文や表の情報が多い",
+      "action": "最大行数から必要高さを計算。カラム・行高・ページ数を調整し、注記サイズへ縮小しない。"
+    },
+    {
+      "trigger": "背景と図が競合",
+      "action": "4背景から選び直す。影や半透明の面を足してごまかさない。"
+    },
+    {
+      "trigger": "塗りが半透明",
+      "action": "面だけへalphaを設定し、背景・重なりの合成色と文字の読みやすさを確認。"
+    },
+    {
+      "trigger": "色が非常に明るい",
+      "action": "onmainと正式ロゴの版を確認。全体の色置換で白やロゴを改変しない。"
+    },
+    {
+      "trigger": "書体が使えない",
+      "action": "Yu Gothic / Arialで代替し、実寸の改行・数字幅・はみ出しを再確認。"
+    }
+  ],
+  "review": [
+    "4背景",
+    "長い見出し",
+    "複数行の本文",
+    "表の2行セル",
+    "図形の重なり",
+    "影と角丸",
+    "ロゴ",
+    "SVG領域とPPTの編集単位"
+  ]
+}</pre></details></section><section id="assets" data-reference="assets.md"><h2>10 — 素材と使用範囲</h2><table><thead><tr><th>素材</th><th>保持・編集の扱い</th></tr></thead><tbody><tr><td>正式ロゴ</td><td>カラー／白版を別ファイルで保持。外側の余白と縦横比を確認し、ロゴの輪郭や指定色を勝手に変更しない。</td></tr><tr><td>Companyの背景</td><td>ベクターの輪郭・順番・透明度を固定し、役割に対応する塗り色を交換。必要なら最終サイズで画像を書き出す。</td></tr><tr><td>Serifの背景</td><td>配色×4役割のPNG。再圧縮・引き伸ばし・色相変更を繰り返さず、元の画像を保持する。</td></tr><tr><td>人物写真</td><td>Figma見本の差し替え用。実在顧客の社員とは扱わない。納品時には支給写真・使用条件を確認した写真へ交換する。</td></tr><tr><td>フォント</td><td>assets/fonts/に書体とOFLを同梱。端末に未導入ならPowerPoint側でも同じ書体を利用できるようにする。</td></tr><tr><td>参照元</td><td>source-manifest.jsonにFigmaノード、既存書き出し、ハッシュを保持。複製後も出典をたどれるようにする。</td></tr></tbody></table><p>このページは見た目を確認する雛形です。PowerPoint内部で文字が編集できること、SVGのすべての要素がPowerPoint内で編集できることを保証する検証は、別工程で実施します。</p></section><section id="specs"><h2>11 — 設定と仕様</h2><p><a href="brand-input.json">設定JSON</a> ／ <a href="source-manifest.json">参照元</a> ／ <a href="brand-checks.json">構造チェック</a></p><details><summary>適用したブランド設定</summary><pre data-json="specs/customer-settings.json">{{settings_json}}</pre></details><details><summary>全ページの文字情報</summary><pre data-json="specs/source-typography.json">{{source_type_json}}</pre></details><p>描画だけで顧客のデザイン確認完了・画像生成完了・納品完了に進めません。実寸で余白、重なり、ロゴ、文字、表と工程の端を確認し、修正があれば該当箇所を再確認します。</p></section><section id="source-observations" data-reference="source-observations.md"><h2>参照の観察値｜文字サイズ・基準線・行の位置</h2><p>原本SVGの文字属性とtspanの座標を保持した観察記録です。yは文字の基準線で、テキストボックスの上端ではありません。Figmaのフレーム寸法や影の外接領域を推定で補っていません。</p><details><summary>仕様データ</summary><pre data-json="specs/source-observations.json">{
+  "unit": "source_px",
+  "canvas": [
+    1600,
+    900
+  ],
+  "coordinate": "text baseline; not text box top",
+  "observations": [
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "OUR BUSINESSES"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "私たちの3つの事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.999",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.47",
+          "baseline": "875.6",
+          "text": "07"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "212.2",
+          "text": "課題の整理から、仕組みづくり、運用の定着まで。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "254",
+          "text": "3つの専門領域を組み合わせ、お客様の業務が変わるところまで支援します。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "338.4",
+          "text": "01  ソリューション事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "384.2",
+          "text": "業務改善支援"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "436.6",
+          "text": "向き合う課題"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "470",
+          "text": "業務が属人化し、改善の\n"
+        },
+        {
+          "x": "108",
+          "baseline": "502",
+          "text": "優先順位を決められない。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "552.6",
+          "text": "主な支援内容"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "586",
+          "text": "業務の可視化・課題の整理\n"
+        },
+        {
+          "x": "108",
+          "baseline": "618",
+          "text": "改善計画の策定"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "689.8",
+          "text": "次に取り組むことが、\n"
+        },
+        {
+          "x": "120",
+          "baseline": "723.8",
+          "text": "明確になる。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "338.4",
+          "text": "02  プラットフォーム事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "384.2",
+          "text": "システム・ツール開発"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "436.6",
+          "text": "向き合う課題"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "470",
+          "text": "手作業や情報の分散が、\n"
+        },
+        {
+          "x": "596",
+          "baseline": "502",
+          "text": "日々の負担になっている。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "552.6",
+          "text": "主な支援内容"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "586",
+          "text": "業務ツールの開発\n"
+        },
+        {
+          "x": "596",
+          "baseline": "618",
+          "text": "データ連携・運用設計"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "608",
+          "baseline": "689.8",
+          "text": "手間を減らし、\n"
+        },
+        {
+          "x": "608",
+          "baseline": "723.8",
+          "text": "必要な情報をつなぐ。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "338.4",
+          "text": "03  パートナー事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "384.2",
+          "text": "導入・運用サポート"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "436.6",
+          "text": "向き合う課題"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "470",
+          "text": "ツールを導入しても、\n"
+        },
+        {
+          "x": "1084",
+          "baseline": "502",
+          "text": "現場で活用されていない。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "552.6",
+          "text": "主な支援内容"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "586",
+          "text": "操作研修・運用ルールの整備\n"
+        },
+        {
+          "x": "1084",
+          "baseline": "618",
+          "text": "活用状況に応じた改善支援"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1096",
+          "baseline": "689.8",
+          "text": "現場で使い続けられる\n"
+        },
+        {
+          "x": "1096",
+          "baseline": "723.8",
+          "text": "状態をつくる。"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Arimo",
+      "size": 90.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "405.201",
+          "text": "Join Our Team"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 33.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "502.2",
+          "text": "一緒に未来をつくる仲間を募集しています。"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 27.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "562.8",
+          "text": "[採用サイトURL] ／ [お問い合わせ先]"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.666",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.13",
+          "baseline": "875.6",
+          "text": "12"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "209.961",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "183",
+          "text": "会社の基本情報"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "215.6",
+          "text": "会社概要・ミッション・ビジョン"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "339.961",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "313",
+          "text": "経営・事業について"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "345.6",
+          "text": "経営陣・事業内容・成長戦略"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "469.961",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "443",
+          "text": "働く環境と人材制度"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "475.6",
+          "text": "福利厚生・社員の声・評価制度"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "599.961",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "573",
+          "text": "組織と採用について"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "605.6",
+          "text": "組織体制・採用情報・選考フロー"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "729.961",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "703",
+          "text": "代表メッセージ・応募案内"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "735.6",
+          "text": "代表メッセージ・応募のご案内"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "420.934",
+          "text": "CONTENTS"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "485.6",
+          "text": "目次"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.3333",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "02"
+        }
+      ]
+    },
+    {
+      "page": "cover",
+      "font": "Arimo",
+      "size": 100.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "483.668",
+          "text": "COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "cover",
+      "font": "Noto Sans JP",
+      "size": 40.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "594",
+          "text": "会社紹介資料 ／ [会社名]"
+        }
+      ]
+    },
+    {
+      "page": "cover",
+      "font": "Noto Sans JP",
+      "size": 24.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "807.6",
+          "text": "更新日：20XX年XX月XX日"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "224",
+          "text": "一人ひとりの多様性を力に変え、働きやすさと事業成長の両立を目指しています。"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "363",
+          "text": "社員数\n"
+        },
+        {
+          "x": "100",
+          "baseline": "395",
+          "text": "（正社員）"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "489.641",
+          "text": "120"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "250",
+          "baseline": "490",
+          "text": "名"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "363",
+          "text": "平均年齢\n"
+        },
+        {
+          "x": "344",
+          "baseline": "395",
+          "text": "（全社員）"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "489.641",
+          "text": "34.2"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "494",
+          "baseline": "490",
+          "text": "歳"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "363",
+          "text": "リモート勤務\n"
+        },
+        {
+          "x": "588",
+          "baseline": "395",
+          "text": "利用率"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "489.641",
+          "text": "72.5"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "738",
+          "baseline": "490",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "363",
+          "text": "女性管理職\n"
+        },
+        {
+          "x": "832",
+          "baseline": "395",
+          "text": "比率"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "489.641",
+          "text": "32.0"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "982",
+          "baseline": "490",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "612",
+          "text": "月平均\n"
+        },
+        {
+          "x": "100",
+          "baseline": "644",
+          "text": "残業時間"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "738.641",
+          "text": "18.6"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "250",
+          "baseline": "739",
+          "text": "h"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "612",
+          "text": "男女比\n"
+        },
+        {
+          "x": "344",
+          "baseline": "644",
+          "text": "男性：女性"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "738.641",
+          "text": "60:40"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "612",
+          "text": "育児休業\n"
+        },
+        {
+          "x": "588",
+          "baseline": "644",
+          "text": "取得率"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "738.641",
+          "text": "100"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "738",
+          "baseline": "739",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "612",
+          "text": "年間休日\n"
+        },
+        {
+          "x": "832",
+          "baseline": "644",
+          "text": "（所定）"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "738.641",
+          "text": "125"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "982",
+          "baseline": "739",
+          "text": "日"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1249",
+          "baseline": "520.2",
+          "text": "出社頻度"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1256",
+          "baseline": "551.6",
+          "text": "働き方の構成比"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1179.9",
+          "baseline": "776.6",
+          "text": "リモート 30%　週1日 25%　週2日 20%\n"
+        },
+        {
+          "x": "1216.68",
+          "baseline": "798.6",
+          "text": "週3日 15%　週4日以上 10%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "PEOPLE & CULTURE"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "データで見る私たち"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.998",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.47",
+          "baseline": "875.6",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "GROWTH & MILESTONES"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "事業の成長と実績"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.332",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "08"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "212.2",
+          "text": "主力事業を育てながら、継続的な成長を重ねています。"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "250.6",
+          "text": "記載内容・数値はすべて架空のサンプルです。"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "311.8",
+          "text": "売上高の推移"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "346.8",
+          "text": "単位：百万円 ／ 第1期〜第6期・各期通年"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "112.234",
+          "baseline": "691.6",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "96.7031",
+          "baseline": "591.6",
+          "text": "200"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "96.7031",
+          "baseline": "491.6",
+          "text": "400"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "96.7031",
+          "baseline": "391.6",
+          "text": "600"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "212.535",
+          "baseline": "612.8",
+          "text": "120"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "210.285",
+          "baseline": "718.8",
+          "text": "第1期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "372.535",
+          "baseline": "582.8",
+          "text": "180"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "370.285",
+          "baseline": "718.8",
+          "text": "第2期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "532.535",
+          "baseline": "537.8",
+          "text": "270"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "530.285",
+          "baseline": "718.8",
+          "text": "第3期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "692.535",
+          "baseline": "492.8",
+          "text": "360"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "690.285",
+          "baseline": "718.8",
+          "text": "第4期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "852.535",
+          "baseline": "432.8",
+          "text": "480"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "850.285",
+          "baseline": "718.8",
+          "text": "第5期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1012.54",
+          "baseline": "372.8",
+          "text": "600"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1010.29",
+          "baseline": "718.8",
+          "text": "第6期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "332.4",
+          "text": "第6期の主要実績"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "380",
+          "text": "売上高"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "436.24",
+          "text": "6.0"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1287",
+          "baseline": "436.6",
+          "text": "億円"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "516.2",
+          "text": "売上高 前期比"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "572.44",
+          "text": "+25.0"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1342",
+          "baseline": "572.8",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "652.4",
+          "text": "継続取引社数"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "708.641",
+          "text": "300"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1301",
+          "baseline": "709",
+          "text": "社"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "794.4",
+          "text": "第2期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "826",
+          "text": "主力サービスを提供開始"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "568",
+          "baseline": "794.4",
+          "text": "第4期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "568",
+          "baseline": "826",
+          "text": "支援体制を拡充"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1056",
+          "baseline": "794.4",
+          "text": "第6期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1056",
+          "baseline": "826",
+          "text": "継続取引300社へ"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "236.2",
+          "text": "山田 太郎"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "264.6",
+          "text": "#事業開発  #Team Management"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "312.8",
+          "text": "事業会社で企画・開発を経験した後、当社に参画。これまで"
+        },
+        {
+          "x": "300",
+          "baseline": "340.8",
+          "text": "の経験を活かし、事業の立ち上げやチームづくりを担当して"
+        },
+        {
+          "x": "300",
+          "baseline": "368.8",
+          "text": "います。専門性の異なるメンバーと協力しながら、お客様へ"
+        },
+        {
+          "x": "300",
+          "baseline": "396.8",
+          "text": "の価値提供を推進しています。"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1060",
+          "baseline": "236.2",
+          "text": "佐藤 花子"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1060",
+          "baseline": "264.6",
+          "text": "#Communication  #Branding"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1060",
+          "baseline": "312.8",
+          "text": "さまざまな企業でコミュニケーション施策やブランドづくり"
+        },
+        {
+          "x": "1060",
+          "baseline": "340.8",
+          "text": "に従事。その後、当社に参画し、サービスの魅力を伝える企"
+        },
+        {
+          "x": "1060",
+          "baseline": "368.8",
+          "text": "画や体験設計を担当しています。社内外の対話を大切にしな"
+        },
+        {
+          "x": "1060",
+          "baseline": "396.8",
+          "text": "がら、会社とお客様をつないでいます。"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "540.2",
+          "text": "鈴木 葵"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "568.6",
+          "text": "#Product Design  #Customer Experience"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "616.8",
+          "text": "制作会社や事業会社でデザインの実務を経験。サービスの企"
+        },
+        {
+          "x": "300",
+          "baseline": "644.8",
+          "text": "画から改善まで幅広く携わっています。当社ではプロダクト"
+        },
+        {
+          "x": "300",
+          "baseline": "672.8",
+          "text": "のデザインを担当し、使いやすさと伝わりやすさの両立を目"
+        },
+        {
+          "x": "300",
+          "baseline": "700.8",
+          "text": "指しています。"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "TEAM MEMBERS"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "メンバー紹介"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.666",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.13",
+          "baseline": "875.6",
+          "text": "06"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "78.2",
+          "text": "［会社名］"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "241.833",
+          "baseline": "363.8",
+          "text": "Mission"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 40.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "241.833",
+          "baseline": "438",
+          "text": "一人ひとりの可能性を、\n"
+        },
+        {
+          "x": "241.833",
+          "baseline": "494",
+          "text": "社会の新しい力に。"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "853.833",
+          "baseline": "363.8",
+          "text": "私たちは、変化の先にある可能性を信じています。\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "397.8",
+          "text": "専門性とテクノロジーをつなぎ、\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "431.8",
+          "text": "日々の仕事や暮らしにある課題に向き合います。"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "853.833",
+          "baseline": "497.8",
+          "text": "人と組織が持つ力を、もっと自由に。\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "531.8",
+          "text": "小さな挑戦が、新しい価値へと育っていく。\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "565.8",
+          "text": "そんな未来を、お客様や仲間とともに\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "599.8",
+          "text": "つくり続けていきます。"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.333",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "05"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "295.2",
+          "text": "会社名"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "296",
+          "text": "[正式な会社名]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "377.2",
+          "text": "所在地"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "378",
+          "text": "[郵便番号・本社所在地]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "459.2",
+          "text": "事業内容"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "460",
+          "text": "[主な事業・サービスの概要]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "541.2",
+          "text": "従業員数"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "542",
+          "text": "[従業員数]名（[基準日]現在）"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "623.2",
+          "text": "資本金"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "624",
+          "text": "[資本金]円"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "705.2",
+          "text": "設立年月"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "706",
+          "text": "[設立年月]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "COMPANY OVERVIEW"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "会社概要"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.47",
+          "baseline": "875.6",
+          "text": "04"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Noto Sans JP",
+      "size": 18.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "73.2",
+          "text": "COMPANY NAME"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Arimo",
+      "size": 240.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1346.41",
+          "baseline": "293.203",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Arimo",
+      "size": 96.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "711.281",
+          "text": "Company Overview"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Arimo",
+      "size": 24.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "776.32",
+          "text": "会社の基本情報"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.6665",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.14",
+          "baseline": "875.6",
+          "text": "03"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "190",
+          "baseline": "260",
+          "text": "書類選考"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "240.8",
+          "text": "これまでのご経験や、ご希望の役割について確認します。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "268.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "160.996",
+          "baseline": "354",
+          "text": "カジュアル面談"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "334.8",
+          "text": "会社や事業についてご紹介し、気になることをお話しします。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "362.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "190",
+          "baseline": "448",
+          "text": "一次面接"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "428.8",
+          "text": "得意なことや仕事への考え方を伺い、相互理解を深めます。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "456.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "190",
+          "baseline": "542",
+          "text": "二次面接"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "522.8",
+          "text": "役割やチームとの関わり方について、具体的にお話しします。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "550.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "150.195",
+          "baseline": "636",
+          "text": "リファレンス確認"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "616.8",
+          "text": "必要に応じて、これまで一緒に働いた方のお話を伺います。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "644.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "170",
+          "baseline": "730",
+          "text": "オファー面談"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "710.8",
+          "text": "期待する役割や条件をすり合わせ、今後の一歩を確認します。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "738.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "SELECTION PROCESS"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "選考プロセス"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.332",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "EMPLOYEE VOICE"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "働く社員の声"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.665",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.13",
+          "baseline": "875.6",
+          "text": "09"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "298.6",
+          "text": "「やってみたい」を、\n"
+        },
+        {
+          "x": "120",
+          "baseline": "362.6",
+          "text": "一人で抱えなくていい。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "417",
+          "text": "小さく試して、仲間と一緒に育てていく。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "474.8",
+          "text": "お客様の声を、改善につなげる"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "519",
+          "text": "問い合わせ対応で気づいた課題を、チームに共有しました。\n"
+        },
+        {
+          "x": "120",
+          "baseline": "551",
+          "text": "開発担当と改善を進め、「使いやすくなった」と言って\n"
+        },
+        {
+          "x": "120",
+          "baseline": "583",
+          "text": "いただけたときは、うれしかったです。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "658.8",
+          "text": "小さく試すことから、仕事が広がる"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "703",
+          "text": "新しい案内資料を提案したときは、先輩が一緒に整理して\n"
+        },
+        {
+          "x": "120",
+          "baseline": "735",
+          "text": "くれました。まず数社で試し、反応を見ながら改善。\n"
+        },
+        {
+          "x": "120",
+          "baseline": "767",
+          "text": "今は導入後の活用支援も担当しています。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "568.2",
+          "text": "高橋 美咲"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1255",
+          "baseline": "562.6",
+          "text": "MISAKI TAKAHASHI"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "606.8",
+          "text": "カスタマーサクセス"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "642.8",
+          "text": "中途入社・入社3年目"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "697.4",
+          "text": "私の仕事の軸"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "736.8",
+          "text": "お客様の「できた」を\n"
+        },
+        {
+          "x": "1128",
+          "baseline": "770.8",
+          "text": "増やしていく。"
+        }
+      ]
+    }
+  ]
+}</pre></details></section></main></body></html>

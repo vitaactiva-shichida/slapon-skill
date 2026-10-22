@@ -1,0 +1,48 @@
+{
+  "variants": [
+    {
+      "id": "BG01",
+      "name": "白・全面",
+      "surface": "light",
+      "side": null
+    },
+    {
+      "id": "BG02",
+      "name": "淡色・全面",
+      "surface": "tint",
+      "side": null
+    },
+    {
+      "id": "BG03",
+      "name": "主色・全面",
+      "surface": "dark",
+      "side": null
+    },
+    {
+      "id": "BG04",
+      "name": "左30%の色面",
+      "surface": "light",
+      "side": "left"
+    },
+    {
+      "id": "BG05",
+      "name": "右30%の色面",
+      "surface": "light",
+      "side": "right"
+    }
+  ],
+  "split_default_ratio": 0.3,
+  "split_range": [
+    0.2,
+    0.4
+  ],
+  "split_paint_region": [
+    0,
+    80,
+    1600,
+    820
+  ],
+  "split_width_basis": "slide_width",
+  "text_uses": "separate content grid",
+  "status": "observed foundations plus proposed reusable split backgrounds"
+}

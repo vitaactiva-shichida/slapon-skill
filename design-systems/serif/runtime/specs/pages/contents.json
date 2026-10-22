@@ -1,0 +1,7 @@
+{
+  "page": "contents",
+  "geometry": "pages/contents.svg",
+  "components": "48pxの欧文＋19pxの日本語＋章リスト",
+  "variable": "章数・章名・補足",
+  "overflow": "原本の右リストx350・ピッチ64.5。行数に応じて高さを再計算。"
+}

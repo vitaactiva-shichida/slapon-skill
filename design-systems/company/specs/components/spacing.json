@@ -1,0 +1,282 @@
+{
+  "inherits": "diagram-common-v1",
+  "profiles": {
+    "compact": {
+      "padding": 16,
+      "node_gap": 24,
+      "group_gap": 32
+    },
+    "regular": {
+      "padding": 24,
+      "node_gap": 32,
+      "group_gap": 48
+    },
+    "spacious": {
+      "padding": 32,
+      "node_gap": 48,
+      "group_gap": 64
+    }
+  },
+  "scale": [
+    8,
+    16,
+    20,
+    24,
+    28,
+    32,
+    40,
+    48,
+    64,
+    80
+  ],
+  "metrics": "余白は文字や図形の見える輪郭から測る。影は有効な内側余白に含めない。",
+  "drawing": {
+    "id": "spacing-density",
+    "title": "余白密度を同じ文字サイズで比較",
+    "canvas": [
+      1600,
+      520
+    ],
+    "nodes": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 520,
+        "fill_role": "background"
+      },
+      {
+        "type": "text",
+        "x": 36,
+        "y": 20,
+        "w": 480,
+        "h": 50,
+        "text": "Compact",
+        "size": 28,
+        "leading": 42.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 36,
+        "y": 92,
+        "w": 472,
+        "h": 280,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 52,
+        "y": 108,
+        "w": 440,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 64,
+        "y": 116,
+        "w": 388,
+        "h": 40,
+        "text": "共通の文字サイズ 24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 52,
+        "y": 192,
+        "w": 440,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 64,
+        "y": 200,
+        "w": 388,
+        "h": 40,
+        "text": "余白だけを変える",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 36,
+        "y": 408,
+        "w": 480,
+        "h": 72,
+        "text": "内側16px / 間隔24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 556,
+        "y": 20,
+        "w": 480,
+        "h": 50,
+        "text": "Regular",
+        "size": 28,
+        "leading": 42.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 556,
+        "y": 92,
+        "w": 472,
+        "h": 280,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 580,
+        "y": 116,
+        "w": 424,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 592,
+        "y": 124,
+        "w": 372,
+        "h": 40,
+        "text": "共通の文字サイズ 24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 580,
+        "y": 208,
+        "w": 424,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 592,
+        "y": 216,
+        "w": 372,
+        "h": 40,
+        "text": "余白だけを変える",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 556,
+        "y": 408,
+        "w": 480,
+        "h": 72,
+        "text": "内側24px / 間隔32px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1076,
+        "y": 20,
+        "w": 480,
+        "h": 50,
+        "text": "Spacious",
+        "size": 28,
+        "leading": 42.0,
+        "fill_role": "text",
+        "weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 1076,
+        "y": 92,
+        "w": 472,
+        "h": 280,
+        "fill_role": "background",
+        "rx": 12,
+        "stroke_role": "line",
+        "stroke-width": 2
+      },
+      {
+        "type": "rect",
+        "x": 1108,
+        "y": 124,
+        "w": 408,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 1120,
+        "y": 132,
+        "w": 356,
+        "h": 40,
+        "text": "共通の文字サイズ 24px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 1108,
+        "y": 232,
+        "w": 408,
+        "h": 60,
+        "fill_role": "sub",
+        "rx": 12
+      },
+      {
+        "type": "text",
+        "x": 1120,
+        "y": 240,
+        "w": 356,
+        "h": 40,
+        "text": "余白だけを変える",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      },
+      {
+        "type": "text",
+        "x": 1076,
+        "y": 408,
+        "w": 480,
+        "h": 72,
+        "text": "内側32px / 間隔48px",
+        "size": 24,
+        "leading": 36.0,
+        "fill_role": "text",
+        "weight": 400
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "C-EXAMPLE-BUSINESS",
+  "page": "business",
+  "page_type": false,
+  "components": "C-H01 + C-G03 + C-P01 + C-F01",
+  "variable": "事業数・見出し・課題・内容",
+  "overflow": "カードの本文サイズをそろえ、最も長い列を基準に高さを決める。"
+}

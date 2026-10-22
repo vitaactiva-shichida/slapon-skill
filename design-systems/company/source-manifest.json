@@ -1,0 +1,93 @@
+{
+  "design_system": "slapon-company",
+  "version": "0.2.0",
+  "file_key": "yZRuVrGDlV496zazD5AqGf",
+  "reference_nodes": [
+    "146:1444"
+  ],
+  "native_canvas": [
+    1600,
+    900
+  ],
+  "pages": [
+    {
+      "page": "cover",
+      "node_id": "165:9897",
+      "source": "assets/source/cover.svg",
+      "sha256": "8eb264bf8d03e14555b324c915a1287be66d92b1174946948e57095ea73323ab"
+    },
+    {
+      "page": "contents",
+      "node_id": "242:2641",
+      "source": "assets/source/contents.svg",
+      "sha256": "45f54d5b539cae5d2ef914395576bba3fe095487ca1d75b5f87bf6f425330fb5"
+    },
+    {
+      "page": "section",
+      "node_id": "256:2852",
+      "source": "assets/source/section.svg",
+      "sha256": "8a47a78f7b8649541fb24d1a7a52ae258f618f2ae4d76c9a45c0700a56f3144c"
+    },
+    {
+      "page": "overview",
+      "node_id": "182:10559",
+      "source": "assets/source/overview.svg",
+      "sha256": "18e6d402869d0dd85b13bb8e8a48125ebf67d89c59338720171f96e6a37f6259"
+    },
+    {
+      "page": "mission",
+      "node_id": "242:2755",
+      "source": "assets/source/mission.svg",
+      "sha256": "627be50085ef79c402807f0e904e5ccdd1ad30ae5d3f5b5bd8a2d0150903d482"
+    },
+    {
+      "page": "members",
+      "node_id": "242:2804",
+      "source": "assets/source/members.svg",
+      "sha256": "2382a7358ac6c3971b89e0f5f920d689c258261d6eed543bdba9b8a0812af45f"
+    },
+    {
+      "page": "business",
+      "node_id": "242:2894",
+      "source": "assets/source/business.svg",
+      "sha256": "3a2c89bb867091198a238e1ace5713d13dbb8c9fb38e0a393dc129c0aede3286"
+    },
+    {
+      "page": "growth",
+      "node_id": "144:9801",
+      "source": "assets/source/growth.svg",
+      "sha256": "4cd6520fcb75a82199cd97b874bf5238308340b4cbd789f7fb5403343dc5726a"
+    },
+    {
+      "page": "voices",
+      "node_id": "144:10005",
+      "source": "assets/source/voices.svg",
+      "sha256": "ef78bbe66f863418ed6069d190c7d38c1ba3637be1358c8b4f2b8475731e2f6c"
+    },
+    {
+      "page": "culture",
+      "node_id": "256:2910",
+      "source": "assets/source/culture.svg",
+      "sha256": "1f662b216bdd6bcafbcedeee816d0dc4633622f35090faa53dccef3b7d75beea"
+    },
+    {
+      "page": "selection",
+      "node_id": "242:11264",
+      "source": "assets/source/selection.svg",
+      "sha256": "4749ccd29addc7fa9bbb1acfd99225654cd59d4f568e5247ad56c4d703b77dff"
+    },
+    {
+      "page": "closing",
+      "node_id": "144:10161",
+      "source": "assets/source/closing.svg",
+      "sha256": "cf96533ca5e2072911160a1fd7f2cd7dcb3f45654323b87db95396afe0e8a5d9"
+    }
+  ],
+  "provenance": {
+    "svg": "Existing LP tokenized Figma exports, 2026-10-21 Figma visual comparison",
+    "backgrounds": "SVG curves retained from Figma export",
+    "brand_logo": "Self-authored SAMPLE mark from Standard dummy template",
+    "fonts": "Google Fonts upstream, SIL OFL; original license files bundled"
+  },
+  "background_files": {}
+}

@@ -1,0 +1,12 @@
+{
+  "frames": [
+    "cover",
+    "contents",
+    "section",
+    "closing"
+  ],
+  "canvas": [
+    800,
+    450
+  ]
+}

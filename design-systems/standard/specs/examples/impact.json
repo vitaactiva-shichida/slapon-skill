@@ -1,0 +1,892 @@
+{
+  "id": "impact",
+  "template_node": "45:27953",
+  "purpose": "大きい効果と内訳を結び付ける",
+  "recipe": "左に主色KPIと比較元・比較先、右に同じ基準の積上げ棒と直接ラベル。",
+  "overflow": "削減率等は実数から再計算。絶対量と構成比を取り違えない。",
+  "reference_nodes": [
+    {
+      "name": "カテゴリ",
+      "type": "TEXT",
+      "text": "SERVICE SAMPLE",
+      "x": 30,
+      "y": 25,
+      "w": 167,
+      "h": 26
+    },
+    {
+      "name": "区切り",
+      "type": "TEXT",
+      "text": "•",
+      "x": 209,
+      "y": 25,
+      "w": 8,
+      "h": 26
+    },
+    {
+      "name": "パンくず",
+      "type": "TEXT",
+      "text": "Slapon  •  AIとつくる資料作成",
+      "x": 229,
+      "y": 25,
+      "w": 1020,
+      "h": 26
+    },
+    {
+      "name": "見出し",
+      "type": "TEXT",
+      "text": "資料作成の時間を、仕上げに回す。",
+      "x": 80,
+      "y": 98,
+      "w": 1440,
+      "h": 50
+    },
+    {
+      "name": "効果見出し",
+      "type": "TEXT",
+      "text": "資料作成時間",
+      "x": 80,
+      "y": 322,
+      "w": 720,
+      "h": 44
+    },
+    {
+      "name": "削減率",
+      "type": "TEXT",
+      "text": "70.8% 削減",
+      "x": 80,
+      "y": 382,
+      "w": 720,
+      "h": 119
+    },
+    {
+      "name": "従来と利用後",
+      "type": "TEXT",
+      "text": "従来120分 → 利用後35分",
+      "x": 80,
+      "y": 517,
+      "w": 720,
+      "h": 44
+    },
+    {
+      "name": "空いた時間",
+      "type": "TEXT",
+      "text": "削減できた85分を、内容の検討へ。",
+      "x": 80,
+      "y": 577,
+      "w": 720,
+      "h": 39
+    },
+    {
+      "name": "注記",
+      "type": "TEXT",
+      "text": "※ 同じ作業を比較した検討用ダミー値。",
+      "x": 80,
+      "y": 632,
+      "w": 720,
+      "h": 26
+    },
+    {
+      "name": "工程別の所要時間",
+      "type": "TEXT",
+      "text": "工程別の所要時間",
+      "x": 960,
+      "y": 256,
+      "w": 440,
+      "h": 42
+    },
+    {
+      "name": "構成",
+      "type": "TEXT",
+      "text": "構成",
+      "x": 983,
+      "y": 305,
+      "w": 118,
+      "h": 27
+    },
+    {
+      "name": "図解",
+      "type": "TEXT",
+      "text": "図解",
+      "x": 1129,
+      "y": 305,
+      "w": 118,
+      "h": 27
+    },
+    {
+      "name": "調整",
+      "type": "TEXT",
+      "text": "調整",
+      "x": 1275,
+      "y": 305,
+      "w": 118,
+      "h": 27
+    },
+    {
+      "name": "40",
+      "type": "TEXT",
+      "text": "40",
+      "x": 1002,
+      "y": 578,
+      "w": 82,
+      "h": 30
+    },
+    {
+      "name": "45",
+      "type": "TEXT",
+      "text": "45",
+      "x": 1002,
+      "y": 491,
+      "w": 82,
+      "h": 30
+    },
+    {
+      "name": "35",
+      "type": "TEXT",
+      "text": "35",
+      "x": 1002,
+      "y": 409,
+      "w": 82,
+      "h": 30
+    },
+    {
+      "name": "120分",
+      "type": "TEXT",
+      "text": "120分",
+      "x": 982,
+      "y": 352,
+      "w": 122,
+      "h": 35
+    },
+    {
+      "name": "従来",
+      "type": "TEXT",
+      "text": "従来",
+      "x": 980,
+      "y": 646,
+      "w": 126,
+      "h": 33
+    },
+    {
+      "name": "25",
+      "type": "TEXT",
+      "text": "25",
+      "x": 1136,
+      "y": 593,
+      "w": 82,
+      "h": 30
+    },
+    {
+      "name": "30",
+      "type": "TEXT",
+      "text": "30",
+      "x": 1136,
+      "y": 537,
+      "w": 82,
+      "h": 30
+    },
+    {
+      "name": "25",
+      "type": "TEXT",
+      "text": "25",
+      "x": 1136,
+      "y": 481,
+      "w": 82,
+      "h": 30
+    },
+    {
+      "name": "80分",
+      "type": "TEXT",
+      "text": "80分",
+      "x": 1116,
+      "y": 434,
+      "w": 122,
+      "h": 35
+    },
+    {
+      "name": "初稿",
+      "type": "TEXT",
+      "text": "一部AI",
+      "x": 1114,
+      "y": 646,
+      "w": 126,
+      "h": 33
+    },
+    {
+      "name": "15",
+      "type": "TEXT",
+      "text": "15",
+      "x": 1368,
+      "y": 604,
+      "w": 32,
+      "h": 26
+    },
+    {
+      "name": "12",
+      "type": "TEXT",
+      "text": "12",
+      "x": 1368,
+      "y": 572,
+      "w": 32,
+      "h": 26
+    },
+    {
+      "name": "8",
+      "type": "TEXT",
+      "text": "8",
+      "x": 1368,
+      "y": 540,
+      "w": 32,
+      "h": 26
+    },
+    {
+      "name": "35分",
+      "type": "TEXT",
+      "text": "35分",
+      "x": 1250,
+      "y": 526,
+      "w": 122,
+      "h": 35
+    },
+    {
+      "name": "調整後",
+      "type": "TEXT",
+      "text": "Slapon",
+      "x": 1248,
+      "y": 646,
+      "w": 126,
+      "h": 33
+    },
+    {
+      "name": "絶対値の積み上げ・ダミー値",
+      "type": "TEXT",
+      "text": "絶対値の積み上げ・ダミー値",
+      "x": 960,
+      "y": 695,
+      "w": 440,
+      "h": 27
+    },
+    {
+      "name": "著作権",
+      "type": "TEXT",
+      "text": "© 2026 Slapon Inc.",
+      "x": 30,
+      "y": 860,
+      "w": 800,
+      "h": 17
+    },
+    {
+      "name": "ページ",
+      "type": "TEXT",
+      "text": "03",
+      "x": 1520,
+      "y": 860,
+      "w": 55,
+      "h": 17
+    }
+  ],
+  "geometry_status": "既存レイヤー読取情報。アウトラインのインク外接矩形と異なる場合がある。改行後はプレビュー照合。",
+  "canvas": [
+    1600,
+    900
+  ],
+  "composition": {
+    "background": "BG01",
+    "header": "H01-Light",
+    "typography": "T01",
+    "grid": "G02 / 原本の左右配置",
+    "content": "P05＋C03 積上げ棒",
+    "footer": "F01-Light"
+  },
+  "composition_geometry_policy": "新しい作例はdrawingの座標で再構成。reference_nodesは過去原本の読取値で、新見本の配置値ではない。",
+  "classification": "composition_example",
+  "fixed_page_template": false,
+  "reusable_components": "P05＋C03 積上げ棒",
+  "adaptation": "率・絶対量・内訳を検算して組み合わせる",
+  "common_rules": "components/diagram-rules.md",
+  "drawing": {
+    "canvas": [
+      1600,
+      900
+    ],
+    "nodes": [
+      {
+        "type": "text",
+        "x": 30,
+        "y": 25,
+        "w": 168.0,
+        "h": 30,
+        "text": "SERVICE SAMPLE",
+        "size": 20,
+        "role": "text",
+        "line_height": 26,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "line",
+        "x1": 218.0,
+        "x2": 218.0,
+        "y1": 28.0,
+        "y2": 48.0,
+        "role": "muted",
+        "stroke-width": 1
+      },
+      {
+        "type": "text",
+        "x": 239.0,
+        "y": 25,
+        "w": 1197.0,
+        "h": 30,
+        "text": "Slapon  •  AIとつくる資料作成",
+        "size": 20,
+        "role": "text",
+        "line_height": 26,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "line",
+        "x1": 30,
+        "y1": 68,
+        "x2": 1570,
+        "y2": 68,
+        "role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 30,
+        "y": 67,
+        "width": 64,
+        "height": 3,
+        "rx": 0,
+        "role": "main"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 114,
+        "w": 1440,
+        "h": 50,
+        "text": "資料作成の時間を、仕上げに回す。",
+        "size": 42,
+        "role": "text",
+        "line_height": 50,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 1520,
+        "y": 861,
+        "w": 55,
+        "h": 22,
+        "text": "11",
+        "size": 14,
+        "role": "text",
+        "line_height": 20,
+        "align": "right"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 320,
+        "w": 704,
+        "h": 48,
+        "text": "資料作成時間",
+        "size": 30,
+        "role": "text",
+        "line_height": 42,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 392,
+        "w": 500,
+        "h": 118,
+        "text": "70.8%",
+        "size": 88,
+        "role": "primaryInk",
+        "line_height": 112,
+        "align": "left",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "text",
+        "x": 512,
+        "y": 430,
+        "w": 272,
+        "h": 64,
+        "text": "削減",
+        "size": 42,
+        "role": "primaryInk",
+        "line_height": 56,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 552,
+        "w": 704,
+        "h": 52,
+        "text": "従来120分 → 利用後35分",
+        "size": 28,
+        "role": "text",
+        "line_height": 42,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 636,
+        "w": 704,
+        "h": 80,
+        "text": "削減できた85分を、内容の検討へ。",
+        "size": 26,
+        "role": "text",
+        "line_height": 39,
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 740,
+        "w": 704,
+        "h": 52,
+        "text": "※ 同じ作業を比較した検討用ダミー値。",
+        "size": 18,
+        "role": "muted",
+        "line_height": 26,
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "x": 912,
+        "y": 252,
+        "w": 608,
+        "h": 44,
+        "text": "工程別の所要時間",
+        "size": 30,
+        "role": "text",
+        "line_height": 42,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 912,
+        "y": 320,
+        "width": 16,
+        "height": 16,
+        "rx": 0,
+        "role": "main"
+      },
+      {
+        "type": "text",
+        "x": 944,
+        "y": 310,
+        "w": 144,
+        "h": 34,
+        "text": "構成",
+        "size": 22,
+        "role": "text",
+        "line_height": 30,
+        "align": "left"
+      },
+      {
+        "type": "rect",
+        "x": 1104,
+        "y": 320,
+        "width": 16,
+        "height": 16,
+        "rx": 0,
+        "role": "series2"
+      },
+      {
+        "type": "text",
+        "x": 1136,
+        "y": 310,
+        "w": 144,
+        "h": 34,
+        "text": "図解",
+        "size": 22,
+        "role": "text",
+        "line_height": 30,
+        "align": "left"
+      },
+      {
+        "type": "rect",
+        "x": 1296,
+        "y": 320,
+        "width": 16,
+        "height": 16,
+        "rx": 0,
+        "role": "series3"
+      },
+      {
+        "type": "text",
+        "x": 1328,
+        "y": 310,
+        "w": 144,
+        "h": 34,
+        "text": "調整",
+        "size": 22,
+        "role": "text",
+        "line_height": 30,
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "x": 928,
+        "y": 368.0,
+        "w": 128,
+        "h": 40,
+        "text": "120分",
+        "size": 26,
+        "role": "text",
+        "line_height": 36,
+        "align": "center",
+        "font-weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 944,
+        "y": 640.0,
+        "width": 96,
+        "height": 112.0,
+        "rx": 0,
+        "role": "main"
+      },
+      {
+        "type": "text",
+        "x": 944,
+        "y": 681.0,
+        "w": 96,
+        "h": 30,
+        "text": "40",
+        "size": 22,
+        "role": "onmain",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "rect",
+        "x": 944,
+        "y": 514.0,
+        "width": 96,
+        "height": 125.99999999999999,
+        "rx": 0,
+        "role": "series2"
+      },
+      {
+        "type": "text",
+        "x": 944,
+        "y": 562.0,
+        "w": 96,
+        "h": 30,
+        "text": "45",
+        "size": 22,
+        "role": "onSeries2",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "rect",
+        "x": 944,
+        "y": 416.0,
+        "width": 96,
+        "height": 98.0,
+        "rx": 0,
+        "role": "series3"
+      },
+      {
+        "type": "text",
+        "x": 944,
+        "y": 450.0,
+        "w": 96,
+        "h": 30,
+        "text": "35",
+        "size": 22,
+        "role": "onSeries3",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "text",
+        "x": 920,
+        "y": 776,
+        "w": 144,
+        "h": 34,
+        "text": "従来",
+        "size": 24,
+        "role": "text",
+        "line_height": 32,
+        "align": "center",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 1112,
+        "y": 480.0,
+        "w": 128,
+        "h": 40,
+        "text": "80分",
+        "size": 26,
+        "role": "text",
+        "line_height": 36,
+        "align": "center",
+        "font-weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 1128,
+        "y": 682.0,
+        "width": 96,
+        "height": 70.0,
+        "rx": 0,
+        "role": "main"
+      },
+      {
+        "type": "text",
+        "x": 1128,
+        "y": 702.0,
+        "w": 96,
+        "h": 30,
+        "text": "25",
+        "size": 22,
+        "role": "onmain",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "rect",
+        "x": 1128,
+        "y": 598.0,
+        "width": 96,
+        "height": 84.0,
+        "rx": 0,
+        "role": "series2"
+      },
+      {
+        "type": "text",
+        "x": 1128,
+        "y": 625.0,
+        "w": 96,
+        "h": 30,
+        "text": "30",
+        "size": 22,
+        "role": "onSeries2",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "rect",
+        "x": 1128,
+        "y": 528.0,
+        "width": 96,
+        "height": 70.0,
+        "rx": 0,
+        "role": "series3"
+      },
+      {
+        "type": "text",
+        "x": 1128,
+        "y": 548.0,
+        "w": 96,
+        "h": 30,
+        "text": "25",
+        "size": 22,
+        "role": "onSeries3",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "text",
+        "x": 1104,
+        "y": 776,
+        "w": 144,
+        "h": 34,
+        "text": "一部AI",
+        "size": 24,
+        "role": "text",
+        "line_height": 32,
+        "align": "center",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 1296,
+        "y": 606.0,
+        "w": 128,
+        "h": 40,
+        "text": "35分",
+        "size": 26,
+        "role": "text",
+        "line_height": 36,
+        "align": "center",
+        "font-weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 1312,
+        "y": 710.0,
+        "width": 96,
+        "height": 42.0,
+        "rx": 0,
+        "role": "main"
+      },
+      {
+        "type": "text",
+        "x": 1312,
+        "y": 716.0,
+        "w": 96,
+        "h": 30,
+        "text": "15",
+        "size": 22,
+        "role": "onmain",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 700,
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "rect",
+        "x": 1312,
+        "y": 676.4,
+        "width": 96,
+        "height": 33.599999999999994,
+        "rx": 0,
+        "role": "series2"
+      },
+      {
+        "type": "line",
+        "x1": 1416,
+        "y1": 693.1999999999999,
+        "x2": 1432,
+        "y2": 693.1999999999999,
+        "role": "muted",
+        "stroke-width": 2
+      },
+      {
+        "type": "text",
+        "x": 1440,
+        "y": 678.1999999999999,
+        "w": 64,
+        "h": 30,
+        "text": "12",
+        "size": 22,
+        "role": "text",
+        "line_height": 30,
+        "align": "left",
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "rect",
+        "x": 1312,
+        "y": 654.0,
+        "width": 96,
+        "height": 22.4,
+        "rx": 0,
+        "role": "series3"
+      },
+      {
+        "type": "line",
+        "x1": 1416,
+        "y1": 665.2,
+        "x2": 1432,
+        "y2": 665.2,
+        "role": "muted",
+        "stroke-width": 2
+      },
+      {
+        "type": "text",
+        "x": 1440,
+        "y": 650.2,
+        "w": 64,
+        "h": 30,
+        "text": "8",
+        "size": 22,
+        "role": "text",
+        "line_height": 30,
+        "align": "left",
+        "font-family": "Arimo,Arial,sans-serif"
+      },
+      {
+        "type": "text",
+        "x": 1288,
+        "y": 776,
+        "w": 144,
+        "h": 34,
+        "text": "Slapon",
+        "size": 24,
+        "role": "text",
+        "line_height": 32,
+        "align": "center",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 912,
+        "y": 824,
+        "w": 608,
+        "h": 24,
+        "text": "絶対値の積み上げ・ダミー値",
+        "size": 16,
+        "role": "muted",
+        "line_height": 24,
+        "align": "left"
+      }
+    ],
+    "header_layout": "H01 content_width; separator gaps 20px, glyph-center alignment",
+    "title_spacing": "T01 y114 h50; subtitle y176 (12px gap)"
+  },
+  "rendering_basis": "2026-10-21利用者指示による図解共通ルール適用後の再構成見本。原本はassets/sourceに保存。",
+  "applied_rules": {
+    "group_gap": 48,
+    "bar_scale_px_per_minute": 2.8,
+    "bar_data": [
+      [
+        40,
+        45,
+        35
+      ],
+      [
+        25,
+        30,
+        25
+      ],
+      [
+        15,
+        12,
+        8
+      ]
+    ],
+    "totals": [
+      120,
+      80,
+      35
+    ],
+    "small_segment_labels": "outside",
+    "opacity": 1,
+    "header_long_category_size": 17,
+    "footer_baseline": 875
+  }
+}

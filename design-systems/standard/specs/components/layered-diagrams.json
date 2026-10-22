@@ -1,0 +1,35 @@
+{
+  "id": "DIAGRAM-LAYERS",
+  "reference": {
+    "fileKey": "yZRuVrGDlV496zazD5AqGf",
+    "nodeId": "107:8722",
+    "url": "https://www.figma.com/design/yZRuVrGDlV496zazD5AqGf/?node-id=107-8722"
+  },
+  "composition_is_fixed": false,
+  "layer_order": [
+    "補助的な接続面",
+    "外側の淡色面",
+    "内側の淡色面",
+    "細い関係の輪郭",
+    "主役・入力・出力",
+    "白い説明ノードと細い枠",
+    "アイコン・文字"
+  ],
+  "source_alpha": 1,
+  "surface_map": {
+    "#F7F7F7": "conceptBackdrop",
+    "#E8E8E8": "conceptRingOuter",
+    "#DDDDDD": "conceptRingInner",
+    "#B3B3B3": "conceptRingStroke",
+    "#262626": "comparisonMain"
+  },
+  "node_outline": {
+    "color": "#969696",
+    "width": 1.5
+  },
+  "icon_stroke": 2.2,
+  "flow_stroke": 3,
+  "occlusion": "白ノードは白100%で背面を隠す。紙などが重なる場合、手前の面は親と同じ塗りを100%で持ち、奥の輪郭を透かさない。",
+  "variation": "中心と周辺、並列、包含、集約・分岐など、情報の関係に応じて構図と要素数を変える。面の階層・輪郭・重なり順・役割色を継承する。",
+  "precision": "SVG path、viewBox、ネイティブ寸法、stroke-width、重なり順を保持。色変更は役割マップを使い、全体opacityや一括着色で文字・白・輪郭を変えない。"
+}

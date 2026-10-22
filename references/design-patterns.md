@@ -4,7 +4,7 @@
 
 ## 1. カタログを検索する
 
-顧客設定の`runtime.github.paths.catalog`を、指定されたリポジトリと`ref`から読む。用途の言葉を`name`、`tags`、`use_when`へ照合し、`direction`、`elements`、`information_density`で候補を絞る。検索手段がなければJSONを直接読んでよい。特定の検索スクリプトのインストールは前提にしない。
+`runtime-lock.json`の`catalog`を、同じ`resolved_commit`から読む。用途の言葉を`name`、`tags`、`use_when`へ照合し、`direction`、`elements`、`information_density`で候補を絞る。検索手段がなければJSONを直接読んでよい。特定の検索スクリプトのインストールは前提にしない。
 
 標準配置は[カタログJSON](../assets/design-patterns/catalog.json)。目で比較する場合は[見本一覧](../assets/design-patterns/index.html)でキーワード・用途・要素数を絞り、各カードのSVG・PNGと注意点を確認できる。
 

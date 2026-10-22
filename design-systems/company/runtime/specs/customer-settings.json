@@ -1,0 +1,158 @@
+{
+  "design_system": "slapon-company",
+  "company_name": "株式会社サンプル",
+  "resolvedTheme": {
+    "background": "#FFFFFF",
+    "sub": "#EAF0FA",
+    "text": "#17283F",
+    "inkSurface": "#17283F",
+    "main": "#1457D9",
+    "accent": "#D89B34",
+    "onmain": "#FFFFFF",
+    "white": "#FFFFFF",
+    "gradientEnd": "#124EC3",
+    "whiteMain": "#1457D9",
+    "comparisonMain": "#1457D9",
+    "comparisonText": "#FFFFFF",
+    "muted": "#6B7584",
+    "mutedSurface": "#616E7F",
+    "primaryInk": "#1457D9",
+    "primaryInkSurface": "#1457D9",
+    "accentInk": "#996E25",
+    "accentInkSurface": "#8C6522",
+    "line": "#CCD0D5",
+    "conceptBackdrop": "#F7F9FE",
+    "conceptRingOuter": "#E7EEFB",
+    "conceptRingInner": "#DBE5F9",
+    "conceptRingStroke": "#AFC5F2",
+    "series2": "#749CE8",
+    "onSeries2": "#000000",
+    "series3": "#B5CAF2",
+    "onSeries3": "#000000",
+    "series4": "#D0DEF6",
+    "onSeries4": "#000000",
+    "ribbon0222E8": "#1456D6",
+    "ribbon4A80FF": "#6390E6",
+    "ribbon0F2AA4": "#0F42A4",
+    "ribbon122FAE": "#1046B0",
+    "ribbon1739C0": "#124FC5",
+    "ribbon1A41CE": "#1455D4",
+    "ribbon1231B1": "#1048B3",
+    "ribbon0E27A0": "#0F409F",
+    "ribbon1230B0": "#1047B2",
+    "ribbon193DC7": "#1352CD",
+    "ribbon1435B8": "#114BBB",
+    "ribbon2654E7": "#306BDD",
+    "ribbon1D46D7": "#1A5BDA",
+    "ribbon1434B6": "#114AB9",
+    "ribbon477CFD": "#5F8DE5",
+    "ribbon2B5BEB": "#3770DF",
+    "ribbon1638BE": "#124EC2",
+    "ribbon2755E8": "#316CDE",
+    "ribbon1D46D6": "#195BDA",
+    "ribbon3567F1": "#457AE1",
+    "ribbon2856E8": "#326DDE",
+    "ribbon2A59EA": "#366FDE",
+    "ribbon1A41CD": "#1355D4",
+    "ribbon1E49DC": "#1F5FDB",
+    "ribbon3161EE": "#3F76E0",
+    "ribbon497EFE": "#618EE6",
+    "ribbon2D5DEC": "#3A72DF",
+    "ribbon1C45D5": "#1759DA"
+  },
+  "backgrounds": {
+    "canvas": [
+      1600,
+      900
+    ],
+    "selection": "内容と必要な余白から形状と背景色を独立して選ぶ。ページ種別への固定割当はしない。",
+    "patterns": [
+      {
+        "id": "B01",
+        "name": "大きな曲線ひとまとまり × 背景色あり",
+        "shape": "large",
+        "tone": "brand",
+        "source_page": "cover",
+        "file": "backgrounds/large-brand.svg",
+        "use": "表紙・キーメッセージなど、要素が少なく主題を強く見せる構成。"
+      },
+      {
+        "id": "B02",
+        "name": "大きな曲線ひとまとまり × 白背景",
+        "shape": "large",
+        "tone": "white",
+        "source_page": "overview",
+        "file": "backgrounds/large-white.svg",
+        "use": "短い説明や少数の項目を、白い余白と大きな流れで見せる構成。"
+      },
+      {
+        "id": "B03",
+        "name": "左上・右下の2まとまり × 背景色あり",
+        "shape": "corners",
+        "tone": "brand",
+        "source_page": "section",
+        "file": "backgrounds/corners-brand.svg",
+        "use": "中扉・宣言など、中央に見出しや短い文章をまとめて置く構成。"
+      },
+      {
+        "id": "B04",
+        "name": "左上・右下の2まとまり × 白背景",
+        "shape": "corners",
+        "tone": "white",
+        "source_page": "contents",
+        "file": "backgrounds/corners-white.svg",
+        "use": "表・グラフ・複数の部品など、中央の広い領域を使う構成。"
+      }
+    ]
+  },
+  "logo_usage": {
+    "cover": {
+      "variant": "white_svg",
+      "plate": false
+    },
+    "contents": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "section": {
+      "variant": "white_svg",
+      "plate": false
+    },
+    "overview": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "mission": {
+      "variant": "white_svg",
+      "plate": false
+    },
+    "members": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "business": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "growth": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "voices": {
+      "variant": "white_svg",
+      "plate": false
+    },
+    "culture": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "selection": {
+      "variant": "color_svg",
+      "plate": false
+    },
+    "closing": {
+      "variant": "white_svg",
+      "plate": false
+    }
+  }
+}

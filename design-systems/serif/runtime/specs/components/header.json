@@ -1,0 +1,78 @@
+{
+  "id": "S-H01/H02",
+  "native_canvas": [
+    800,
+    450
+  ],
+  "stack": {
+    "x": 42,
+    "label": {
+      "y": 22,
+      "size": 14,
+      "font": "Libre Baskerville",
+      "weight": 400,
+      "baseline": 41.4
+    },
+    "title": {
+      "y": 50,
+      "size": 36,
+      "font": "Noto Serif JP",
+      "weight": 400,
+      "baseline": 93.57
+    }
+  },
+  "sidebar": {
+    "x": 36,
+    "english_baseline": 82.4,
+    "japanese_baseline": 134.57,
+    "hairline": [
+      36,
+      168,
+      34,
+      0.5
+    ],
+    "number": {
+      "size": 25,
+      "baseline": 200.75
+    }
+  },
+  "running_company": {
+    "chapter_x": 38,
+    "chapter_baseline": 32.45,
+    "mission_x": 42,
+    "mission_baseline": 35.45,
+    "size": 8,
+    "font": "Noto Sans JP"
+  },
+  "logo": {
+    "box": [
+      680,
+      20,
+      84,
+      23
+    ],
+    "plate": false,
+    "asset_policy": "不要な外側余白をトリミングし、透過背景を保持。白い下地を追加しない。",
+    "basis": "雛形で追加した独立領域。表示幅を104pxから84pxへ縮小し、右端764pxを維持。正式ロゴの色・縦横比は変更しない。"
+  },
+  "proposed": {
+    "text_right": 646,
+    "title_width": 604,
+    "title_steps": [
+      36,
+      34,
+      32
+    ],
+    "max_lines": 2,
+    "line_height": 54,
+    "body_min_y": 122,
+    "title_body_gap": 18
+  },
+  "omit_stack_on": [
+    "cover",
+    "contents",
+    "section",
+    "mission",
+    "closing"
+  ]
+}

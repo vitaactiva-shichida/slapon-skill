@@ -1,0 +1,44 @@
+{
+  "id": "C-F01",
+  "observed": {
+    "region": [
+      20,
+      858,
+      1560,
+      24
+    ],
+    "company": {
+      "x": 20,
+      "baseline": 875.6,
+      "size": 14,
+      "weight": 400
+    },
+    "page": {
+      "right": 1580,
+      "baseline": 875.6,
+      "size": 14,
+      "align": "right"
+    },
+    "border": false
+  },
+  "proposed": {
+    "body_bottom": 820,
+    "optional_source": {
+      "x": 80,
+      "baseline": 832,
+      "size": 14,
+      "max_right": 1520
+    },
+    "local_surface_policy": "発行元とページ番号を別々に、その直下の背景で判断。"
+  },
+  "variants": [
+    "light",
+    "tint",
+    "dark",
+    "local-background"
+  ],
+  "omit_when": [
+    "cover"
+  ],
+  "source_note": "出典は発行元の行に詰め込まず、本文末の別領域に置く。"
+}

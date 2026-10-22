@@ -1,0 +1,144 @@
+<svg data-template-page="members" width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="06&#239;&#189;&#156;&#227;&#131;&#161;&#227;&#131;&#179;&#227;&#131;&#144;&#227;&#131;&#188;&#231;&#180;&#185;&#228;&#187;&#139;" clip-path="url(#clip0_242_2804)">
+<rect width="1600" height="900" fill="var(--p-background,#FFFFFF)"/>
+<g id="&#233;&#157;&#146;&#227;&#129;&#174;&#227;&#131;&#149;&#227;&#131;&#173;&#227;&#131;&#188;&#239;&#189;&#156;6&#227;&#131;&#145;&#227;&#131;&#188;&#227;&#131;&#132;&#227;&#131;&#187;&#233;&#128;&#143;&#230;&#152;&#142;&#229;&#186;&#166;&#227;&#130;&#176;&#227;&#131;&#169;&#227;&#131;&#135;&#227;&#131;&#188;&#227;&#130;&#183;&#227;&#131;&#167;&#227;&#131;&#179;" opacity="0.1" clip-path="url(#clip1_242_2804)">
+<path id="02_&#229;&#183;&#166;&#228;&#184;&#138;&#227;&#131;&#187;&#231;&#180;&#176;&#227;&#129;&#132;&#227;&#130;&#162;&#227;&#131;&#188;&#227;&#130;&#175;" d="M450.384 0H498.231C411.149 81.2965 315.456 118.597 220.719 136.769C303.972 105.207 384.355 62.1679 450.384 0Z" fill="url(#paint0_linear_242_2804)"/>
+<g id="03_&#229;&#183;&#166;&#228;&#184;&#138;&#227;&#131;&#187;&#228;&#184;&#139;&#229;&#129;&#180;&#227;&#129;&#174;&#227;&#131;&#149;&#227;&#131;&#173;&#227;&#131;&#188;">
+<path d="M-0.333984 285.016C107.8 199.894 236.416 171.813 363.302 151.116C457.406 135.766 518.326 69.8193 576.7 0H633.159C546.078 94.6865 475.35 137.232 363.302 157.811C214.132 185.208 110.671 264.931 -0.333984 406.482V285.016Z" fill="url(#paint1_linear_242_2804)"/>
+<path d="M-0.333984 285.016C107.8 199.894 236.416 171.813 363.302 151.116C457.406 135.766 518.326 69.8193 576.7 0H633.159C546.078 94.6865 475.35 137.232 363.302 157.811C214.132 185.208 110.671 264.931 -0.333984 406.482V285.016Z" fill="url(#paint2_radial_242_2804)"/>
+</g>
+<g id="01_&#229;&#183;&#166;&#228;&#184;&#138;&#227;&#131;&#187;&#229;&#164;&#167;&#227;&#129;&#141;&#227;&#129;&#170;&#227;&#131;&#149;&#227;&#131;&#173;&#227;&#131;&#188;">
+<path d="M-0.333984 127.205C118.326 92.7736 236.983 136.474 334.594 136.769C455.183 137.135 548.948 79.3836 636.03 0H758.518C659.953 90.8608 541.355 145.482 418.805 148.247C261.904 151.786 125.982 125.292 -0.333984 228.587V127.205Z" fill="url(#paint3_linear_242_2804)"/>
+<path d="M-0.333984 127.205C118.326 92.7736 236.983 136.474 334.594 136.769C455.183 137.135 548.948 79.3836 636.03 0H758.518C659.953 90.8608 541.355 145.482 418.805 148.247C261.904 151.786 125.982 125.292 -0.333984 228.587V127.205Z" fill="url(#paint4_radial_242_2804)"/>
+<path d="M-0.333984 127.205C118.326 92.7736 236.983 136.474 334.594 136.769C455.183 137.135 548.948 79.3836 636.03 0H758.518C659.953 90.8608 541.355 145.482 418.805 148.247C261.904 151.786 125.982 125.292 -0.333984 228.587V127.205Z" fill="url(#paint5_radial_242_2804)"/>
+</g>
+<path id="05_&#229;&#143;&#179;&#228;&#184;&#139;&#227;&#131;&#187;&#229;&#165;&#165;&#227;&#129;&#174;&#227;&#131;&#149;&#227;&#131;&#173;&#227;&#131;&#188;" d="M1599.67 394.049C1505.89 467.694 1446.39 565.01 1351.82 631.243C1309.64 660.785 1250.38 690.542 1189.14 707.758C1329.81 662.805 1486.75 574.814 1599.67 558.555V394.049Z" fill="url(#paint6_linear_242_2804)"/>
+<g id="04_&#229;&#143;&#179;&#228;&#184;&#139;&#227;&#131;&#187;&#229;&#164;&#167;&#227;&#129;&#141;&#227;&#129;&#170;&#227;&#131;&#149;&#227;&#131;&#173;&#227;&#131;&#188;">
+<path d="M686.747 900C823.589 804.357 943.056 726.425 1089.62 711.583C1225.38 697.835 1317.07 668.097 1418.8 600.637C1485.6 556.348 1549.9 526.992 1599.67 514.559V593.942C1465.69 624.548 1351.9 660.184 1250.38 693.411C1138.51 730.028 1040.81 811.052 970.958 900H686.747Z" fill="url(#paint7_linear_242_2804)"/>
+<path d="M686.747 900C823.589 804.357 943.056 726.425 1089.62 711.583C1225.38 697.835 1317.07 668.097 1418.8 600.637C1485.6 556.348 1549.9 526.992 1599.67 514.559V593.942C1465.69 624.548 1351.9 660.184 1250.38 693.411C1138.51 730.028 1040.81 811.052 970.958 900H686.747Z" fill="url(#paint8_radial_242_2804)"/>
+</g>
+<g id="06_&#229;&#143;&#179;&#228;&#184;&#139;&#227;&#131;&#187;&#231;&#180;&#176;&#227;&#129;&#132;&#227;&#130;&#162;&#227;&#131;&#188;&#227;&#130;&#175;">
+<path d="M1023.59 900C1109.71 769.925 1243.68 688.929 1419.76 688.629C1486.75 688.514 1548.95 698.193 1599.67 712.54V777.577C1491.53 713.496 1402.55 692.481 1318.33 718.278C1224.56 747.001 1163.3 808.183 1125.03 900H1023.59Z" fill="url(#paint9_linear_242_2804)"/>
+<path d="M1023.59 900C1109.71 769.925 1243.68 688.929 1419.76 688.629C1486.75 688.514 1548.95 698.193 1599.67 712.54V777.577C1491.53 713.496 1402.55 692.481 1318.33 718.278C1224.56 747.001 1163.3 808.183 1125.03 900H1023.59Z" fill="url(#paint10_radial_242_2804)"/>
+</g>
+</g>
+<g id="Profile 1">
+<circle id="&#228;&#186;&#186;&#231;&#137;&#169;&#229;&#134;&#153;&#231;&#156;&#159;&#227;&#129;&#174;&#232;&#131;&#140;&#230;&#153;&#175; / p16a" cx="176" cy="300" r="96" fill="var(--p-sub,#DCE6FC)"/>
+<circle id="&#229;&#134;&#153;&#231;&#156;&#159; / p16a" cx="176" cy="300" r="96" fill="url(#pattern0_242_2804)"/>
+<text id="Name" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="300" y="236.2">&#x5c71;&#x7530; &#x592a;&#x90ce;</tspan></text>
+<text id="Expertise" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="300" y="264.6">#&#x4e8b;&#x696d;&#x958b;&#x767a;  #Team Management</tspan></text>
+<path id="Rule" d="M300 277H760V278H300V277Z" fill="var(--p-text,#404040)"/>
+<text id="Biography" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="300" y="312.8">&#x4e8b;&#x696d;&#x4f1a;&#x793e;&#x3067;&#x4f01;&#x753b;&#x30fb;&#x958b;&#x767a;&#x3092;&#x7d4c;&#x9a13;&#x3057;&#x305f;&#x5f8c;&#x3001;&#x5f53;&#x793e;&#x306b;&#x53c2;&#x753b;&#x3002;&#x3053;&#x308c;&#x307e;&#x3067;</tspan><tspan x="300" y="340.8">&#x306e;&#x7d4c;&#x9a13;&#x3092;&#x6d3b;&#x304b;&#x3057;&#x3001;&#x4e8b;&#x696d;&#x306e;&#x7acb;&#x3061;&#x4e0a;&#x3052;&#x3084;&#x30c1;&#x30fc;&#x30e0;&#x3065;&#x304f;&#x308a;&#x3092;&#x62c5;&#x5f53;&#x3057;&#x3066;</tspan><tspan x="300" y="368.8">&#x3044;&#x307e;&#x3059;&#x3002;&#x5c02;&#x9580;&#x6027;&#x306e;&#x7570;&#x306a;&#x308b;&#x30e1;&#x30f3;&#x30d0;&#x30fc;&#x3068;&#x5354;&#x529b;&#x3057;&#x306a;&#x304c;&#x3089;&#x3001;&#x304a;&#x5ba2;&#x69d8;&#x3078;</tspan><tspan x="300" y="396.8">&#x306e;&#x4fa1;&#x5024;&#x63d0;&#x4f9b;&#x3092;&#x63a8;&#x9032;&#x3057;&#x3066;&#x3044;&#x307e;&#x3059;&#x3002;</tspan></text>
+</g>
+<g id="Profile 2">
+<circle id="&#228;&#186;&#186;&#231;&#137;&#169;&#229;&#134;&#153;&#231;&#156;&#159;&#227;&#129;&#174;&#232;&#131;&#140;&#230;&#153;&#175; / p16b" cx="936" cy="300" r="96" fill="var(--p-sub,#DCE6FC)"/>
+<circle id="&#229;&#134;&#153;&#231;&#156;&#159; / p16b" cx="936" cy="300" r="96" fill="url(#pattern1_242_2804)"/>
+<text id="Name_2" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="1060" y="236.2">&#x4f50;&#x85e4; &#x82b1;&#x5b50;</tspan></text>
+<text id="Expertise_2" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="1060" y="264.6">#Communication  #Branding</tspan></text>
+<path id="Rule_2" d="M1060 277H1520V278H1060V277Z" fill="var(--p-text,#404040)"/>
+<text id="Biography_2" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="1060" y="312.8">&#x3055;&#x307e;&#x3056;&#x307e;&#x306a;&#x4f01;&#x696d;&#x3067;&#x30b3;&#x30df;&#x30e5;&#x30cb;&#x30b1;&#x30fc;&#x30b7;&#x30e7;&#x30f3;&#x65bd;&#x7b56;&#x3084;&#x30d6;&#x30e9;&#x30f3;&#x30c9;&#x3065;&#x304f;&#x308a;</tspan><tspan x="1060" y="340.8">&#x306b;&#x5f93;&#x4e8b;&#x3002;&#x305d;&#x306e;&#x5f8c;&#x3001;&#x5f53;&#x793e;&#x306b;&#x53c2;&#x753b;&#x3057;&#x3001;&#x30b5;&#x30fc;&#x30d3;&#x30b9;&#x306e;&#x9b45;&#x529b;&#x3092;&#x4f1d;&#x3048;&#x308b;&#x4f01;</tspan><tspan x="1060" y="368.8">&#x753b;&#x3084;&#x4f53;&#x9a13;&#x8a2d;&#x8a08;&#x3092;&#x62c5;&#x5f53;&#x3057;&#x3066;&#x3044;&#x307e;&#x3059;&#x3002;&#x793e;&#x5185;&#x5916;&#x306e;&#x5bfe;&#x8a71;&#x3092;&#x5927;&#x5207;&#x306b;&#x3057;&#x306a;</tspan><tspan x="1060" y="396.8">&#x304c;&#x3089;&#x3001;&#x4f1a;&#x793e;&#x3068;&#x304a;&#x5ba2;&#x69d8;&#x3092;&#x3064;&#x306a;&#x3044;&#x3067;&#x3044;&#x307e;&#x3059;&#x3002;</tspan></text>
+</g>
+<g id="Profile 3">
+<circle id="&#228;&#186;&#186;&#231;&#137;&#169;&#229;&#134;&#153;&#231;&#156;&#159;&#227;&#129;&#174;&#232;&#131;&#140;&#230;&#153;&#175; / p16c" cx="176" cy="604" r="96" fill="var(--p-sub,#DCE6FC)"/>
+<circle id="&#229;&#134;&#153;&#231;&#156;&#159; / p16c" cx="176" cy="604" r="96" fill="url(#pattern2_242_2804)"/>
+<text id="Name_3" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="300" y="540.2">&#x9234;&#x6728; &#x8475;</tspan></text>
+<text id="Expertise_3" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="300" y="568.6">#Product Design  #Customer Experience</tspan></text>
+<path id="Rule_3" d="M300 581H760V582H300V581Z" fill="var(--p-text,#404040)"/>
+<text id="Biography_3" fill="var(--p-text,#404040)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="300" y="616.8">&#x5236;&#x4f5c;&#x4f1a;&#x793e;&#x3084;&#x4e8b;&#x696d;&#x4f1a;&#x793e;&#x3067;&#x30c7;&#x30b6;&#x30a4;&#x30f3;&#x306e;&#x5b9f;&#x52d9;&#x3092;&#x7d4c;&#x9a13;&#x3002;&#x30b5;&#x30fc;&#x30d3;&#x30b9;&#x306e;&#x4f01;</tspan><tspan x="300" y="644.8">&#x753b;&#x304b;&#x3089;&#x6539;&#x5584;&#x307e;&#x3067;&#x5e45;&#x5e83;&#x304f;&#x643a;&#x308f;&#x3063;&#x3066;&#x3044;&#x307e;&#x3059;&#x3002;&#x5f53;&#x793e;&#x3067;&#x306f;&#x30d7;&#x30ed;&#x30c0;&#x30af;&#x30c8;</tspan><tspan x="300" y="672.8">&#x306e;&#x30c7;&#x30b6;&#x30a4;&#x30f3;&#x3092;&#x62c5;&#x5f53;&#x3057;&#x3001;&#x4f7f;&#x3044;&#x3084;&#x3059;&#x3055;&#x3068;&#x4f1d;&#x308f;&#x308a;&#x3084;&#x3059;&#x3055;&#x306e;&#x4e21;&#x7acb;&#x3092;&#x76ee;</tspan><tspan x="300" y="700.8">&#x6307;&#x3057;&#x3066;&#x3044;&#x307e;&#x3059;&#x3002;</tspan></text>
+</g>
+<g id="&#229;&#133;&#177;&#233;&#128;&#154;&#227;&#131;&#152;&#227;&#131;&#131;&#227;&#131;&#128;&#227;&#131;&#188;">
+<text id="&#232;&#139;&#177;&#232;&#170;&#158;&#227;&#131;&#169;&#227;&#131;&#153;&#227;&#131;&#171;" fill="var(--p-main,#1457D9)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="80" y="60.4">TEAM MEMBERS</tspan></text>
+<text id="&#227;&#130;&#191;&#227;&#130;&#164;&#227;&#131;&#136;&#227;&#131;&#171;" fill="var(--p-text,#16212B)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="44" font-weight="bold" letter-spacing="0em"><tspan x="80" y="127.6">&#x30e1;&#x30f3;&#x30d0;&#x30fc;&#x7d39;&#x4ecb;</tspan></text>
+</g>
+<g id="&#229;&#133;&#177;&#233;&#128;&#154;&#227;&#131;&#149;&#227;&#131;&#131;&#227;&#130;&#191;&#227;&#131;&#188;">
+<text data-company-label="true" id="&#228;&#188;&#154;&#231;&#164;&#190;&#229;&#144;&#141;" fill="var(--p-muted,#838383)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="19.666" y="875.6">&#xff3b;&#x4f1a;&#x793e;&#x540d;&#xff3d; | COMPANY PROFILE</tspan></text>
+<text id="&#227;&#131;&#154;&#227;&#131;&#188;&#227;&#130;&#184;&#231;&#149;&#170;&#229;&#143;&#183;" fill="var(--p-muted,#838383)" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="1564.13" y="875.6">06</tspan></text>
+</g>
+</g>
+<defs>
+<pattern id="pattern0_242_2804" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_242_2804" transform="scale(0.00260417)"/>
+</pattern>
+<pattern id="pattern1_242_2804" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_242_2804" transform="scale(0.00260417)"/>
+</pattern>
+<pattern id="pattern2_242_2804" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_242_2804" transform="scale(0.00260417)"/>
+</pattern>
+<linearGradient id="paint0_linear_242_2804" x1="368.087" y1="23.9107" x2="401.552" y2="90.875" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.04"/>
+<stop offset="0.3" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.14"/>
+<stop offset="0.6" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.55"/>
+<stop offset="0.85" stop-color="var(--p-ribbon0222E8,#0222E8)"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.95"/>
+</linearGradient>
+<linearGradient id="paint1_linear_242_2804" x1="-0.333987" y1="406.482" x2="632.962" y2="-0.306058" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.05"/>
+<stop offset="0.5" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.1"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.14"/>
+</linearGradient>
+<radialGradient id="paint2_radial_242_2804" cx="0" cy="0" r="1" gradientTransform="matrix(468.951 -238.815 19.5498 38.3483 143.207 210.414)" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.98"/>
+<stop offset="0.4" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.92"/>
+<stop offset="0.7" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.4"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint3_linear_242_2804" x1="-0.333984" y1="172.157" x2="765.177" y2="-0.174262" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.45"/>
+<stop offset="0.18" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.8"/>
+<stop offset="0.4" stop-color="var(--p-ribbon0222E8,#0222E8)"/>
+<stop offset="0.65" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.4"/>
+<stop offset="0.82" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.85"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.05"/>
+</linearGradient>
+<radialGradient id="paint4_radial_242_2804" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(37.9435 119.554) scale(200.957 62.1679)">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.92"/>
+<stop offset="0.5" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.6"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint5_radial_242_2804" cx="0" cy="0" r="1" gradientTransform="matrix(188.838 -68.6948 13.0917 35.95 -0.333991 226.674)" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.88"/>
+<stop offset="0.5" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.3"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint6_linear_242_2804" x1="1387.23" y1="420.829" x2="1521.1" y2="621.745" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.02"/>
+<stop offset="0.5" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.12"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.42"/>
+</linearGradient>
+<linearGradient id="paint7_linear_242_2804" x1="717.369" y1="899.043" x2="1599.52" y2="525.699" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.08"/>
+<stop offset="0.3" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.36"/>
+<stop offset="0.54" stop-color="var(--p-ribbon0222E8,#0222E8)"/>
+<stop offset="0.65" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.9"/>
+<stop offset="0.82" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.5"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.82"/>
+</linearGradient>
+<radialGradient id="paint8_radial_242_2804" cx="0" cy="0" r="1" gradientTransform="matrix(141.475 -168.513 65.9751 55.3303 1033.16 878.002)" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.98"/>
+<stop offset="0.35" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.9"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint9_linear_242_2804" x1="-0.333605" y1="669.5" x2="-0.333605" y2="900" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.8"/>
+<stop offset="0.15" stop-color="var(--p-ribbon0222E8,#0222E8)"/>
+<stop offset="0.45" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.48"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.08"/>
+</linearGradient>
+<radialGradient id="paint10_radial_242_2804" cx="0" cy="0" r="1" gradientTransform="matrix(100.096 -8.75262 19.1826 219.142 1124.07 894.261)" gradientUnits="userSpaceOnUse">
+<stop stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.97"/>
+<stop offset="0.35" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0.8"/>
+<stop offset="1" stop-color="var(--p-ribbon0222E8,#0222E8)" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_242_2804">
+<rect width="1600" height="900" fill="var(--p-background,#FFFFFF)"/>
+</clipPath>
+<clipPath id="clip1_242_2804">
+<rect width="1600" height="900" fill="var(--p-background,#FFFFFF)" transform="translate(-0.333984)"/>
+</clipPath>
+<image id="image0_242_2804" width="384" height="384" preserveAspectRatio="none" xlink:href="/assets/apply/templates/slapon-02/photo-6-0.png"/>
+<image id="image1_242_2804" width="384" height="384" preserveAspectRatio="none" xlink:href="/assets/apply/templates/slapon-02/photo-6-1.png"/>
+<image id="image2_242_2804" width="384" height="384" preserveAspectRatio="none" xlink:href="/assets/apply/templates/slapon-02/photo-6-2.png"/>
+</defs>
+</svg>
+

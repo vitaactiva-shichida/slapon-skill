@@ -1,0 +1,179 @@
+{
+  "canvas": [
+    1600,
+    900
+  ],
+  "content_left": 80,
+  "content_right": 1520,
+  "width": 1440,
+  "units": 12,
+  "gutter": 32,
+  "unit_width": 90.66666666666667,
+  "rows_gap": 32,
+  "card_padding": [
+    24,
+    24,
+    24,
+    24
+  ],
+  "schemes": [
+    {
+      "id": "G01",
+      "name": "1カラム",
+      "spans": [
+        12
+      ],
+      "gutter": 32,
+      "columns": [
+        {
+          "x": 80.0,
+          "width": 1440.0,
+          "span": 12
+        }
+      ],
+      "body_y": 300,
+      "body_bottom": 816,
+      "basis": "Standard再構成用の提案。元作例の実配置は各ページの原本座標を優先。"
+    },
+    {
+      "id": "G02",
+      "name": "2カラム・均等",
+      "spans": [
+        6,
+        6
+      ],
+      "gutter": 32,
+      "columns": [
+        {
+          "x": 80.0,
+          "width": 704.0,
+          "span": 6
+        },
+        {
+          "x": 816.0,
+          "width": 704.0,
+          "span": 6
+        }
+      ],
+      "body_y": 300,
+      "body_bottom": 816,
+      "basis": "Standard再構成用の提案。元作例の実配置は各ページの原本座標を優先。"
+    },
+    {
+      "id": "G03",
+      "name": "3カラム・均等",
+      "spans": [
+        4,
+        4,
+        4
+      ],
+      "gutter": 32,
+      "columns": [
+        {
+          "x": 80.0,
+          "width": 458.667,
+          "span": 4
+        },
+        {
+          "x": 570.667,
+          "width": 458.667,
+          "span": 4
+        },
+        {
+          "x": 1061.333,
+          "width": 458.667,
+          "span": 4
+        }
+      ],
+      "body_y": 300,
+      "body_bottom": 816,
+      "basis": "Standard再構成用の提案。元作例の実配置は各ページの原本座標を優先。"
+    },
+    {
+      "id": "G04",
+      "name": "4カラム・均等",
+      "spans": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "gutter": 32,
+      "columns": [
+        {
+          "x": 80.0,
+          "width": 336.0,
+          "span": 3
+        },
+        {
+          "x": 448.0,
+          "width": 336.0,
+          "span": 3
+        },
+        {
+          "x": 816.0,
+          "width": 336.0,
+          "span": 3
+        },
+        {
+          "x": 1184.0,
+          "width": 336.0,
+          "span": 3
+        }
+      ],
+      "body_y": 300,
+      "body_bottom": 816,
+      "basis": "Standard再構成用の提案。元作例の実配置は各ページの原本座標を優先。"
+    },
+    {
+      "id": "G05",
+      "name": "左1：右2",
+      "spans": [
+        4,
+        8
+      ],
+      "gutter": 32,
+      "columns": [
+        {
+          "x": 80.0,
+          "width": 458.667,
+          "span": 4
+        },
+        {
+          "x": 570.667,
+          "width": 949.333,
+          "span": 8
+        }
+      ],
+      "body_y": 300,
+      "body_bottom": 816,
+      "basis": "Standard再構成用の提案。元作例の実配置は各ページの原本座標を優先。"
+    },
+    {
+      "id": "G06",
+      "name": "左2：右1",
+      "spans": [
+        8,
+        4
+      ],
+      "gutter": 32,
+      "columns": [
+        {
+          "x": 80.0,
+          "width": 949.333,
+          "span": 8
+        },
+        {
+          "x": 1061.333,
+          "width": 458.667,
+          "span": 4
+        }
+      ],
+      "body_y": 300,
+      "body_bottom": 816,
+      "basis": "Standard再構成用の提案。元作例の実配置は各ページの原本座標を優先。"
+    }
+  ],
+  "status": "proposed_reusable_grid",
+  "original_geometry_policy": "既存13作例の原本座標は自動で正規化しない。"
+}

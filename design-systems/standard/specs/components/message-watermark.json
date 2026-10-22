@@ -1,0 +1,42 @@
+{
+  "id": "D02",
+  "name": "メッセージ右側の縦ロゴ透かし",
+  "pages": [
+    "message"
+  ],
+  "reference": {
+    "fileKey": "yZRuVrGDlV496zazD5AqGf",
+    "frameNodeId": "107:8650",
+    "watermarkNodeId": "107:8659",
+    "url": "https://www.figma.com/design/yZRuVrGDlV496zazD5AqGf/?node-id=107-8650"
+  },
+  "canvas": [
+    1600,
+    900
+  ],
+  "rotated_bounds": [
+    1421,
+    242,
+    236,
+    693
+  ],
+  "local_logo_box": [
+    0,
+    0,
+    693,
+    236
+  ],
+  "translate": [
+    1421,
+    935
+  ],
+  "rotation_degrees_svg": -90,
+  "opacity": 0.4,
+  "fill": "#FFFFFF",
+  "clip_to_slide": true,
+  "preserve_aspect_ratio": "xMidYMid meet",
+  "text_exclusion_x": 1421,
+  "logo_variant": "white",
+  "evidence": "配置枠・回転・白40%は指定Figmaの実測。顧客ロゴの同比率枠への内接と本文の右端制限は再構成時の適用規則。",
+  "header_logo_is_independent": true
+}

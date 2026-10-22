@@ -1,0 +1,800 @@
+<!-- Generated from index.html#page-concept. Edit index.html, not this file. -->
+
+## 組合せ例 07｜中心と周辺
+
+固定のページ型ではなく、図解部品の組み合わせ例。[共通ルール](../components/diagram-rules.md)に沿って部品数・配置・原稿量を調整する。
+
+[SVGの重なり・面・色の詳細](../components/layered-diagrams.md)を適用した作例。円の構図と周辺の数は固定ルールではない。
+
+### 使用するコンポーネント
+
+| 背景 | ヘッダー | 文字 | グリッド | 本文・主役 | フッター |
+| --- | --- | --- | --- | --- | --- |
+| BG01 | H01-Light | T01＋説明文 | 関係に合わせて自由配置 | P04＋P07＋T03 | F01-Light |
+
+入力・中心概念・出力や周辺要素の関係
+
+![サービス概念図の文字入り見本](../assets/previews/concept.svg)
+
+図解共通ルールを適用した再構成見本。文章・数値は原本のサンプルを保持。新しい資料の原稿ではありません。
+
+中央に主色円と淡い二重円、外側に白い円。左右は入力と利用者、線と矢印で関係を明示。
+
+### 可変領域・収まらないとき
+
+周辺要素数と関係線を原稿から決める
+
+入力・出力・循環を混同しない。4要素は見本。内容の関係に合わなければ別の図解へ。
+
+過去原本の読取座標（新見本の配置は仕様drawingに記載）
+
+過去原本のレイヤー読取値は比較用に保持する。05〜12の再構成後の配置はdrawingの座標を使い、古い枠へ機械的に文字を押し込まない。
+
+| 要素 | x | y | w | h | 扱い |
+| --- | --- | --- | --- | --- | --- |
+| カテゴリ | 30 | 25 | 190 | 26 | 原本サンプル。文字は差替え |
+| 区切り | 232 | 25 | 8 | 26 | 原本サンプル。文字は差替え |
+| パンくず | 252 | 25 | 1020 | 26 | 原本サンプル。文字は差替え |
+| 見出し | 80 | 98 | 1440 | 50 | 原本サンプル。文字は差替え |
+| 課題提起のサブタイトル | 80 | 168 | 1440 | 35 | 原本サンプル。文字は差替え |
+| 構成 | 734 | 332 | 132 | 38 | 原本サンプル。文字は差替え |
+| 章立て・要点 | 734 | 370 | 132 | 25 | 原本サンプル。文字は差替え |
+| 構成 | 544 | 519 | 132 | 38 | 原本サンプル。文字は差替え |
+| 章立て・要点 | 544 | 557 | 132 | 25 | 原本サンプル。文字は差替え |
+| 構成 | 924 | 519 | 132 | 38 | 原本サンプル。文字は差替え |
+| 章立て・要点 | 924 | 557 | 132 | 25 | 原本サンプル。文字は差替え |
+| 構成 | 734 | 706 | 132 | 38 | 原本サンプル。文字は差替え |
+| 章立て・要点 | 734 | 744 | 132 | 25 | 原本サンプル。文字は差替え |
+| 目的・読み手 | 40 | 642 | 300 | 32 | 原本サンプル。文字は差替え |
+| メモ・既存資料 | 40 | 675 | 300 | 32 | 原本サンプル。文字は差替え |
+| 内容を判断 | 1260 | 642 | 300 | 32 | 原本サンプル。文字は差替え |
+| 編集して仕上げる | 1260 | 675 | 300 | 32 | 原本サンプル。文字は差替え |
+| 考えるための | 650 | 529 | 300 | 29 | 原本サンプル。文字は差替え |
+| 初稿をつくる | 650 | 559 | 300 | 29 | 原本サンプル。文字は差替え |
+| 情報を入力 | 233 | 483 | 340 | 33 | 原本サンプル。文字は差替え |
+| 情報・素材 | 20 | 483 | 340 | 35 | 原本サンプル。文字は差替え |
+| 初稿を受け取る | 1027 | 483 | 340 | 33 | 原本サンプル。文字は差替え |
+| 利用者 | 1240 | 483 | 340 | 35 | 原本サンプル。文字は差替え |
+| 著作権 | 30 | 860 | 800 | 17 | 原本サンプル。文字は差替え |
+| ページ | 1520 | 860 | 55 | 17 | 原本サンプル。文字は差替え |
+
+仕様データ
+
+```
+{
+  "id": "concept",
+  "template_node": "61:6545",
+  "purpose": "入力・中心概念・出力や周辺要素の関係",
+  "recipe": "中央に主色円と淡い二重円、外側に白い円。左右は入力と利用者、線と矢印で関係を明示。",
+  "overflow": "入力・出力・循環を混同しない。4要素は見本。内容の関係に合わなければ別の図解へ。",
+  "reference_nodes": [
+    {
+      "name": "カテゴリ",
+      "type": "TEXT",
+      "text": "SERVICE OVERVIEW",
+      "x": 30,
+      "y": 25,
+      "w": 190,
+      "h": 26
+    },
+    {
+      "name": "区切り",
+      "type": "TEXT",
+      "text": "•",
+      "x": 232,
+      "y": 25,
+      "w": 8,
+      "h": 26
+    },
+    {
+      "name": "パンくず",
+      "type": "TEXT",
+      "text": "Slapon のサービス紹介",
+      "x": 252,
+      "y": 25,
+      "w": 1020,
+      "h": 26
+    },
+    {
+      "name": "見出し",
+      "type": "TEXT",
+      "text": "資料づくりの時間を、伝える内容に使う。",
+      "x": 80,
+      "y": 98,
+      "w": 1440,
+      "h": 50
+    },
+    {
+      "name": "課題提起のサブタイトル",
+      "type": "TEXT",
+      "text": "情報を集めたあとの構成・図解・デザインをつなぎ、まず初稿をつくる。人が内容を確かめながら仕上げます。",
+      "x": 80,
+      "y": 168,
+      "w": 1440,
+      "h": 35
+    },
+    {
+      "name": "構成",
+      "type": "TEXT",
+      "text": "構成",
+      "x": 734,
+      "y": 332,
+      "w": 132,
+      "h": 38
+    },
+    {
+      "name": "章立て・要点",
+      "type": "TEXT",
+      "text": "章立て・要点",
+      "x": 734,
+      "y": 370,
+      "w": 132,
+      "h": 25
+    },
+    {
+      "name": "構成",
+      "type": "TEXT",
+      "text": "図解",
+      "x": 544,
+      "y": 519,
+      "w": 132,
+      "h": 38
+    },
+    {
+      "name": "章立て・要点",
+      "type": "TEXT",
+      "text": "関係・流れ",
+      "x": 544,
+      "y": 557,
+      "w": 132,
+      "h": 25
+    },
+    {
+      "name": "構成",
+      "type": "TEXT",
+      "text": "デザイン",
+      "x": 924,
+      "y": 519,
+      "w": 132,
+      "h": 38
+    },
+    {
+      "name": "章立て・要点",
+      "type": "TEXT",
+      "text": "配置・統一感",
+      "x": 924,
+      "y": 557,
+      "w": 132,
+      "h": 25
+    },
+    {
+      "name": "構成",
+      "type": "TEXT",
+      "text": "編集",
+      "x": 734,
+      "y": 706,
+      "w": 132,
+      "h": 38
+    },
+    {
+      "name": "章立て・要点",
+      "type": "TEXT",
+      "text": "PowerPoint",
+      "x": 734,
+      "y": 744,
+      "w": 132,
+      "h": 25
+    },
+    {
+      "name": "目的・読み手",
+      "type": "TEXT",
+      "text": "目的・読み手",
+      "x": 40,
+      "y": 642,
+      "w": 300,
+      "h": 32
+    },
+    {
+      "name": "メモ・既存資料",
+      "type": "TEXT",
+      "text": "メモ・既存資料",
+      "x": 40,
+      "y": 675,
+      "w": 300,
+      "h": 32
+    },
+    {
+      "name": "内容を判断",
+      "type": "TEXT",
+      "text": "内容を判断",
+      "x": 1260,
+      "y": 642,
+      "w": 300,
+      "h": 32
+    },
+    {
+      "name": "編集して仕上げる",
+      "type": "TEXT",
+      "text": "編集して仕上げる",
+      "x": 1260,
+      "y": 675,
+      "w": 300,
+      "h": 32
+    },
+    {
+      "name": "考えるための",
+      "type": "TEXT",
+      "text": "考えるための",
+      "x": 650,
+      "y": 529,
+      "w": 300,
+      "h": 29
+    },
+    {
+      "name": "初稿をつくる",
+      "type": "TEXT",
+      "text": "初稿をつくる",
+      "x": 650,
+      "y": 559,
+      "w": 300,
+      "h": 29
+    },
+    {
+      "name": "情報を入力",
+      "type": "TEXT",
+      "text": "情報を入力",
+      "x": 233,
+      "y": 483,
+      "w": 340,
+      "h": 33
+    },
+    {
+      "name": "情報・素材",
+      "type": "TEXT",
+      "text": "情報・素材",
+      "x": 20,
+      "y": 483,
+      "w": 340,
+      "h": 35
+    },
+    {
+      "name": "初稿を受け取る",
+      "type": "TEXT",
+      "text": "初稿を受け取る",
+      "x": 1027,
+      "y": 483,
+      "w": 340,
+      "h": 33
+    },
+    {
+      "name": "利用者",
+      "type": "TEXT",
+      "text": "利用者",
+      "x": 1240,
+      "y": 483,
+      "w": 340,
+      "h": 35
+    },
+    {
+      "name": "著作権",
+      "type": "TEXT",
+      "text": "© 2026 Slapon Inc.",
+      "x": 30,
+      "y": 860,
+      "w": 800,
+      "h": 17
+    },
+    {
+      "name": "ページ",
+      "type": "TEXT",
+      "text": "03",
+      "x": 1520,
+      "y": 860,
+      "w": 55,
+      "h": 17
+    }
+  ],
+  "geometry_status": "既存レイヤー読取情報。アウトラインのインク外接矩形と異なる場合がある。改行後はプレビュー照合。",
+  "canvas": [
+    1600,
+    900
+  ],
+  "composition": {
+    "background": "BG01",
+    "header": "H01-Light",
+    "typography": "T01＋説明文",
+    "grid": "G01",
+    "content": "P04＋P07＋T03",
+    "footer": "F01-Light"
+  },
+  "composition_geometry_policy": "新しい作例はdrawingの座標で再構成。reference_nodesは過去原本の読取値で、新見本の配置値ではない。",
+  "classification": "composition_example",
+  "fixed_page_template": false,
+  "reusable_components": "P04＋P07＋T03",
+  "adaptation": "周辺要素数と関係線を原稿から決める",
+  "common_rules": "components/diagram-rules.md",
+  "drawing": {
+    "canvas": [
+      1600,
+      900
+    ],
+    "component_bounds": [
+      40,
+      272,
+      1520,
+      526
+    ],
+    "nodes": [
+      {
+        "type": "text",
+        "x": 30,
+        "y": 28,
+        "w": 167.0,
+        "h": 30,
+        "text": "SERVICE OVERVIEW",
+        "size": 17,
+        "role": "text",
+        "line_height": 26,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "line",
+        "x1": 217.0,
+        "x2": 217.0,
+        "y1": 28.0,
+        "y2": 48.0,
+        "role": "muted",
+        "stroke-width": 1
+      },
+      {
+        "type": "text",
+        "x": 238.0,
+        "y": 25,
+        "w": 1198.0,
+        "h": 30,
+        "text": "Slapon のサービス紹介",
+        "size": 20,
+        "role": "text",
+        "line_height": 26,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "line",
+        "x1": 30,
+        "y1": 68,
+        "x2": 1570,
+        "y2": 68,
+        "role": "line",
+        "stroke-width": 1
+      },
+      {
+        "type": "rect",
+        "x": 30,
+        "y": 67,
+        "width": 64,
+        "height": 3,
+        "rx": 0,
+        "role": "main"
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 114,
+        "w": 1440,
+        "h": 50,
+        "text": "資料づくりの時間を、伝える内容に使う。",
+        "size": 42,
+        "role": "text",
+        "line_height": 50,
+        "align": "left",
+        "font-weight": 700
+      },
+      {
+        "type": "text",
+        "x": 80,
+        "y": 176,
+        "w": 1440,
+        "h": 80,
+        "text": "情報を集めたあとの構成・図解・デザインをつなぎ、まず初稿をつくる。人が内容を確かめながら仕上げます。",
+        "size": 26,
+        "role": "text",
+        "line_height": 39,
+        "align": "left"
+      },
+      {
+        "type": "text",
+        "x": 1520,
+        "y": 861,
+        "w": 55,
+        "h": 22,
+        "text": "07",
+        "size": 14,
+        "role": "text",
+        "line_height": 20,
+        "align": "right"
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/connection-background.svg",
+        "x": 265,
+        "y": 287,
+        "paint_map": {
+          "#F7F7F7": "conceptBackdrop",
+          "#E8E8E8": "conceptRingOuter",
+          "#DDDDDD": "conceptRingInner",
+          "#B3B3B3": "conceptRingStroke"
+        },
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/input-node.svg",
+        "x": 102,
+        "y": 447,
+        "paint_map": {
+          "#262626": "comparisonMain"
+        },
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/center-node.svg",
+        "x": 709,
+        "y": 444,
+        "paint_map": {
+          "#262626": "comparisonMain"
+        },
+        "component": true
+      },
+      {
+        "type": "brand_logo",
+        "x": 736,
+        "y": 488,
+        "w": 128,
+        "h": 35,
+        "component": true,
+        "fallback_assets": [
+          {
+            "asset": "figma/concept-style/center-symbol.svg",
+            "x": 736,
+            "y": 488
+          },
+          {
+            "asset": "figma/concept-style/center-wordmark.svg",
+            "x": 776.0255,
+            "y": 495.5033
+          }
+        ]
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/output-node.svg",
+        "x": 1078.5,
+        "y": 447,
+        "paint_map": {
+          "#262626": "comparisonMain"
+        },
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/satellite-circle.svg",
+        "x": 724,
+        "y": 272,
+        "paint_map": {},
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/icon-outline.svg",
+        "x": 784.9,
+        "y": 297.9,
+        "paint_map": {
+          "#262626": "main"
+        },
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 734,
+        "y": 332,
+        "w": 132,
+        "h": 38,
+        "text": "構成",
+        "size": 26,
+        "role": "text",
+        "line_height": 37.7,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 734,
+        "y": 370,
+        "w": 132,
+        "h": 26,
+        "text": "章立て・要点",
+        "size": 17,
+        "role": "muted",
+        "line_height": 24.65,
+        "align": "center",
+        "font-weight": 400,
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/satellite-circle.svg",
+        "x": 534,
+        "y": 459,
+        "paint_map": {},
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/icon-diagram.svg",
+        "x": 592.9,
+        "y": 485.9,
+        "paint_map": {
+          "#262626": "main"
+        },
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 544,
+        "y": 519,
+        "w": 132,
+        "h": 38,
+        "text": "図解",
+        "size": 26,
+        "role": "text",
+        "line_height": 37.7,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 544,
+        "y": 557,
+        "w": 132,
+        "h": 26,
+        "text": "関係・流れ",
+        "size": 17,
+        "role": "muted",
+        "line_height": 24.65,
+        "align": "center",
+        "font-weight": 400,
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/satellite-circle.svg",
+        "x": 914,
+        "y": 459,
+        "paint_map": {},
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/icon-design.svg",
+        "x": 972.9,
+        "y": 486.9,
+        "paint_map": {
+          "#262626": "main"
+        },
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 924,
+        "y": 519,
+        "w": 132,
+        "h": 38,
+        "text": "デザイン",
+        "size": 26,
+        "role": "text",
+        "line_height": 37.7,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 924,
+        "y": 557,
+        "w": 132,
+        "h": 26,
+        "text": "配置・統一感",
+        "size": 17,
+        "role": "muted",
+        "line_height": 24.65,
+        "align": "center",
+        "font-weight": 400,
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/satellite-circle.svg",
+        "x": 724,
+        "y": 646,
+        "paint_map": {},
+        "component": true
+      },
+      {
+        "type": "asset",
+        "asset": "figma/concept-style/icon-edit.svg",
+        "x": 785.9,
+        "y": 670.9,
+        "paint_map": {
+          "#262626": "main"
+        },
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 734,
+        "y": 706,
+        "w": 132,
+        "h": 38,
+        "text": "編集",
+        "size": 26,
+        "role": "text",
+        "line_height": 37.7,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 734,
+        "y": 744,
+        "w": 132,
+        "h": 26,
+        "text": "PowerPoint",
+        "size": 17,
+        "role": "muted",
+        "line_height": 24.65,
+        "align": "center",
+        "font-weight": 400,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 40,
+        "y": 642,
+        "w": 300,
+        "h": 66,
+        "text": "目的・読み手\nメモ・既存資料",
+        "size": 22,
+        "role": "muted",
+        "line_height": 33,
+        "align": "center",
+        "font-weight": 400,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 1260,
+        "y": 642,
+        "w": 300,
+        "h": 66,
+        "text": "内容を判断\n編集して仕上げる",
+        "size": 22,
+        "role": "muted",
+        "line_height": 33,
+        "align": "center",
+        "font-weight": 400,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 650,
+        "y": 529,
+        "w": 300,
+        "h": 60,
+        "text": "考えるための\n初稿をつくる",
+        "size": 20,
+        "role": "white",
+        "line_height": 30,
+        "align": "center",
+        "font-weight": 500,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 233,
+        "y": 483,
+        "w": 340,
+        "h": 36,
+        "text": "情報を入力",
+        "size": 23,
+        "role": "text",
+        "line_height": 34.8,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 20,
+        "y": 483,
+        "w": 340,
+        "h": 36,
+        "text": "情報・素材",
+        "size": 24,
+        "role": "white",
+        "line_height": 34.8,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 1027,
+        "y": 483,
+        "w": 340,
+        "h": 36,
+        "text": "初稿を受け取る",
+        "size": 23,
+        "role": "text",
+        "line_height": 34.8,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      },
+      {
+        "type": "text",
+        "x": 1240,
+        "y": 483,
+        "w": 340,
+        "h": 36,
+        "text": "利用者",
+        "size": 24,
+        "role": "white",
+        "line_height": 34.8,
+        "align": "center",
+        "font-weight": 700,
+        "component": true
+      }
+    ],
+    "header_layout": "H01 content_width; separator gaps 20px, glyph-center alignment",
+    "title_spacing": "T01 y114 h50; subtitle y176 (12px gap)"
+  },
+  "rendering_basis": "2026-10-21利用者指定FigmaのSVGをローカルに保存し、形状・重なり・native寸法を保持。色は明示した役割マップで顧客へ適用。",
+  "applied_rules": {
+    "style_reference": "107:8722",
+    "composition_is_example_only": true,
+    "order": [
+      "connection-background",
+      "input-and-output",
+      "center",
+      "white-feature-circles",
+      "icons",
+      "labels"
+    ],
+    "opaque_fills": true,
+    "paper_occlusion": "各紙の背景を主色で不透明に塗り、手前の紙が奥の輪郭を隠す。白の抜きで代用しない。",
+    "background_roles": [
+      "conceptBackdrop",
+      "conceptRingOuter",
+      "conceptRingInner",
+      "conceptRingStroke"
+    ],
+    "strong_surface": "comparisonMain",
+    "satellite_outline": "参照SVGの#969696・1.5pxを保持",
+    "icon_stroke": 2.2,
+    "flow_stroke": 3,
+    "geometry": "すべてのSVG原本のpath・ネイティブ寸法を保持。円やレイアウトはこの作例のものであり別原稿へ固定しない。",
+    "footer_baseline": 875
+  },
+  "reference": {
+    "fileKey": "yZRuVrGDlV496zazD5AqGf",
+    "nodeId": "107:8722",
+    "url": "https://www.figma.com/design/yZRuVrGDlV496zazD5AqGf/?node-id=107-8722"
+  }
+}
+```

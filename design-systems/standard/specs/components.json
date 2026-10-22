@@ -1,0 +1,39 @@
+{
+  "canvas": [
+    1600,
+    900
+  ],
+  "order": [
+    "background",
+    "header",
+    "title",
+    "body_grid",
+    "content_components",
+    "footer"
+  ],
+  "fixed": [
+    "header anchors",
+    "footer anchors",
+    "logo aspect ratio"
+  ],
+  "flexible": [
+    "column count",
+    "body internal geometry",
+    "background division"
+  ],
+  "detail_references": {
+    "H01": "ヘッダー",
+    "F01": "フッター",
+    "T01": "文字とフォント",
+    "G01–G06": "カラム",
+    "BG01–BG05": "背景",
+    "P01–P08": "本文の部品",
+    "R01–R03": "ページの組立",
+    "D01": "表紙の縦ロゴ透かし",
+    "D02": "メッセージの縦ロゴ透かし",
+    "DIAGRAM": "図解の共通ルール",
+    "SVG-LAYERS": "重なり・面・色の精密なSVG",
+    "P03-SVG": "連続シェブロンの工程図"
+  },
+  "basis": "Standard原本の固定値と、再構成用の提案を区別する。"
+}

@@ -1,0 +1,7 @@
+{
+  "page": "selection",
+  "page_type": false,
+  "components": "S-H01 + S-P03 + S-F01",
+  "variable": "工程数・順序・説明",
+  "overflow": "原本ピッチ46。説明が増えれば行高とページ数を調整。"
+}

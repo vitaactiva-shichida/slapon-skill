@@ -1,0 +1,36 @@
+{
+  "id": "F01",
+  "region": [
+    0,
+    836,
+    1600,
+    64
+  ],
+  "company": [
+    30,
+    860,
+    800,
+    17
+  ],
+  "page_anchor": {
+    "right": 1575,
+    "baseline": 875,
+    "width": 55,
+    "font_size": 14
+  },
+  "variants": [
+    "light",
+    "tint",
+    "dark",
+    "split-local-surfaces"
+  ],
+  "source_note": {
+    "optional": true,
+    "preferred_x": 80,
+    "max_right": 1440,
+    "baseline": 825,
+    "font_size": 16
+  },
+  "baseline": 875,
+  "basis": "社名とページ番号はStandard原本。出典を本文下へ分離する領域は提案。"
+}

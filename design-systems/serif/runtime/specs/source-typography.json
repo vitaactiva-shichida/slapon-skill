@@ -1,0 +1,1682 @@
+[
+  {
+    "page": "cover",
+    "id": "English title",
+    "font": "Libre Baskerville",
+    "size": 74.0,
+    "unit": "source-px",
+    "ppt_pt": 88.8
+  },
+  {
+    "page": "cover",
+    "id": "Japanese title",
+    "font": "Noto Serif JP",
+    "size": 19.0,
+    "unit": "source-px",
+    "ppt_pt": 22.8
+  },
+  {
+    "page": "cover",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Contents",
+    "font": "Libre Baskerville",
+    "size": 48.0,
+    "unit": "source-px",
+    "ppt_pt": 57.6
+  },
+  {
+    "page": "contents",
+    "id": "Japanese label",
+    "font": "Noto Serif JP",
+    "size": 19.0,
+    "unit": "source-px",
+    "ppt_pt": 22.8
+  },
+  {
+    "page": "contents",
+    "id": "Section",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Heading",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "English",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Section_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Heading_2",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "English_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Section_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Heading_3",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "English_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Section_4",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Heading_4",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "English_4",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Section_5",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "contents",
+    "id": "Heading_5",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "contents",
+    "id": "English_5",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "section",
+    "id": "English title",
+    "font": "Libre Baskerville",
+    "size": 56.0,
+    "unit": "source-px",
+    "ppt_pt": 67.2
+  },
+  {
+    "page": "section",
+    "id": "Japanese title",
+    "font": "Noto Serif JP",
+    "size": 19.0,
+    "unit": "source-px",
+    "ppt_pt": 22.8
+  },
+  {
+    "page": "section",
+    "id": "Running company",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "section",
+    "id": "Chapter number",
+    "font": "Libre Baskerville",
+    "size": 110.0,
+    "unit": "source-px",
+    "ppt_pt": 132.0
+  },
+  {
+    "page": "section",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "section",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "overview",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "overview",
+    "id": "Section number",
+    "font": "Libre Baskerville",
+    "size": 25.0,
+    "unit": "source-px",
+    "ppt_pt": 30.0
+  },
+  {
+    "page": "overview",
+    "id": "Label",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Value",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Label_2",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Value_2",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Label_3",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Value_3",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Label_4",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Value_4",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Label_5",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Value_5",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Label_6",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Value_6",
+    "font": "Noto Serif JP",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "overview",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "overview",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "mission",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "mission",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "mission",
+    "id": "Company",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "mission",
+    "id": "English",
+    "font": "Libre Baskerville",
+    "size": 20.0,
+    "unit": "source-px",
+    "ppt_pt": 24.0
+  },
+  {
+    "page": "mission",
+    "id": "Mission",
+    "font": "Noto Serif JP",
+    "size": 26.0,
+    "unit": "source-px",
+    "ppt_pt": 31.2
+  },
+  {
+    "page": "mission",
+    "id": "Paragraph 1",
+    "font": "Noto Sans JP",
+    "size": 11.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "mission",
+    "id": "Paragraph 2",
+    "font": "Noto Sans JP",
+    "size": 11.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "members",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "members",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "members",
+    "id": "Name",
+    "font": "Noto Serif JP",
+    "size": 21.0,
+    "unit": "source-px",
+    "ppt_pt": 25.2
+  },
+  {
+    "page": "members",
+    "id": "Expertise",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "members",
+    "id": "Biography",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "members",
+    "id": "Name_2",
+    "font": "Noto Serif JP",
+    "size": 21.0,
+    "unit": "source-px",
+    "ppt_pt": 25.2
+  },
+  {
+    "page": "members",
+    "id": "Expertise_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "members",
+    "id": "Biography_2",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "members",
+    "id": "Name_3",
+    "font": "Noto Serif JP",
+    "size": 21.0,
+    "unit": "source-px",
+    "ppt_pt": 25.2
+  },
+  {
+    "page": "members",
+    "id": "Expertise_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "members",
+    "id": "Biography_3",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "members",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "members",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "business",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "business",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Lead",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "business",
+    "id": "Intro",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "business",
+    "id": "Category",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Service",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "business",
+    "id": "Challenge label",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Challenge",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "business",
+    "id": "Support label",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Support",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "business",
+    "id": "Value",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "business",
+    "id": "Category_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Service_2",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "business",
+    "id": "Challenge label_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Challenge_2",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "business",
+    "id": "Support label_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Support_2",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "business",
+    "id": "Value_2",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "business",
+    "id": "Category_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Service_3",
+    "font": "Noto Serif JP",
+    "size": 15.0,
+    "unit": "source-px",
+    "ppt_pt": 18.0
+  },
+  {
+    "page": "business",
+    "id": "Challenge label_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Challenge_3",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "business",
+    "id": "Support label_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "business",
+    "id": "Support_3",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "business",
+    "id": "Value_3",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "growth",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "growth",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Lead",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "Sample note",
+    "font": "Noto Sans JP",
+    "size": 7.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "Chart title",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "Chart condition",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Axis 0",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Axis 200",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Axis 400",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Axis 600",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value 0",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "Period 0",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value 1",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "Period 1",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value 2",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "Period 2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value 3",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "Period 3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value 4",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "Period 4",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value 5",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "growth",
+    "id": "Period 5",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "KPI heading",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "Label",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value",
+    "font": "Libre Baskerville",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 33.6
+  },
+  {
+    "page": "growth",
+    "id": "Unit",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "Label_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value_2",
+    "font": "Libre Baskerville",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 33.6
+  },
+  {
+    "page": "growth",
+    "id": "Unit_2",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "Label_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "growth",
+    "id": "Value_3",
+    "font": "Libre Baskerville",
+    "size": 28.0,
+    "unit": "source-px",
+    "ppt_pt": 33.6
+  },
+  {
+    "page": "growth",
+    "id": "Unit_3",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "growth",
+    "id": "Term",
+    "font": "Noto Sans JP",
+    "size": 7.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "Event",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "growth",
+    "id": "Term_2",
+    "font": "Noto Sans JP",
+    "size": 7.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "Event_2",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "growth",
+    "id": "Term_3",
+    "font": "Noto Sans JP",
+    "size": 7.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "growth",
+    "id": "Event_3",
+    "font": "Noto Sans JP",
+    "size": 9.5,
+    "unit": "source-px",
+    "ppt_pt": 11.4
+  },
+  {
+    "page": "voices",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "voices",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "voices",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "Quote",
+    "font": "Noto Serif JP",
+    "size": 24.0,
+    "unit": "source-px",
+    "ppt_pt": 28.8
+  },
+  {
+    "page": "voices",
+    "id": "Quote subtitle",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "Heading",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "voices",
+    "id": "Body",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "Heading_2",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "voices",
+    "id": "Body_2",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "Name",
+    "font": "Noto Serif JP",
+    "size": 19.0,
+    "unit": "source-px",
+    "ppt_pt": 22.8
+  },
+  {
+    "page": "voices",
+    "id": "Roman name",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "Role",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "voices",
+    "id": "Tenure",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "Label",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "voices",
+    "id": "Work focus",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "culture",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "culture",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "culture",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Intro",
+    "font": "Noto Sans JP",
+    "size": 11.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  },
+  {
+    "page": "culture",
+    "id": "Label",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Label_2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_2",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit_2",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Label_3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_3",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit_3",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Label_4",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_4",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit_4",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Label_5",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_5",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit_5",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Label_6",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_6",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Label_7",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_7",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit_6",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Label_8",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Value_8",
+    "font": "Libre Baskerville",
+    "size": 22.0,
+    "unit": "source-px",
+    "ppt_pt": 26.4
+  },
+  {
+    "page": "culture",
+    "id": "Unit_7",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "culture",
+    "id": "Donut title",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "culture",
+    "id": "Donut subtitle",
+    "font": "Noto Sans JP",
+    "size": 7.0,
+    "unit": "source-px",
+    "ppt_pt": 8.4
+  },
+  {
+    "page": "culture",
+    "id": "Legend 0",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Legend 1",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Legend 2",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Legend 3",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "culture",
+    "id": "Legend 4",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "selection",
+    "id": "English heading",
+    "font": "Libre Baskerville",
+    "size": 14.0,
+    "unit": "source-px",
+    "ppt_pt": 16.8
+  },
+  {
+    "page": "selection",
+    "id": "Japanese heading",
+    "font": "Noto Serif JP",
+    "size": 36.0,
+    "unit": "source-px",
+    "ppt_pt": 43.2
+  },
+  {
+    "page": "selection",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "selection",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "selection",
+    "id": "Number",
+    "font": "Libre Baskerville",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 19.2
+  },
+  {
+    "page": "selection",
+    "id": "Label",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "selection",
+    "id": "Description",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "Number_2",
+    "font": "Libre Baskerville",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 19.2
+  },
+  {
+    "page": "selection",
+    "id": "Label_2",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "selection",
+    "id": "Description_2",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "Number_3",
+    "font": "Libre Baskerville",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 19.2
+  },
+  {
+    "page": "selection",
+    "id": "Label_3",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "selection",
+    "id": "Description_3",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "Number_4",
+    "font": "Libre Baskerville",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 19.2
+  },
+  {
+    "page": "selection",
+    "id": "Label_4",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "selection",
+    "id": "Description_4",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "Number_5",
+    "font": "Libre Baskerville",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 19.2
+  },
+  {
+    "page": "selection",
+    "id": "Label_5",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "selection",
+    "id": "Description_5",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "selection",
+    "id": "Number_6",
+    "font": "Libre Baskerville",
+    "size": 16.0,
+    "unit": "source-px",
+    "ppt_pt": 19.2
+  },
+  {
+    "page": "selection",
+    "id": "Label_6",
+    "font": "Noto Serif JP",
+    "size": 13.0,
+    "unit": "source-px",
+    "ppt_pt": 15.6
+  },
+  {
+    "page": "selection",
+    "id": "Description_6",
+    "font": "Noto Sans JP",
+    "size": 10.0,
+    "unit": "source-px",
+    "ppt_pt": 12.0
+  },
+  {
+    "page": "closing",
+    "id": "Left",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "closing",
+    "id": "Page",
+    "font": "Noto Sans JP",
+    "size": 8.0,
+    "unit": "source-px",
+    "ppt_pt": 9.6
+  },
+  {
+    "page": "closing",
+    "id": "English",
+    "font": "Libre Baskerville",
+    "size": 56.0,
+    "unit": "source-px",
+    "ppt_pt": 67.2
+  },
+  {
+    "page": "closing",
+    "id": "Japanese",
+    "font": "Noto Serif JP",
+    "size": 19.0,
+    "unit": "source-px",
+    "ppt_pt": 22.8
+  },
+  {
+    "page": "closing",
+    "id": "Contact",
+    "font": "Noto Sans JP",
+    "size": 11.0,
+    "unit": "source-px",
+    "ppt_pt": 13.2
+  }
+]

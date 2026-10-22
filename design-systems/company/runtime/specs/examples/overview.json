@@ -1,0 +1,8 @@
+{
+  "id": "C-EXAMPLE-OVERVIEW",
+  "page": "overview",
+  "page_type": false,
+  "components": "C-H01 + C-TABLE + C-F01",
+  "variable": "項目数・値・比較条件",
+  "overflow": "行数と最長の値から行高を決める。6行は固定しない。"
+}

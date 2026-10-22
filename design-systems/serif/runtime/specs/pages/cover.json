@@ -1,0 +1,7 @@
+{
+  "page": "cover",
+  "geometry": "pages/cover.svg",
+  "components": "74pxの欧文＋19pxの日本語＋日付＋ロゴ",
+  "variable": "タイトル・資料名・日付",
+  "overflow": "欧文74→68→62pxを初期候補、行送り83、最大2行。背景の光を避ける。"
+}

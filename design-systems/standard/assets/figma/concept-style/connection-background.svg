@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1070" height="496" viewBox="0 0 1070 496" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="subtle-connection-background">
+<path id="Vector" d="M0 248L405 43V453L0 248Z" fill="#F7F7F7"/>
+<path id="Vector_2" d="M1070 248L665 43V453L1070 248Z" fill="#F7F7F7"/>
+<path id="Vector_3" d="M535 496C671.967 496 783 384.967 783 248C783 111.033 671.967 0 535 0C398.033 0 287 111.033 287 248C287 384.967 398.033 496 535 496Z" fill="#E8E8E8"/>
+<path id="Vector_4" d="M535 468C656.503 468 755 369.503 755 248C755 126.497 656.503 28 535 28C413.497 28 315 126.497 315 248C315 369.503 413.497 468 535 468Z" fill="#DDDDDD"/>
+<path id="Vector_5" d="M722 248C722 351.277 638.277 435 535 435C431.723 435 348 351.277 348 248C348 144.723 431.723 61 535 61C638.277 61 722 144.723 722 248Z" stroke-width="1.5" stroke="#B3B3B3"/>
+</g>
+</svg>

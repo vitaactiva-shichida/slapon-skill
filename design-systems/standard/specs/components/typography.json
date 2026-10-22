@@ -1,0 +1,174 @@
+{
+  "unit": "reference_px",
+  "canvas": [
+    1600,
+    900
+  ],
+  "jp": "Noto Sans JP",
+  "latin": "Arimo",
+  "weights": [
+    400,
+    500,
+    700
+  ],
+  "roles": [
+    {
+      "id": "T-COVER",
+      "role": "表紙タイトル",
+      "font": "Noto Sans JP",
+      "size": 76,
+      "steps": [
+        76,
+        72,
+        68,
+        64
+      ],
+      "weight": 700,
+      "leading": 90,
+      "max_lines": 3
+    },
+    {
+      "id": "T01",
+      "role": "本文タイトル",
+      "font": "Noto Sans JP",
+      "size": 42,
+      "steps": [
+        42,
+        40,
+        38,
+        36
+      ],
+      "weight": 700,
+      "leading": 50,
+      "max_lines": 2
+    },
+    {
+      "id": "T-LEAD",
+      "role": "大きいリード",
+      "font": "Noto Sans JP",
+      "size": 48,
+      "steps": [
+        48,
+        46,
+        44
+      ],
+      "weight": 700,
+      "leading": 62,
+      "max_lines": 3
+    },
+    {
+      "id": "T02",
+      "role": "小見出し",
+      "font": "Noto Sans JP",
+      "size": 30,
+      "range": [
+        28,
+        32
+      ],
+      "weight": 700,
+      "leading": 39
+    },
+    {
+      "id": "T03",
+      "role": "本文",
+      "font": "Noto Sans JP",
+      "size": 26,
+      "range": [
+        24,
+        28
+      ],
+      "weight": 400,
+      "leading": 39
+    },
+    {
+      "id": "T04",
+      "role": "図表ラベル",
+      "font": "Noto Sans JP / Arimo",
+      "size": 22,
+      "range": [
+        20,
+        24
+      ],
+      "weight": 400,
+      "leading": 29
+    },
+    {
+      "id": "T05",
+      "role": "出典・注記",
+      "font": "Noto Sans JP",
+      "size": 16,
+      "range": [
+        16,
+        18
+      ],
+      "weight": 400,
+      "leading": 22
+    },
+    {
+      "id": "T06",
+      "role": "ヘッダー",
+      "font": "Noto Sans JP / Arimo",
+      "size": 20,
+      "range": [
+        17,
+        20
+      ],
+      "weight": 700,
+      "leading": 26,
+      "exception": "長い英語カテゴリのみ17pxまで。通常20px。"
+    },
+    {
+      "id": "T07",
+      "role": "発行元・ページ番号",
+      "font": "Noto Sans JP / Arimo",
+      "size": 15,
+      "page_size": 14,
+      "weight": 400,
+      "leading": 17
+    },
+    {
+      "id": "T-KPI",
+      "role": "主役の数値",
+      "font": "Arimo",
+      "size": 88,
+      "range": [
+        64,
+        96
+      ],
+      "weight": 700,
+      "leading": 92
+    }
+  ],
+  "status": "reconstruction_proposal",
+  "title_formula": {
+    "title_y": 114,
+    "one_line_h": 50,
+    "two_line_h": 100,
+    "subtitle_gap": 12,
+    "subtitle_leading": 35,
+    "body_min_y": 300,
+    "body_gap_after_subtitle": 40,
+    "basis": "2026-10-22利用者指定。本文型T01に適用。表紙・目次・メッセージ・中扉には適用しない。"
+  },
+  "example_overrides": {
+    "process": {
+      "body_size": 23,
+      "body_leading": 33.35,
+      "output_size": 20,
+      "basis": "指定Figma 107:8778"
+    },
+    "comparison": {
+      "cell_size": 22,
+      "cell_leading": 30,
+      "padding": [
+        24,
+        16
+      ]
+    },
+    "features": {
+      "body_size": 24,
+      "body_leading": 30
+    },
+    "policy": "一般ルールより専用作例のdrawingと参照SVGの実測値を優先。"
+  }
+}

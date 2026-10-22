@@ -1,0 +1,42 @@
+{
+  "id": "D01",
+  "name": "表紙右側の縦ロゴ透かし",
+  "pages": [
+    "cover"
+  ],
+  "reference": {
+    "fileKey": "yZRuVrGDlV496zazD5AqGf",
+    "frameNodeId": "107:8610",
+    "watermarkNodeId": "107:8626",
+    "url": "https://www.figma.com/design/yZRuVrGDlV496zazD5AqGf/?node-id=107-8610"
+  },
+  "canvas": [
+    1600,
+    900
+  ],
+  "rotated_bounds": [
+    1337,
+    -58,
+    348,
+    1021
+  ],
+  "local_logo_box": [
+    0,
+    0,
+    1021,
+    348
+  ],
+  "translate": [
+    1337,
+    963
+  ],
+  "rotation_degrees_svg": -90,
+  "opacity": 0.4,
+  "fill": "#FFFFFF",
+  "clip_to_slide": true,
+  "preserve_aspect_ratio": "xMidYMid meet",
+  "text_exclusion_x": 1337,
+  "logo_variant": "white",
+  "evidence": "枠・回転・白40%はFigmaの実測。顧客ロゴを同比率枠へ内接する点は顧客版の適用。",
+  "header_logo_is_independent": true
+}

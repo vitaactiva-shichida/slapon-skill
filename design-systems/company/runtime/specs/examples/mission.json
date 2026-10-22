@@ -1,0 +1,8 @@
+{
+  "id": "C-EXAMPLE-MISSION",
+  "page": "mission",
+  "page_type": false,
+  "components": "大きいリード + 2列説明 + C-F01",
+  "variable": "主張・段落数",
+  "overflow": "大きい主張と詳細の階層を保ち、長い場合は説明を別ページへ分ける。"
+}

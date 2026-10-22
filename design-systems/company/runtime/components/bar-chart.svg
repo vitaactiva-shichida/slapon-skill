@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-template-page="growth" width="1050" height="460" viewBox="70 285 1050 460" fill="none" data-slide="growth">
+<style>@font-face{font-family:"Arimo";src:url("../assets/fonts/Arimo.ttf");font-weight:100 900;font-style:normal}
+@font-face{font-family:"Noto Sans JP";src:url("../assets/fonts/NotoSansJP.ttf");font-weight:100 900;font-style:normal}</style><g id="08ï½äºæ¥­ã®æé·ã¨å®ç¸¾">
+<rect width="1600" height="900" fill="#FFFFFF" />
+<g id="å±éãããã¼">
+<text id="è±èªã©ãã«" fill="#1457D9" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="80" y="60.4">GROWTH &amp; MILESTONES</tspan></text>
+<text id="ã¿ã¤ãã«" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="44" font-weight="bold" letter-spacing="0em"><tspan x="80" y="127.6">事業の成長と実績</tspan></text>
+</g>
+<g id="å±éããã¿ã¼">
+<text data-company-label="true" id="ä¼ç¤¾å" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em" data-company-slot="true"><tspan x="20.332" y="875.6">株式会社サンプル | COMPANY PROFILE</tspan></text>
+<text id="ãã¼ã¸çªå·" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="1564.8" y="875.6">08</tspan></text>
+</g>
+<g id="æ¬æ / æé·ã¨å®ç¸¾">
+<text id="å°å¥è¦åºã" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="80" y="212.2">主力事業を育てながら、継続的な成長を重ねています。</tspan></text>
+<text id="ãµã³ãã«æ³¨è¨" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="80" y="250.6">記載内容・数値はすべて架空のサンプルです。</tspan></text>
+<g id="å£²ä¸é«ã®æ¨ç§»ï½0èµ·ç¹ã»é«ã300px">
+<text id="ã°ã©ãè¦åºã" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="80" y="311.8">売上高の推移</tspan></text>
+<text id="éè¨æ¡ä»¶" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="80" y="346.8">単位：百万円 ／ 第1期〜第6期・各期通年</tspan></text>
+<path id="ç®çç· 0" d="M144 686H1104V687H144V686Z" fill="#CCD0D5" />
+<text id="ç¸¦è»¸ 0" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="112.234" y="691.6">0</tspan></text>
+<path id="ç®çç· 200" d="M144 586H1104V587H144V586Z" fill="#EAF0FA" />
+<text id="ç¸¦è»¸ 200" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="96.7031" y="591.6">200</tspan></text>
+<path id="ç®çç· 400" d="M144 486H1104V487H144V486Z" fill="#EAF0FA" />
+<text id="ç¸¦è»¸ 400" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="96.7031" y="491.6">400</tspan></text>
+<path id="ç®çç· 600" d="M144 386H1104V387H144V386Z" fill="#EAF0FA" />
+<text id="ç¸¦è»¸ 600" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="14" letter-spacing="0em"><tspan x="96.7031" y="391.6">600</tspan></text>
+<path id="å£²ä¸é« / ç¬¬1æ / 120ç¾ä¸å" d="M184 630C184 627.791 185.791 626 188 626H276C278.209 626 280 627.791 280 630V686H184V630Z" fill="#B5CAF2" />
+<text id="å£²ä¸ã©ãã« ç¬¬1æ" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="212.535" y="612.8">120</tspan></text>
+<text id="æã©ãã« ç¬¬1æ" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="210.285" y="718.8">第1期</tspan></text>
+<path id="å£²ä¸é« / ç¬¬2æ / 180ç¾ä¸å" d="M344 600C344 597.791 345.791 596 348 596H436C438.209 596 440 597.791 440 600V686H344V600Z" fill="#B5CAF2" />
+<text id="å£²ä¸ã©ãã« ç¬¬2æ" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="372.535" y="582.8">180</tspan></text>
+<text id="æã©ãã« ç¬¬2æ" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="370.285" y="718.8">第2期</tspan></text>
+<path id="å£²ä¸é« / ç¬¬3æ / 270ç¾ä¸å" d="M504 555C504 552.791 505.791 551 508 551H596C598.209 551 600 552.791 600 555V686H504V555Z" fill="#B5CAF2" />
+<text id="å£²ä¸ã©ãã« ç¬¬3æ" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="532.535" y="537.8">270</tspan></text>
+<text id="æã©ãã« ç¬¬3æ" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="530.285" y="718.8">第3期</tspan></text>
+<path id="å£²ä¸é« / ç¬¬4æ / 360ç¾ä¸å" d="M664 510C664 507.791 665.791 506 668 506H756C758.209 506 760 507.791 760 510V686H664V510Z" fill="#B5CAF2" />
+<text id="å£²ä¸ã©ãã« ç¬¬4æ" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="692.535" y="492.8">360</tspan></text>
+<text id="æã©ãã« ç¬¬4æ" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="690.285" y="718.8">第4期</tspan></text>
+<path id="å£²ä¸é« / ç¬¬5æ / 480ç¾ä¸å" d="M824 450C824 447.791 825.791 446 828 446H916C918.209 446 920 447.791 920 450V686H824V450Z" fill="#B5CAF2" />
+<text id="å£²ä¸ã©ãã« ç¬¬5æ" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="852.535" y="432.8">480</tspan></text>
+<text id="æã©ãã« ç¬¬5æ" fill="#6B7584" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="850.285" y="718.8">第5期</tspan></text>
+<path id="å£²ä¸é« / ç¬¬6æ / 600ç¾ä¸å" d="M984 390C984 387.791 985.791 386 988 386H1076C1078.21 386 1080 387.791 1080 390V686H984V390Z" fill="#1457D9" />
+<text id="å£²ä¸ã©ãã« ç¬¬6æ" fill="#1457D9" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="22" font-weight="bold" letter-spacing="0em"><tspan x="1012.54" y="372.8">600</tspan></text>
+<text id="æã©ãã« ç¬¬6æ" fill="#1457D9" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="17" letter-spacing="0em"><tspan x="1010.29" y="718.8">第6期</tspan></text>
+</g>
+<g id="ç¬¬6æã®ä¸»è¦å®ç¸¾">
+<path d="M1184 298C1184 291.373 1189.37 286 1196 286H1508C1514.63 286 1520 291.373 1520 298V738C1520 744.627 1514.63 750 1508 750H1196C1189.37 750 1184 744.627 1184 738V298Z" fill="#1457D9" />
+<text id="å®ç¸¾ã©ãã«" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="1212" y="332.4">第6期の主要実績</tspan></text>
+<g id="å®ç¸¾ææ¨ 1">
+<text id="ææ¨å" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="1212" y="380">売上高</tspan></text>
+<g id="æ°å¤ã¨åä½">
+<text id="æ°å¤" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="48" font-weight="bold" letter-spacing="0em"><tspan x="1212" y="436.24">6.0</tspan></text>
+<text id="åä½" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="20" letter-spacing="0em"><tspan x="1287" y="436.6">億円</tspan></text>
+</g>
+</g>
+<path id="ææ¨ã®åºåã" opacity="0.25" d="M1212 473.2H1492V474.2H1212V473.2Z" fill="#FFFFFF" />
+<g id="å®ç¸¾ææ¨ 2">
+<text id="ææ¨å_2" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="1212" y="516.2">売上高 前期比</tspan></text>
+<g id="æ°å¤ã¨åä½_2">
+<text id="æ°å¤_2" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="48" font-weight="bold" letter-spacing="0em"><tspan x="1212" y="572.44">+25.0</tspan></text>
+<text id="åä½_2" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="20" letter-spacing="0em"><tspan x="1342" y="572.8">%</tspan></text>
+</g>
+</g>
+<path id="ææ¨ã®åºåã_2" opacity="0.25" d="M1212 609.4H1492V610.4H1212V609.4Z" fill="#FFFFFF" />
+<g id="å®ç¸¾ææ¨ 3">
+<text id="ææ¨å_3" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="1212" y="652.4">継続取引社数</tspan></text>
+<g id="æ°å¤ã¨åä½_3">
+<text id="æ°å¤_3" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="48" font-weight="bold" letter-spacing="0em"><tspan x="1212" y="708.641">300</tspan></text>
+<text id="åä½_3" fill="#FFFFFF" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="20" letter-spacing="0em"><tspan x="1301" y="709">社</tspan></text>
+</g>
+</g>
+</g>
+<path id="ç¯ç®ã®åºåã" d="M80 766H1520V767H80V766Z" fill="#CCD0D5" />
+<g id="æé·ã®ç¯ç®">
+<g id="ç¯ç® ç¬¬2æ">
+<text id="æ" fill="#1457D9" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="80" y="794.4">第2期</tspan></text>
+<text id="åºæ¥äº" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="20" letter-spacing="0em"><tspan x="80" y="826">主力サービスを提供開始</tspan></text>
+</g>
+<g id="ç¯ç® ç¬¬4æ">
+<text id="æ_2" fill="#1457D9" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="568" y="794.4">第4期</tspan></text>
+<text id="åºæ¥äº_2" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="20" letter-spacing="0em"><tspan x="568" y="826">支援体制を拡充</tspan></text>
+</g>
+<g id="ç¯ç® ç¬¬6æ">
+<text id="æ_3" fill="#1457D9" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="1056" y="794.4">第6期</tspan></text>
+<text id="åºæ¥äº_3" fill="#17283F" style="white-space: pre" xml:space="preserve" font-family="Noto Sans JP" font-size="20" letter-spacing="0em"><tspan x="1056" y="826">継続取引300社へ</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<svg width="152" height="42" viewBox="2 12 319.5 72" x="1368" y="40" preserveAspectRatio="xMaxYMid meet" data-brand-logo="true"><title>Sample company dummy logo</title><g fill="#2356A8"><rect x="2" y="12" width="16" height="72" rx="8" /><rect x="25" y="28" width="16" height="56" rx="8" /><rect x="48" y="44" width="16" height="40" rx="8" /><text x="80" y="73" font-family="Arial,sans-serif" font-size="61" font-weight="700" letter-spacing="-2">SAMPLE</text></g></svg></svg>

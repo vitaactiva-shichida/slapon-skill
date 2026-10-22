@@ -1,0 +1,8 @@
+{
+  "id": "C-EXAMPLE-VOICES",
+  "page": "voices",
+  "page_type": false,
+  "components": "C-H01-Dark + 引用パネル + C-P02 + C-F01",
+  "variable": "発言・写真・プロフィール",
+  "overflow": "引用を無断で改変せず、長い発言は抜粋と出典を明示。"
+}

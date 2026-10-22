@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "license_registry": "licenses/registry.json",
+  "generations": {
+    "1": {
+      "status": "active",
+      "ref": "main",
+      "common": "SKILL.md",
+      "catalog": "assets/design-patterns/catalog.json",
+      "design_systems": {
+        "standard": {
+          "source": "design-systems/standard/index.html",
+          "manifest": "design-systems/standard/runtime-manifest.json",
+          "guide": "standard.md"
+        },
+        "company": {
+          "source": "design-systems/company/runtime/index.html",
+          "manifest": "design-systems/company/runtime/runtime-manifest.json"
+        },
+        "serif": {
+          "source": "design-systems/serif/runtime/index.html",
+          "manifest": "design-systems/serif/runtime/runtime-manifest.json"
+        }
+      }
+    }
+  },
+  "policy": {
+    "compatible_updates": "new jobs resolve the current compatible generation",
+    "breaking_changes": "preserve v1 branch, point generation1 at v1, then map generation2 to main",
+    "within_job": "pin one resolved commit; never mix current main into an existing job"
+  }
+}

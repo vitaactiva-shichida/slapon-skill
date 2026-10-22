@@ -1,0 +1,80 @@
+{
+  "id": "C-H01",
+  "observed": {
+    "region": [
+      80,
+      42,
+      1440,
+      100
+    ],
+    "label": {
+      "x": 80,
+      "y": 42,
+      "size": 16,
+      "weight": 500,
+      "leading": 24,
+      "baseline": 60.4
+    },
+    "title": {
+      "x": 80,
+      "y": 78,
+      "size": 44,
+      "weight": 700,
+      "leading": 64,
+      "baseline": 127.6
+    },
+    "automatic_underline": false
+  },
+  "logo": {
+    "box": [
+      1368,
+      40,
+      152,
+      42
+    ],
+    "status": "雛形で追加したロゴ領域。表示幅を190pxから152pxへ20%縮小し、右端1520pxを維持。",
+    "fit": "contain, preserve aspect ratio",
+    "clearance": 24,
+    "plate": false,
+    "asset_policy": "不要な外側余白をトリミングし、透過背景を保持。白い下地を追加しない。"
+  },
+  "proposed": {
+    "text_max_right": 1306,
+    "title_width": 1226,
+    "title_size_steps": [
+      44,
+      40,
+      36
+    ],
+    "title_max_lines": 2,
+    "body_min_y": 180,
+    "body_gap_after_title": 38,
+    "subtitle_gap": 16,
+    "body_gap_after_subtitle": 32
+  },
+  "variants": {
+    "light": {
+      "ink": "text",
+      "label": "primaryInk",
+      "logo": "color"
+    },
+    "tint": {
+      "ink": "inkSurface",
+      "label": "primaryInkSurface",
+      "logo": "color"
+    },
+    "dark": {
+      "ink": "onmain",
+      "label": "onmain",
+      "logo": "white when onmain is white"
+    }
+  },
+  "omit_when": [
+    "cover",
+    "contents-side-heading",
+    "section",
+    "mission-special",
+    "closing"
+  ],
+  "source_policy": "上のラベルはページ内の見出し。Standardの80pxパンくずバーや短い下線を自動追加しない。"
+}

@@ -1,0 +1,2822 @@
+{
+  "unit": "source_px",
+  "canvas": [
+    1600,
+    900
+  ],
+  "coordinate": "text baseline; not text box top",
+  "observations": [
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "OUR BUSINESSES"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "私たちの3つの事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.999",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.47",
+          "baseline": "875.6",
+          "text": "07"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "212.2",
+          "text": "課題の整理から、仕組みづくり、運用の定着まで。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "254",
+          "text": "3つの専門領域を組み合わせ、お客様の業務が変わるところまで支援します。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "338.4",
+          "text": "01  ソリューション事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "384.2",
+          "text": "業務改善支援"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "436.6",
+          "text": "向き合う課題"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "470",
+          "text": "業務が属人化し、改善の\n"
+        },
+        {
+          "x": "108",
+          "baseline": "502",
+          "text": "優先順位を決められない。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "552.6",
+          "text": "主な支援内容"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "108",
+          "baseline": "586",
+          "text": "業務の可視化・課題の整理\n"
+        },
+        {
+          "x": "108",
+          "baseline": "618",
+          "text": "改善計画の策定"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "689.8",
+          "text": "次に取り組むことが、\n"
+        },
+        {
+          "x": "120",
+          "baseline": "723.8",
+          "text": "明確になる。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "338.4",
+          "text": "02  プラットフォーム事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "384.2",
+          "text": "システム・ツール開発"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "436.6",
+          "text": "向き合う課題"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "470",
+          "text": "手作業や情報の分散が、\n"
+        },
+        {
+          "x": "596",
+          "baseline": "502",
+          "text": "日々の負担になっている。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "552.6",
+          "text": "主な支援内容"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "596",
+          "baseline": "586",
+          "text": "業務ツールの開発\n"
+        },
+        {
+          "x": "596",
+          "baseline": "618",
+          "text": "データ連携・運用設計"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "608",
+          "baseline": "689.8",
+          "text": "手間を減らし、\n"
+        },
+        {
+          "x": "608",
+          "baseline": "723.8",
+          "text": "必要な情報をつなぐ。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "338.4",
+          "text": "03  パートナー事業"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "384.2",
+          "text": "導入・運用サポート"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "436.6",
+          "text": "向き合う課題"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "470",
+          "text": "ツールを導入しても、\n"
+        },
+        {
+          "x": "1084",
+          "baseline": "502",
+          "text": "現場で活用されていない。"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "552.6",
+          "text": "主な支援内容"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1084",
+          "baseline": "586",
+          "text": "操作研修・運用ルールの整備\n"
+        },
+        {
+          "x": "1084",
+          "baseline": "618",
+          "text": "活用状況に応じた改善支援"
+        }
+      ]
+    },
+    {
+      "page": "business",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1096",
+          "baseline": "689.8",
+          "text": "現場で使い続けられる\n"
+        },
+        {
+          "x": "1096",
+          "baseline": "723.8",
+          "text": "状態をつくる。"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Arimo",
+      "size": 90.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "405.201",
+          "text": "Join Our Team"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 33.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "502.2",
+          "text": "一緒に未来をつくる仲間を募集しています。"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 27.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "562.8",
+          "text": "[採用サイトURL] ／ [お問い合わせ先]"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.666",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "closing",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.13",
+          "baseline": "875.6",
+          "text": "12"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "209.961",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "183",
+          "text": "会社の基本情報"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "215.6",
+          "text": "会社概要・ミッション・ビジョン"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "339.961",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "313",
+          "text": "経営・事業について"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "345.6",
+          "text": "経営陣・事業内容・成長戦略"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "469.961",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "443",
+          "text": "働く環境と人材制度"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "475.6",
+          "text": "福利厚生・社員の声・評価制度"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "599.961",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "573",
+          "text": "組織と採用について"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "605.6",
+          "text": "組織体制・採用情報・選考フロー"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 72.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "840",
+          "baseline": "729.961",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 30.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "703",
+          "text": "代表メッセージ・応募案内"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "962",
+          "baseline": "735.6",
+          "text": "代表メッセージ・応募のご案内"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Arimo",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "420.934",
+          "text": "CONTENTS"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "485.6",
+          "text": "目次"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.3333",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "contents",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "02"
+        }
+      ]
+    },
+    {
+      "page": "cover",
+      "font": "Arimo",
+      "size": 100.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "483.668",
+          "text": "COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "cover",
+      "font": "Noto Sans JP",
+      "size": 40.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "594",
+          "text": "会社紹介資料 ／ [会社名]"
+        }
+      ]
+    },
+    {
+      "page": "cover",
+      "font": "Noto Sans JP",
+      "size": 24.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "807.6",
+          "text": "更新日：20XX年XX月XX日"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "224",
+          "text": "一人ひとりの多様性を力に変え、働きやすさと事業成長の両立を目指しています。"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "363",
+          "text": "社員数\n"
+        },
+        {
+          "x": "100",
+          "baseline": "395",
+          "text": "（正社員）"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "489.641",
+          "text": "120"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "250",
+          "baseline": "490",
+          "text": "名"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "363",
+          "text": "平均年齢\n"
+        },
+        {
+          "x": "344",
+          "baseline": "395",
+          "text": "（全社員）"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "489.641",
+          "text": "34.2"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "494",
+          "baseline": "490",
+          "text": "歳"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "363",
+          "text": "リモート勤務\n"
+        },
+        {
+          "x": "588",
+          "baseline": "395",
+          "text": "利用率"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "489.641",
+          "text": "72.5"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "738",
+          "baseline": "490",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "363",
+          "text": "女性管理職\n"
+        },
+        {
+          "x": "832",
+          "baseline": "395",
+          "text": "比率"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "489.641",
+          "text": "32.0"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "982",
+          "baseline": "490",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "612",
+          "text": "月平均\n"
+        },
+        {
+          "x": "100",
+          "baseline": "644",
+          "text": "残業時間"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "100",
+          "baseline": "738.641",
+          "text": "18.6"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "250",
+          "baseline": "739",
+          "text": "h"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "612",
+          "text": "男女比\n"
+        },
+        {
+          "x": "344",
+          "baseline": "644",
+          "text": "男性：女性"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "344",
+          "baseline": "738.641",
+          "text": "60:40"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "612",
+          "text": "育児休業\n"
+        },
+        {
+          "x": "588",
+          "baseline": "644",
+          "text": "取得率"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "588",
+          "baseline": "738.641",
+          "text": "100"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "738",
+          "baseline": "739",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "612",
+          "text": "年間休日\n"
+        },
+        {
+          "x": "832",
+          "baseline": "644",
+          "text": "（所定）"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "832",
+          "baseline": "738.641",
+          "text": "125"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "982",
+          "baseline": "739",
+          "text": "日"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1249",
+          "baseline": "520.2",
+          "text": "出社頻度"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1256",
+          "baseline": "551.6",
+          "text": "働き方の構成比"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1179.9",
+          "baseline": "776.6",
+          "text": "リモート 30%　週1日 25%　週2日 20%\n"
+        },
+        {
+          "x": "1216.68",
+          "baseline": "798.6",
+          "text": "週3日 15%　週4日以上 10%"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "PEOPLE & CULTURE"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "データで見る私たち"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.998",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "culture",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.47",
+          "baseline": "875.6",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "GROWTH & MILESTONES"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "事業の成長と実績"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.332",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "08"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "212.2",
+          "text": "主力事業を育てながら、継続的な成長を重ねています。"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "250.6",
+          "text": "記載内容・数値はすべて架空のサンプルです。"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "311.8",
+          "text": "売上高の推移"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "346.8",
+          "text": "単位：百万円 ／ 第1期〜第6期・各期通年"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "112.234",
+          "baseline": "691.6",
+          "text": "0"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "96.7031",
+          "baseline": "591.6",
+          "text": "200"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "96.7031",
+          "baseline": "491.6",
+          "text": "400"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "96.7031",
+          "baseline": "391.6",
+          "text": "600"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "212.535",
+          "baseline": "612.8",
+          "text": "120"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "210.285",
+          "baseline": "718.8",
+          "text": "第1期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "372.535",
+          "baseline": "582.8",
+          "text": "180"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "370.285",
+          "baseline": "718.8",
+          "text": "第2期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "532.535",
+          "baseline": "537.8",
+          "text": "270"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "530.285",
+          "baseline": "718.8",
+          "text": "第3期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "692.535",
+          "baseline": "492.8",
+          "text": "360"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "690.285",
+          "baseline": "718.8",
+          "text": "第4期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "852.535",
+          "baseline": "432.8",
+          "text": "480"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "850.285",
+          "baseline": "718.8",
+          "text": "第5期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1012.54",
+          "baseline": "372.8",
+          "text": "600"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1010.29",
+          "baseline": "718.8",
+          "text": "第6期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "332.4",
+          "text": "第6期の主要実績"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "380",
+          "text": "売上高"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "436.24",
+          "text": "6.0"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1287",
+          "baseline": "436.6",
+          "text": "億円"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "516.2",
+          "text": "売上高 前期比"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "572.44",
+          "text": "+25.0"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1342",
+          "baseline": "572.8",
+          "text": "%"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "652.4",
+          "text": "継続取引社数"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Arimo",
+      "size": 48.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1212",
+          "baseline": "708.641",
+          "text": "300"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1301",
+          "baseline": "709",
+          "text": "社"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "794.4",
+          "text": "第2期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "826",
+          "text": "主力サービスを提供開始"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "568",
+          "baseline": "794.4",
+          "text": "第4期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "568",
+          "baseline": "826",
+          "text": "支援体制を拡充"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1056",
+          "baseline": "794.4",
+          "text": "第6期"
+        }
+      ]
+    },
+    {
+      "page": "growth",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1056",
+          "baseline": "826",
+          "text": "継続取引300社へ"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "236.2",
+          "text": "山田 太郎"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "264.6",
+          "text": "#事業開発  #Team Management"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "312.8",
+          "text": "事業会社で企画・開発を経験した後、当社に参画。これまで"
+        },
+        {
+          "x": "300",
+          "baseline": "340.8",
+          "text": "の経験を活かし、事業の立ち上げやチームづくりを担当して"
+        },
+        {
+          "x": "300",
+          "baseline": "368.8",
+          "text": "います。専門性の異なるメンバーと協力しながら、お客様へ"
+        },
+        {
+          "x": "300",
+          "baseline": "396.8",
+          "text": "の価値提供を推進しています。"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1060",
+          "baseline": "236.2",
+          "text": "佐藤 花子"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1060",
+          "baseline": "264.6",
+          "text": "#Communication  #Branding"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1060",
+          "baseline": "312.8",
+          "text": "さまざまな企業でコミュニケーション施策やブランドづくり"
+        },
+        {
+          "x": "1060",
+          "baseline": "340.8",
+          "text": "に従事。その後、当社に参画し、サービスの魅力を伝える企"
+        },
+        {
+          "x": "1060",
+          "baseline": "368.8",
+          "text": "画や体験設計を担当しています。社内外の対話を大切にしな"
+        },
+        {
+          "x": "1060",
+          "baseline": "396.8",
+          "text": "がら、会社とお客様をつないでいます。"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "540.2",
+          "text": "鈴木 葵"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "568.6",
+          "text": "#Product Design  #Customer Experience"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "300",
+          "baseline": "616.8",
+          "text": "制作会社や事業会社でデザインの実務を経験。サービスの企"
+        },
+        {
+          "x": "300",
+          "baseline": "644.8",
+          "text": "画から改善まで幅広く携わっています。当社ではプロダクト"
+        },
+        {
+          "x": "300",
+          "baseline": "672.8",
+          "text": "のデザインを担当し、使いやすさと伝わりやすさの両立を目"
+        },
+        {
+          "x": "300",
+          "baseline": "700.8",
+          "text": "指しています。"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "TEAM MEMBERS"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "メンバー紹介"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.666",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "members",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.13",
+          "baseline": "875.6",
+          "text": "06"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "78.2",
+          "text": "［会社名］"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "241.833",
+          "baseline": "363.8",
+          "text": "Mission"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 40.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "241.833",
+          "baseline": "438",
+          "text": "一人ひとりの可能性を、\n"
+        },
+        {
+          "x": "241.833",
+          "baseline": "494",
+          "text": "社会の新しい力に。"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "853.833",
+          "baseline": "363.8",
+          "text": "私たちは、変化の先にある可能性を信じています。\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "397.8",
+          "text": "専門性とテクノロジーをつなぎ、\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "431.8",
+          "text": "日々の仕事や暮らしにある課題に向き合います。"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "853.833",
+          "baseline": "497.8",
+          "text": "人と組織が持つ力を、もっと自由に。\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "531.8",
+          "text": "小さな挑戦が、新しい価値へと育っていく。\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "565.8",
+          "text": "そんな未来を、お客様や仲間とともに\n"
+        },
+        {
+          "x": "853.833",
+          "baseline": "599.8",
+          "text": "つくり続けていきます。"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.333",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "mission",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "05"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "295.2",
+          "text": "会社名"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "296",
+          "text": "[正式な会社名]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "377.2",
+          "text": "所在地"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "378",
+          "text": "[郵便番号・本社所在地]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "459.2",
+          "text": "事業内容"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "460",
+          "text": "[主な事業・サービスの概要]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "541.2",
+          "text": "従業員数"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "542",
+          "text": "[従業員数]名（[基準日]現在）"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "623.2",
+          "text": "資本金"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "624",
+          "text": "[資本金]円"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 23.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "705.2",
+          "text": "設立年月"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 25.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "288",
+          "baseline": "706",
+          "text": "[設立年月]"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "COMPANY OVERVIEW"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "会社概要"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "overview",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.47",
+          "baseline": "875.6",
+          "text": "04"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Noto Sans JP",
+      "size": 18.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "73.2",
+          "text": "COMPANY NAME"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Arimo",
+      "size": 240.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1346.41",
+          "baseline": "293.203",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Arimo",
+      "size": 96.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "711.281",
+          "text": "Company Overview"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Arimo",
+      "size": 24.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "776.32",
+          "text": "会社の基本情報"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.6665",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "section",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.14",
+          "baseline": "875.6",
+          "text": "03"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "190",
+          "baseline": "260",
+          "text": "書類選考"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "240.8",
+          "text": "これまでのご経験や、ご希望の役割について確認します。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "268.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "160.996",
+          "baseline": "354",
+          "text": "カジュアル面談"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "334.8",
+          "text": "会社や事業についてご紹介し、気になることをお話しします。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "362.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "190",
+          "baseline": "448",
+          "text": "一次面接"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "428.8",
+          "text": "得意なことや仕事への考え方を伺い、相互理解を深めます。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "456.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "190",
+          "baseline": "542",
+          "text": "二次面接"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "522.8",
+          "text": "役割やチームとの関わり方について、具体的にお話しします。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "550.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "150.195",
+          "baseline": "636",
+          "text": "リファレンス確認"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "616.8",
+          "text": "必要に応じて、これまで一緒に働いた方のお話を伺います。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "644.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "170",
+          "baseline": "730",
+          "text": "オファー面談"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "428",
+          "baseline": "710.8",
+          "text": "期待する役割や条件をすり合わせ、今後の一歩を確認します。\n"
+        },
+        {
+          "x": "428",
+          "baseline": "738.8",
+          "text": "実施方法や詳細は、選考のご案内時にお伝えします。"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "SELECTION PROCESS"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "選考プロセス"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "20.332",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "selection",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.8",
+          "baseline": "875.6",
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "60.4",
+          "text": "EMPLOYEE VOICE"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "80",
+          "baseline": "127.6",
+          "text": "働く社員の声"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "19.665",
+          "baseline": "875.6",
+          "text": "［会社名］ | COMPANY PROFILE"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1564.13",
+          "baseline": "875.6",
+          "text": "09"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 44.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "298.6",
+          "text": "「やってみたい」を、\n"
+        },
+        {
+          "x": "120",
+          "baseline": "362.6",
+          "text": "一人で抱えなくていい。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "417",
+          "text": "小さく試して、仲間と一緒に育てていく。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "474.8",
+          "text": "お客様の声を、改善につなげる"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "519",
+          "text": "問い合わせ対応で気づいた課題を、チームに共有しました。\n"
+        },
+        {
+          "x": "120",
+          "baseline": "551",
+          "text": "開発担当と改善を進め、「使いやすくなった」と言って\n"
+        },
+        {
+          "x": "120",
+          "baseline": "583",
+          "text": "いただけたときは、うれしかったです。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "658.8",
+          "text": "小さく試すことから、仕事が広がる"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 20.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "120",
+          "baseline": "703",
+          "text": "新しい案内資料を提案したときは、先輩が一緒に整理して\n"
+        },
+        {
+          "x": "120",
+          "baseline": "735",
+          "text": "くれました。まず数社で試し、反応を見ながら改善。\n"
+        },
+        {
+          "x": "120",
+          "baseline": "767",
+          "text": "今は導入後の活用支援も担当しています。"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 28.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "568.2",
+          "text": "高橋 美咲"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 14.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1255",
+          "baseline": "562.6",
+          "text": "MISAKI TAKAHASHI"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "606.8",
+          "text": "カスタマーサクセス"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 17.0,
+      "weight": "400",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "642.8",
+          "text": "中途入社・入社3年目"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 16.0,
+      "weight": "500",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "697.4",
+          "text": "私の仕事の軸"
+        }
+      ]
+    },
+    {
+      "page": "voices",
+      "font": "Noto Sans JP",
+      "size": 22.0,
+      "weight": "bold",
+      "lines": [
+        {
+          "x": "1128",
+          "baseline": "736.8",
+          "text": "お客様の「できた」を\n"
+        },
+        {
+          "x": "1128",
+          "baseline": "770.8",
+          "text": "増やしていく。"
+        }
+      ]
+    }
+  ]
+}

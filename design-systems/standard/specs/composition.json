@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    [
+      "R01 説明＋図解",
+      "BG01",
+      "H01-Light",
+      "T01＋説明文",
+      "G02 / 6:6",
+      "左T02＋T03、右P04やグラフ",
+      "F01-Light"
+    ],
+    [
+      "R02 3つの並列項目",
+      "BG01",
+      "H01-Light",
+      "T01＋説明文",
+      "G03 / 4:4:4",
+      "各列P01＋T02＋T03。必要時P02",
+      "F01-Light"
+    ],
+    [
+      "R03 要点＋詳しい根拠",
+      "BG04",
+      "H01-Light",
+      "T01＋説明文",
+      "G05 / 4:8",
+      "左に要点T02、右にT03・図・表",
+      "F01を左右の面に合わせる"
+    ]
+  ],
+  "selection": "情報の関係と量から部品を選ぶ。05〜12の新見本はspecs/examples/{id}.json内drawingを配置基準とする。reference_nodesは変更前の原本読取値。",
+  "scope": "HTML design specification only; no image generation or PowerPoint verification"
+}

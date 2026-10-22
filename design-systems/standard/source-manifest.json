@@ -1,0 +1,400 @@
+{
+  "template_id": "slapon-01",
+  "template_version": "1.0.3",
+  "source_root": "retained template assets/source (relative to this design system)",
+  "figma": {
+    "file_key": "yZRuVrGDlV496zazD5AqGf",
+    "node_id": "45:27698"
+  },
+  "files": [
+    {
+      "file": "assets/fonts/Arimo.ttf",
+      "sha256": "e43898b143ec826ac8cb4034816458a7047fbe0836558de2a1f8c6223ae3e0ca",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/fonts/NotoSansJP.ttf",
+      "sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/fonts/arimo-OFL.txt",
+      "sha256": "11cce536cd2f3864d767003af5dcd739e2e15818cf2279b6175edeadd3960992",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/fonts/notosansjp-OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/palettes.json",
+      "sha256": "f606fb64886ff608d867a058ed31fe44f33d149d988ffce4b4dddfb236dd64d6",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/charts.svg",
+      "sha256": "b3969445ab84bc0475aa6279d533f70962873889c5e4a9d7f345be3ef15d0736",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/closing.svg",
+      "sha256": "a0eca4d393526c5d3cf8c823ec3089c2af869fbc61b18fa86754ac66e21f9e34",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/comparison.svg",
+      "sha256": "1b5aa5391b4a7216f9b7e0634cee871f12c12ded291cf83496a1f3cdc516bf26",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/concept.svg",
+      "sha256": "ae21de6b1134b9f92c51fb90dadabaf5638ee40b67e550c5ec11acbb267e407f",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/contents.svg",
+      "sha256": "4c1fbaebad81ba659a7d61237623d516a763d20d108e32ba2034c92eef06c6c5",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/cover.svg",
+      "sha256": "340d12f8475f584f3ce59ca1538ffb373881be2e3f6299f8a3f65dc340cc2ddd",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/features.svg",
+      "sha256": "928bdf5a82e67b7507d38273aa8f310c9b6d68cac6b08f5a7d89b3a6134d310a",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/impact.svg",
+      "sha256": "4e52dbce08b5411b3388ce6dde63fcf114d9e213b455098e9f2472c43d37b60e",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/introduction.svg",
+      "sha256": "a43105effc6992c3cc86372f13e95ec94761af86339d07347ae4a97c8a90aafc",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/issues.svg",
+      "sha256": "3fc7954de59d118c739bc3d34c41566b6c12e9d4e0e0269fa92bb3209f3c1b3b",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/layer-metadata.json",
+      "sha256": "4cb737ec6937287b555164e52a7b4410d869658125c199f9cb3b8a1ad5c8c5f6",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/manifest.json",
+      "sha256": "59eacf8ee3474465e66e567bdb627c1c728ba0f3265b82c5bad68271b395b435",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/message.svg",
+      "sha256": "7a8e55510447dc66fb28c6f15b5faf0d842b623e5abf7903ffb8ee8a8fd614b6",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/photo-05-0.png",
+      "sha256": "b6d2ebe4ec21f6e698e019bea4d38492ad6b56ff171cbdd549a36cfff6f13665",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/photo-05-color.png",
+      "sha256": "1560ac4b9c999d36d3dc302377bd71a66b6f5f1d728192f510958de94cac3c6f",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/process.svg",
+      "sha256": "648629043751ce2a470cdcbb98aa959c358c6036fbbdca829b2a1984c4d72453",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/section.svg",
+      "sha256": "cf77c814343f5ec1c9fcc68c6df057355b6522d6b482e1762212bcae7d53553d",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/source/surface-metadata.json",
+      "sha256": "cee466d106c92a3037f17f9a00ae3438252f7fd8fd7f061a8333c6ce0ff6514b",
+      "source": "Slapon Standard ローカル公開用素材・配色スナップショット（2026-10-21）"
+    },
+    {
+      "file": "assets/components/background-bg01.svg",
+      "sha256": "34a60576b66995b217f68b679f28e3d4116c3681c17720c119c1f4557ee61b72",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/background-bg02.svg",
+      "sha256": "373e699f1a7ae0d3a6302716b9f4f47cac761e33da0174863452fb73d12a14ab",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/background-bg03.svg",
+      "sha256": "9ae125d03b6b57643a66b2a0efb442be5b762eae56c22d123a728fafccbfef03",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/background-bg04.svg",
+      "sha256": "80a0ffab2b1a65d17ac80e15365f89887a143b2c233f5a92034b588610303faf",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/background-bg05.svg",
+      "sha256": "36641cdd5a21c592e36b1f25d07a7df5fab578f42c861d7f873ab94806bba4ab",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/footer-dark.svg",
+      "sha256": "bd1eb7bf672cdcba6184423d2b12599fcf98003b4c79e67af28255e9184757a2",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/footer-light.svg",
+      "sha256": "dbab17465365d40df01116cc7a3a803e879af5ad2cc9127a3c998a084fb28050",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/footer-split.svg",
+      "sha256": "aa0bee058246575e896038e188a7fc1ea922a6aceb623b3e5aebed8779adb7ee",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/footer-tint.svg",
+      "sha256": "0eacf26f597fe8f48c9769f3fe0c349a64aae7480bafbafe1188ea10ed748ab3",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/grid-g01.svg",
+      "sha256": "d3e2baac620cb7684a4f011ea0c33bc36bf4dec514b20f540dcc82638281c43d",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/grid-g02.svg",
+      "sha256": "85cd04d532a2b31af1e6f0a749ee4b7bce9bfa22b777d9911ef72f9cb76a1c4d",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/grid-g03.svg",
+      "sha256": "6e15ca05213c45cac1476b1985745043b5267b0f992e92698af139fe9204b22f",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/grid-g04.svg",
+      "sha256": "3e1d63dd61054dbae9d9ea431e4fd13d0fdb9996b0baeb323eb667b514cedd9d",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/grid-g05.svg",
+      "sha256": "adec5abb846db68ef020a03ad38610330acb87ec9dada9c0b628e5e52a0e6a23",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/grid-g06.svg",
+      "sha256": "a14865861323da8b5690d1d002937eaad2a4760e740cafe77c9dc9dbe170df15",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/header-dark.svg",
+      "sha256": "b23be79bb4e2fbc3dfe970c8205c2d08dfe18bd291a984f50537fea06e25b0bf",
+      "source": "2026-10-22 利用者指定によるH01/T01余白改訂。変更前はengine/reviews/2026-10-22-header-spacing/beforeに保持。",
+      "previous_sha256": "2169492fb97314e1b8264dd1c71e7a65ad0d29be88a668db2654adb4d6a14cb0"
+    },
+    {
+      "file": "assets/components/header-light.svg",
+      "sha256": "781f231788442b3935771ee52ea4b282a5172526b5c5ce7681012af8262b82ba",
+      "source": "2026-10-22 利用者指定によるH01/T01余白改訂。変更前はengine/reviews/2026-10-22-header-spacing/beforeに保持。",
+      "previous_sha256": "448aa3addb38f1421be401dc3cbd9e594dbf2da4b447bbe4c215a5d89a72ee3a"
+    },
+    {
+      "file": "assets/components/header-tint.svg",
+      "sha256": "1bf61ecdd13c38bdd4a1527b066ec5592f73b933570aaf131b1ccb9d2599bc98",
+      "source": "2026-10-22 利用者指定によるH01/T01余白改訂。変更前はengine/reviews/2026-10-22-header-spacing/beforeに保持。",
+      "previous_sha256": "cb8c355c951f1b95485a56a2f4a1d070ffbcef647d46cca1ffecbe850a7774c4"
+    },
+    {
+      "file": "assets/components/recipe-r01.svg",
+      "sha256": "7dc0d98bfd44c7acc3368fcf09ee0d056b902d1d974b85b51ab86df6b8773094",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/recipe-r02.svg",
+      "sha256": "4274b8e8d941b31c35d328db69794c4817e2e7ac935b5dc773d851dec5cbfb1b",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/recipe-r03.svg",
+      "sha256": "066a08b258610a395f8ff706cfdc6f5133af16406395b1544e3be884a795430b",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/type-scale.svg",
+      "sha256": "b7afb7db971b554da6fe35475f0ca079ec9f9ce486246cff44cbc6c7473b5c6e",
+      "source": "Standard HTML component definitions, authored 2026-10-21; reference_px 1600x900. BCG kit used for structural principles only."
+    },
+    {
+      "file": "assets/components/diagram-spacing.svg",
+      "sha256": "77d0fbd2d16fda882467123e4a7929fc73df5b015e3756698c26ba76bed2bc1e",
+      "source": "Standard diagram rules: proposed reusable component specifications, authored 2026-10-21."
+    },
+    {
+      "file": "assets/components/diagram-color-opacity.svg",
+      "sha256": "a8ce55d841a52490b03455862556e98b4c3df3083ceabce80eb8a688caa09dfa",
+      "source": "Standard diagram rules: proposed reusable component specifications, authored 2026-10-21."
+    },
+    {
+      "file": "assets/components/diagram-style.svg",
+      "sha256": "bdb28eaf86a476a3cf9672d4d4cba2f0e45e890394e98bebd423aa532c843809",
+      "source": "Standard diagram rules: proposed reusable component specifications, authored 2026-10-21."
+    },
+    {
+      "file": "assets/components/diagram-primitives.svg",
+      "sha256": "d67c71ff0e61719b357ba0696fefb72898580c5ff11d446b829f36a8a4713780",
+      "source": "Standard diagram rules: proposed reusable component specifications, authored 2026-10-21."
+    },
+    {
+      "file": "assets/figma/concept-style/center-node.svg",
+      "sha256": "58e590b18f390ecf267ae3dffd267de9abb418626d3cb4bdea1ab5b01cd1d514",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/center-symbol.svg",
+      "sha256": "40972319939e2ca73b16bbc687986005fe187cee1c5156566eeec3c76c1f0970",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/center-wordmark.svg",
+      "sha256": "840e89d66073cae6e9700b92626718feea3dca7eb26f4b4a0f0f37161d629c49",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/connection-background.svg",
+      "sha256": "c6dbc055b5c95bd7b9a324b916557599665ba9372b78aa8cca019469e4226889",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/icon-design.svg",
+      "sha256": "b82a38679624ae3bf2f02118eeaa8a7f125186724ae82ccc31bc6d81b4da5f31",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/icon-diagram.svg",
+      "sha256": "923ec4784b5112c45b04178c638c13d1ec25cdec610f7ee9bf3e483b79e3df91",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/icon-edit.svg",
+      "sha256": "73d743c33c64bfd486b30125b34d320fe3b71a6fa98c9b3908c8e10aea6bdb70",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/icon-outline.svg",
+      "sha256": "a23424dd086eab8ee36f0445dcae8da4703825e94a4ca1666772a9d31ae33444",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/input-node.svg",
+      "sha256": "0be2c269ba88de4994d46895990b2684752205eaac6734f91b3a56e039ab0147",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/output-node.svg",
+      "sha256": "f9bff2428529fde56ccd6dd5f498baafe057b62a1bb6becdff4cb985a85be207",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/concept-style/satellite-circle.svg",
+      "sha256": "6561e3f2e8ef51d82948de6f7a5ec1bac5abf2e380c2e9208bf0649a70458e9d",
+      "source": "Figma reference 107:8722; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/chevron-01.svg",
+      "sha256": "3d5292fcd40943ecae6c415f09bdf09721b6c99cfcc3d3e5fab5084e172331cf",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/chevron-02.svg",
+      "sha256": "a3de3a8af2fa23870a5bbb4dafc11d516e618a4ae8df38637e933b4a5061291f",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/chevron-03.svg",
+      "sha256": "e7bf8c3da2bd5320692b16e061408efbbaa1615016409a9fd13074dde02e68ec",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/chevron-04.svg",
+      "sha256": "e20b454d35d87e61e57533f311e35d9d4531166ae5da0482b17b8bf442a52cf7",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/icon-01.svg",
+      "sha256": "6c8443511e5ce33f95d7d16e949912aa67290fac3b5f20140800341429dca354",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/icon-02.svg",
+      "sha256": "7d59c2f5adf6e825bcfc77afe825110c06129e559cf9bf08f508c700e429b873",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/icon-03.svg",
+      "sha256": "6b764bb767067a132f3da4136df9289be3d2e4581c7b27c4a69fe8a8e5a3fd3c",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/icon-04.svg",
+      "sha256": "f2eff3df50a427ad5ee7a071025ddd7022061ca9b5a044b208dcdb02428faf5b",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    },
+    {
+      "file": "assets/figma/process-flow/icon-circle.svg",
+      "sha256": "e8de8a170ed5955a7815f74497fea99a6470f278286318b62892aa751217c4f6",
+      "source": "Figma reference 107:8778; downloaded original SVG, 2026-10-21"
+    }
+  ],
+  "component_reference": {
+    "path": "legacy slide-production-kit (private provenance retained in management history)",
+    "read": [
+      "guide/layout-rules.json",
+      "guide/README.md",
+      "patterns/patterns.json",
+      "guide/layout-guide.png"
+    ],
+    "applied": "fixed/bounded/flexible regions; text grid separated from full-bleed backgrounds; stepped typography fitting",
+    "excluded": "BCG branding, colors, proprietary fonts, assets and dimensions"
+  },
+  "cover_watermark_reference": {
+    "fileKey": "yZRuVrGDlV496zazD5AqGf",
+    "frame": "107:8610",
+    "watermark": "107:8626",
+    "read_at": "2026-10-21",
+    "bounds": [
+      1337,
+      -58,
+      348,
+      1021
+    ],
+    "transform": "translate(1337,963) rotate(-90)",
+    "paint": "white, opacity 0.4",
+    "customer_policy": "fit supplied white logo inside the same pre-rotation 1021x348 frame; keep aspect ratio"
+  },
+  "message_watermark_reference": {
+    "fileKey": "yZRuVrGDlV496zazD5AqGf",
+    "frame": "107:8650",
+    "watermark": "107:8659",
+    "read_at": "2026-10-21",
+    "bounds": [
+      1421,
+      242,
+      236,
+      693
+    ],
+    "transform": "translate(1421,935) rotate(-90)",
+    "paint": "white, opacity 0.4",
+    "customer_policy": "fit supplied white logo inside the same pre-rotation 693x236 frame; keep aspect ratio"
+  }
+}
