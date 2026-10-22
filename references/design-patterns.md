@@ -16,7 +16,7 @@ python3 scripts/find_design_patterns.py --direction process --elements 4 --densi
 python3 scripts/find_design_patterns.py --query "接点 循環"
 ```
 
-条件はAND、キーワードも空白区切りのANDで検索する。`--id`はIDの完全一致、`--limit`は表示件数（通常3件）。JSONの`total`は全該当数、`results`は表示した候補。各候補には用途・要素数の意味・注意点・出典・版・ハッシュと、確認済みの`svg_path`、画像添付用の`attachment_paths`が入る。候補なしは`total: 0`、ファイル不足やハッシュ不一致は終了コード2とエラーになる。
+条件はAND、キーワードも空白区切りのANDで検索する。`--id`はIDの完全一致、`--limit`は表示件数（通常3件）。JSONの`total`は全該当数、`results`は表示した候補。各候補には用途・要素数の意味・注意点・版・ハッシュと、確認済みの`svg_path`、画像添付用の`attachment_paths`が入る。候補なしは`total: 0`、ファイル不足やハッシュ不一致は終了コード2とエラーになる。
 
 要素数は型ごとに意味が異なる。工程なら段階、matrixなら軸、overlapなら集合などであり、比較表の行数ではない。`element_kind`があれば確認し、`cautions`と実物を合わせて数え方を判断する。候補は通常3件以内から比較し、必要な時だけ広げる。
 
@@ -26,7 +26,7 @@ python3 scripts/find_design_patterns.py --query "接点 循環"
 
 候補の`id`、`version`、`use_when`、`cautions`、`canvas`を確認する。`assets.svg.path`と`assets.png.path`はリポジトリのルートから解決し、カタログと同じ`ref`から取得する。`sha256`があれば照合し、不一致なら使用せず取得元を確認する。キャッシュがあればリポジトリ・ref・パス・ハッシュを照合して再利用できる。
 
-PNGを実際に開き、主従、領域の大きさ、余白、接続、重なりを見る。形状や遮蔽が重要ならSVGも確認・描画する。元ファイルを保持し、顧客用の調整は案件側の別ファイルにする。カタログの出典・利用条件の記録を失わない。
+PNGを実際に開き、主従、領域の大きさ、余白、接続、重なりを見る。形状や遮蔽が重要ならSVGも確認・描画する。元ファイルを保持し、顧客用の調整は案件側の別ファイルにする。見本のID・版・ハッシュを記録する。
 
 選定後、作業先へ1パターンだけ取り出す場合は次のように実行する。出力先は実際の案件フォルダに置き換える。
 
@@ -34,7 +34,7 @@ PNGを実際に開き、主従、領域の大きさ、余白、接続、重な�
 python3 scripts/find_design_patterns.py --id process-cards --output-dir /path/to/job/references
 ```
 
-`出力先/process-cards/`に`preview.svg`、`preview.png`、用途・注意点・出典・ハッシュを保持した`pattern.json`を保存する。取得後の`svg_path`と`attachment_paths`はこの作業先を指す。`pattern.json`の`pattern`は元のカタログ記録、`files`は取り出した素材の相対パスを表す。既存ファイルが同一なら再利用し、異なる場合は上書きせず別の出力先を求める。`--output-dir`には`--id`が必須で、検索結果全件を自動コピーしない。
+`出力先/process-cards/`に`preview.svg`、`preview.png`、用途・注意点・版・ハッシュを保持した`pattern.json`を保存する。取得後の`svg_path`と`attachment_paths`はこの作業先を指す。`pattern.json`の`pattern`は元のカタログ記録、`files`は取り出した素材の相対パスを表す。既存ファイルが同一なら再利用し、異なる場合は上書きせず別の出力先を求める。`--output-dir`には`--id`が必須で、検索結果全件を自動コピーしない。
 
 顧客環境からGitHubへ直接アクセスする場合は、カタログだけを先に取得し、選んだIDの`assets.svg.path`と`assets.png.path`を同じ`ref`から取得する。この補助ツールを使うために、顧客へ全80パターンの保存を要求しない。接続先・使用版・必要な顧客情報の確認はローカルの入口に従う。
 

@@ -34,12 +34,6 @@
           "sha256": "f5f27488b88ad2534803024bf2fcaaf440e39335dd1044639113d498cf6124b4"
         }
       },
-      "source": {
-        "url": "https://www.instagram.com/po_slide/",
-        "user_supplied_image": "codex-clipboard-596961ab-64ee-486b-ad6f-9318bf61a3b4.png",
-        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
-        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 2
     },
     {
@@ -76,12 +70,6 @@
           "sha256": "01b04b2d8adb7dd5d05d74b35797283846c3e2f20e67884cc71eab2fd9f715bb"
         }
       },
-      "source": {
-        "url": "https://www.instagram.com/po_slide/",
-        "user_supplied_image": "IMG_0139.PNG",
-        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
-        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -116,12 +104,6 @@
           "path": "assets/design-patterns/cycle-eight/preview.png",
           "sha256": "6c04789c10afa107074440c37c1ebfa8a9c808c82c32fdef44add7d2e8b3f801"
         }
-      },
-      "source": {
-        "url": "https://www.instagram.com/po_slide/",
-        "user_supplied_image": "IMG_0138.PNG",
-        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
-        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -158,12 +140,6 @@
           "path": "assets/design-patterns/comparison-highlight/preview.png",
           "sha256": "bfb167939d29eb9a5e0f43c53c554a46bd5d3c9bac0bc830cb994116bb616479"
         }
-      },
-      "source": {
-        "url": "https://www.instagram.com/po_slide/",
-        "user_supplied_image": "IMG_0137.PNG",
-        "adaptation": "ユーザー提供画像を参考にSVGとして描き直したグレースケール・ダミー見本。元スクリーンショットは非同梱。",
-        "rights_status": "参考元の個別投稿URL・ライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -202,13 +178,6 @@
           "sha256": "5e0d3b55d3914046b16d83cde035bb57b76ccdfb8505b9047f50357cc3a68145"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-2dce6e21-31a8-4b02-bb71-3c9221e660a3.png",
-        "description": "Asobica表記のユーザー提供スライド。公開元URLは未確認。",
-        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -245,13 +214,6 @@
           "path": "assets/design-patterns/growth-curve-plan/preview.png",
           "sha256": "a1c936107c79f3c64ce590f12281e2d62b594158e2eed35132956bbef6d1849c"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-6fba793c-95a2-4cc5-9b24-707430da0c16.png",
-        "description": "ユーザー提供の「成長曲線型」解説画像。著者・公開元URLは未確認。",
-        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -290,13 +252,6 @@
           "sha256": "2ad24968507234bd1b8b34ba7a146eca3f986b2cc9c5aad446de7e5a7f3f18f2"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-e61ee8b6-3426-434d-a321-fd1c2d5ac3f3.png",
-        "description": "キカガク表記のユーザー提供スライド。公開元URLは未確認。",
-        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -334,13 +289,6 @@
           "sha256": "68950aee42759f8d8db69d78a2504ec21f1b6cf11144387b675ede22b894c7f6"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-3a96c69b-2fb2-4763-ad68-14fa200266d6.png",
-        "description": "ユーザー提供の成長戦略ロードマップ。著者・公開元URLは未確認。",
-        "adaptation": "提供画像の構図を参考に、グレースケール・ダミーテキストで再構成。企業ロゴ・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -375,13 +323,6 @@
           "path": "assets/design-patterns/dual-domain-loop/preview.png",
           "sha256": "b4209dcd724788a8890c0db5c29ae9120bd8b8d6f79d37643b245e5ec57fbd1b"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-9a17e303-3e0e-45b0-a9d4-72fdbc845df1.png",
-        "description": "DEZAPURE表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -419,13 +360,6 @@
           "sha256": "d589201303b34434122a6cb44a10df36c523ad00b8fc3877c0f8fa2834adbebb"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-0d4bc180-9c2d-4832-b2bd-beca635a3448.png",
-        "description": "企業名不明表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -460,13 +394,6 @@
           "path": "assets/design-patterns/three-domain-synergy/preview.png",
           "sha256": "8c7d0100f682b37ae44cf3c1ab6ef04641544f56d68040c17290ab3e3390feb8"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-167e6c7d-d9db-44ae-8d05-bdc53f3c1ff5.png",
-        "description": "Glad Cube表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 2
     },
@@ -503,13 +430,6 @@
           "sha256": "9b35525abec12dc7fecfb81a80beeea226dc6b4efd3cee93f35823c108336f71"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-552d0d84-de6b-4a66-9e4f-db98425ec88f.png",
-        "description": "企業名不明表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -544,13 +464,6 @@
           "path": "assets/design-patterns/team-role-composition/preview.png",
           "sha256": "e42654e2440277116fd748971ddf391c331bb7e0bedc661d7f2cd28f84219a9e"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-f78aa67c-e864-4286-a58f-e3d5fb4a01ce.png",
-        "description": "三井物産デジタル・アセットマネジメント／ALTERNA表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -587,13 +500,6 @@
           "path": "assets/design-patterns/supply-branch-flow/preview.png",
           "sha256": "733f1f851dd24d83db217daf75c54983ba26f69529bea5f287ee5740dd8e8873"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-7faa5a47-9a2f-472b-bba4-912d9a62d074.png",
-        "description": "SMat表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 2
     },
@@ -632,13 +538,6 @@
           "sha256": "7a966ef5bd1178f84554eb87deb6241880ffd60c2ec72d598d1b1c88aa72fd1c"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-425df802-69d8-496e-bb54-695b20d990e0.png",
-        "description": "TVer表記のユーザー提供画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケールとダミー文言で再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -673,13 +572,6 @@
           "path": "assets/design-patterns/pyramid-four-callouts/preview.png",
           "sha256": "21c7c7c30357de10b23ab8eb7e1f15a35384890ca51cf708966e0f3d4e3aa382"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-27260fd4-76ad-405e-8c1b-e593f8ab1149.png",
-        "description": "矢作建設のユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -717,13 +609,6 @@
           "sha256": "bccd9d5cf784f751f36c4a6baf724b69ccaf98fe13adfeb0da1f2b92a3511c36"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-5a1f599d-b43d-48ba-9b93-f05cb00f46d1.png",
-        "description": "AsiaQuestのユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 2
     },
     {
@@ -759,13 +644,6 @@
           "path": "assets/design-patterns/pyramid-layer-cards/preview.png",
           "sha256": "6a3183a424775d71fc4aae6fe4532c390ff7fe4105603766e181dbd11c475919"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-6b7bd8be-4279-43cf-ba23-f7cdb03746fc.png",
-        "description": "COTENのユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -803,13 +681,6 @@
           "sha256": "4bfcae5c690cfcafcf382b4cfca0e4296bcfb597567e69738b2d094ffde82da3"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-9ea93e6c-2619-4ea8-b34a-6029046b0721.png",
-        "description": "UUUMのユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -844,13 +715,6 @@
           "path": "assets/design-patterns/pyramid-message-rows/preview.png",
           "sha256": "2d54c4018b95db099bc0191a0e45d7e2acfdc11ec527e8f7ed131fda90fca060"
         }
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-fc98f9d8-836b-4754-a482-42550263d09a.png",
-        "description": "パーソルグループのユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "version": 1
     },
@@ -891,13 +755,6 @@
           "sha256": "c579f219d857fc43a80dcff90e8cfd0e66adadc9b44dcb018c77dda6ff43bcd8"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-5c690396-3601-4d92-a75b-61ca436a8342.png",
-        "description": "ユーザベース／スピーダのユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -934,13 +791,6 @@
           "sha256": "8740a2f7d80d4b8e6f6d74064ff60e188676021392e22615e76c4ced6ea12951"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-016b05b3-49a9-49ae-80ed-c6d3eaed6ed2.png",
-        "description": "企業名不明のユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 1
     },
     {
@@ -976,13 +826,6 @@
           "sha256": "06a7115cbba7be217d9e4e86253b93cfe4d7a97d36225e9ecc506c2a496d83e4"
         }
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-f728fe4a-1db7-4e8a-a7bf-3e52bc30aeff.png",
-        "description": "CAMPFIREのユーザー提供参考画像。公開元URLは未確認。",
-        "adaptation": "構図を参考にグレースケール・ダミーテキストで再構成。企業ロゴ・人物写真・元画像は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "version": 2
     },
     {
@@ -1017,13 +860,6 @@
           "path": "assets/design-patterns/before-after-aligned/preview.png",
           "sha256": "75ea4b036d713b04b6f905137d6e67db8f4e30e97012ddcf6941dba3d57c7a37"
         }
-      },
-      "source": {
-        "url": "https://contents.xj-storage.jp/xcontents/AS04618/4e95a626/7752/4437/84f6/c58a589806e7/20260414153901970s.pdf",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/before-after",
-        "description": "グッドパッチ 決算説明資料／Agentic UXへの移行。SLIDELAND掲載画像を画面で確認。",
-        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "status": "accepted",
@@ -1071,13 +907,6 @@
           "path": "assets/design-patterns/matrix-focus-panel/preview.png",
           "sha256": "ecb2fa37b5266130d56004e421e44dca262e4b82112f64a7dda8e1446f1cf599"
         }
-      },
-      "source": {
-        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260331/20260331594691.pdf",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/matrix",
-        "description": "モンスターラボ 事業計画／DX領域の強み。SLIDELAND掲載画像を画面で確認。",
-        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "status": "accepted",
@@ -1127,13 +956,6 @@
           "sha256": "bc207f9f6d712f67aec739cf9314d4f07fb96d93c2ed6607971dd88ed50455e4"
         }
       },
-      "source": {
-        "url": "https://speakerdeck.com/findyinc/hiring-findys-designers",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/venn",
-        "description": "Findy デザイナー向け会社紹介。SLIDELAND掲載画像を画面で確認。",
-        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1181,13 +1003,6 @@
           "path": "assets/design-patterns/maturity-step-cards/preview.png",
           "sha256": "e19b3de45e84566b4f2c4cb3450475fe756de2abc12bf5c5900ccd3c1825a842"
         }
-      },
-      "source": {
-        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260331/20260331594691.pdf",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/step",
-        "description": "モンスターラボ 事業計画／デジタル化の段階。SLIDELAND掲載画像を画面で確認。",
-        "adaptation": "配置の考え方を参考に独自に再構成。グレースケール・ダミー文言とSVG部品を使用。元画像・企業ロゴ・人物写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "status": "accepted",
@@ -1237,14 +1052,6 @@
           "sha256": "1c537c7eee7fdd4815219e7b62df92df6c6fc89225c81ba327b3b9aca6be531e"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/flow",
-        "description": "アップルワールドの沿革：時点と説明を上下に分ける配置",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/flow"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1292,14 +1099,6 @@
           "sha256": "874d65320e1eb0e0a1ccf3c02866829eaf059d047b09f6d38ef225637bd7d0e6"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/flow",
-        "description": "アイザックの採用プロセス：横一列の円と接続",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/flow"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1346,14 +1145,6 @@
           "path": "assets/design-patterns/vertical-numbered-steps/preview.png",
           "sha256": "b1792294765cd1209d5407fb8b3b93976f3be0eb6431877f5c03d19639c8ba9f"
         }
-      },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/vertical-flow",
-        "description": "unnameの選考フロー：縦の番号と説明の整列",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/vertical-flow"
       },
       "curation": {
         "status": "accepted",
@@ -1403,13 +1194,6 @@
           "sha256": "166e067dc43b8b78cc62b4d6fc4dd90ac36effc1229b9d4ce3c1bcc456b73a73"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1456,13 +1240,6 @@
           "path": "assets/design-patterns/decision-two-branches/preview.png",
           "sha256": "05e4ba481def7bcc18090ec8dff9372e34129cf22581422f25b98425253e7791"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -1511,13 +1288,6 @@
           "sha256": "6fa5c8d65de0f9592c91e6a07cf5181aef217d2238a3719f9b29d198d7fb381a"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1564,14 +1334,6 @@
           "path": "assets/design-patterns/honeycomb-capabilities/preview.png",
           "sha256": "74d4387efd10ae6c52acd5ad4b7a6d03a729888bff02cc7c0ad7923090cc7e0b"
         }
-      },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/puzzle",
-        "description": "ROUTE06の事業構成：六角形の隣接によるグループ化",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/puzzle"
       },
       "curation": {
         "status": "accepted",
@@ -1620,14 +1382,6 @@
           "sha256": "2a8c0b2269d396f51c747b962659514e7952a3e081a089b32ecfdaa5fd506ffc"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/cross",
-        "description": "うるるの成長戦略：変数の掛け算と下段の施策",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/cross"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1674,13 +1428,6 @@
           "path": "assets/design-patterns/equation-combination/preview.png",
           "sha256": "ab3aaee5e3ffff02d2df3938c42a1845f1640980edd944f717a8d306ec63cce3"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -1729,14 +1476,6 @@
           "sha256": "c8c218f5a92f9b0fc56b46222d14f5994aff4657273c8a1f2b4dbb26ca9d2fad"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/gantt-chart",
-        "description": "ZOZOの物流拠点計画：項目と時間軸の整列",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/gantt-chart"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1783,13 +1522,6 @@
           "path": "assets/design-patterns/phase-gate-timeline/preview.png",
           "sha256": "34966fecea330517f13fe92e48bb0b9f25027a50070f5c016f2fe1d968cc2b2d"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -1838,14 +1570,6 @@
           "sha256": "0f80532e2cf1602440f5e2937fc0256d60b1a5088f76093ff5f0d68054fbbc1d"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/layer",
-        "description": "キカガクの環境設計：積層図と対応する説明",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/layer"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1893,13 +1617,6 @@
           "sha256": "574ddf8d3855b04bbc2029399509729c80146bfd1985b75b82cc7197e2c61e3d"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -1945,14 +1662,6 @@
           "path": "assets/design-patterns/triangle-balance/preview.png",
           "sha256": "de1ad56157bdc14291c22a0cba60765b95482df3396a0af61243aade6db3fdbd"
         }
-      },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/triangle",
-        "description": "MEEMの価値創造モデル：三点の関係と中央メッセージ",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/triangle"
       },
       "curation": {
         "status": "accepted",
@@ -2001,13 +1710,6 @@
           "sha256": "f9074b0c464600d947f0eaf2ef69c549fff17215edff03229c21f6fdf51fed7d"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -2054,13 +1756,6 @@
           "path": "assets/design-patterns/priority-impact-effort/preview.png",
           "sha256": "8366eb064a217e8ad002ef8e82696cb3368609374913116fe8f27bd0ec98773f"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -2109,14 +1804,6 @@
           "sha256": "80037b28abf76a900992cb99201e65d5bbd0be02be77b1edda7c8adbf02dbee8"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/contrast",
-        "description": "KYOSOUの開発比較：同じ工程を上下で対応",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/contrast"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -2163,13 +1850,6 @@
           "path": "assets/design-patterns/nested-scope/preview.png",
           "sha256": "7af41731068a6150520b8b272ff9f809f7fa5c85e69956036c67120bd786dbe4"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -2218,14 +1898,6 @@
           "sha256": "d1fc1d50f0fd172731a7f684bbee66fe1ba1ec986606c929c8795fb54270c96f"
         }
       },
-      "source": {
-        "url": "https://www.slideland.tech/docs/schematic/ranking",
-        "description": "estieの市場比較：二つの順位の隔たりを強調",
-        "adaptation": "グレースケール・ダミーテキストで再構成。原画像・ロゴ・人物写真は非同梱。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。",
-        "kind": "reference_adaptation",
-        "discovery_url": "https://www.slideland.tech/docs/schematic/ranking"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -2272,13 +1944,6 @@
           "path": "assets/design-patterns/ranked-bars/preview.png",
           "sha256": "4796aac78bbdb90ddef91a798ce726be5d099d7bce5c73b567e13bea783d431a"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -2327,13 +1992,6 @@
           "sha256": "a3f04986743a78af4b8cb601c0fea1849773ece7177cfa4c451ddc3e17dcf043"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -2380,13 +2038,6 @@
           "path": "assets/design-patterns/waterfall-change/preview.png",
           "sha256": "83c083951d46d9c0a0efd94c53f11c4a0bc704b7c00b54bcb19cc0edd692f99e"
         }
-      },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
       },
       "curation": {
         "status": "accepted",
@@ -2435,13 +2086,6 @@
           "sha256": "374251b6178bcc855d13fa505cbf83abf55bbc300e225e28f59e9fa687e22018"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -2489,13 +2133,6 @@
           "sha256": "797f334d91ab4fe52817439906a36b784e902231b6646148601970ad67b6b588"
         }
       },
-      "source": {
-        "url": null,
-        "description": "不足する用途を補うために新規設計した構図。特定のスライドの再現ではない。",
-        "adaptation": "基本的な図形から新規に構成。グレースケール・ダミーテキスト。",
-        "rights_status": "今回作成したSVG。外部画像は使用していない。",
-        "kind": "original_supplement"
-      },
       "curation": {
         "status": "accepted",
         "review_date": "2026-09-28",
@@ -2531,13 +2168,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-4fbf9908-a102-43bc-aa44-7b9625cbc891.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "左右の項目群を中央の二つの強みに集約して掛け合わせる。"
@@ -2577,13 +2207,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-45a335c0-3abe-439e-a57a-2a0670ca2457.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "二つの評価軸や相補的な価値を、明暗と白い交差部で示す。"
       },
@@ -2621,13 +2244,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-65526d11-c8fe-4338-b5e4-a03f80dd1891.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "三つの独立要素を同じ重みで並べ、掛け合わせの構造を見せる。"
@@ -2667,13 +2283,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-b82e442a-bba6-4abe-8225-1937bcbf99e5.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "共通基盤と周辺の六領域を、下端から広がる同心円で示す。"
       },
@@ -2711,13 +2320,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-b7faba31-f971-49c3-b414-aa9377569075.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "中心となる仕組み、五つの周辺機能、機能別の説明を一画面で示す。"
@@ -2757,13 +2359,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-6458d31b-17aa-4540-9ad7-a613a2052c75.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "グループの核から複数の事業を並べ、一部の関連領域を右側に展開する。"
       },
@@ -2802,13 +2397,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-fb47a8ce-a4b3-43fe-b552-5bac70f3e089.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "カテゴリの項目数に合わせて幅を変え、道具や技術の一覧を整然と見せる。"
       },
@@ -2845,13 +2433,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-45a5aa6a-fcfe-4d77-a437-2f130a948d11.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "二つの事業領域の中で、工程ごとにサービスを配置する。"
@@ -2891,13 +2472,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-5ff1325c-dd6c-4acb-b80d-55383e9b53e1.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "上下関係ではなく、役割のまとまりと共通の目的で組織を表現する。"
       },
@@ -2935,13 +2509,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-cfbb5a27-935c-4035-96e7-f4d2f9df30cf.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "時間と費用など二つの改善効果を、揃えた比較パネルで示す。"
@@ -2981,13 +2548,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-c1814821-d89d-497e-9371-203c30a8b098.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "二つの対象について、全体・対象範囲・現在の規模を同じ構図で比較する。"
       },
@@ -3025,13 +2585,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-e922e99e-9e9d-48d9-beef-27c62137775b.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "現在の領域から外側の市場へ広がる意志を、包含円と放射方向で示す。"
@@ -3072,13 +2625,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-7cc0211a-fc40-4555-8f25-5827a36fbb8b.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "大きな市場機会を余白と数値の強弱で印象づけ、現在地へ視線を導く。"
       },
@@ -3118,13 +2664,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-34fa368c-4314-4743-9a49-bca68b310ed0.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "三つの観点を左にまとめ、判断基準と運用時期を右側で説明する。"
       },
@@ -3163,13 +2702,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-d3fb4d97-a06e-40e9-a841-c1ebb2ce474f.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "工程ごとの説明量に応じて幅を変え、最後の段階を濃色で示す。"
       },
@@ -3207,13 +2739,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-9ffd4518-ae38-45b7-a444-66243a88ab4d.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "七つの短い工程名を縦書きで並べ、補足説明を下に揃える。"
@@ -3254,13 +2779,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-96ed4a09-3ab9-4a70-b24e-dcb1c8d20dba.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "操作の流れを画面例と短い説明で示す。"
       },
@@ -3298,13 +2816,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-a81fd5df-60a4-47ea-a21f-a1aa238d972d.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "大きな段階番号、説明文、小さな図の三層で四段階を読み進める。"
@@ -3345,13 +2856,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-af5f6ed9-bfdf-47b8-8d14-6839c455d095.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "八工程を二つのフェーズに分け、各工程の担当を最下段に揃える。"
       },
@@ -3391,13 +2895,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-0c13675b-f616-4c4b-8f6f-77e75448d7ac.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "五段階の全体像を簡潔に示し、所要期間と補足を下に配置する。"
       },
@@ -3436,13 +2933,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-5967f896-a835-47c8-adea-9328bd5881c6.png",
-        "description": "ユーザー提供の参考画像をもとに、文字・配色・配置を再設計。",
-        "adaptation": "グレースケールのSVGとダミーテキストで再構成。元のロゴ・固有名詞・画像は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "五つの顧客段階に対し、複数の支援領域がどこをカバーするか示す。"
@@ -3484,13 +2974,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-e2b7debb-b341-4171-aadc-72637183855b.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "背景の大型シンボルと広い余白でブランドの印象を残す。"
       },
@@ -3531,13 +3014,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-119d7b72-63d3-41bb-a4e7-88b7e3751ab8.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "主題を伝える日本語の背後に、大型英字のリズムをつくる。"
       },
@@ -3576,13 +3052,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-0e60ea8c-1d81-45f4-a30d-04e432fb37cf.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "大きな英語見出しと明暗のゆるやかな変化で、奥行きをつくる。"
@@ -3624,13 +3093,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-1d1a126e-a548-4213-986a-6d41ae77e5c4.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "粒子の質感と細めの大きな文字で、静かな奥行きを見せる。"
       },
@@ -3670,13 +3132,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-87b2fb3b-eb83-4da8-b97f-ace8934e15fe.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "単色の背景と少数の文字だけで、主題を大きく見せる。"
@@ -3719,13 +3174,6 @@
         "width": 1600,
         "height": 900
       },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-3a76d677-bd29-473f-bbb3-811b2fdf2fe6.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
-      },
       "curation": {
         "reason": "発表タイトルと登壇者情報を、背景の大きなキーワードで支える。"
       },
@@ -3765,13 +3213,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-ae8d0c27-39e5-427e-ae82-7422739210f5.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "白い余白を広く取り、タイトルと登壇者の情報を整理する。"
@@ -3813,13 +3254,6 @@
       "canvas": {
         "width": 1600,
         "height": 900
-      },
-      "source": {
-        "url": null,
-        "user_supplied_image": "codex-clipboard-6c26dead-2993-4cd1-b2fd-c3d20193d596.png",
-        "description": "ユーザー提供の表紙参考画像から、余白・文字階層・背景の扱いを再設計。",
-        "adaptation": "グレースケール、独自のダミーマーク、ダミー原稿で再構成。元の企業ロゴや写真は同梱しない。 背景写真はimagegenで新規生成した架空の工場内観。SVG内に埋め込み。",
-        "rights_status": "参考元のライセンスは未確認。独自のオープンライセンスを付与しない。"
       },
       "curation": {
         "reason": "写真が伝える空気感を生かし、明暗補正で大きなタイトルを読みやすくする。"
